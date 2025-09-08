@@ -3,7 +3,7 @@
 This repo contains `kb_tool.py` and assets that turn PDFs/PPTX/DOCX/XLS(X)/images into **audit-ready bundles** consumed by the custom GPT **Gradiant FlowSmith**. Tables are preserved (TSV), figures get OCR + PromptSuggestion, and every snippet carries a source anchor (file → slide/page).
 
 ## About the GPT (Gradiant FlowSmith)
-A cautious, evidence-first assistant that answers **only** from the uploaded bundles and **always ends with Sources**.
+Your very own technical assitant
 
 ### Conversation starters
 - “Summarize the process on Slide 4 and draw a simple flow.”
