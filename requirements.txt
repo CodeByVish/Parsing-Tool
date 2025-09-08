@@ -1,0 +1,14 @@
+pymupdf
+python-pptx
+pandas
+openpyxl
+xlrd
+python-docx
+pillow
+pytesseract
+opencv-python
+tqdm
+pyyaml
+tiktoken
+msal
+requests

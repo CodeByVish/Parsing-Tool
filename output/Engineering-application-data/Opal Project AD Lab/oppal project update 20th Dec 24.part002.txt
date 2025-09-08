@@ -1,0 +1,258 @@
+ value
+
+18.12.202409-00. yes 24 i 6,5 340 6,8 i 128 43 121 10% 2b d7 23,7 14,6 6000 3900 100
+
+18.127. 2024 15 30 Started the anor study 80
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: Batch Test 2 - Nitrification / Denitrification Volurnme 3 hters
+| . Vd e/day d/day b/a change e/day . e/day . e/day . AN e/day . e/day Jive d/d d/d b/ac b/at b/at b/at Removel Addition
+| Date / Tine Remarks Aeration Alkalinity POA P MIVSS Supernatay bane IPA Glye erin Urea :
+| ; . mmol/l mg/l % ml m ...
+
+=== Slide 11 ===
+Biological Lab Testing – Results and next steps Batch 2
+GRADIANT CONFIDENTIAL
+Current results
+Carbon source has been switched to glycerol for the last few days, aerobic degradation works fine
+Bacteria are still in the adaptation phase considering glycercol use for denitrification
+MLSS concentration seems to stabilise at a slightly lower level
+
+Next steps
+Increased use of anoxic phases to kick-start denitrification with glycerol
+Next urea feeding only once denitrification gets established
+
+=== Slide 12 ===
+Biological Lab Testing – Ash testing
+GRADIANT CONFIDENTIAL
+Results from laboratory for batch 1
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: Sample Description : Bl Ash at 550 C Chent Reference : |
+
+Sampling Time - 11:00 AM
+Chemical Composition by
+EDXRF Method
+, Magnesium Oxide, MgO | EDXRE ) % ) 1.33
+Aluminium Oxide, Al20O3 ) EDXRE ) % ) 0.438 |
+Phosphorous Oxide, P205 | KDXRE ) % ) 5.30 |
+Sulphur Oxide, SO3 | KDXRE ) % ) 5.71 |
+Chloride -EDXRE | % | 3.52 ,
+Potassium Oxide, K2O EDXRE ) % ) 1.39 |
+Silicon Dioxide, Si02 EDXRF | % ) 0.663 |
+Calcium Oxide, CaO ) EDXRE ) % ) 48.7 |
+Manganese Oxide, MnO | EDXRE ) % ) 0.590 |
+Zine Oxide, ZnO ) EDXRE ) % 1.52 |
+Iron Oxide, Fe203 | KDXRE | % ) 2.35 |
+Sodium Oxide, Na2O EDXRE ) % 24.7 |
+Note : Semi qualitative analysis
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Sample Description : Bl Ash at 550 C Chent Reference : |
+
+Sampling Time - 11:00 AM
+Chemical Composition by
+EDXRF Method
+, Magnesium Oxide, MgO | EDXRE ) % ) 1.33
+Aluminium Oxide, Al20O3 ) EDXRE ) % ) 0.438 |
+Phosphorous Oxide, P205 | KDXRE ) % ) 5.30 |
+Sulphur Oxide, SO3 | KDXRE ) % ) 5.71 |
+Chlorid ...
+
+=== Slide 13 ===
+GRADIANT CONFIDENTIAL
+Biological Testing – Batch 1
+IPA degradation: Microbe are completely acclimatized to IPA food source, degradation rate is good and its increasing with time, currently 400 to 500 mg/l of COD is degraded, and its rate is increasing as the MLSS is increasing
+
+MLSS: Growth rate is good, today it has reached to 1450 mg/l (from the lowest of 800 mg/l - five days back), its majorly depends on the volume of food is provided, if it is starving then MLSS goes down. With the increase in MLSS concentration, MLVSS ratio will also increase, if MLSS reaches to 2000ppm, the degrading rate and MLVSS ratio will be better
+
+Denitrification: Both nitrification and denitrification process is going well, current cycle the NO3 and NO2 has reduced from 23ppm to 2 ppm and 11ppm to 2ppm respectively, NH3 is getting reduced to NO3 and NO2 during the aerobic period
+
+Overall the Batch reactor is under dynamic mode (nitrification and denitrification) and performing good
+
+Will continue to monitor the studies for another a week or 2 week, so that we can generate complete dynamics of IPA and NH3 degradation
+Next coarse of action planned for batch 1
+After understanding the complete dynamics, will load TMAH to the reactor incrementally and monitor the dynamics (which will be final objective of the project)
+
+=== Slide 14 ===
+GRADIANT CONFIDENTIAL
+Biological Testing – Batch 2
+IPA degradation: Microbe are getting acclimatized to IPA food source, IPA is getting degraded but not as fast Batch 1 reactor
+
+Glycerin degradation: Started to add glycerin, to see the impact of MLSS and denitrification kinetics, glycerin is getting degraded at faster rate, we have started observing denitrification process, there is reduction in NO3 and NO2 values
+
+MLSS: Growth rate is sustained at ~2500mg/l, anticipating further growth in the colonies
+
+Overall the Batch reactor 2 is under dynamic mode (nitrification and denitrification) and showing positive outcomes for both IPA and glycerin degradation along with denitrification
+Next coarse of action planned for batch 2
+
+Will start adding the TMAH incrementally (from 20 ppm to 75ppm) from tomorrow
+Glycerin will be added along with TMAH, and will observe the complete Kinetics of nitrification and denitrification
+
+=== Slide 15 ===
+GRADIANT CONFIDENTIAL
+TMAH Degradation
+Protocols to quantify the TMAH degradation
+Will be preparing 20ppm to 100ppm TMAH sample (using existing 98% salt)
+Will establish the TN, TOC and TKN database for the above TMAH standard
+Will evaluate the TN, TOC and TKN values for the combination – 50ppm TMAH + 400ppm of COD from glycerin + 50ppm of NH3 from urea (which is the food source in batch reactor 2)
+Will monitor the TN, TOC and TKN value during degradation process
+TMAH analysis
+will validate the HPLC method carried out by the local lab (will be sending the 50ppm TMAH sample for the validating the results)
+If the results are validated and satisfied, will give the actual degraded bioreactor sample (initial and final degraded sample)
+
+If external lab results are not satisfied, will send the sample to Taiwan lab for the TMAH analysis
+
+=== Slide 16 ===
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 16 | CHART_OR_GRAPH]
+OCR: Batch Test 1 - Nitrification / Denitrification Vo
+ i/d Je day J/day b/a change e/day . e/day . e/day A N e/day . Piday I/w e/d J/d bfac b/ac b/ac b/ac Rav
+ Date / Time Remarks Actation Alkalinity POA P MIL VSS_suy
+ . . mmol/l mg/l % mil
+ Target values : ; >4
+
+| 17/7/7410 30 AM _varted angoxx Mudy, added O /ml OMIPA to the water, DO reached to 0 ppm in 2 hours . . . . . . :
+ 17/7/2744 30pm Stopped the denitrification, DO was 0 and started aniation and took sample for the NO} and NO value . . . . . . ; ; ; ;
+10/7/24 4.30PM ml Nutt yes 0420 79 bh. ; _ is6 139 O08) 1h6 499 994812, ; 5800.
+
+| 17/9/74 9 00 AM . Yes . a 4g 3 f> Se FO 1 a 146, 9 2. 0.0% 3 1 3 140. i4 i . ys 1s a f> 700. 000 | 1100. 14% OS
+
+| 12/9/74 4.00 PM added ures and POS in the evening . . . . 210) . . 37 . 131 i . . . . . . . . ;
+ -12/10/249:00 AM yes 2k RA Ob 370. P4 (V7 123, 0104 1682 HO WZ oh, _ 24 153 750 9000 1065 507, 4u%.
+
+| 17/10/74 10:00 AM _varted angoxx Mudy, added O /ml OMIPA to the water, DO reached to 0 ppm in 2 hours . . . . . . .
+
+| 17/10/74 9:00 PR Stopped the denitrification, DO was 0 and started aniation and took sample for the NO} and NO value . . . . . . ; ; ; ;
+12/10/2400 PM yes 045 79 bh. ; 131 RB O04 710) 459 1746 ; ;
+12/11/24 9.00 AM pid adyus. yes PR REU Tbh : 2 82 OOF 1490 7538 9498 12, 24 149 9200, 1100 ;
+
+| 17/12/749.00 AM Started the anoxc study by adding O 34gm ures O /ml IPA and JOppm POS, then taken for the sample for routine analysis . . . . . .
+10/12/24 910 AM NO 2 RB 0. Ty So 124 7B OR 208 R90 JOR 23 23. 145. 500.5300. 980. 450.
+
+| 12/17/2744 30 PM Stopped the denitrification, DO was 0 and started aniation and took sample for the NO} and NO value . . . . . . . . . . .
+10/12/24 4.30PM yes 04 TS ; _ Wt 43. 0276 209. 698 19426. ; So ; ;
+
+| 17/13/74 9 00 AM . wes . 2 Se 8 f> Se 22%) ac. 110. 10 Se () OG Via, ras te Be 1s. . 2 ) 140. . . ce 42% .
+12/14/24 10.00 AM | yes ee ee 19%) re : a: Oe 2 eZ: 5 a oo _ 23. 140. ; _ 1000, ;
+
+| 17/14/74 1015 AM Started the anoxx study by adding O 34gm ures O /ml IPA and JOppm POS, then taken for the sample for routine analysis . . .
+
+| 12/14/74 415 PM Stopped the denitrification, DO was 0 and started aniation and took sample for the NO} and NO value ; ; ; . .
+12/14/24 415 PM yes ee ee 200. 4 1h 62 OF Bh S18 17h 30. 22 140. oo ; ; ;
+
+| 17/16/74 9:00 AM . wes . 2 ) BA. f> Se 220) aay Lit, 2. () 1s. 202) V7, jl. Vie . 73) 14%) . . . . .
+ 10/17/249:00 AM yes 22 BAL ob 145, 29) 135 9. O18 187, 1000 920030. _ 22. 142 800 53000 00 370. ;
+
+| 17/17/749: 00 AM Started the sricoxic study by adding 0) i4gm utes O /miIPA. sample was taken for analysis before the sdditon . . . . .
+
+| LVI/17/74 445 PM Stopped the denitrification, DO was 0 and started aniation and took sample for the NO} and NO value ; . . . . . ; ; ;
+ 10/17/245:00 PM yes AS, 8 64 400. 8 189 Wh 4 24) A970 Pha 30. ; oo 4200.
+
+| 17/18/74 9:00 AM . wes . 2 ) 8 a f> Se 42% 8 Se 1 34 3 i 214) 796 147 Vo. . 24 4 i 8700 O00 | B70) 380 .
+
+| 17/19/74 9:00 PM . wes . 2 ) / i f> Se IT, 5 Se V2, 2 Se V2. V2. 2RAT Fe 20) . 73) 4 2. . . 1 300 | . .
+19/20/74 9:00 AM | yes eS eee 163. 376 WOR an Ce ee ee a 23. 140 ; 1450. ; ;
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: Batch Test 1 - Nitrification / Denitrification Vo
+ i/d Je day J/day b/a change e/day . e/day . e/day A N e/day . Piday I/w e/d J/d bfac b/ac b/ac b/ac Rav
+ Date / Time Remarks Actation Alkalinity POA P MIL VSS_suy
+ . . mmol/l mg/l % mil
+ Target values : ; >4
+
+| 17/7/7410 30 AM _varted angoxx Mudy, a ...
+
+=== Slide 17 ===
+TMAH and IPA Degradation Batch Test Setup
+GRADIANT CONFIDENTIAL
+Batch – 2 : TMAH Degradation
+
+Started the batch 2 : 16th Dec with new STP sludge
+Status: TMAH is getting degraded, observing reduction in TOC and increase in NH3 values
+Initial food source: Glycerin
+Started adding TMAH : 27th Dec
+Initial TMAH added : 500ppm
+Total TMAH : 1000ppm
+Microbes are getting acclimatized to TMAH food source, in next 10 to 12 days, it will be completely acclimatized, in parallel will carry out denitrification studies
+Batch – 1: IPA Degradation fallowed by Nitrification and Denitrification study
+
+Started the Batch 1 : 25th Nov, in continuation with IPA degradation
+Current MLSS: 3800 mg/l
+Current COD loading: ~620 mg/day
+Ammonia reduction: ~50mg/day
+Denitrification: ~30 mg NO3-N reduced in 8 hours & ~12 mg of NO2-N reduced in 8 hour batch study
+Overall ~100mg of NH4-N is completely reduced within 48 hours in batch study
+Both IPA and Ammonia is getting reduced
+
+[Picture on Slide 17 | GENERIC_FIGURE]
+OCR: e id
+= io oe
+ KI ws
+
+2: 2 ae 8
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: e id
+= io oe
+ KI ws
+
+2: 2 ae 8 ...
+
+=== Slide 18 ===
+MLSS Growth rate – IPA as the food source
+GRADIANT CONFIDENTIAL
+Started with 75 to 100 mg/day of COD reduction
+
+Now, there is a reduction of ~620 mg/day COD reduction
+
+F/M ratio is close to 0.2
+
+MLSS is keep increasing, will take it up to 5000ppm in next 10 to 12 days
+
+=== Slide 19 ===
+Status and Observations – TMAH Study
+GRADIANT CONFIDENTIAL
+1) TMAH degradation is validated by TOC observation
+Inferences:
+Currently culture is getting acclimatized to TMAH food source, as there is reduction of TOC and it need another 10 to 15  days for complete acclimatization, then we go for understanding the kinetics of degradation including NO3 and NO2 reduction
+There is increase in NH3-N in the solution
+2) TMAH degradation by observing NH3-N accumulations
+
+[Table 1]
+	TOC in PPM
+Initial TOC	194
+After 1000ppm of TMAH	705
+Day 7	500
+
+=== Slide 20 ===
+TMAH Degradation
+GRADIANT CONFIDENTIAL
+Addition of 500ppm TMAH
+Addition of 500ppm TMAH
+TMAH getting degraded
+TMAH degraded increase in NH3-N
+
+=== Slide 21 ===
+GRADIANT CONFIDENTIAL
+TMAH Evaluation
+TOC and TN values for given TMAH concentration
+
+[Table 1]
+	PPM	TOC in ppm	TN in ppm
+TMAH	10	5.17	1.56
+	25	12.62	3.93
+	50	25.83	8.4
+	75	36.83	11.96
+	100	51.22	16.19
+
+=== Slide 22 ===
+OPAL Biodegradation Study
+GRADIANT CONFIDENTIAL
+Objective: To demonstrate the TMAH and IPA degradation under high saline environment using aerobic biological environment
+
+Status of the project: carried out all the required studies, closing the studies in this week
+
+Observation and Outcome from the study
+
+Acclimatization of aerobic and anerobic microbes under high saline environment – TDS of ~17gm/l
+MLVSS was maintained at 2500 mg/l to 3000 mg/l
+Complete Degradation of IPA (400ppm) in 24 hours and TMAH (30ppm) in <48 hours
+Conversion of NH3 to NO3 and NO2 under aerobic environment was very good
+Further NO3 and NO2 was reduced from the system under Aerobic environment
+Demonstrated the continuous degradation and reduction of food sources for a period of 4 months
+Bacteria’s was completely adapted to TMAH and IPA food source
+Successfully demonstrated both aerobic and an-aerobic studies in a single bio-reactor (Sequential batch studies)

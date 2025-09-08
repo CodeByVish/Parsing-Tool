@@ -1,0 +1,599 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\Opal Project AD Lab\Papers\Treatment technologies and mechanisms for TMAH wastewater from micro electron industry A REVIEW.pdf
+
+
+=== PDF Page 1 ===
+
+[OCR Page]
+Resources, Conservation Recycling 194 (2023) 106999
+aac shes Rie A Contents lists available at ScienceDirect TF cc REOURSS,
+Gon sey eR fa i e e
+One Resources, Conservation Recycling
+PHae
+ELSEVIER journal homepage: www.elsevier.com/locate/resconrec
+a
+Review article
+ Check for
+Treatment technologies and mechanisms for tetramethylammonium updates
+hydroxide (TMAH) wastewater from micro-electronic industry: A review
+: a : a, : a b : a : a
+Zhuo-Wei Zhang , Yin-Hu Wu , Zhuo-Yuan Xiao , Zhao Zhang , Qi Wang , Yu-Qing Xu ,
+Jia-Hao Luo , Jiang-Lei Xiong , Hong-Ying Hu
+ Environmental Simulation and Pollution Control State Key Joint Laboratory, State Environmental Protection Key Laboratory of Microorganism Application and Risk
+Control (SMARC), School of Environment, Tsinghua University, Beijing, 100084, PR China
+> College of Chemical and Environmental Engineering, China University of Mining Technology, Beijing, 100083, PR China
+ China Electronics Innovation Environmental Technology Co. Ltd, Wuxi, 214111, PR China
+ARTICLE INFO ABSTRACT
+Keywords: With the advent of Industry 4.0, the micro-electronic industry has become one of the fastest-growing industries
+Tetramethylammonium hydroxide (TMAH) worldwide. As a result, tetramethylammonium hydroxide (TMAH) wastewater, as the typical wastewater from
+wastewater the micro-electronic industry, has been dramatically increasing. The efficient treatment of TMAH wastewater has
+Micro-electronic industry : : : eo : .
+; attracted growing attention due to its toxicity to the eco-environment and human health. However, the review of
+Treatment technologies . ee : : : .
+Recovery the mechanisms of TMAH wastewater treatment is still lacking. This paper systematically reviewed the mech-
+Mechanism anisms of TMAH treatment using various processes, including recovery processes and degradation processes. The
+recovery mechanisms of TMAH included cation exchange under the electrostatic attraction for adsorption,
+directed migration of TMA and OH_ driven by electrodes for electrodialysis, etc. The degradation mechanisms
+of TMAH included methanogenic TMAH degradation, TMAH-oxidative methylotrophic degradation, and
+demethylation and oxidation. The results highlighted that both hybrid recovery and treatment processes
+exhibited the most efficient recovery and removal of TMAH. Future research on TMAH wastewater treatment
+should focus on energy metabolism, electron transfer, and co-digestion of biodegradation, efficient novel ma-
+terials for TMAH recovery and degradation, and appropriate hybrid recovery and treatment processes for
+resource reuse of TMAH wastewater. Ultimately, the possible pathways for the resource reuse of TMAH
+wastewater were also proposed.
+1. Introduction equivalent to the wastewater production per day of a city with 1.0 x 10
+population (Chang et al., 2008).
+
+With the advent of Industry 4.0, the micro-electronic industry has Meanwhile, as the chip process becomes more advanced, the water
+played a more key role all over the world. The micro-electronic industry consumption and wastewater discharge of chip manufacturing have
+mainly produces a series of electronic components such as high- been larger and larger. At present, with the dramatic development of the
+performance chips, memory, capacitors, thin-film transistor liquid micro-electronic industry, the considerable high ultrapure water-
+crystal display (TFT-LCD), integrated circuits, printed circuit boards consuming and wastewater-discharging have been its obvious environ-
+(PCBs), etc. The microelectronics manufacture is a considerably high mental problems. The cost of wastewater treatment has been a major
+ultrapure water-consuming and wastewater-discharging industry (Frost part of the annual operating cost (Ferella et al., 2021).
+et al., 2017). According to our statistics about official data of 28 semi- Recently, the zero liquid discharge (ZLD) concept has been becoming
+conductor corporations all over the world, the total water withdrawal in more and more necessary to recover water for reuse in manufacturing
+2021 reached 7.87 x 10 m in these semiconductor corporations processes (Lassesson et al., 2021). In other words, wastewater can also
+(Wang et al., 2023). In addition, a six-generation chip manufacture be regarded as a misplaced resource , suitable for the recovery of en-
+factory could discharge up to 3.0 x 104 m per day wastewater, which is ergy, valuable materials, and clean water (Capocelli et al., 2019). Hence,
+
+ Corresponding authors at: Environmental Simulation and Pollution Control State Key Joint Laboratory, State Environmental Protection Key Laboratory of
+Microorganism Application and Risk Control (SMARC), School of Environment, Tsinghua University, Beijing 100084, PR China.
+
+E-mail addresses: wuyinhu mail.tsinghua.edu.cn (Y.-H. Wu), hyhu tsinghua.edu.cn (H.-Y. Hu).
+https://doi.org/10.1016/j.resconrec.2023.106999
+Received 14 March 2023; Accepted 10 April 2023
+Available online 26 April 2023
+0921-3449/ 2023 Elsevier B.V. All rights reserved.
+
+[IMAGE 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 2 | GENERIC_FIGURE]
+OCR: c REN AG a i
+Te Sl wh eee ee 2, at
+Pea Ss Ot baad >
+ae: SOE Ae
+or AL See
+> ie AH 4 %
+to -
+Ce BS Fy a Oa
+ Nae a . . , io ws
+= y ey | :
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: c REN AG a i
+Te Sl wh eee ee 2, at
+Pea Ss Ot baad >
+ae: SOE Ae
+or AL See
+> ie AH 4 %
+to -
+Ce BS Fy a Oa
+ Nae a . . , io ws
+= y ey | : ...
+
+[IMAGE 3 | GENERIC_FIGURE]
+OCR: = | RESOURCES,
+CONSERVATION
+> RECYCLING
+
+
+
+x op e:
+Daal Lag - = m
+
+ee
+
+Lae.
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: = | RESOURCES,
+CONSERVATION
+> RECYCLING
+
+
+
+x op e:
+Daal Lag - = m
+
+ee
+
+Lae. ...
+
+=== PDF Page 2 ===
+
+[OCR Page]
+Z.-W. Zhang et al. Resources, Conservation Recycling 194 (2023) 106999
+the efficient treatment and resource reuse to achieve ZLD of wastewater studies. Hence, we utilized Tetramethylammonium hydroxide waste-
+from the micro-electronic industry, as an effective means, has to be water as the keywords to investigate the relevant studies in the Web of
+conducted to solve its high ultrapure water-consuming and Science in 2010~2022. Then the prevailing research fields of these
+wastewater-discharging problems. It is also meaningful to lead to a publications were investigated for TMAH wastewater treatment by vi-
+better environmental impact and reduce treatment costs of the sual keyword analysis software VOS viewer 1.6.16. The minimum
+micro-electronic industry. As well, this means could fulfill the new occurrence of a keyword was set to 2. From a total of 379 keywords, 87
+paradigm, Doing more with less , proposed by the International Water keywords were selected. The co-occurrence keyword network analysis
+Association for meeting Sustainable Development Goal 6 Clean Water for TMAH wastewater treatment was shown in Fig. l(a).
+and Sanitation by 2030 (IWA, 2016). According to Fig. 1(a), the following fields were primarily focused on
+However, according to the latest statistics, the reclaimed water in the recent publications on TMAH wastewater over the past decade, (i)
+intake of these above 28 semiconductor corporations only accounted for TMAH treatment technologies, including anaerobic biological treatment
+3.2% of its total water supply in 2021 (Wang et al., 2023). These un- (Danshita et al., 2018; Lv et al., 2021; Chang et al., 2022), aerobic
+desirable results could mainly be attributed to a major concern about the biological treatment (S.Y. Chen et al., 2016; Innocenzi et al., 2019;
+presence of tetramethylammonium hydroxide (TMAH, (CH3)4NOH)) in Ferella et al., 2021), activated carbon (AC) adsorption (Citraningrum
+wastewater from micro-electronic industry in those countries where the et al., 2013; Chang et al., 2015; Shu et al., 2016), graphene oxide (GO)
+micro-electronic industry is highly developed, such as the U.S., China, adsorption (Chang et al., 2014, 2015), ion exchange (Fu et al., 2022),
+Japan, and South Korea (Ferella et al., 2021). hydrogen peroxide (H ,O.) oxidation (Imtisdal et al., 2019; Kim et al.,
+TMAH is the most representative chemical reagent used in the micro- 2021), persulfate (S20%) oxidation (Wang et al., 2014; J. Huang et al.,
+electronic industry, which has been widely used as a developer in the 2017); Gi) TMAH and intermediate products identification (Whang
+photolithography process (Chang et al., 2008). As a result, TMAH con- et al., 2015; Danshita et al., 2018; Hu et al., 2018; Lv et al., 2021), ki-
+centration in wastewater from the micro-electronic industry generally netics (Liu et al., 2016; Hu et al., 2018; Danshita et al., 2018; Wu et al.,
+could reach a few thousand ppm, leading to a fact that it is the highest 2020), and nitrogen removal (Murphy et al., 2012; Feng et al., 2019;
+concentration of organic pollutants in the chip manufacturing industry Ferella et al., 2021); (ili) inhibition / toxicity of TMAH to microorgan-
+wastewater (Omar et al., 2008; Hu et al., 2018). In addition, the isms in biological treatments (S.Y. Chen et al., 2016; Urasaki et al., 2019;
+wastewater containing TMAH generally accounted for the highest pro- Lin et al., 2016; Wu et al., 2020). Despite it, it could be illustrated that
+portion of 30~40% in the chip manufacturing industry wastewater (Hu the current focus on TMAH wastewater was mainly on the one-way
+et al., 2018). TMAH is a strongly alkaline solution with corrosivity and linear treatment of TMAH wastewater, specifically TMAH removal and
+toxicity. TMAH can seriously threaten the ecosystem and be harmful to then discharge, while the close-loop treatment of TMAH wastewater,
+human health when exposed to the environment due to its corrosivity namely the multi-way resource reuse is still less focused.
+and toxicity. In order to evaluate the mechanisms of TMAH degradation using
+For example, it could trigger nervous toxicity and respiratory failure various processes of those publications and discuss the resource reuse of
+even after exposure to 1% TMAH (Park et al., 2013). As a result, the TMAH wastewater, these TMAH treatment technologies could be spe-
+TMAH concentration in wastewater from micro-electronic manufac- cifically classified into two categories, including its recovery and
+turers has been strictly limited due to its toxicity. For instance, waste- degradation (Fig. 1(b)). The recovery technologies of TMAH mainly
+water with TMAH below 7 mg/L only could be discharged to adequately included adsorption, ion exchange, membrane process, electrodialysis
+protect aquatic eco-systems as stipulated by the EU directive (ED), and hybrid recovery processes, while the degradation technologies
+2010/75/EU (2010). TMAH in wastewater below 75 mg/L could be mainly included anaerobic biodegradation, aerobic biodegradation,
+discharged as stipulated by Taiwan EPA (2014). advanced oxidation processes (AOPs), and hybrid treatment processes.
+Hence, TMAH wastewater has to be properly treated in a green , In the following, the detailed mechanisms of TMAH treatment using
+high-efficiency, and cost-effective way. Currently, only one review these various technologies were evaluated respectively.
+(Innocenzi et al., 2022) introduced the TMAH wastewater treatment,
+mainly focusing on the removal effect of TMAH. However, there is still a 3. Recovery of TMAH from wastewater
+current knowledge gap on the mechanism of TMAH treatment in
+wastewater due to a lack of critical reviews. It is meaningful to review 3.1. Adsorption and ion exchange
+the mechanisms of TMAH degradation and to discuss the resource reuse
+of TMAH wastewater under the background of ZLD for promoting the 3.1.1. Adsorption of TMAH
+ green , high-efficiency, and cost-effective treatment of TMAH
+wastewater. (1) Adsorbents for TMAH adsorption
+Based on the above considerations, this review aims to provide a
+comprehensive overview regarding the mechanisms of TMAH degra- The adsorption of TMAH in recent studies is summarized in Table 1.
+dation, and to attempt to discuss the resource reuse of TMAH waste- According to Table 1, among these adsorbents (Fig. 1(b)), AC is the most
+water. The specific objectives were to (i) concatenate the development used for the adsorption of TMAH. For example, Prahas et al. (2012)
+status of TMAH wastewater treatment according to the most recent investigated the adsorption of TMAH using several commercial ACs. The
+literature data and application to better understand its status; (ii) eval- results demonstrated that under equal surface areas, the more micro-
+uate the performance effect, influence factors, and possible mechanisms pores in ACs had, the higher adsorption capacity for TMAH was. The
+of TMAH treatment using various processes; and (iii) highlight the adsorption kinetics of TMAH using AC mainly seemed to follow the
+challenges and future prospects for TMAH wastewater treatment based pseudo-second-order and Langmuir model under different pH and initial
+on the perspective of resource reuse. The conclusions obtained in this concentrations (Table 1). In addition, after 5 cycles of the
+work are available to provide new insight into the TMAH wastewater adsorption-desorption process, the AC-saturated TMAH still could be
+treatment, which will be helpful to better promote the green , high- regenerated by 0.1 N HCI. But with the increase of cycles, the separation
+efficiency, and cost-effective treatment of TMAH wastewater. of TMAH was gradually exhausted (Prahas et al., 2012).
+Nishihama et al. (2010) reported the effect of zeolitic adsorbents on
+2. Development status of TMAH wastewater treatment TMAH adsorption by preparing several zeolites using hydrothermal
+synthesis. Their results showed that zeolite X exhibited a higher
+Changes in the frequency of lectures on certain topics with publi- adsorption capacity than zeolite A. But its maximum adsorption amount
+cation time can reflect the development status and further trends in such (qe) of TMAH was only 1.0 mg/g (Nishihama et al., 2010), which was
+2
+
+=== PDF Page 3 ===
+
+[OCR Page]
+Z.-W. Zhang et al. Resources, Conservation Recycling 194 (2023) 106999
+(a) pyrdlysis soil thermochemolysis
+fractions
+substances
+vee monoeth nolamine humigacids ie ae
+waste pyrolysis derivatization
+snacronigeediner COMED)
+methanos icina may
+anaerobic wast water treatl bel 4
+pte Ss anaggobic
+ euast avalos im aL
+metiylotrophigmethanogtn x ae
+Nee tetramethylammonium hydroxide
+ Cor eee 4
+a 8 ammonium phydroxide
+; age Methyl aNgibin hydroxide
+- : a b Aa activategcarbon
+denitrification bay St Mh <>) when cide comfinsite
+ 4. (ie) a ee / photoresist
+. _ KI cS] AY i = Sh om
+wastewatafitreatment Pie ads iption methyi ne-blue 36 selective tlsorption
+As ate . aattt, rm we -
+ ity mie 6 queougpolition equillgrium nanopi rticies
+me <ckble Nalotie : ra : . + oxidation
+sodium er sulfst xidativedgpradanon a8 wales
+ e PAE aay moggality.
+radars Soy dermal gposure lon baghange
+semiconduc wastewater a a
+rate c Pstants
+(b) UASB
+on: a An-ly,
+(0 _ Conti 8,
+a foe) s silica 4 Uoug 3 Cc
+yo 2 pore Naerop;, Stitre ny,
+a weTM es biores, Sp, 7, 9a
+P_R BCtop 0g, op SG
+es We r 10 fs) Y
+fe) DM Vy
+42 (NI)
+: Ang %p.
+. (J 2)
+: jon v 10q, % (3)
+x aso 9r5 %.
+<I > Ge. S
+iS 4
+BS Oy % oS
+o o ox Ss
+ % ae
+S x eS % , O90
+8 2 9 pies
+ss ov > S. > oO
+as CY A ro AD
+Ss eo TMAH 5 wo
+55 53 (my =
+2 29 wastewater )
+Zo treatment =o
+o Ss 2. oD Ss, SO
+25 % xo Bees
+OE om CY Q SP SS
+aa) 2 x J
+Se Z > oo rs
+z h. A +2 SN
+~ c
+oA
+% % SS
+% 0, Z, OES
+8 0 SS - ra
+ Ss CCovery} Hybrid Ses.
+ 5
+% proces CSESRS
+YS Ore
+a Crs ge ee
+% , Ws; UVIH,O2 4d x
+ toy, MS 4 io, O + ae ew
+Ino, ON exchange. UV/S,O8 | an
+Aerobic viow s gnc
+Hydrolysis 2 ene
+aerobic biote
+Fig. 1. Development status of TMAH wastewater treatment. (a) Cooccurrence keyword network analysis for TMAH wastewater treatment. Note: the higher diameter
+sphere represents higher occurrence frequency; (b) The main treatment technologies for TMAH wastewater.
+3
+
+[IMAGE 1 | GENERIC_FIGURE]
+OCR: (9) pyrolysis soil thermochemolysis
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: (9) pyrolysis soil thermochemolysis ...
+
+[IMAGE 2 | GENERIC_FIGURE]
+OCR: methyl ammeniun hyd
+sulfate. yi amm nigm n hydroxide ate
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: methyl ammeniun hyd
+sulfate. yi amm nigm n hydroxide ate ...
+
+[IMAGE 3 | GENERIC_FIGURE]
+OCR: Ys yet AAD Re gn Ses | a ee. Tot eo
+
+ } Pia , Phe es, a R Is 98) . Se | a
+ o ay ~~ -MASAG . ga ke Vega = on
+Taw, Was Ota _ attivatepcarbo .
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Ys yet AAD Re gn Ses | a ee. Tot eo
+
+ } Pia , Phe es, a R Is 98) . Se | a
+ o ay ~~ -MASAG . ga ke Vega = on
+Taw, Was Ota _ attivatepcarbo . ...
+
+[IMAGE 4 | GENERIC_FIGURE]
+OCR: denitrifica tion ie SS. 4, IMD 2 A ey ~~
+ta TAS ~ gas fo re ay Tae al y },
+
+LH ee Le Se SS Maen awe al 8 Ae ri graphedie oxide comppsite
+
+te _ %, a /
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: denitrifica tion ie SS. 4, IMD 2 A ey ~~
+ta TAS ~ gas fo re ay Tae al y },
+
+LH ee Le Se SS Maen awe al 8 Ae ri graphedie oxide comppsite
+
+te _ %, a / ...
+
+[IMAGE 5 | GENERIC_FIGURE]
+OCR: V/A i 4 . ce a _ > le x et ai methyigr blue
+wastewatafitreatment nm | pep ~ > On . ., So a c se ective sorption
+5 d ay , . oe e ow 4
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: V/A i 4 . ce a _ > le x et ai methyigr blue
+wastewatafitreatment nm | pep ~ > On . ., So a c se ective sorption
+5 d ay , . oe e ow 4 ...
+
+[IMAGE 6 | GENERIC_FIGURE]
+OCR: am ae lf ry Pg S S ier - on em _ ~~ 4
+ , yy i . . % s . on E is . < oO) y a -
+aK Se UAV aon oe jul y ) fon >y equilibrium anop rtic es
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: am ae lf ry Pg S S ier - on em _ ~~ 4
+ , yy i . . % s . on E is . < oO) y a -
+aK Se UAV aon oe jul y ) fon >y equilibrium anop rtic es ...
+
+[IMAGE 7 | GENERIC_FIGURE]
+OCR: 72. ht sa. a a a OA. : = ;
+eee) epee npeameen AC ey a MMe I) |
+ ae 2 . ne a -B , % | . - a Bs 60Cg
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 72. ht sa. a a a OA. : = ;
+eee) epee npeameen AC ey a MMe I) |
+ ae 2 . ne a -B , % | . - a Bs 60Cg ...
+
+[IMAGE 8 | GENERIC_FIGURE]
+OCR: sodium Bet) OXI atiVeGigeT agaten iy a BA
+Se LP See. Le P _ f
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: sodium Bet) OXI atiVeGigeT agaten iy a BA
+Se LP See. Le P _ f ...
+
+[IMAGE 9 | GENERIC_FIGURE]
+OCR: fF _.deeen itOT TM
+radigals 4% te. / ie Derma SUEP ion bghange
+~ Gaede Fee, ;
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: fF _.deeen itOT TM
+radigals 4% te. / ie Derma SUEP ion bghange
+~ Gaede Fee, ; ...
+
+[IMAGE 10 | GENERIC_FIGURE]
+OCR: | sTM~. Ww 4 - VW s.
+1 we selectivitypoefficient
+semicondu wastewalel ammoni refroval
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: | sTM~. Ww 4 - VW s.
+1 we selectivitypoefficient
+semicondu wastewalel ammoni refroval ...
+
+[IMAGE 11 | GENERIC_FIGURE]
+OCR: oe
+rate c tants
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: oe
+rate c tants ...
+
+[IMAGE 12 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 14 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 15 | GENERIC_FIGURE]
+OCR: ANS One NIN
+Ae) Con 8
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ANS One NIN
+Ae) Con 8 ...
+
+[IMAGE 16 | GENERIC_FIGURE]
+OCR: One OM ae
+
+Or _ ne ot IACrop; Urn.
+
+eo 1050 bion, ole Tey Ol
+aN lOra.... Os, OLD Ge.
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: One OM ae
+
+Or _ ne ot IACrop; Urn.
+
+eo 1050 bion, ole Tey Ol
+aN lOra.... Os, OLD Ge. ...
+
+[IMAGE 17 | GENERIC_FIGURE]
+OCR: NY eS xs Op =O, On, YH
+< Xe a 70 ie (2)
+Od _ | ty, SI, 2
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: NY eS xs Op =O, On, YH
+< Xe a 70 ie (2)
+Od _ | ty, SI, 2 ...
+
+[IMAGE 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 19 | GENERIC_FIGURE]
+OCR: > a c10N [Va (o)
+O- ot ;
+eA I, by, i)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: > a c10N [Va (o)
+O- ot ;
+eA I, by, i) ...
+
+[IMAGE 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 21 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 22 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 23 | GENERIC_FIGURE]
+OCR: monoeth nolamine humigacids
+uapb . fulvidacids
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: monoeth nolamine humigacids
+uapb . fulvidacids ...
+
+[IMAGE 24 | GENERIC_FIGURE]
+OCR: _ O we A vr,
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: _ O we A vr, ...
+
+[IMAGE 25 | GENERIC_FIGURE]
+OCR: st | O Ww oa ~ oe )83= oe ~ 4
+OF cg iw TMAH 4
+1 7 o-oo 4 gs
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: st | O Ww oa ~ oe )83= oe ~ 4
+OF cg iw TMAH 4
+1 7 o-oo 4 gs ...
+
+[IMAGE 26 | GENERIC_FIGURE]
+OCR: S9 [27 wastewater fe) ped
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: S9 [27 wastewater fe) ped ...
+
+[IMAGE 27 | GENERIC_FIGURE]
+OCR: tj OQ S ad oO
+ 36 ~ G3 treatment
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: tj OQ S ad oO
+ 36 ~ G3 treatment ...
+
+[IMAGE 28 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 29 | GENERIC_FIGURE]
+OCR: co Cia < <w~/ s5 Ine
+cS
+ae r eo - S ay ec
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: co Cia < <w~/ s5 Ine
+cS
+ae r eo - S ay ec ...
+
+[IMAGE 30 | GENERIC_FIGURE]
+OCR: Fa iy
+wy Ne f
+Dh
+gn
+AD)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Fa iy
+wy Ne f
+Dh
+gn
+AD) ...
+
+[IMAGE 31 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 32 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 33 | GENERIC_FIGURE]
+OCR: mw) J QO et
+<5 KY Covery H ybrid ESS ms
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: mw) J QO et
+<5 KY Covery H ybrid ESS ms ...
+
+[IMAGE 34 | GENERIC_FIGURE]
+OCR: Con ttion) waste pyrolysis d rivatization
+anaerobi treatmen
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Con ttion) waste pyrolysis d rivatization
+anaerobi treatmen ...
+
+[IMAGE 35 | GENERIC_FIGURE]
+OCR: OY oY
+Tn Sn, ae ee RS
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: OY oY
+Tn Sn, ae ee RS ...
+
+[IMAGE 36 | GENERIC_FIGURE]
+OCR: xX 546) Oe UNOY LOY
+fy; KO O_o
+Op Y,. In On 2 >of
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: xX 546) Oe UNOY LOY
+fy; KO O_o
+Op Y,. In On 2 >of ...
+
+[IMAGE 37 | GENERIC_FIGURE]
+OCR: A ) -
+ea ane
+UVIS,O . .8rQOAa
+nge.
+AY t lon excha
+. han
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: A ) -
+ea ane
+UVIS,O . .8rQOAa
+nge.
+AY t lon excha
+. han ...
+
+[IMAGE 38 | GENERIC_FIGURE]
+OCR: A
+(S)
+robi
+eta ey
+Ilys sci
+c iS acid
+ coor
+Pr a t
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: A
+(S)
+robi
+eta ey
+Ilys sci
+c iS acid
+ coor
+Pr a t ...
+
+[IMAGE 39 | GENERIC_FIGURE]
+OCR: - em ant sak 1 Ob a
+aerobic biotteTM
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: - em ant sak 1 Ob a
+aerobic biotteTM ...
+
+[IMAGE 40 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 41 | GENERIC_FIGURE]
+OCR: ae . as sludre
+yy os entification) ~ slu e
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ae . as sludre
+yy os entification) ~ slu e ...
+
+[IMAGE 42 | GENERIC_FIGURE]
+OCR: - d >. a ~~ Me a 4
+anaerobic Wisse DERMOT NSCOR, INS ,
+~, WHT . wot.
+f te ie Sas fe, AR BS) Siva
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: - d >. a ~~ Me a 4
+anaerobic Wisse DERMOT NSCOR, INS ,
+~, WHT . wot.
+f te ie Sas fe, AR BS) Siva ...
+
+[IMAGE 43 | GENERIC_FIGURE]
+OCR: Ud J A700 oe 5 ae. Oe sae
+} a ee al 1 ty | ~ AN p ) >.
+- -_ Dy 7 4 +}; i Wd .
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Ud J A700 oe 5 ae. Oe sae
+} a ee al 1 ty | ~ AN p ) >.
+- -_ Dy 7 4 +}; i Wd . ...
+
+[IMAGE 44 | GENERIC_FIGURE]
+OCR: 7 ah.
+a en Ny tetramethylammonium hydroxide
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 7 ah.
+a en Ny tetramethylammonium hydroxide ...
+
+[IMAGE 45 | GENERIC_FIGURE]
+OCR: i - DISCS au0n } Ayn, _ tl a
+ SF ONL A ammoniumjhydroxide
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: i - DISCS au0n } Ayn, _ tl a
+ SF ONL A ammoniumjhydroxide ...
+
+=== PDF Page 4 ===
+
+[OCR Page]
+23) 106999
+ling 194 (2023) 1
+ation Recyc tal.,
+rces, Conserv ite (Ch

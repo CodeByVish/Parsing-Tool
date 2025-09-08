@@ -1,0 +1,123 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23006 HFW\Micron HFW Jar testing_27June2022 R1.pptx
+
+
+=== Slide 1 ===
+Micron HFW treatment - Lab Jar Testing using CaCl2
+
+=== Slide 2 ===
+Objective of the Base Case Study
+To evaluate the effectiveness of Fluoride precipitation using calcium chloride (CaCl2) for fluoride containing wastewater
+
+=== Slide 3 ===
+Composite feed collected on 31-Jan-2022 Jar testing using CaCl2
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: Hazardous Waste
+Law Prohibits Improper Disposal
+Waste Description: Hers
+Name and Date: ANISH
+Hazardous Characteristics
+_Flammabie Toxic Corrosive Reactive Other
+Contents
+with
+32
+Ix
+f
+x
+A
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Hazardous Waste
+Law Prohibits Improper Disposal
+Waste Description: Hers
+Name and Date: ANISH
+Hazardous Characteristics
+_Flammabie Toxic Corrosive Reactive Other
+Contents
+with
+32
+Ix
+f
+x
+A ...
+
+=== Slide 4 ===
+Base case experiment
+3 beakers of 250 ml each of HFW feedwater is considered
+
+
+Once dosed, allow rapid mixing for 30s, & followed by Slow mixing for 45 min
+Dose 1 mg/L of SNF polymer (anionic) for each jars and further slower mix (60 rpm) for 45 min
+Stop mixing and leave the solids to settle over 60 min, allow sludge settling
+All supernatant was collected for analysis
+
+[Table 1]
+Case 1 Dosage	Case 2 Dosage	Case 3 Dosage
+pH adjusted to 8 + 3500 mg/L CaCl2	pH adjusted to 8 + 4000 mg/L CaCl2	pH adjusted to 8 + 4500 mg/L CaCl2
+
+=== Slide 5 ===
+Jar testing – Coagulation step
+
+[Table 1]
+EC (µS/cm)				TDS (ppm)			pH
+Time elapsed (min)	Jar 1	Jar 2	Jar 3	Jar 1	Jar 2	Jar 3	Jar 1	Jar 2	Jar 3
+Added 355 µL NaOH
+0	-	-	-	-	-	-	8.12	8.11	8.07
+Added CaCl2
+2	7851	8609	9416	4237	4680	5150	7.03	6.95	6.84
+20	7839	8606	9415	4230	4677	5150	6.78	6.71	6.63
+Added 5 µL NaOH
+35	7845	8608	9418	4233	4679	5152	7.43	7.33	7.28
+49	7842	8610	9422	4231	4680	5153	7.23	7.14	7.11
+
+=== Slide 6 ===
+Jar testing – Flocculation step
+Supernatant quality (measured after sludge settling)
+
+[Table 1]
+EC (µS/cm)				TDS (ppm)			pH
+Time elapsed (min)	Jar 1	Jar 2	Jar 3	Jar 1	Jar 2	Jar 3	Jar 1	Jar 2	Jar 3
+Added 1 mg/L Anionic polymer
+0	-	-	-	-	-	-	6.96	6.92	6.90
+Added 2 µL NaOH
+28	-	-	-	-	-	-	7.41	7.32	7.29
+
+[Table 2]
+EC (µS/cm)			TDS (ppm)			pH
+Jar 1	Jar 2	Jar 3	Jar 1	Jar 2	Jar 3	Jar 1	Jar 2	Jar 3
+7855	8625	9436	4239	4689	5163	7.02	7.00	6.99
+
+=== Slide 7 ===
+Jar Testing  – Addition of chemicals
+Addition of chemicals into different jars (left to right: case 1, 2 and 3)
+Sludge settling (left to right: case 1, 2 and 3)
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 8 ===
+Base case experiment 1- Jar testing treated water analysis
+Inference: Fluoride is meeting the discharge specification
+Total NaOH dosage:
+~1102 mg/L
+
+[Table 1]
+Parameters	Units	Feed	Jar 1	Jar 2	Jar 3
+pH	-	2.24	6.48	6.59	6.58
+TDS	ppm	2143	5600	6400	6400
+EC	µS/cm	4110	7626	8373	9207
+Fluoride as F	ppm	503	9.39	9.19	8.5
+Sulphate as SO4	ppm	201	120	124	114
+Phosphate as PO4	ppm	3.53	<1	<1	<1
+Chloride as Cl	ppm	47.6	1984	2282	2625
+Sodium as Na	ppm	234.7	942.9	953.4	962.6
+Calcium as Ca	ppm	9.35	654.7	803.5	997.7
+Silicon as Si	ppm	21.25	19.1	18.1	18.05
+Total Alkalinity as CaCO3	ppm	TBC	TBC	TBC	TBC
+
+[Table 2]
+Case 1 Dosage	Case 2 Dosage	Case 3 Dosage
+pH adjusted to 8 + 3500 mg/L CaCl2	pH adjusted to 8 + 4000 mg/L CaCl2	pH adjusted to 8 + 4500 mg/L CaCl2

@@ -1,0 +1,554 @@
+) ;
+ . Pas J : ro ; J ; j in = 7
+ ae gee mT ee: : nee
+aa ls 2 hia i i 7 : : .
+mn a |
+ow | ae +, ie
+ Me, - = 4. | e a ry a /
+ff Mer meciormeste : _ Ja
+; Fd ea iiinsienaastcapeeeel eae  ...
+
+=== Slide 76 ===
+Action item 4: Anti-scalant compatibility test - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+Initial solution pH: 3.3, pH adjusted to 3.5
+AS4 was selected for the NF filtration experiment because its addition into the feed solution didn’t alter the solution pH much.
+
+[Table 1]
+Anti-scalant	pH	Solution appearance
+AS1	3.0	Clear
+AS2	7.19	Clear
+AS3	3.7	Clear
+AS4	3.58	Clear
+
+[Picture on Slide 76 | GENERIC_FIGURE]
+OCR: i > ~~. 5 oS Me Ea OR %. lll a il a ee Re a 2 Se 2. < jot ao ae
+: RR I) Te, POE Sn ER eget ek a eae ~ Se Be PR RY
+j == , , ba oe, a ae et: Pe eh et A SEtSa ect of) Sees aah er a gee ee :
+ ae = ~ = y Se. ee LP == .
+1} 7 oS emai . a) Seer eee ae a = a %
+y = te om = at e = _ Pa ts ~, VS ~ . 6 ~ -. >
+; 7 4 > Z < j ~ . f ; m= . Fe - aed > oe 4
+Wy 2 oe ee A ~ Maes 3 is 1 f Ta j Sys tg r . : ees hk Pal | : =
+(a ae : g .7 Ne 7 Ubi : 2 e Py | OP PY eee Serle apne | : i ; ~ -
+es : 7 tM are aan : i hn Vertaal ve oT , : SS
+= : _ Aig: On : : = ch >
+- - = = = ee = Se : a3 net . %. GR cae jd 4 . ; i
+. oa a %.. aa il ya = > ~~ a ait ; Wy ) he %: . = 2
+: Bs cn ~ nt a a. ipoar AA . toma a : ; _ = ime ta
+. Mie see Bi 4 pa a ake ti: vie , t a aa mec -. ee ee 4, FS ag oe > 4 aa ~ i ot
+ as ae a __ rea ae | ett pel i a ron (Oe ees A aes. |
+% bee . ae 7h 0 TT eh ts ol ys the Ro ae We
+cs ~ j Ae megaget a as S x . ; . _ hw 9 ; ye . ; Ppa ee, sae e he
+ ; : : = P pire OSRE (| f 0 a hs
+ ; . ag ee
+= i i edna thew ge 0 I A ti Pasting -
+ } . f = a8 et
+: - - { = or
+ = ae i . 1 ; P a,
+ - ; ; [ee wep : | ;
+ 7 - . .
+- lau |
+5 f
+-_ Pe | : | ae al ~
+ _ et os P
+> ae 5 - a ad a %, | TS =,
+te we mt J
+ _. = +4 y AI
+ gO peas a = a Soko: - <f -
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: i > ~~. 5 oS Me Ea OR %. lll a il a ee Re a 2 Se 2. < jot ao ae
+: RR I) Te, POE Sn ER eget ek a eae ~ Se Be PR RY
+j == , , ba oe, a ae et: Pe eh et A SEtSa ect of) Sees aah er a gee ee :
+ ae = ~ = y Se. ee LP == .
+1} 7 oS emai . a) Seer eee ae a = a %
+y = te om = at e = _ Pa ts ~, VS ~ . 6 ~ -. > ...
+
+[Picture on Slide 76 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 77 ===
+Action item 4: Result of NF filtration of HFW+NH4F with IPA (with pH adjustment)
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	Concentrated feed (ppm)	Permeate (ppm)
+pH	3.5	5.04	3.29
+Conductivity	3,357 µS/cm	9,022 µS/cm	708.6 µS/cm
+TDS	1,134	4,921	344.4
+NH4	19.7	50.1	12.2
+F	819	1,555	144
+SO4	100	389	3.83
+PO4	214	637	1.55
+Cl	54.3	178	21
+Na	721	2082	86
+Ca	1.49	<0.1	<0.1
+Si	12.7	73.9	51.9
+COD	2,450	3935	1580
+TOC	473	870	382
+IPA	TBC	TBC	TBC
+
+=== Slide 78 ===
+Action item 5: Preparation of Synthetic Combined NF RO Reject Solution (without pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.209
+NaCl	0.011
+CaCl2	0.049
+HF	2.242
+H3PO4	0.367
+SiH2O3	0.128
+H2SO4	0.362
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	1.9	-	3
+Conductivity	-	-	7745 µS/cm
+TDS	-	-	4175
+NH4	70.6	70.6	TBC
+F	2129	2129	2304
+SO4	355	355	TBC
+PO4	356	356	389
+Cl	177	177	TBC
+Na	17.6	4.49	7.74
+Ca	17.7	17.7	7.94
+Si	46.2	46.2	41.2
+
+[Picture on Slide 78 | GENERIC_FIGURE]
+OCR: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey gs OO Pe i Ponee ee S
+5 ae See mate ee J a tin Se Ted FH G2: Se oe
+=: x get oe sets Ju eS - OA i oF = wine data ; oS
+as Se y > nat toe : is Sa Dien i ~ Fae aT, ats ft MS dawhe a CAPE. a
+a. 2 IS a al , ag Fi
+ > > Fe J
+s . ioe - er. -
+, ite Ex Payee ta foe
+: ow ret a Fried Sie 4 s : :
+. o ety - 3 iy F
+ de f. ae Ss
+: , :
+ial <- = a
+~ SS S , :.
+- -_ x
+=a i S , + > 2
+oH
+| ; P
+>
+ =
+> : >
+- _ -
+o=~, < =
+Io
+a |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey g ...
+
+=== Slide 79 ===
+Action item 5: Jar testing of Synthetic Combined NF RO Reject (without pH adjustment)– Testing 4
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2
+pH	3	9.68	9.29
+Conductivity	7745	1941 µS/cm	7256 µS/cm
+TDS	4175	974.7	3889
+F	2304	22	7.51
+SO4	TBC	150	137
+PO4	389	<1	<1
+Na	7.74	8.2	25.4
+Ca	7.94	295	1290
+Si	41.2	14.9	5.66
+
+[Table 2]
+Jar	Polymer added	Chemical's dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	6000 ppm lime + 500 ppm CaCl2	9.98
+2	Flopam AN 934 SH	6000 lime + 4000 ppm CaCl2	20.4
+
+=== Slide 80 ===
+Action item 5: Preparation of Synthetic HFW+NH4F with IPA (without pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+IPA	1
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	-	-	2.92
+Conductivity	-	-	3371 µS/cm
+TDS	-	-	1741
+NH4	20	20	TBC
+F	800	800	802
+SO4	100	100	TBC
+PO4	200	200	161
+Cl	50	55.86	TBC
+Na	5	5	10.1
+Ca	5	5	4.6
+Si	14.02	14.02	9.15
+COD	-	-	2523
+TOC	-	-	588
+IPA	1,000	1,000	TBC
+
+=== Slide 81 ===
+Action item 5: Results of NF filtration of HFW+NH4F with IPA (without pH adjustment)
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	NF concentrated feed (ppm)	NF Permeate (ppm)
+pH	2.92	2.08	2.26
+Conductivity	3371 µS/cm	4821 µS/cm	3071 µS/cm
+TDS	1741	2535	1580
+F	802	1328	456
+SO4	TBC	201	88.9
+PO4	161	203	150
+Cl	TBC	152	147
+Na	10.1	30.9	4.72
+Ca	4.6	21.5	0.105
+Si	9.15	41.5	4.19
+COD	2523	2970	2013
+TOC	588	691	484
+
+=== Slide 82 ===
+Action item6: supernatant pH adjustment using H2SO4
+
+[Picture on Slide 82 | GENERIC_FIGURE]
+OCR: _ mot 3 | digits Minerals Export
+yee: if 904 | cy chem equilbroum thy crutvert cal
+7 341 341
+504 mci [8] 6060 6060
+ 1249 , 8.98 , 893
+ne A ; 367 : 362
+mv 234 ; ae ; ala
+Co a ; a ; a
+ mail 3b15 : 8997 : 8903
+ reaien 23610 : 10836 ; 10803
+Ikan ppm 8 738 : 84 : 811
+apm 8 738 : 84 : 811
+apm 83 ; 83 : 10
+ a Obs : o7 : o7
+mail 0 , 109 , 9b 8
+; mail 333 ; 33 : aol
+; mail 2 188 ; 2 183 ; 2 183
+of anil 3h : 8292 ; 8292
+ultite mail rs) : 23ie 11 : 2 38e 11
+ultide mail 0 ; 8 O7e 1h : 8 21e 1h
+| mail 209 ; 209 ; 209
+NH mail 708 ; 107 : 107
+(4 mail 0 000196 : 0 000198 : 0 000198
+ mail aga : 493 : 493
+mail 989 : 987 : 987
+| iol 0 1 b4e 19 1 bbe 19
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: _ mot 3 | digits Minerals Export
+yee: if 904 | cy chem equilbroum thy crutvert cal
+7 341 341
+504 mci [8] 6060 6060
+ 1249 , 8.98 , 893
+ne A ; 367 : 362
+mv 234 ; ae ; ala
+Co a ; a ; a
+ mail 3b15 : 8997 : 8903
+ reaien 23610 : 10836 ; 10803
+Ikan ppm 8 738 : 84 : 811
+apm 8 738 : 84 : 811
+apm 83 ; 83 : 1 ...
+
+[Picture on Slide 82 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+ ealccite precip . me [8] [8] 31 |
+Saturation Indices (Sl)
+ol oO Minerals in equilibrium |
+ealcite =| : 1 : o
+Sl oO supersaturated
+Sn f 229 : lie ; lie
+halendotr f 21 : 0 736 ; 0 743
+ecenc i 326 ; 0 703 ; 071
+Sle oO undersaturated : ;
+eat A504 2H il ; 114 : 0%
+ortlandite mi 0 748 : 8 12 : 91
+ydtoxyapatite Cab(PO4)3 14 ; 6 43 ; Wd
+atr 0 0033 ; 0 186 ; lor
+ite NaCl agit : 8 02 : 8 07
+enatdite | NazSO4 a ; 368 ; 36
+Mir abilite WaA2S07 ) 3.92 : 2 BA : 2 BA
+N ahicolite ) ; 2 t ; 8
+Nattor ry ; ) ; Aas ; Aba
+1071 f 3186 : 0 103 : 0 096
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mg per Liter solution:
+ ealccite precip . me [8] [8] 31 |
+Saturation Indices (Sl)
+ol oO Minerals in equilibrium |
+ealcite =| : 1 : o
+Sl oO supersaturated
+Sn f 229 : lie ; lie
+halendotr f 21 : 0 736 ; 0 743
+ecenc i 326 ; 0 703 ; 071
+Sle oO undersaturated : ;
+eat A504 2H il ; 114 ...
+
+=== Slide 83 ===
+Additional Action item: Feasibility of  NF270 + SWRO With 800 ppm of F, 500 ppm of PO4 and 300 ppm of Sulphates
+
+[Picture on Slide 83 | GENERIC_FIGURE]
+OCR: LO
+(2) 2 _ [2a] ta
+ZS Th
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: LO
+(2) 2 _ [2a] ta
+ZS Th ...
+
+[Picture on Slide 83 | FLOW_DIAGRAM]
+OCR: Zz Desorption f howe TDS Prewerr 2 Description blow THs Prewre
+{en fh) ime/t} (tae } {m fh) {g/t} {tar}
+1 Bopwy Feed to RO Sytern 124 7 1, Fad a0 7A NF Feed fo Pain 2 10% 3 BAT 322
+2 bert Few fo Pans ft 140% 2,234 4 4A Total Conorctrate torn 2s S613 1a
+Pans
+4 Total Canceettate froen cme | 6 334 Conancitate Bisoycde froen ow | S61 1a
+Pax. 2 Pansy 2 to Pass
+4% Total Peemegto fron 104 BAb a0
+Pass 2
+9% Pert Procuct Ei6 Rit oo
+RO System Oververw
+Total Bof Train | Onkine t Stapnach tay 0 RO Recovery 713%
+Syvirrn Flow Rate {n /h) Nart Faved 12a Net Brochoct at
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Zz Desorption f howe TDS Prewerr 2 Description blow THs Prewre
+{en fh) ime/t} (tae } {m fh) {g/t} {tar}
+1 Bopwy Feed to RO Sytern 124 7 1, Fad a0 7A NF Feed fo Pain 2 10% 3 BAT 322
+2 bert Few fo Pans ft 140% 2,234 4 4A Total Conorctrate torn 2s S613 1a
+Pans
+4 Total Canceettate froen cme | 6 334 Co ...
+
+=== Slide 84 ===
+Additional Action item: Feasibility of  NF270 + SWRO With 800 ppm of F, 500 ppm of PO4 and 300 ppm of Sulphates
+
+[Picture on Slide 84 | FLOW_DIAGRAM]
+OCR: Pass . Pass t . Pass ,
+ stream Nanna , Strram 1 ,
+ Wate Type . Wartr WEh DuGont UF, SoM < 2S . RO Peeemeate S00 < 2
+ Nuttbee ob ements , tbt , a ,
+Total Active Area {m ) : Sd ; 3720
+
+ heed Show ore Pura {m /h) . i404 . 10% 3
+Faved TOS (meh) : 2.274 ; Bars
+
+teed Prewase (Dar) : 4 : 32.2
+
+Chow Factors Pee Stage ; 0.90, 0.90 ; Oo, OF
+
+ peemwate Flow pre Pansy (en /h) . tos 4 , ab
+Pas Average Mua (Usteg ; 176 : eat
+
+Peecmnate TS (me) : RAE 7 : BM
+
+ pa Recowery , xO% , ie
+ borenge a (Rar) . 1 . TAS
+Specific suave gy (ewtfn ) : O19 : og
+
+Temperatutr ro ; 20.0 : 20.0
+
+ou : 2.0 (After Adpatmect) : 24
+
+ Chemecal Deve , TO m Ef Naw ,
+RO) System Recawry ; 718%
+
+ eet RO Sytem Recovery : 71 Bw
+ specst Erwezy (ewtfn ) . tia
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass . Pass t . Pass ,
+ stream Nanna , Strram 1 ,
+ Wate Type . Wartr WEh DuGont UF, SoM < 2S . RO Peeemeate S00 < 2
+ Nuttbee ob ements , tbt , a ,
+Total Active Area {m ) : Sd ; 3720
+
+ heed Show ore Pura {m /h) . i404 . 10% 3
+Faved TOS (meh) : 2.274 ; Bars
+
+teed Prewase (Dar) : 4 : 32.2
+
+Chow Fact ...
+
+=== Slide 85 ===
+Additional Action item: Feasibility of  NF270 + SWRO With 800 ppm of F, 500 ppm of PO4 and 300 ppm of Sulphates
+NF 270
+SWRO
+
+[Picture on Slide 85 | FLOW_DIAGRAM]
+OCR: RO Solute Comrntrabons: Pass t
+, Comcrnt stons (mg/l 43 20m) ,
+ . Adpntedterd = Concentrate Permeate
+Row teed initil Alter Stget Stage , Stage . Stage total to |
+Recyche Pass 2
+ Ni, , 20,00 , 20.90 , 31.93 , 42 38 . 70 7 . 27.90 , 204% . 19.00
+< : 200 : aoo : 0.00 : 0.00 : oon : 200 : aoo : 0.00
+a : 22 JA : ou ; a0 48 ; S377 ; 35 : 724A : 34.0 ; 24.0%
+Me : 200 : aoo : 0.00 : 0.00 : oon : 200 : aoo : 0.00
+Ca ; 400 ; 500 : : RAY ; ae | ; ir ; 1 ; lz
+= : 200 : aoo : 0.00 : 0.00 : oon : 200 : aoo : 0.00
+fat : 200 : aoo : 0.00 : 0.00 : oon : 200 : aoo : 0.00
+ CO, , 200 , 2.00 , 0.00 , 0.00 , oon , 200 , aoo , 0.00
+Toor : 203 : aa : 0.03 : 0.02 ; oa : ao ; aor : oor
+NO, : 200 : 2.00 ; 0.00 : 0.00 : oon : 200 : aoo : 0.00
+i : 800.0 : ao00 ; 7992 ; L B ; 7Ar : 2232 : a0.90 : 5 Vs
+a ; 20.00 ; 0.00 ; 1% 0 ; 192.8 ; 2760 : 702. : Pat Be) : 207.6
+Bs : ooo : 2.00 : 0.00 : 0.00 : ooo : ooo : 2.00 : 0.00
+Mu : 300.0 ; 300.0 : J7Lb : 4698 : 20m : heey ; 942 : 70%
+ FO, . 200.0 , 00.0 . adie . Tiha . 77% . ooo . ago . 0.00
+SO; : 3.00 ; 30 00 : 4130 : Bob : 24 : 220.2 ; S204 ; Sind
+Boron : 200 : aoo : 0.00 : 0.00 : oon : 200 : aoo : 0.00
+ CO; , 3G . 79k . 79k . 3797 . 3799 . 3S , TAA . 3744
+ Ths . ara . 1734 . 2.224 . 3.768 . Ce oe] . RLS . arg , RAL
+Carrd, ; 4 Oe ; AO ; AR ; 326 ; 10,222 : 1978 : 2.020 ; Lie
+ou ; 7.0 ; aa ; 20 : is : ib : 2A ; 24 ; 24
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: RO Solute Comrntrabons: Pass t
+, Comcrnt stons (mg/l 43 20m) ,
+ . Adpntedterd = Concentrate Permeate
+Row teed initil Alter Stget Stage , Stage . Stage total to |
+Recyche Pass 2
+ Ni, , 20,00 , 20.90 , 31.93 , 42 38 . 70 7 . 27.90 , 204% . 19.00
+< : 200 : aoo : 0.00 : 0.00 : oon : 200 : aoo : 0.00
+a ...
+
+[Picture on Slide 85 | CHART_OR_GRAPH]
+OCR: Comornttstions (mg/l 25. 20m)
+ : : Comorntrate : Permeste
+berd . Stage t : Stage ; Saget : Stage : Total )
+ NH, : 19.00 . 4613 : 1st . our . O19 : ar
+ 2.00 000 2.00 000 0.00 000
+ a 24.09 SRS 189.9 oo O23 013
+Mg 2.00 000 2.00 000 0.00 000
+Ca a 440 1 33 000 oo 000
+ s 2.00 0.00 2.00 0.00 ooo 0.00
+fe 3.00 000 200 000 ooo 000
+, CO: 2.00 000 : 2.00 ; 000 : 0.00 ; 000
+T oon a0 003 a0} 32 2.44 3 Ob:
+NOs 2.00 000 2.00 000 0.00 000
+i t s (Fy 160 0 43549 Ov O89 O42
+L | 207. 492 : JAR O43 2.0% Obt
+fr 2.00 0.00 2.00 0.00 ooo 0.00
++ Pil 7 0% 17.19 ay it 000 0.00 000
+ 6), . 2.00 . 000 : 2.00 : 000 : 0.00 : 000
+SA; SIA Pao 443% 200 27a 44%
+ora 2.00 000 2.00 000 0.00 000
+ CO; : PR4 : P49 : 3792 : 373} . wi . 377%
+ Ttys : BAL . 2.02 : . S613 : 728 : 1 8 . aM:
+Carwd 1PM: 4,40 DL 74 w 40 33
+peafern
+od 24 20 Lt 41 40 4.1
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: Comornttstions (mg/l 25. 20m)
+ : : Comorntrate : Permeste
+berd . Stage t : Stage ; Saget : Stage : Total )
+ NH, : 19.00 . 4613 : 1st . our . O19 : ar
+ 2.00 000 2.00 000 0.00 000
+ a 24.09 SRS 189.9 oo O23 013
+Mg 2.00 000 2.00 000 0.00 000
+Ca a 440 1 33 000 oo 000
+ s 2.00 0.00 2.00 0.00 ooo 0.00
+fe 3. ...
+
+=== Slide 86 ===
+Additional Action item: Combined reject chemical precipitation
+
+[Picture on Slide 86 | GENERIC_FIGURE]
+OCR: . | | .
+1COz 3 AN 3 AN
+alOH}2 mgil 0 , 10000 , 10000
+: , 16 , a1 116
+a , 4 429 291
+ft mv 234 2bA 17
+I Co ay 2s 2s
+omic strengt mmolill | ALA 26 36 6
+1D mgil 4881 17132 1866
+Ct rena 11119 17406 236
+Alkalinity apm 9 490603 AISA 276
+spm 0 AISA 276
+; spm AA3 13496 996
+3 132 0 0
+, : :
+| mail 0 371 63
+ mail le AOA 399
+N. mgil 89 6 89 897
+504 mgil 1065 1061 1060
+Sultite nail 0 243e 11 3.96e 11
+ sulticse micjil , 9] 3 8 e 1 S96e 11
+ mail 176 Li Li
+WHY magi 10 04 04
+POA | mgil 879 676 0 00558
+5 mgil AAA Aa Aa
+3 mgil 2839 2877 1a
+4 mgil 0 life 1s 8 bbe 16
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: . | | .
+1COz 3 AN 3 AN
+alOH}2 mgil 0 , 10000 , 10000
+: , 16 , a1 116
+a , 4 429 291
+ft mv 234 2bA 17
+I Co ay 2s 2s
+omic strengt mmolill | ALA 26 36 6
+1D mgil 4881 17132 1866
+Ct rena 11119 17406 236
+Alkalinity apm 9 490603 AISA 276
+spm 0 AISA 276
+; spm AA3 13496 996
+3 132 0 0
+, : :
+| mail 0 371 63
+  ...
+
+[Picture on Slide 86 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mmol per Liter solution:
+ft 7 I T 7 f I A
+I recy ; 0 0 196 i
+l p>. Tis] 23m | oO : oO : 623
+bere cece . | 0 : 0 : iat
+Saturation Indices (SI)
+ft 7 I T 7 f I A
+Sl oo Minerals in equilibrium i
+il | : 348 : Oo
+I Ip: ah{ FP 31 | 334i il : 709 : Oo
+bee . | 169 : 681 : 0
+Shoo supersaturated ; ;
+ea 7 124 : 11 : 118
+veltecrctta 51 | 16 : 0667 : 0 748
+mearal rT | 8 : 0134 : O71
+She O undersaturated ; ;
+Un red < > ) , 1 86 : 0 058 : 0761
+than eal ) | 234 : 624 : 97
+if Cl | 6 46 : 6 6 : 6 AB
+af CII PS5 I | 229 : 263 : 203
+Dil SI | 641 : 6 86 : 624
+heol | : 4A : 8 4
+ 3 Na2CO3 2H : 124 : 162
+ y | : 718 : a1
+ cern 1 | : 859 : 112
+ 51 | 841 : oil : ool
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mmol per Liter solution:
+ft 7 I T 7 f I A
+I recy ; 0 0 196 i
+l p>. Tis] 23m | oO : oO : 623
+bere cece . | 0 : 0 : iat
+Saturation Indices (SI)
+ft 7 I T 7 f I A
+Sl oo Minerals in equilibrium i
+il | : 348 : Oo
+I Ip: ah{ FP 31 | 334i il : 709 : Oo
+bee . | 169 : 681 : 0
+Shoo supersa ...
+
+=== Slide 87 ===
+Conclusions
+Following conclusions are made based on several RO/NF projections, bench scale testing and PHREEQC models
+
+UF, NF and SWRO will be sufficient for generating required water quality for cooling tower and local scrubbers. Recovery ratio between 55-60%.
+Lower pH will be helpful to get higher membrane rejections. No scaling issues with lower pH. Conventional membranes will be used for pH between 2 to 12

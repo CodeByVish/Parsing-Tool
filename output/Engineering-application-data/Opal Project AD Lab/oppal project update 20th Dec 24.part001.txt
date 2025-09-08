@@ -1,0 +1,306 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\Opal Project AD Lab\oppal project update 20th Dec 24.pptx
+
+
+=== Slide 1 ===
+Project:Opal Micron
+TMAH & IPA Bio-degradation study
+
+=== Slide 2 ===
+Biological Lab Testing
+Current lab testing
+High salinity (complete)
+Acclimatized and bio-growth documented
+IPA as C source (complete)
+Acclimatized and bio-growth documented as well as C degradation
+TMAH decomposition, in progress
+TMAH results from lab have not arrived yet, should do so shortly
+Nitrification/Denitrification batch test
+Nitrification is accelerating
+First kinetic values available
+Simultaneous denitrification probable, to be confirmed with ash analysis
+Denitrification and biomass growth test with MicroC to be started (Batch 2)
+GRADIANT CONFIDENTIAL
+
+=== Slide 3 ===
+Biological Lab Testing – Current values Batch 1
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 3 | CHART_OR_GRAPH]
+OCR: s ee
+Batch Test 1 - Nitrification / Denitrification Volume 2 hters
+wd oid ofa bya change oid N34, N34, Yan oid N34, oie oid 2/4 bfac bfac blac blac Ravers Ackeitton
+Ehete f Terme [Remarks Aeration Akslinky FO MESS upernatunt bene TPA Uses Tego Thc] faa or bt weatet
+. . mmol/l mg/l bd ml ml ml e n ml ml em ml GF stg v
+
+Liteet vba 9 9 ~
+J 12/2/24 10:00 AM . . . 7, a aa i b om 140 S) P 4 i) b om ( a a a 700) 42 om Po a a 2s a . % too. 222) Ob ah too. 700) . . . . .
+| 12/3/24 2 COPM started ncn Mushy ecched . Zend DRA to Eh wrater . . . . . . % . . . . . . . . . . . . . . . . . [ ]
+_ 12/3/24 COR feo . 22 FR, . . . he oe ores ee oe . . 2 USO. . . . . . . . oF, . . . . ;
+J 12/3/24 OD FM ated ayes . b om e 5, om . . 1Aa bw 2 Oo 14a, . 0) Lt, . . . . . . . . . . . . . . . .
+J 22/4/74 31m) AM . PD . 72, e 5, b om 1 Ls te i 1 Ln Oo Vr oO idl Ce fh Ln a ib 06000) 7900. 2200) 4 mi ah too. 700) . . . . . .
+J 20/ sf 74900 AM . ye . 7, 2 e ee b om . J J BL Oo 1 ak Po 3 a 7, a 5) 2b) ib 2 6200, 6000 2000) eo. ash too. 700) . . . . .
+| 12/f{ 24 12 OD PM ated ncn wuacky wether 0 im IA feo has ww antert bo fern hand fo i ppmiin 2 how wed Chapt S Pacmaey . . . . . . . . . . . . . . . . . . .
+, fef24 1200 PM, NO . 74. ey, 6%, . . 12, 39, O08 1Fs 480, . . . . . . . . . . . . Ov, . . . .
+J 83f/bf 74 FMD AM . . . 72, , Ro b om 1 Bos Ln Via e 4 ( os V2, ore aly 6, . 2b) ib 06000) 6500. ae ti 7 51 too. 700) . . . . . fom Ch sa]
+J 17/7/74 10:00 AM . ye . 7.3, a Re b om 120. 2. Uss_ BD BS Oo (32 Po . 48 5. shy . a 2s FOOD. 7900. 2200) . . too. too. . . . . . 100)
+J 17/7/24 10: 3 AM Stated nce viuaty, adeiecd D Zen of IPA fo the weiter, DO teacthed to O ppmin 2 Pout. . . . . . . . . . . . . . . . oF, . . . . ;
+_ 22/7/24 40pm Stopped the chenaticificgtion, DO wan 0 and started ac uition and took sample foe the WO t ane NO value . . . . . . . . . . . . . . . . . . .
+J 12/7/24 4 ION . irnl Nutt ye s : 7a > e b : : Ii, 12 Oo ORY, Ie, a, wy aS, +) . . . . 00 . . . . . . . . . . fered cmstraeent ctkkhend
+J 33/9/ 74900 AM . ven . 7, 2 aa 2 b om WO. i S) Lats BJ om oO : a 1 Loe 140 a 6, shy . a 2s 5, b 700) 6000 2200) yal oe too. too. . . . . . 100), C6 mi stg
+| 12/9/24 400 FM ide us an 4 POM ny Etta reeneng | . . . 220) . rate , shy, . . . . . . . . . . . O28 OF . . is. 100 added 2Oppen of OE
+J 12/20/24 300 AN . ye . 72, 3 a b om 70, e a iz 12 : Oo 14 168 om Leo) 147 Ln a . 74, 2s a Po OO) OSs Or anh too. Po . . . . .
+, 12/10/74 10000 AM vate J brug viuaty, ackiecd O Jeni of BA fo the wet, OC) cea Pied fo O pgrmiin 2 Pouts . . . . . . . . . . . . . . . OF, . . . . .
+, 12/10/74 % OD PM topped fhe chmtirificstion, DO war 0 emd started 2c tion ned took smnpar for the Ot ancd WO value . . . . . . . . . . . . . . . . O2) . .
+J 12/10/74 > (0) Pit . ye : 7a 7 e b : : 1 oe 8, ( ot P 20. a5, isa 6, . . . . . . . . . too. . . . . . .
+J 12/24/24 S00 AM . a ae . 72, 3 a b om . . ti2, 3 om ( OF Lat cae i 2) . 74) 14 3 . 3700) 2200) . . too. too. . . . . . 100)
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: s ee
+Batch Test 1 - Nitrification / Denitrification Volume 2 hters
+wd oid ofa bya change oid N34, N34, Yan oid N34, oie oid 2/4 bfac bfac blac blac Ravers Ackeitton
+Ehete f Terme [Remarks Aeration Akslinky FO MESS upernatunt bene TPA Uses Tego Thc] faa or bt weatet
+. . mmol/l mg/l bd ml ml ml e n ml ...
+
+=== Slide 4 ===
+Biological Lab Testing – Kinetics Batch 1
+GRADIANT CONFIDENTIAL
+Current results
+Nitrification has accelerated (100 mg/l in 41 hours compared to 110 mg/l over the course of 6 days)
+During these 41 hours, 1,71 g COD (from IPA) have been added and degraded -> max. Incorporation would be 34 mg/l
+Denitrification is probably simultaneous (there are non-aerated sludge pockets in the corners and under the diffusers)
+F/M load in the last 9 days was 0,17 g COD/g MLSS and day (up from 0,1 the week before – compared to 0,13 – 0,16 in design)
+MLVSS has stabilized at around 50 %, both MLSS and MLVSS are constant (with biomass removal for testing)
+
+Kinetics
+Biomass growth is 0,17 g MLSS per g COD (design 0,23 g MLSS / g COD) - considering only MLVSS, growth is 0,085 g MLVSS / g COD
+When counting biomass removal for testing as WAS, we get an SRT = 33 d (for the last 9 days of operation)
+Nitrification rate (after deducing incorporation) is 0,075 g N/g MLVSS and day (compared to design value of 0,06)
+
+=== Slide 5 ===
+Biological Lab Testing – Current values Batch 2
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 5 | GENERIC_FIGURE]
+OCR: Batch Test 2-N vokrer 3 her.
+| | | |
+tfc e f om icone Qfacarer o/c f Gom fhe AN Xe of cme oe ese fk ac Dyac Dfac tyiac firer<cend Rechte:
+, . _ i i i i i i F
+Oate f torr fire we. Are stor Al nit hy mM F Whos hart oat bee 1m ns ape +r
+ . s ~ . . . . . .
+TT r /l . v1 v1 v1 evr v1 v1
+ . s . . . . . .
+Tang rt waauie.
+ _ . = = = = = =
+Lies 7ON 14 oo TM. 3 5 0 to4 th Pr o: iF 3:0 et hz 7 30aD 0D Pa ae ee oO;
+4/3/7049 00 TM. 3 a: >e to 73 3 o: 04 Le 9 eh t7:t to 4 0 30aD 373 iO4 A S {00 Pat 2)
+Wii/iam 9 oo TM. 3 ;3 {34 0 Of; 2 ae a2 so Ww its b tz tt Do siap {Sih Gt ADIL {00 Pat 2) oO; o4
+wigs; 9 Oo . 3 , oreo 4 thd tz 3 Ow tai GS es 2 i i DO OD ora 7000 th 97m {00 Pat 2) Ca. SO ter
+PEO 10 OD Sr iar ache. 3 i4 4 0 sh tt 3% o% tan she ae ge {= th tet DO 30aD siap {oo a 8) oO; 0%
+WiifiO 9 OD Yorrg ors are we. 3 ae 3200 4 {70 20 tah +to aes 8 a tt 7 O00 pet 8) Site {yk {00 Pat 2) 0% Oye ot MM akties
+tofi7/ sO 9 OD TM. 3 a 335 4 7 ti {32 4 {79 a 140 Bs) {= tt Do 30aD Pat 3 ae {00 Pat 2) 0%
+Lifie ysOe4 9 OD TM. 3 a: 140 7 09 tz: 40 ts: 0 {9 7h {7 39 pet 8) oare {00 Pat 2)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Batch Test 2-N vokrer 3 her.
+| | | |
+tfc e f om icone Qfacarer o/c f Gom fhe AN Xe of cme oe ese fk ac Dyac Dfac tyiac firer<cend Rechte:
+, . _ i i i i i i F
+Oate f torr fire we. Are stor Al nit hy mM F Whos hart oat bee 1m ns ape +r
+ . s ~ . . . . . .
+TT r /l . v1 v1 v1 evr v1 v1
+ . s . . . . . .  ...
+
+=== Slide 6 ===
+Biological Lab Testing – Results and next steps Batch 2
+GRADIANT CONFIDENTIAL
+Current results
+We are starting to observe accelarating IPA removal, denitrification not stable yet
+TDS has been increased over the last week, approaches OPAL values
+MLSS concentration is slowly going down, approaching equilibrium
+
+Next steps
+We could use this reactor to test kinetics and removal rates with MicroC instead of IPA
+We would have to simulate MicroC, but based on the SDS that should not be a problem
+
+=== Slide 7 ===
+Biological Lab Testing
+High salinity (complete)
+Acclimatized and bio-growth documented
+IPA as C source (complete)
+Acclimatized and bio-growth documented as well as C degradation
+TMAH decomposition, in progress
+TMAH results from lab have arrived, values relatively low -> retest
+Nitrification/Denitrification batch test
+Batch 1 with IPA as carbon source
+Batch 2 with glycerol as carbon source
+Kinetic values updated
+First results of ash analysis
+GRADIANT CONFIDENTIAL
+
+=== Slide 8 ===
+Biological Lab Testing – Current values Batch 1
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 8 | CHART_OR_GRAPH]
+OCR: Batch Test 1 - Nitrification / Denitrification Volume 3 ters
+. V/d te day A/day b/a change efday efday efday AN efday Piday I/we fd 2/d obfac blac bsac bfac Rertncvel Addition
+| deste: f Titres Remarks Aeration Alkalinity POA P MIVSS Superratant bene IPA Ores NaOH HC I Nabic O38 DI watet POA additi Nutructit
+| . . mmol/l mg/l % nl nl nl gm ml ml gm ml mg/l tml
+| Target values : : : : : :
+
+17.%.274 9:00 AM _yes ; 23 a 6. ; | | 53 Ol 11 1%0 33 23 8 26 16,5 6200 6000 1000 4450 AN% 100. 200. :
+| 17.5.24 17:00 PM tated anooat Study, added O. /ml (PAto the water, DO reached to l ppmin 2 hour and Oat 3 hours : : : : : : : : : : : : : : : : : : :
+| 17.5.24 12:00 PM ; NO : 7 9 O : : 197, 52 0,046. 1s 450. : : : : : : : : : : : : 0,7 : : : :
+12.5.245:00 PM Stunped { Yes : vt 7h bs : : 1Et a8 0,054. ary : : : : : : : : : : : : ; ; ; ; ;
+| 17.6.249:00 AM Yes 7 185. b. 135, a V1 iA 0,08. 172209. a 1 : rb 16,0. b000 6500 1257 647. 51% 100. 200 : : : : :
+
+17.7,.24 10:00 AM _yes ; 23 TBS b>. 110, 22, 1st, 98. 0,062. 140. : 43,8 11 : oy 4,7, S800 5900 1100. : : 100. 100. : : : : : 100
+| 17.7.2410 30 AM Started anacoat Study, added O. /ml of (PA to the water, DO reached to 0 ppmin 2 hours : : : : : : : : : : : : : : 0.7, : : : :
+| 12/7/24 4 30pm Stunped the detutinfie sation, DO was Qand started anation and took satple for the NO3 and NO value : : : : : : : : : : : : : : : : : : :
+| 12.7.24430PM ml Nutriyes a, vee eee ce : - 156 13,9 O80RS SB) 499 99.4812 : : : SR00 : : : : : : : : : :
+
+12.9.24900AM Yes 7 9 7 b. 90. 1s 14. 9.2. 0,04 > 136140. 34.6. 11 : oy 18. 6700 6000 1100 445 40%, 100. 100. : : : : : 100
+| 17.9, 74 4.00 PM added ures and POS in the everung : : : : 210. : : 7 : 1 317, : : : : : : : : : : : 0, 7 0, oe : : 1s 100
+-12.10.24900AM yes eee eee 370, TA W123 0104 168.2 1HD Ah, 24 14,3. 5750. 5000, 1065507 48% 100 150. |
+| 17.10.74 10:00 AM Started anacoat Study, added O. /ml of (PA to the water, DO reached to 0 ppmin 2 hours : : : : : : : : : : : : : : 0.7, : : : :
+| 17.10.2745 00 PM Stapoed the detutinfie sation, DO was Qand started anation and took satple for the NO3 and NO value : : : : : : : : : : : : : : : : : 0,2 :
+| 12.10.24 5-00 PM yes AD 1S 6h. : ah 8 004 210 459 174.6. : : : : : : : : : 100. : : : : : :
+
+17.11.7459: 00 AM ped acdjust yes : 23 83 (7 b>. 112, 8,2. 0,04, 149 2% 7 94,56. 12 ; rt 14.9, : 5200_ 1100. ; ; 100, 100, ; ; ; 0, 7 : 100
+| 17.17.24 9.00 AM Started the ano study by adding 0. 34gm urea O. /ml (PA and JOppm PO4, then taken for the sample for routine analysus : : : : : : : : : : : 0.7 0, 4 : : : 20
+12.12.2495 100M NO DD BB 0. rs So 124K) 20k BID 0R 23 145 550053000 980440. 100 100
+| 17.17.2744 30 PM Stapoed the detutinfie sation, DO was Qand started anation and took satple for the NO3 and NO value : : : : : : : : : : : : : : : : : : :
+12.12.24430 PM yes TS / ar 43 0272098194 oF 100. 100
+12.13.2495 00AM yes 224. 8, x 6 22 45 110. 10,5, 0,06. 74h 8), iz. : 22 14.0 : oRe : : 100. 100. 0, 7 : : 04, : 100
+
+17.14.74 10:00 AM yes : 22. 8, 7 b>. 15%, 9 11s, 9,7. 0,1. 174, 241. 67 17 : 7 14,0, : : : : : : : : : : : :
+| 17.14.74 1015 AM Started the ano study by adding 0. 34gm urea O. /ml (PA and JOppm PO4, then taken for the sample for routine analysus : : : : : : : : : : : 0.7 0, on : : : 20
+| 17.14.2744 15 PM Stapoed the detutinfie sation, DO was Qand started anation and took satple for the NO3 and NO value : : : : : : : : : : : : : : : : : : :
+| 12.14.24415 PM yes ee ee 200 4 5 62 OS IS S28 175 30 9p 14.0, : : : : : 200 100. : : : 0,3 : 100 inl
+ 12.16.24900AM yes ; 22 84 6. 220. 44 Lit. A] 0.18. 202 WN a vA : 23 145, ; ; ; : : 100. 100. 0.7, : : 0, 7 : 50.
+
+17.17.249:00 AM _yes ; 22 BL 6 145, 29 1 om 9 0,1 7 12, 100. 52 0. : 2 14,2. 4500 5300 800. : : 100. 100. 0,7 0, on : : : 100 20
+| 17.17.24 9.00 AM Started the ano study by adding 0. 34gm urea O. /ml (PA, satiple was taken for analysis before the additon : : : : : : : : : : : : : : : : : :
+| 17.17 2/44. 4% PM Stunped the detutinfie sation, DO was Qand started anation and took satple for the NO3 and NO value : : : : : : : : : : : : : : : : : : 1s
+-17.17.24500PM yes 4 Bf 400. B 159 125 4 945 497 44D : : : 4200. : : : 100. 100. 04, : : : :
+pimzeqooam Tweens aa ana pae) aay) ast aa tart soo sooo) 00 ee ee ne
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: Batch Test 1 - Nitrification / Denitrification Volume 3 ters
+. V/d te day A/day b/a change efday efday efday AN efday Piday I/we fd 2/d obfac blac bsac bfac Rertncvel Addition
+| deste: f Titres Remarks Aeration Alkalinity POA P MIVSS Superratant bene IPA Ores NaOH HC I Nabic O38 DI watet POA additi  ...
+
+=== Slide 9 ===
+Biological Lab Testing – Kinetics Batch 1
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 9 | CHART_OR_GRAPH]
+OCR: Tumefrarne O2. 11.12 IPA addition - 3.1 mi/od Timeframe 12.12. 18.12 IPA addition 4.3 mi//d
+
+IPA density O8 g/ml IPA density O8 g/ml
+
+(PA addition 2A g/d (PA addition 34 e/9d
+
+COD addition 58 p/9d COD addition Bl g/7d
+
+MISS 1.122 mg/l MISS 922 mp/l
+
+MIVSS. S16 mg/l MIVSS. 550 mep/I
+
+MISS 3.365 mg MISS 2/66 mg
+
+MIVSS 1.547 mg MIVSS 1.650 mg.
+
+WAS 900 ml/9 d WAS g00 mi/7d
+
+WAS MISS 1010 mp/3 d WAS MISS 830 mp//d
+
+WAS MLVSS. 464 mp/9d WAS MLVSS. 495 mpe//d
+
+Growth tate 0,08 kg MISS/kg COD Growth tate 0,06 kg MISS/kg COD (design 0,2 3)
+
+F/M ratio 0,19 kg COD/kg MISS F/M ratio 0,33 kp COD/kg MISS
+
+F/M ratio 0,427 kg COD/kg MIVSS F/M ratio O55 kg COD/kg MIVSS
+
+SRT 30,0 d SRT 233d (design 20 d)
+Utes addition 1,04 g/7d
+N addition O45 g/id
+Nitrification 0,045 N/p MIVSSd (design 0,06)
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: Tumefrarne O2. 11.12 IPA addition - 3.1 mi/od Timeframe 12.12. 18.12 IPA addition 4.3 mi//d
+
+IPA density O8 g/ml IPA density O8 g/ml
+
+(PA addition 2A g/d (PA addition 34 e/9d
+
+COD addition 58 p/9d COD addition Bl g/7d
+
+MISS 1.122 mg/l MISS 922 mp/l
+
+MIVSS. S16 mg/l MIVSS. 550 mep/I
+
+MISS 3.365 mg MI ...
+
+=== Slide 10 ===
+Biological Lab Testing – Current values Batch 2
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 10 | CHART_OR_GRAPH]
+OCR: Batch Test 2 - Nitrification / Denitrification Volurnme 3 hters
+| . Vd e/day d/day b/a change e/day . e/day . e/day . AN e/day . e/day Jive d/d d/d b/ac b/at b/at b/at Removel Addition
+| Date / Tine Remarks Aeration Alkalinity POA P MIVSS Supernatay bane IPA Glye erin Urea :
+| ; . mmol/l mg/l % ml ml ml ml gm ,
+Target values . - je | : : : : :
+
+17.03.2024 14:00 yes 23 8 6,5 520 10,4 1 s 28 0,1 249 1350 aot 16.8 9,96 3000 3900 2368 60,7179 0,/
+
+17,04, 70274 09:00 yes 33 8,1 65 53h 10,7 33 0,1 706 688 IIb 99 VWv/a 10 S650 3000 38/7) 2304 59,0413 100 200
+
+12.05.2024 09-00 yers 23 ay 6,5 135 20 0,2 1h 450. 150 90 (13) 18 11 5600 3100 1916 61,80645 100 200 0,7
+
+17.06.2024 09:00 yes 23 3 6,5 320 6,4 144 18,3 0,24 141.6 63 158 19 12 5800 3600 3078 2000 64,97726 100 200
+
+12.07.2024 10:00 3ml nutnent add yes 23 i 6,5 280 56 1s 345 0,3 146 62 198 11 19 11,66 5800 3000 3100 100 150 0,/
+
+12.05.2024 09.00 SOmg ures and 2 yes 33 8.) 6. 300 120 40 146 510 150 18,6 11,75 5500 3500 3116 1748 100 200 0,3
+
+17.10.7024 09:00 yes 33 8, ; 6. 33% 6,7 126 13,8 1/9 ASD 140 30 19 1s 5600 3000 2608 1568 100 200
+
+17.11.7024 09:00 yes 73 8,1 65 140 ai 10,9 181 360 131 70 19,76 127,19 3300 247) 100 200
+
+12.17.2024 09.00 started anos: study after adding 0. /ml (PA and 20 ppm POS 0,7
+
+17.12, 7024 09:10 NO 3 8.) 65 270 4 41 473 1 V// 1400 231 3/7 19,5 17,3 5500 3300 2660 1/708 100 150
+
+17.127, 20274 1b 20 Stopped the dentinfic ation, DO was O and started anation and took sample for the NO3 and NO value
+
+17.127, 20274 1b 0. yes 24 75 6. 146 50,4 1 16/7 4/6 24) 3/7
+
+13.12.7024 09:00 yes 3 8,18 6. 183 3,66 130 53 1 16 4% 8 359 19,9 17.6 PAA 100 150
+
+14.17.2024 09:00 yes 2 8 6,5 170 12 68 2 150 346 97 29 70,58 13 2418
+
+14.17.2074 1015 Started the snooue study by adding O. 7ml (PA 0,7
+
+14.17.7074 16 15 Steopeed the dentinfic ation, DO was O and started anation and took sample for the NO3 and NO value
+
+14.12.2024 16 15 yes 24 758 6,5 130 26 113 65,4 23 150 300 107 f> 20,57 13,38 100 100
+
+16.17.7024 09:00 yes 3 75% 6. 62,5 bP as 938 7% 28 141 241 70 359 224A 4 100 150
+
+16.17.2024 14.00 yes 3 718 65 108 i hs 32 Lots 70 Pad] 39,7 1449 100 100 08
+
+16.12, 2024 14 00 Started the ano study by adding O.8ml Glycerol (400ppm of COD)
+
+16.12. 2024 17 00 Stopped the dentinfic ation, DO was O and started anation and took sample for the NO3 and NO value
+
+16.12. 2024 17 00, yes 24 / 6% 171 90 32 158 652 175.9 30 BI des 14,7 100 100
+
+17.127, 7024 09:00 yes 3 638 6. 4] 1,4 101 i hs 32 133.6 3/8 107 30 37,3 1b 6000 4200 2 38h 100 100
+
+17.127, 207417 00 Started the ano study by adding O. 8m Glycerol (400ppm of COD) 1. 8gm Nabil O3 08
+
+18.17, 7074 09 00 Stopped the denutinfic ation, DO was O and started aration and took sample for the NO3 and NO value
+
+18.12.202409-00. yes 24 i 6,5 340 6,8 i 128 43 121 10% 2b d7 23,7 14,6 6000 3900 100
+
+18.127. 2024 15 30 Started the anor study 80
+PromptSuggestion: Recreate a clean chart using nearby tabular values and these labels: Batch Test 2 - Nitrification / Denitrification Volurnme 3 hters
+| . Vd e/day d/day b/a change e/day . e/day . e/day . AN e/day . e/day Jive d/d d/d b/ac b/at b/at b/at Removel Addition
+| Date / Tine Remarks Aeration Alkalinity POA P MIVSS Supernatay bane IPA Glye erin Urea :
+| ; . mmol/l mg/l % ml m ...
+

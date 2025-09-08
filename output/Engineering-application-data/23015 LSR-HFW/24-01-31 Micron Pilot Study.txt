@@ -1,0 +1,114 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23015 LSR-HFW\24-01-31 Micron Pilot Study.pptx
+
+
+=== Slide 1 ===
+Pilot Study Update
+Client: Exyte
+Location: Singapore
+Date : 31 Jan 2024
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+Note
+First round of sample collection completed, samples sent to lab on 29th Jan evening
+Second round of sample collection started yesterday (30 Jan), will be completed by 4 Feb. Samples will be sent to lab early next week
+GRADIANT CONFIDENTIAL
+
+=== Slide 3 ===
+HFW and LSR sampling points – Run 2
+GRADIANT CONFIDENTIAL
+*Collect in 8x separate 20 L carboys and mixing will be done in GIH lab, LSR A1 feed is not required
+Sample to be collected once per 12-hour shift
+
+[Table 1]
+Sampling points	Volume (L)	Total volume (L)	Frequency per week	Total quantity per week (L)
+HFW
+HFW Gravity Drain A1	280	400	10	4000 (4m3)
+HFW Gravity Drain A2	120
+HFW Gravity Drain Chem Room	8*	8		80
+HFW Gravity Drain Corrosive gas room	8*	8
+				80
+LSR A2
+LSR A2 transfer pump	400	400	10	4000  (4m3)
+
+=== Slide 4 ===
+Water analysis
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Sample	LSR A2	HFW A1+A2	HFW Gas Room	HFW Chem Room
+pH	3.74	3.43	2.69	2.83
+Fluoride (mg/L)	64	402	202	4358
+Chloride (mg/L)	11.1	481.7	10.7	18.5
+Phosphate (mg/L)	<0.1	7.87	4.8	421.4
+Sulfate (mg/L)	4.0	6.3	2.4	5.9
+Nitrate (mg/L)	2.0	243.6	443.5	401.5
+Ammonium as NH4
+Calcium
+Magnesium
+Potassium
+Total Silica
+Sodium
+TOC
+TDS
+
+=== Slide 5 ===
+Procedures for pilot test
+GRADIANT CONFIDENTIAL
+
+=== Slide 6 ===
+Feed tank
+BW30 PRO-4040
+High pressure pump
+Booster pump
+Cartridge filter
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: Do
+=
+AQ
+|
+ak
+on
+os
+a
+Ss
+f
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Do
+=
+AQ
+|
+ak
+on
+os
+a
+Ss
+f ...
+
+=== Slide 7 ===
+Schedule
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Event	Description	Date
+01	Pilot Readiness	25-Jan
+02	Sample Collection at Site	18-Jan to 25-Jan 23 Jan – 2 Feb
+03	Micron/Exyte witness	01-Feb  – Exyte visit
+04	Pilot Operation	26-Jan to 08-Feb
+05	Report Preparation	09-Feb to 22-Feb
+06	Draft Submission Review	23-Feb to 07-Mar
+07	Final Report Submission	08-Mar to 15-Mar
+
+=== Slide 8 ===
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...

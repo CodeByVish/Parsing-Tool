@@ -1,0 +1,709 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23524 Boise Opal\Micron Boise _Gradiant  Presentation rev 0_25th Apr 2023.pptx
+
+
+=== Slide 1 ===
+Project: Micron Boise FAB ID1 Green Field Project
+
+ZLD Facility Integrator RFI
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 2 ===
+INFLUENT WASTEWATER QUALITY
+
+[Picture on Slide 2 | FLOW_DIAGRAM]
+OCR: Value
+
+Flow gpm 5,000
+| OH | pH units | 7 |
+Total Dissolved Solids (TDS) me/t 2,750 _
+| Total Suspended Solids (TSS) | mg/L | 10 |
+| Total Nitrogen | mg/L as N | 244 |
+| Total Phosphorus ) mg/L as P | 2 ,
+| Sulfate | me/t 1,200 -
+| Nitrate ) mg/L | 40
+| Fluoride ) mg/L | 6
+| Chloride | me/t 380
+| Calcium | me/t 100
+| Magnesium ) mg/L | 1.5
+| Strontium ) mg/L | 0.3
+| Potassium | mg/L | 4 |
+| Sodium | me/t 460
+
+Alkalinity mg/L as CaCO, 90
+
+| Total Silica ~ omeg/LasSiO, 150
+| Total Organic Carbon | mg/L as C | 210 |
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Value
+
+Flow gpm 5,000
+| OH | pH units | 7 |
+Total Dissolved Solids (TDS) me/t 2,750 _
+| Total Suspended Solids (TSS) | mg/L | 10 |
+| Total Nitrogen | mg/L as N | 244 |
+| Total Phosphorus ) mg/L as P | 2 ,
+| Sulfate | me/t 1,200 -
+| Nitrate ) mg/L | 40
+| Fluoride ) mg/L | 6
+| Chloride | me/t 380
+|  ...
+
+=== Slide 3 ===
+TREATED WATER QUALITY
+Reclaim treated water quality :<75 mg/l of TDS
+
+Brine TDS concentration is >230,000 mg/L, followed by ZLD system
+
+=== Slide 4 ===
+Micron Boise - Lab Testing
+
+=== Slide 5 ===
+Objectives of lab trials
+The objectives of the present study
+
+ To identify the maximum recovery that can be able to achieve through the ROi stage 1 & CFRO stage 2
+
+To determine the dosage of chemicals required for SCE stage 1  and stage 2 that is needed to bring down Silica, Hardness, and fluoride levels to the required concentrations.
+
+=== Slide 6 ===
+Experimental procedures
+Prepared synthetic water according to the feed water parameters
+
+Performed water analysis using Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES), Ion Chromatography (IC), and other techniques to confirm feed water parameters
+
+Performed membrane and antiscalant projections to predict maximum recovery
+
+Identified the initial chemical dosages through the OLI and other software
+
+=== Slide 7 ===
+Experiments: SCE Stage 1Scheme followed: 	- Jar Testing
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: ere i
+ wr F > |
+s
+.
+ _
+H
+a pay r
+. .
+ C
+j
+
+[a ; 4 aN _ _
+Prepares Chesacs _
+ linet Mame b, Ars hey ; e
+a 4
+wi .
+ ib
+|
+}
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ere i
+ wr F > |
+s
+.
+ _
+H
+a pay r
+. .
+ C
+j
+
+[a ; 4 aN _ _
+Prepares Chesacs _
+ linet Mame b, Ars hey ; e
+a 4
+wi .
+ ib
+|
+} ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR ...
+
+=== Slide 8 ===
+SCE Stage1 Experiment: Synthetic Feed Water Preparation
+Salts were added to prepare synthetic water
+
+[Table 1]
+		Quantity required, (g/L)	mg/L	10L (mg)	20L (mg)
+1	SrSO4	0.000629	0.629	6.289	12.578
+2	Na2SiO3	0.304731	304.731	3047.308	6094.616
+3	NaF	0.013261	13.261	132.608	265.215
+4	NaHCO3	0.090000	90.000	900.000	1800.000
+5	KCl	0.007628	7.628	76.275	152.550
+6	NaCl	0.271301	271.301	2713.014	5426.028
+7	MgSO4	0.007428	7.428	74.279	148.558
+8	Na2SO4	0.532317	532.317	5323.173	10646.346
+9	CaCl2	0.376747	376.747	3767.469	7534.939
+10	(NH4)2SO4	1.150350	1150.350	11503.502	23007.003
+11	Na3PO4.12H2O	0.008005	8.005	80.051	160.102
+12	NaNO3	0.054831	54.831	548.311	1096.621
+
+[Picture on Slide 8 | FLOW_DIAGRAM]
+OCR: TABLE 1. INCOMING WATER CHARACTERISTICS.
+. Average
+
+Flow gpm | 5,000
+ pH pH units 7 ;
+ Total Dissolved Solids (TOS) mg/L 2,750
+Total Suspended Solids (TSS) _ mg/L 10
+ Total Nitrogen mg/L as N 244
+| Total Phosphorus : mg/L as P 1 2
+| Sulfate mg/L 1,200
+ Nitrate mg/L 40
+| Fluoride : mg/L | 6
+| Chloride : mg/L 380
+ Calcium mg/L 100
+| Magnesium mg/L | 15 ,
+| Strontium : mg/L | 0.3 .
+ Potassium mg/L 4
+| Sodium me/t 460
+| Alkalinity mg/L as CaCO, 90
+| Total Silica , mg/L as Si0; | 150 .
+ Total Organic Carbon mg/L as C 210
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: TABLE 1. INCOMING WATER CHARACTERISTICS.
+. Average
+
+Flow gpm | 5,000
+ pH pH units 7 ;
+ Total Dissolved Solids (TOS) mg/L 2,750
+Total Suspended Solids (TSS) _ mg/L 10
+ Total Nitrogen mg/L as N 244
+| Total Phosphorus : mg/L as P 1 2
+| Sulfate mg/L 1,200
+ Nitrate mg/L 40
+| Fluoride : mg/L | 6
+| Chlorid ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: 7 |
+Sodium metasilicate TrID ASIC dodecahyc
+Anhydrous Na3PO4 12420 Fw 32
+Na2Si03. Fw. 122 06 No101 ao.g
+(6834-920) as =
+a ) SGLH xs OO
+: fe we
+Nase ET]
+ee
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 7 |
+Sodium metasilicate TrID ASIC dodecahyc
+Anhydrous Na3PO4 12420 Fw 32
+Na2Si03. Fw. 122 06 No101 ao.g
+(6834-920) as =
+a ) SGLH xs OO
+: fe we
+Nase ET]
+ee ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: Cr
+Ca
+Ca fo. P1620047
+
+; ; Polyte
+
+es) Potassium Chloride
+Le [Fe2On es
+vee KCl Fw.7456 (7447-40.7] [100:
+
+LR
+AR Grade 1kg
+
+ BE EBD Senn | [saun
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Cr
+Ca
+Ca fo. P1620047
+
+; ; Polyte
+
+es) Potassium Chloride
+Le [Fe2On es
+vee KCl Fw.7456 (7447-40.7] [100:
+
+LR
+AR Grade 1kg
+
+ BE EBD Senn | [saun ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: 7
+; w= Cat.Wo. 1900173
+ae . :
+- | Sodium Fluoride
+ NaF Fw.41.99 (7681-49-4]
++ AR Grade
+7
+Lk] 4 it FA SCRS a
+, te
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 7
+; w= Cat.Wo. 1900173
+ae . :
+- | Sodium Fluoride
+ NaF Fw.41.99 (7681-49-4]
++ AR Grade
+7
+Lk] 4 it FA SCRS a
+, te ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: Cate CMO Be.
+
+; ~s
+ Calcium Chloride :
+
+i Anhydrous x
+
+i Cac Fw.110.99 3
+
+ [10043-52-4}
+
+i =) 3 AR Grade 1 kg
+
+ann > =a
+wea - red ee eS.
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Cate CMO Be.
+
+; ~s
+ Calcium Chloride :
+
+i Anhydrous x
+
+i Cac Fw.110.99 3
+
+ [10043-52-4}
+
+i =) 3 AR Grade 1 kg
+
+ann > =a
+wea - red ee eS. ...
+
+=== Slide 9 ===
+Jar Testing protocols (FeCl3)
+A beaker of 500ml of synthetic water is dosed with different concentrations of FeCl3
+Once dosed, the mixture was rapidly mixed (200 rpm) for the 30s, & followed by slow mixing (100 rpm) for 45 min, pH was measured and adjusted to 8.5 every 15 min
+Mixing was stopped and the solids were left to settle for over 90 min, allowing the sludge to settle
+The supernatant and sludge were collected for analysis
+
+=== Slide 10 ===
+Experimental pictures: Jar Testing (FeCl3)
+Feed Water adjusted to pH 7 by dosing HCl and NaOH
+FeCl3 was weighed
+Sludge was left for settle for >90min
+Supernatant was collected, filtered, and sent for analysis
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: v is
+| ow
+|
+Filtered
+Supernatall
+ (000 PPM o
+. est Si io
+: 4
+ie, 4 ; >
+jk f
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: v is
+| ow
+|
+Filtered
+Supernatall
+ (000 PPM o
+. est Si io
+: 4
+ie, 4 ; >
+jk f ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 11 ===
+SCE STAGE 1- Jar Testing Treated Water Analysis
+Ferric chloride was tested, and successfully reduce to ~20ppm using ferric chloride
+Filtration was done for pre-treated samples to remove precipitates
+Dosage of FeCl3 ~500 mg/l
+
+[Table 1]
+	Units	Feed	Jar
+pH	-	6.96	8.45
+Fluoride as F	ppm	4.73	4.93
+Chloride as Cl	ppm	369	837
+Sulphate as SO4	ppm	1132	1035
+Nitrate as NO3	ppm	37	33.7
+Calcium as Ca	ppm	98.6	80.1
+Magnesium as Mg	ppm	0.664	<0.1
+Potassium as K		<0.1	<1
+Total Silica as SiO2	ppm	136	20.9
+Sodium as Na		532	955
+Strontium as Sr		0.2	0.2
+TOC	ppm	<1	<1
+
+=== Slide 12 ===
+Experiments: ROi Stage 1Scheme followed: 	- semi-batch RO
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR ...
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: Dev Caae
+REED TALLY Ve ore PAA ag : ) e
+pee avepene ein ene OOO DL 7 . -
+Atte eevee EATEN ROS LOK Or , F= a
+NEES ween lL Sees ) Pear et SARL RIETIT J 4 4 x z
++4 ree A ery. att ARLES EAR CONSE TS a4 ae fs 2 an ve Ronen ; =
+Ad AN Lag NE Cau OP nee e SPADE AAR pave SAAT Poe aH, Wn og AWEREaANRe OLE ARATE RRO WRLL ORDA
+pinane RS nn Pea pve shi aN gE Pan Rtas cere - a PN ep The _
+Dar ate ete Berar +: ee WS Ok 2 aaa, e fee poesia Sew RRR SS THANE
+OLAS, eee Le WY OA ERIE an oe . vy A Rat oT Y Menthe VET ate ee ROIS -_
+7 yy Bans eon near iaewaa eres ir ARR TAS RAAT be SOAS eran AN cona yin ees Mt ES acy PO AK PT -
+AEC IAR TS eee EAE Ae teorasaanecaeeetg rE opis, CES eee gens pay Ua ene ages pane vey scene won Aes nS BER On
+WAL ait MPA IE ans ana Re a : ASS bie DEORE ryt antares Ma ae Netra tie EOE taKY Seu ial | oor
+iY Soot CRAY. nN Ree PEETINOaRAA 3 EA Sa AA a , : a3) abe Aaah WA binge Taman E Ke OT ts Pe OS TENA OL yh ote Fes .
+fe LI pate Epi ED sae Nae a ase naan AK i PKC RR saat SeeON nc weer eaiee tae: eva ree
+LOPS ae Patagonia oe Peon ieee eee Penne A Wey DAS aoe KK iy _ Ror - BRN TINY ee cores PEN ee eae AAAS
+OTT 6 add a ee wae ~ Sins 7 pat SAV eee eae An AT : hn Sr 7 Mest ~
+POPC ce nee be Arop ee aaa eer agg fi a PANE an Hs aioe Ad : vt oA Rox bd AAS ne Dt sh a ae mee. i
+PAALE vA inne CAA SSAA here caeh EAA eee prs REO ASD EAA . a Shee Fen Lo ONLI by AKANE SAS Vee one P
+CLO OR ee Whe RS fp iaage BAL cna on SA Re oe Steen ONE so Raga ote | , |
+OR AMOOL LEARY rte, Be 5 NS SAAS : ft ae TK Wer OR atte a - Hy AG af j _
+ree eee neg WW ana Rae OS Wak Wak ave eae nan an antes nate Ky ay
+; Ceaee opp ALK DA ALS MEE Aa tere as ee ee: ia | _
+1 oy Myer ghia eS ay ie ae oe DE ns BSS Sad ratte honnds Aa, eee we oie towr-y-
+: AAR vi a tae ey Oa FN as NR oAAes aa) ey: bataes Soawetry . a
+, - pea : 7. tA eer Aaa SNARE TAS pate nee i |
+ id [7 ~ . VN Y, ri, se Cra .
+AA f Cees ty i Uae eor: y es ad hae TARO par eae - 2a ke x
+Hy TON ay ME stn i Y oge Se wees i eaeawe i ue Tyaeiey re te ad ype, :
+te } Ne nn LS ry Me dad 2 Ae tas CARY ae nae one e
+f cera Obes Sas Chi am wy PE S008 have Yee | = i Ap my el
+- ; DAS adele veiaeene YS tee r er =
+ eees 28 - Wee a : : re Pe Bee a ey oo FE Aa Py 50 i er cme nt os |
+. -_ . has 4 Ce ae A ~~ de = P ;
+= _ Deas Ge ae ges Roane | +
+- = E _ open <a So gh Ayer Pr 2 OPIN hs %) PS sg Sv uae Pe 4 ,
+4 _ = = eg OF a i co . wee : ooh
+> , i ca, Pi de gyn a ; YS aN. GO. ,
+4 , y sae ov Po] ater: i
+_- oes ee 2
+ _ ~ a =
+4 _ me > > sf - 7 i z x ua { .
+| _ od > . Fr: =
+e % 4 4
+, , r A | ee : 4
+| , | = : 3 | ;
+4 : =
+: - Mi TM . . ee
+/ ar ; . ; _
+: = a OAAN / f <
+ eke te ~~ N i ia
+a . mw
+ _ : 7 ;
+et
+ o ~ : po
+- _ a
+ 3 - an siti
+S - on ~ : P,. . =
+2 >
+7 bes
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Dev Caae
+REED TALLY Ve ore PAA ag : ) e
+pee avepene ein ene OOO DL 7 . -
+Atte eevee EATEN ROS LOK Or , F= a
+NEES ween lL Sees ) Pear et SARL RIETIT J 4 4 x z
++4 ree A ery. att ARLES EAR CONSE TS a4 ae fs 2 an ve Ronen ; =
+Ad AN Lag NE Cau OP nee e SPADE AAR pave SAAT Poe aH, Wn og AWEREaANRe OLE A ...
+
+=== Slide 13 ===
+ROi Stage 1 – Lab setup
+RO feed stream was concentrated 10x using the micromodule setup and these parameters
+
+Feed pressure: 1000 psi (69 bar)
+Flow rate: 200 ml/min
+Instruments
+High pressure pump
+Membrane cell
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: oe
+ee ,
+ a .
+4h on on AO
+Se dl
+:
+eo ee. e ory OY e
+Y won aK eeu 2
+ e 0 AX x a TO) e TOO Ws
+on ear Ay eo AK As oe OOKY or YO Cy
+eo PO OX secees a >
+e OOO OOK vee, OOO ; ~ ~
+/ AY Py Ay oy Ay e ry ee oY Ory Ory Ory AR > os ~ ~ a
+a e e ..
+Ay Hts XX Aegg ry A Ax oe oe 2 reseees ve O00 iA. A+ vy i AI
+4 oo ay Ory os SOx eo ry ory Ory ory RR v
+ -
+ SAAAY e e e a ||
+/ om ee ee ee ee ee Sea
+e e e e e AAAY Hetty : -
+ om As . .
+ wy e oe eeoner Soeur Seen Caen LS NOOO . nm
+ee ee e ry) Seen onan ooo, OOCOOLY ee oes YY Oa aig ;
+eo ot 2228, ee oe OXY ee Or Ory eet eee ee oe oe receeee: aD x Bs aim ;
+ee ee ee oS ee r.) ee ee ee ee ee ee e ATi eens ee :
+9 ARM peoan coenl oan _
+ee ee ee Seeeo ee ee ee ee ee MAA AY AAY Ata . onry we
+e e ee ee 3s ee ee r) coal - ee oe ee =
+> wo ee ee eee ee Pats yy ee AMA SS ee cees = .
+r}
+2 By Oy Ly TO . oer Sa sesame ~ a mm
+ee ee ee ee eee ee eee ee : ee ee aos Any eesti -
+= DAAD ee Ay +e eeon, teen, Conn ee
+oe ee eee ee eee a nee eee ochF ALLE eee oe AD) Anka) Any YY
+ +e fvyey conus te Ayo
+2 coe eee ee eee ee0e ee eee ee ee00 Rr Ae rose een Pater noe
+ ee ee ee ee ee oe ee eee ry : / eee ood WY eee noose A Pana = =
+ee eee ee ee eee oe oe Yr rr ) / 0 cones, tee eee evens: ects ++ Pe
+e eo ee eee eee ee eee eee Mis an , 0 YY) OY a F}
+e ee ee ee ee ee ee ee ee ee <<, ee ae eee Sedo ne eee MAA Peed ooe ese -
+ o eee eee eee oo oe oe oe oe eeu ; e AA eY Sai ence ~~
+e e ee ee 20 ee oe o~ eoneas Anak nanan tthe eter eres . sooeteteen, = .
+ee ee eee ee ry) eee ee ee ee ee ee e686 DAA po eeee ahtante OY ry eee seed morecne a
+o ee ee eee eee ee eee eee ee ee ee e e 2 AIT Sonnet eee oa tees seen pera | _
+ >oe eee eee ee ee ee ee oe ee eee eee coe ee eee 90s Arr saneteee +oe a
+ee ee ee oe + oe oe ee oe oe ee oe coveees +e ate Sc a
+eo eee eee eee am eo ee ee ae ee ee oe e eee eee eee : nteeeseeees Anied roo
+eo ee ee ee ee ee ee ee ee eco eee ee ee ee eee Y i a a -
+rr eee ee ee eo ee oe eee eee eee oe ones eee Ay Ist 6 Siena s mace yar .
+ee ee eee ee eee eee ee ee ee ee eee eee ee A yk : oe 1ooseeee estan tes = ;
+ee 0 eeeee, ooe oooe eee eee o Scoot ees covets: sooeeet - Aan ices Soa
+ee ee ee eee ee oe oe eee ee oe : eaanane ore vos ere
+Or KA OIA MAY Wy Oy OO o OY Ar svoveeet eee a. ves eeees ones peccccenree <==
+ee ee ee eee eee ee eee eee eee eee oe eee eee eee WA eeesee see cece senees onan wo ar
+ e eeef eo eee eee ee ee eee oe eee ee eee eee eee eee - wees, oes ner coneres tasers
+oe eee ooo oe ooo oe TOY eee coos +9008 wh es eeannsnnnss yrine> ee
+ee ry) ee ee eee oe eco eee oe eee ry) ya aaennenste wy eoaercerrac
+ee eee eee eee eee eoe eee eee eee had eee +44 ee eneseea eegbstsseeet anny
+,o Raa oeee ooo ooe ooe oe eee LAAd eee ry . see . See
+ee ee eee eee eee eee eee War eK
+reeeeeees eee eeee eee eee eee0e eeee eee eee eee eee eee eee oe cea : ya
+ee oo eee eee eee ooe ooo ooo oe eee oes eet Proce Kay =
+vetoes ooo OO 000 COOOV oee OO se eeeee: TAY reeset Jess yee en , _
+oe CLA eee eee eee one eeee ve eee AAA +oeee . oS aebes or
+ee voresecereteite eee ee0 eee eee oe eee ee eee eee ry ae AD soos soso Ss Saw -
+oe ooo AY ooe OA oe oe COO Oy Tay Foe eens LORRY Cece
+PORN eo ee eee OA oo ooo eee ooee eee oeee 0098 ivecess Rotten icone == s
+oe eee ooo eee COU ooe eee eee oe 1099 eons 0008 ves en vos resent - :
+ee 0 0% eee eee POA eee eee eee eee eee eee YY ry Baio Sees = 2 J
+ee ee eee eo eee eee eee eoet eee eee 79% Y= ROA YY eae Kerreccecanens vente = 7
+ores eee oe0 eee eee eee eee eee eee (OO eee a
+ee eo 2 eee eee eee eee POO AYYO eoee eee eee Oreos Siicveteetae scomen amen recital = ..
+ee 00 0 0 0 9%, 0 0e 900 eee oof eee eee 00 YY YOO Veer yy) eaearatsnnataeee ress - i.
+oe OTA OLA OO OY OY eee POY 100 esees wee omen =
+BE Pei Sd 0 0 0 92 ooo eee AO AYO MOO AOU oo wieenenttaaaeas ee
+ee o 0.99 eo 0 o00 eee eee AYO AY AOU ees ayy veee Ween enens oe - = -
+o 00 oe of, 0 0e 00 98, OKs POO COO SOY a = tr ]
+o x / oe = ooo _ eee aie eat , a =
+ oo %. se = oe PLOY oo8, recente 008, ent pine perce :
+Py TIX . de seeeeee oi nents pea wae ata eatin ~e -
+Ox (S00 ee: 1 3 ERT pa sirscsecmncres ss =
+worectatertcte eeleicatertte WOK - e b vette eee See - . eo meee eae) = SF => i.
+Ox rot eee ,: 0 ee WO = oe 0 9, + ar) + eer oe == == ,
+seertereree | A a . ieee as a = :
+ _ ya 2
+: oarertore te Or ee . ee, _ ee erect ee <= =
+ef ne Oy TAY. AX IAy - ventas 6 AS 4 ~ rea - - = di.
+2, LAP , e: Rene nest setae en 2 pa Ee
+7 fee oe: e ge tee: OY - ener : or ie
+po eee tee , setateeties aati at Oy a oats Ae ae -
+0 oe 0 og: o 0 6 woeiee tates ALK fee entienes ests race ents a aad pom ro
+ ee teee: r PLN on Beets . wae oo | :
+Pf 1D ers ERED Ys vente , Bx ent eatin a ot me ae
+ea re cnatncanite > Slee, iene aa foo
+Ps sense anne a
+oe 0 . a. i ain pees md See Ses ee f
+e a ea 2 a 4 SEES
+= ives setae ane aioe E
+ i tee es Sento ten aed See aa]
+a ry et Denar once _ = ae, a ee
+ee en ae ene Reet Nd Soo nee a ore
+a vv eo y
+ee - he ae ee a ete o
+ee a Corin Oy noche ans my ve ee en ae
+SS ee af en ean eae 7 ere = 3
+- : t o ye Pad <4 an b <4
+a otteds vid rs per A ir coe = ee
+pee ventas fee e, Ore ie peck / 5 a oe ee oe ee os
+Micatetta ie 4 8 scents ot a met Fe
+re O89 antes . x corey oy oe
+fy eee 3 ) a A f a
+- MONO CoKkk > eee - at e
+SAO, Aone ae
+ee . y
+. y
+NN A
+y . =
+AW
+a % ;
+RR a |
+bs, S
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: oe
+ee ,
+ a .
+4h on on AO
+Se dl
+:
+eo ee. e ory OY e
+Y won aK eeu 2
+ e 0 AX x a TO) e TOO Ws
+on ear Ay eo AK As oe OOKY or YO Cy
+eo PO OX secees a >
+e OOO OOK vee, OOO ; ~ ~
+/ AY Py Ay oy Ay e ry ee oY Ory Ory Ory AR > os ~ ~ a
+a e e ..
+Ay Hts XX Aegg ry A Ax oe oe 2 reseees ve O00 iA. A+ vy i AI
+4 ...
+
+=== Slide 14 ===
+Initial and final concentrations: Refractive Index and TDS
+Initial: 2,610ppm TDS
+Final: 35,890ppm TDS
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: a
+4 9f
+
+ Gataco __ if
+
+/
+
+Cape be Da
+ f. al al al Lf |
+ REFRACTIVE INDEX |

@@ -1,0 +1,449 @@
+: Vv astewater arter time treamment |
+v
+= = CT TM~ 8 | |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Vv astewater arter time treamment |
+v
+= = CT TM~ 8 | | ...
+
+[IMAGE 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 14 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 15 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 16 | GENERIC_FIGURE]
+OCR: aa | | | wan _ lC(iartste (<e <e ie i<=e <i<ir rr
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: aa | | | wan _ lC(iartste (<e <e ie i<=e <i<ir rr ...
+
+[IMAGE 17 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 18 | GENERIC_FIGURE]
+OCR: a= eS e 7d ii o su se t=
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: a= eS e 7d ii o su se t= ...
+
+[IMAGE 19 | GENERIC_FIGURE]
+OCR: ( Lote) i) | Pica Fn
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ( Lote) i) | Pica Fn ...
+
+[IMAGE 20 | GENERIC_FIGURE]
+OCR: = _ S lf a
+ od | Disc Tube Reverse Osmosis
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: = _ S lf a
+ od | Disc Tube Reverse Osmosis ...
+
+[IMAGE 21 | GENERIC_FIGURE]
+OCR: hs=ommel Micro Filtration
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: hs=ommel Micro Filtration ...
+
+=== PDF Page 19 ===
+
+[OCR Page]
+J. Sim et al. Journal of Cleaner Production 429 (2023) 139570
+ee ee a ee 7 ES oe J ae - ee 2S eae ~ eae
+TMAH cH, val Eq. (18) CH, i Ee a6 , CH, : =i 7) | CH; | Eq. (18) TEA CH;
+1 [ OH; son ro . | OW [ . [| out Lo
+ 7 CH, _ js CH2 oe | Ha a0, ~ 1 H3C We oO =H
+I 1
+| CH; | Ho | CH; | He | CH; | HCHO | CH; | CH; |
+[a SE Tee oe
+ rs | | rs | iMoMi iDMA... OCO s OH
+) NO . Eq. (20) Hl ) Eq. (19) Eq. (19) _ Ur phokalpeta
+: 3 | =| HONTHH | = _ HC N -+H | = H3C N -H Bo
+ co, | Oxidation |; | | Demethylation . | | Demethylation bes Demethylation
+a t= | a: nan Eq. (19)
+Fig. 12. Proposed degradation pathway of TMAH during the UV-LED/H20O: reaction (adapted from (Kim et al., 2022)).
+3-7 and Al: F moral ratio (1:6) were the major key to produce cyolite 2015). Innocenzi et al. tried to remove TMAH by biological treatment
+compared with temperature. (detailed information wasn t mentioned) performing 99% of removal
+ZVI is a reactive metal which has 0.44V standard redox potential rate (Innocenzi et al., 2021).
+and reacts with the oxidized contaminants with nitrate and organic Algae-based biosorption process was introduced to remove gallium
+compound (Fu et al., 2014). Yoshino et al. proposed ZVI treatment to from semiconductor wastewater. Ga (gallium) biosorption capacity was
+remove nitrate, hydrogen peroxide and phosphate from semiconductor 38.5 mg gallium/g sorbent at pH 2.8. However, few studies for algae-
+wastewater (Yoshino et al., 2014). Fe was used in this paper and based biosorption process was conducted to apply for scale-up (Li
+oxidized to ferrous ion primarily producing electrons due to zero-valent et al., 2018).
+iron metal corrosion. The released electrons reacted with NO3, and Fe Two research teams targeted to reduce NH4-N, NH4, TN using
+and Fe ~ reacted with H202, PO} from wastewater. However, more ammonia oxidizing bacteria (AOB) activity in SBR process. Completely
+studies are required to scale up. autotrophic nitrogen removal over nitrite (CANON) process in SBR
+exhibited 85.5% of NH4-N, 75.7% TN reduction by AOB and anammox
+bacteria (Liang et al., 2016). Song et al. performed 94.1-99.8% of NH4
+
+3.3. Biological treatment reduction by AOB and nitrite-oxidizing bacteria (NOB) activities of
+partial nitrification (PN) process (Song et al., 2019).
+
+Biological treatment is not only used to remove compounds which MBR was combined with RO, 4-stage Bardenpho or specific condi-
+are difficult to degrade by physical and chemical treatment but also to tions (aerobic MBR and anaerobic fluidized MBR (AFMBR)) to reduce
+enhance the whole treatment by combination with other treatments COD concentration. They showed over 90 % of reduction rate of COD
+(Table S2). The biological treatment is known to effectively reject (Cheng et al., 2019; Chung et al., 2014; Xiao et al., 2014) (Fig. 13).
+organic matters, NH3, NHq and TN. Meanwhile, there are several dis- Hence, for removal of VOCs in semiconductor wastewater, the feasibility
+advantages of biological treatments. It is required to make the suitable of two lab-scale moving bed bioreactors (MBBRs) using commercial
+environments which are difficult to control for microorganism growth biocarrier was investigated. The biological treatment process was eval-
+along with slowly removal rate of pollutants. Furthermore, the addi- uated under aerobic and anoxic conditions for treating low volatility
+tional injection of culture medium as a feed could be needed to maintain wastewater (LVW) and high volatility wastewater (HVW). It performed
+its growth during the process. The critical drawback of the biological 81% of COD reduction in 1 day of HRT (Cheng et al., 2021).
+treatment is the generation of sludges and by-products to treat. Never-
+theless, this process has been developed by researchers because hardly- 4. Future aspects and concluding remarks
+degradable compounds are decomposed.
+
+Some researchers applied biological treatment to degrade organic The semiconductor wastewater becomes a threat to water safety, and
+compounds including VOCs employing different processes combined to safely treat the semiconductor wastewater should be accompanied by
+with AOP and air stripping (Den et al., 2002; Lin and Jiang, 2003; Lin the development of semiconductor industry. As the global semi-
+and Kiang, 2003). The performance of the combined biological conductor industry market continues to increase, the generation and
+fluidized-bed process which UV/H202 was investigated. The degrada- discharge of semiconductor wastewater grow steadily, the study and
+tion path way for each compound by UV/H2O2 were proposed, then research on proper semiconductor wastewater treatment processes are
+remove TOC which were produced by not only IPA but also PGMEA, EL, inevitable and unavoidable for mankind and the environment. The
+TMAH, NMP and PL. Most of TOC and each compound except NMP were semiconductor manufacturing process is composed various detailed
+removed by the combined process (Den et al., 2002). The combined processes, and it has been investigated that chemicals are not only toxic
+process consisting of air stripping, modified Fenton oxidation and but also complex to remove. This review involves a literature investi-
+sequencing batch reactor (SBR) in order was employed to treat gation on the current status of global semiconductor wastewater treat-
+IPA-containing semiconductor wastewater. The organic compounds in ment such as the generation and discharge of semiconductor
+the wastewater were degraded by air stripping and Fenton oxidation, wastewater, the semiconductor wastewater treatment process, and
+then the SBR reduced over 85% of COD concentration of effluent of regulation. This literature review on semiconductor wastewater treat-
+Fenton oxidation (Lin and Jiang, 2003; Lin and Kiang, 2003). ment processes was classified into physical, chemical, biological, and
+
+It was reported that biological activated carbon (BAC) reactors and integrated processes, then the composition, efficiency, target material,
+biofilter ware applied to directly remove IPA, 2-propanone which are and characteristics of the processes were investigated. Additionally, the
+VOCs in the semiconductor wastewater without any collaboration. This features of each process were introduced in Table S2.
+work showed over 92 % removal rate of COD at 24 h of total HRT. For Coagulation, flocculation, aggregation and precipitation mainly
+removal of remaining organic vapors, the biofilter was employed to targeted reduction of turbidity, SS, fluoride, CaF2, COD and few of metal
+prevent serious air pollution (Hsu et al., 2009). ions such as copper. These processes were used as pre-treatment to
+
+Chung et al. and Yang et al. tried to degrade TMAH by bacterium prevent membrane fouling and easily combined with electric, magnetic
+(Mycobacterium sp. TMAH-W0418), these paper showed similar results; force or flotation as well. The combined processes had _ been
+over 95 % of removal rate of TMAH (Chung et al., 2020a; Yang et al.,
+
+19
+
+[IMAGE 1 | GENERIC_FIGURE]
+OCR: TMAH nu ) f IS) OO Ege 18) Bg 7) Eg 8) TMA Ay |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: TMAH nu ) f IS) OO Ege 18) Bg 7) Eg 8) TMA Ay | ...
+
+[IMAGE 2 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 3 | GENERIC_FIGURE]
+OCR: ee | eed i es a a re oq. (4 Fy
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ee | eed i es a a re oq. (4 Fy ...
+
+[IMAGE 4 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 5 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 6 | GENERIC_FIGURE]
+OCR: : , | 2 } FF y i | i
+TM Ch. | wie Gs CH. | aoe, 5 CL. t semrrse i Cw. 1 CH. Ps
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: : , | 2 } FF y i | i
+TM Ch. | wie Gs CH. | aoe, 5 CL. t semrrse i Cw. 1 CH. Ps ...
+
+[IMAGE 7 | GENERIC_FIGURE]
+OCR: itd | | 20 oO | -Z4rh | a Ha I ~~ _ wm) )6|CS
+ee _ ee eEE eeeeee es Tee oe
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: itd | | 20 oO | -Z4rh | a Ha I ~~ _ wm) )6|CS
+ee _ ee eEE eeeeee es Tee oe ...
+
+[IMAGE 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 9 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 10 | GENERIC_FIGURE]
+OCR: / NO. | 420 | | | Eeay 1 |. 5 kum 1 1 UV photolysis |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: / NO. | 420 | | | Eeay 1 |. 5 kum 1 1 UV photolysis | ...
+
+[IMAGE 11 | GENERIC_FIGURE]
+OCR: - Te a Mp. J EE
+ |, AN a Se SC Oe LIS ODO
+j CO. Ovinatinn P | ee ee ey) eee | | Mamathylatinan | | Nem athviatinn
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: - Te a Mp. J EE
+ |, AN a Se SC Oe LIS ODO
+j CO. Ovinatinn P | ee ee ey) eee | | Mamathylatinan | | Nem athviatinn ...
+
+=== PDF Page 20 ===
+
+[OCR Page]
+J. Sim et al. Journal of Cleaner Production 429 (2023) 139570
+Mixed Liquor
+ee a en Recirculation
+| Wastewater |
+
+Aerobic MBR PIE
+Bioreactor Fe se
+f Fo at . }
+ e oP urw md } EVEVEVIVETIVIVEYS 7 yy, nd
+pe ee oe mite UV
+ : Pump Pump
+Air Compressor
+RO Permeate Recirculation
+ FP] | MBRTM
+RO F IP | Wr P atte MBR
+permeate fh . Effluent
+Tank wa Se. Tank
+P ba Pump | Cartridge Pump
+Filter
+Concentrate| Concentrate
+Discharge | Recirculation
+Li |
+ Flow Meter Pressure Indicator
+Fig. 13. Diagram of the pilot-scale MBR-RO process (adapted from (Xiao et al., 2014)).
+continuously attempted. Al-anode/Fe-cathode was mainly used as the In addition, the study and research on the semiconductor wastewater
+pairs of electrodes of electrical coagulation. Air stripping was employed reuse and reclaim, which is valuable as an alternative water resource in
+for reduction of volatile compounds such as IPA. Air stripping and the future, seems to require research that can meet water quality stan-
+adsorption were mostly applied as pre-treatment to support the next dards suitable for the purpose of using wastewater while securing water.
+processes. Target compounds of AOP were mainly COD or TOC along Furthermore, in terms of resource reclaim, the semiconductor waste-
+with complex contaminates such as PGMEA, EL, TMAH, IPA, PHL, NMP, water could be a chance. For that, the process for resource recovery from
+MMA, Pyrazole and DGA, which are difficult to break their chemical the semiconductor wastewater should be developed.
+bonding. Nevertheless, studies for unreactive target compounds still Understanding the address on studies and researches is the first step
+remain. to solve the semiconductor wastewater problem. Through this review, it
+Biological treatment is primarily designed to be located at the end of is possible to understand the proceeding study and research on semi-
+the entire process and can remove COD, TOC, TN, NH3 and TMAH conductor wastewater treatment process, and this review presented the
+which were not fully removed from the previous processes or difficult to research direction for future semiconductor wastewater processes. It
+remove physically or chemically. deemed that this review sufficiently helps to the industry or research
+Membrane processes including MF, UF, and RO membranes but also that studies semiconductor wastewater processes in the future.
+MD, ED, and MBR Aldo It has been applied for wastewater treatment and
+reuse. Membranes were studied to improve water quality by reducing Declaration of competing interest
+conductivity, turbidity, COD, TOC, etc., and tested to satisfy water
+quantity by permeability and flux. Some papers resulted that the treated The authors declare that they have no known competing financial
+concentrations of semiconductor wastewater reached the water quality interests or personal relationships that could have appeared to influence
+for wastewater reuse and reclaim. However, the brine still has been the work reported in this paper.
+remaining as challenges to safely remove. Thus, additional studies for
+membrane fouling are required in the future. Data availability
+On the other hand, several pilot studies were reported to have been
+conducted so far, and studies are somewhat insufficient due to concerns No data was used for the research described in the article.
+over the leakage of confidential information of semiconductor
+companies.
+20
+
+[IMAGE 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 2 | GENERIC_FIGURE]
+OCR: a ee ee Ee ee re a ee
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: a ee ee Ee ee re a ee ...
+
+[IMAGE 3 | GENERIC_FIGURE]
+OCR: pao Le censor; NL ah ee |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: pao Le censor; NL ah ee | ...
+
+[IMAGE 4 | GENERIC_FIGURE]
+OCR: p Dime | se Diremnnr 7a
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: p Dime | se Diremnnr 7a ...
+
+[IMAGE 5 | GENERIC_FIGURE]
+OCR: om YT LeJ 4 meee af r Le i SE aay if
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: om YT LeJ 4 meee af r Le i SE aay if ...
+
+[IMAGE 6 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 8 | GENERIC_FIGURE]
+OCR: fh Ww VILEVIN SOA
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: fh Ww VILEVIN SOA ...
+
+[IMAGE 9 | GENERIC_FIGURE]
+OCR: RO) Dearmentea PR arireriilatinn
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: RO) Dearmentea PR arireriilatinn ...
+
+[IMAGE 10 | GENERIC_FIGURE]
+OCR: BSF 2 WELAS wwe 2A EE Wr AOE AS
+SS. _ _ _ _ ee6e6ua _ =_ VaaaomumumomooooosSssSsSs s s s sss sssasasssssasa s sss ssas sa_~ sasSs s >q>q>q> ass Ss s sas sasas sasss ssass sa_~ sSs + aaa ss s q_q> aa >q_ saOaaemaeaeasSs s ss quosSmSmSHImaemEasas s s ssasasasasasa s sa sc s s sassss s (sas ssa sa Ssasa s sa aea aeae a a ss sac < sasa s sa s aa s cscs aamnaay,
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: BSF 2 WELAS wwe 2A EE Wr AOE AS
+SS. _ _ _ _ ee6e6ua _ =_ VaaaomumumomooooosSssSsSs s s s sss sssasasssssasa s sss ssas sa_~ sasSs s >q>q>q> ass Ss s sas sasas sasss ssass sa_~ sSs + aaa ss s q_q> aa >q_ saOaaemaeaeasSs s ss quosSmSmSHImaemEasas s s ssasasasasasa s sa sc s s sassss s (sas ssa sa Ssas ...
+
+[IMAGE 11 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 12 | GENERIC_FIGURE]
+OCR: 71 eo ts ef eee
+4g eae Pe ee, Ree eee | ]
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 71 eo ts ef eee
+4g eae Pe ee, Ree eee | ] ...
+
+[IMAGE 13 | GENERIC_FIGURE]
+OCR: a | Do r).Ot~te i t;S~s ~ YS
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: a | Do r).Ot~te i t;S~s ~ YS ...
+
+[IMAGE 14 | GENERIC_FIGURE]
+OCR: | pm | iCell frie). | =a |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: | pm | iCell frie). | =a | ...
+
+[IMAGE 15 | GENERIC_FIGURE]
+OCR: es 8 ee peel le ete ell ww | LEI LES Pa p LDN
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: es 8 ee peel le ete ell ww | LEI LES Pa p LDN ...
+
+[IMAGE 16 | GENERIC_FIGURE]
+OCR: permeate t-+ -+ _4+ 4+ _ C( i C iDTEN | jo. s s|sxe Ef fluent |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: permeate t-+ -+ _4+ 4+ _ C( i C iDTEN | jo. s s|sxe Ef fluent | ...
+
+[IMAGE 17 | GENERIC_FIGURE]
+OCR: fe Se | | res ee ieee ok, Ss
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: fe Se | | res ee ieee ok, Ss ...
+
+[IMAGE 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 19 | GENERIC_FIGURE]
+OCR: is weeoce Bam | CasndcePimn
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: is weeoce Bam | CasndcePimn ...
+
+[IMAGE 20 | GENERIC_FIGURE]
+OCR: L-_ | La
+Upproesmas 8 Il esas
+Ea | LN SSN OR Se
+
+SR, . -
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: L-_ | La
+Upproesmas 8 Il esas
+Ea | LN SSN OR Se
+
+SR, . - ...
+
+[IMAGE 21 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 22 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 23 | GENERIC_FIGURE]
+OCR: [Atbidecleck lk IMEC CUAL rc |
+yf) a Spee a CI:
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: [Atbidecleck lk IMEC CUAL rc |
+yf) a Spee a CI: ...
+
+[IMAGE 24 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 25 | GENERIC_FIGURE]
+OCR: at So ee Se Sees, oo 7 Aww 24 w SER PEN os
+f a g
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: at So ee Se Sees, oo 7 Aww 24 w SER PEN os
+f a g ...
+
+[IMAGE 26 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 27 | GENERIC_FIGURE]
+OCR: SSS)
+aaa a a aa aaa
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: SSS)
+aaa a a aa aaa ...
+
+[IMAGE 28 | GENERIC_FIGURE]
+OCR: [ ey ] fie ) ie ee a ee [ Try. ] 5) eae Oe ee ee eee aes,
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: [ ey ] fie ) ie ee a ee [ Try. ] 5) eae Oe ee ee eee aes, ...
+
+[IMAGE 29 | GENERIC_FIGURE]
+OCR: | Po) EA WE i DEV sslit Li
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: | Po) EA WE i DEV sslit Li ...
+
+[IMAGE 30 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 31 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 32 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 33 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[IMAGE 34 | GENERIC_FIGURE]
+OCR: | Sake | rm | MRR If a
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: | Sake | rm | MRR If a ...
+
+[IMAGE 35 | GENERIC_FIGURE]
+OCR: Bwws LPR | npg fr te P il
+a | DE itera | P| F -
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Bwws LPR | npg fr te P il
+a | DE itera | P| F - ...
+
+[IMAGE 36 | GENERIC_FIGURE]
+OCR: ) Bioreactor | ee ee Tatil | a rr A a i
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ) Bioreactor | ee ee Tatil | a rr A a i ...
+
+=== PDF Page 21 ===
+
+[OCR Page]
+J. Sim et al. Journal of Cleaner Production 429 (2023) 139570
+Acknowledgements Chung, S., Chung, J., Chung, C., 2020b. Enhanced electrochemical oxidation process
+with hydrogen peroxide pretreatment for removal of high strength ammonia from
+. . semiconductor wastewater. J. Water Process Eng. 37 https://doi.org/10.1016/j.
+This research was supported by Korea Environmental Industry and jwpe.2020.101425.
+Technology Institute (KEITI as High-purity industrial water production Crini, G., Lichtfouse, E., 2019. Advantages and disadvantages of techniques used for
+process localization development program (code: 2021003230002) wastewater treatment. Environ. Chem. Lett. 17 (1), 145-155.
+to . . . Den, W., Ko, F.-H., Huang, T.-Y., 2002. Treatment of organic wastewater discharged from
+from Korea Ministry of Environment (MOE), Republic of Korea. J. Sim semiconductor manufacturing process by ultraviolet/hydrogen peroxide and
+also acknowledge admin support from Myongji University, Republic of biodegradation. IEEE Trans. Semicond. Manuf. 15 (4), 540-551.
+Korea. Additionally, D. Kim acknowledge admin support from the Uni- Drouiche, N., Ghaffour, N., Lounici, H., Mameri, N., Maallemi, A., Mahmoudi, H., 2008.
+: Sci Technol (UST), R blic of K Electrochemical treatment of chemical mechanical polishing wastewater: removal of
+versity of Science Technology , Republic of Korea. fluoride - sludge characteristics - operating cost. Desalination 223 (1-3), 134-142.
+https://doi.org/10.1016/j.desal.2007.01.191.
+. E]-Kareh, B., Hutter, L.N., 2012. Fundamentals of Semiconductor Processing Technology.
+Appendix A. Supplementary data
+Ppe PP ry Springer Science Business Media.
+Eng, C.Y., Yan, D., Withanage, N., Liang, Q., Zhou, Y., 2019. Wastewater treatment and
+Supplementary data to this article can be found online at https://doi. recycle from a semiconductor industry: a demo-plant study. Water Pract. Technol. 14
+org/10.1016/j.jclepro.2023.139570. (2), 371-379. oo . .
+ EPA, 2017. Water Quality Items and Limits of Discharge from the Wafer and
+Semiconductor Manufacturing Industry in Taiwan. Environmental Protection
+References Administration(EPA) of Taiwan.
+EPA, 2018. Electrical and Electronic Components Point Source Category. Environmental
+Alberto Lo Maldonado. E.. T ita O G M.. Ochoa-T A. 2014 Protection Agency (EPA) of United States.
+
+ 0 ope ie icien face a batoncti rar twat a : f th EPA, 2020. Industrial Wastewater Treatment Technology Database: Electrical and
+emiconta bo e deem th a hoe a ore le ation was tL +c ea hier d e Electronic Components. Environmental Protection Agency (EPA) of United States.
+semiconduc or industry rough zeta potential measurements. J. Chem. https://doi. Expert_Market_Research, 2022. Global industrial wastewater treatment market trend by
+org/10.1155/2014/969720, 2014. year. Expert Market Res
+
+An, eee nim Par 6. ee an Rho. Mss Paths tee eS Woo, V. Fu, F., Dionysiou, D.D., Liu, H., 2014. The use of zero-valent iron for groundwater
+ fil : va - ton on the a vance ox i ton a integrated Wi p Saf remediation and wastewater treatment: a review. J. Hazard Mater. 267, 194-205.
+micro tration Tor reverse osmosis to treal semicon uctor wastewater. rocess an Geng, H., CMfgE, P., 2018. Semiconductor Manufacturing Handbook. McGraw-Hill
+
+Environ. Protect. 162, 1057-1066. https://doi.org/10.1016/j.psep.2022.05.010. Education, .
+
+Aout 5 Metta. A.B rowiehe. N., one Renova of uoride, ee sodlation ane Glaze, W.H., Kang, J.-W., Chapin, D.H., 1987. The chemistry of water treatment
+Urdidity Tron) semiconductor wastewater by combined electrocoagulation- processes involving ozone, hydrogen peroxide and ultraviolet radiation. Ozone: Sci.
+electroflotation. Chemosphere 180, 379-387. https://doi.org/10.1016/j. Eng. 9 (4), 335-352. https: //doi.org/10.1080/01919518708552148
+ sre 2 c > s i ESS ; .
+A one. thatie ene N.. Hecini. M., 2013. HE t diation by Horibe, H., Fujita, M., Nishiyama, I., Yoshikado, A., 2005. Novolak resist removal by
+Oey Op ee ee et ee ; Wastewater remeaation y laser irradiation (532 nm) and adhesion between resist and substrate. Jpn. J. Appl.
+electrocoagulation process. Desalination Water Treat. 51 (7-9), 1596-1602. https:/, Phys. 44 (12R), 8673
+l.org 8 9443994,2012. 584. YS. as 2.
+soul, , Khelite A. Drouic . N. Hecini, M 2015. Development of an integrated Hsu, Y.-L., Wu, H.-Z., Ye, M.-H., Chen, J.-P., Huang, H.-L., Lin, P-H.-P., 2009. An
+i tr 1 tic flot ti , for . du ; : t test : oe ti industrial-scale biodegradation system for volatile organics contaminated
+CrectTO-Coagwatron-otation for semiconductor wastewater treatment, esa nation wastewater from semiconductor manufacturing process. J. Taiwan Inst. Chem. Eng.
+Water Treat. 55 (6), 1422-1432. https://doi.org/10.1080/19443994.2014.926462. 40 (1), 70-76. https://doi.org/10.1016/j,jtice.2008.07.008
+Aoudj, S., Khelifa, A., Drouiche, N., Hecini, M., 2016. Removal of fluoride and turbidity Hu. CY Lo SL Li OM. Kuan. W H 2005. Treating chemical mechanical polishing
+from semicol adductor industry Wastewater Gy ombiied coagulation and as (CMP) wastewater by electro-coagulation-flotation process with surfactant.
+electroflotation. Desalination Water Treat. 57 (39), 18398-18405. https://doi.org, J. Hazard Mater. 120 (1-3), 15-20. https://doi.org/10.1016/j.jhazmat.2004.12.038
+Ba . ie alt a > he he AES.. Garcia-Sesura.

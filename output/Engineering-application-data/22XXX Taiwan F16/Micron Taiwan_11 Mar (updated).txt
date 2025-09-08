@@ -1,0 +1,87 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX Taiwan F16\Micron Taiwan_11 Mar (updated).pptx
+
+
+=== Slide 1 ===
+Micron Taiwan feasibility study
+
+=== Slide 2 ===
+Distillation experiment (stage 1)
+Other parameters (Si, F) to be confirmed.
+Testing condition:
+96~99 °C
+Mixing rate: 365 rpm
+Recovery rate: 11%
+
+[Table 1]
+Water sample	Composition		EC  (µs/cm)	TDS  (ppm)	pH	Ammonia (NH3) (ppm)	IPA  (ppm)
+Feed  (synthetic water)	Parameters	Value (ppm)
+	Fluoride	718	3848	1998	10.1	2250	37083
+	NH3	2748
+	IPA	33131
+Feed  (synthetic water)	SiO2	438	3848	1998	10.1
+Bulk condensed	NH3/IPA solution		161	76.2	11.8	9793	227083
+Residue	N.A		4952	2615	9.2	TBC	1833
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: Sm
+1
+Ec
+|
+we
+up
+q
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Sm
+1
+Ec
+|
+we
+up
+q ...
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: i
+Feed
+Product
+Residue
+-
+|
+=
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: i
+Feed
+Product
+Residue
+-
+|
+= ...
+
+=== Slide 3 ===
+Distillation experiment (stage 2)
+Testing condition: 75 °C
+
+[Table 1]
+Water sample	EC  (µs/cm)	TDS  (ppm)	pH	Ammonia (NH3) (ppm)	IPA  (ppm)
+Feed  (NH3/IPA condensed)	161	76.2	11.8	9793	227083
+Distilled product	29.1	13.58	11.8	3461 (initial) 65571 (first 2 hours) 19428 (after 4 hours)	> 625000 (first 2 hours)
+Residue	264	124.8	10.8	10746 (at 7% recovery point)	362500
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 4 ===
+Distillation experiment (stage 2-modified protocol)
+Testing condition: 60~70 °C
+Allow NH3 gas to evaporate and dissolve in a water solution
+
+[Table 1]
+Water sample	EC  (µs/cm)	TDS  (ppm)	pH	Ammonia (NH3) (ppm)	IPA  (ppm)
+Feed  (NH3/IPA condensed)	161	76.2	11.8	65571	625000
+
+[Table 2]
+Water sample	T  (°C)	EC  (µs/cm)	TDS  (ppm)	pH	NH3 (%)	IPA (%)	NH3+IPA dissolved in water(mg)
+NH3/IPA dissolved sample	60	93.6	43.9	10.6	90.5	9.5	48.3
+	70	90.5	42.5	10.7	84.5	15.5	59.0
+
+[Picture on Slide 4 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...

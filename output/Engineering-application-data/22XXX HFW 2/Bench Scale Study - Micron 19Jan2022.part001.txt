@@ -1,0 +1,694 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX HFW 2\Bench Scale Study - Micron 19Jan2022.pptx
+
+
+=== Slide 1 ===
+HFW Wastewater analysis
+
+[Picture on Slide 1 | FLOW_DIAGRAM]
+OCR: HF Wastewater EQ Tank
+Test Parameters Urat Test Method 2at22021 36/12/0021
+pe _ mo 28
+ otal Suspended Solas. 159 | mg. <10
+~ urbertity cones NTU AP 4A 21208 : 280 130 _
+BarumasBe a Ee 2 9.0084
+Cepoer a Ce a Cr ee 30
+K chel ag Ni | tet faPHAaiz0G 0ST 9.045
+ 3078
+Megareseosve SSS~ dtCCSA SAO CdYCSS 0.6080
+ D018
+Pumecwmashd |g aa atzoe | soot cot
+2.06 a3 2A ragl APHA 31208 00 s 006
+Sica as 0; TM _ | ompt lapHasizgs Te a
+Cain as Ca mgt APA 31208 119 37
+Vege si S hg __ 0.039 | Oo
+Polasaun as K
+Souk-n ay No [mp PAR 2OB tA
+Crencenect dm Awd SC Sd
+Gcarbcna:e ass SSCSC~ dtCt SAO CdS CSSCSC d
+a ARC EC 7 7
+[Se tae a8 50,
+(Prosp ain 4 OC, mg APA S108 06 | 4%
+aaieantaaenee egita lnmnsosTM
+ Heeger. Peroxide HO, ang [Peroxate est Sire a: ee sa
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: HF Wastewater EQ Tank
+Test Parameters Urat Test Method 2at22021 36/12/0021
+pe _ mo 28
+ otal Suspended Solas. 159 | mg. <10
+~ urbertity cones NTU AP 4A 21208 : 280 130 _
+BarumasBe a Ee 2 9.0084
+Cepoer a Ce a Cr ee 30
+K chel ag Ni | tet faPHAaiz0G 0ST 9.045
+ 3078
+Megareseosve SSS~ dtCCSA SAO CdYCSS 0 ...
+
+=== Slide 2 ===
+HFW Wastewater – Particle size distribution
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: Average - Frequency (cormpatibie) arc Underaze
+ic 1 0
+e
+ io
+ge
+ =
+a 3
+> so
+Vv
+2
+ c
+OD1 0.3 10 100 1009 1o00H 10.000.0
+Suse Chesser (pen)
+(Frequency) (66) Aveeage of MARCHENOOD fUrxderae) - (49 Average of (MARCHWODD
+eee JO22 SHY OOD B42 OE RILIPZIG SOP 4/1/2022 = eee 2. SING COO 42-001 RI1N 2G SOT 4/20
+P T) OM L343; Oe
+Result
+deo ere S Wetewe Ura ieo ee) % Younes Una tes) 6% Veluwe Unter ee Ween) Ket Ute ee (pe Verte Wet ee
+Oo.6 Ce) cor om osee cr. e3e3 atas = a4 va) 72 2m 3 2.00 446 160
+ Gr. 664 e am om eet er ser 3% oie oo restr 2.08 Pate 45% 128 28
+oor om 6. om eve 42% the 23 32 arr at) or Pe) 2753 wa 198 28
+oars om eas ooo oan2 a7 23 ha 1.433 iat on9 144 2.00 babe bee 180 2
+oai cm 61m ome Oot: im 3 233 wee 738: 443 18 a) at oo 160
+OS. om cm om ans 148 ter z % 49 ry tit 773 ew
+a7 om cot con iz Lr ome pom ORS B. 106.002 a)
+ooee on cim ous Lats 2a4 3.285 dias Oh ott my oi 28.09
+oo28 Ce) ci om ets 2a: 257 3.23 Wise m3: M4 49 3m 068
+oaa: em ee) om a a s+ uw 323473 ar O12 20 2.08
+aa om o2TM ecm tah 4% sear ont 320.083 eo reer 7)
+o>. om can om 24a): 40 tone 8 207 4, ped one 248.09
+8 oe cm cst om 37 aa. 7. > Sans 322 620 om Jeo oo8 05
+aot on com eo. .as4 26.9 e693 oe. 208. PE vets iho 223 Tr)
+2 Sete en com on 22% 22 0 a7 98 Oto 2) Oee wa Lar ome 2. os
+5 eee eu cin oe +o 908 2. 0 ba) 7 =O ws +eo2 O87 Po es]
+Figure 1: From the above results, 90% of the particles are below 46 um, 50% are below 19 um and
+10% are below 3 um. ie
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Average - Frequency (cormpatibie) arc Underaze
+ic 1 0
+e
+ io
+ge
+ =
+a 3
+> so
+Vv
+2
+ c
+OD1 0.3 10 100 1009 1o00H 10.000.0
+Suse Chesser (pen)
+(Frequency) (66) Aveeage of MARCHENOOD fUrxderae) - (49 Average of (MARCHWODD
+eee JO22 SHY OOD B42 OE RILIPZIG SOP 4/1/2022 = eee 2. SING COO 42-001 RI1N 2G SO ...
+
+=== Slide 3 ===
+1st Pass - NF of Mixed wastewater from EQ Tank
+Membrane used: Microdyn Trisep TS40 or NF270
+
+Recovery: 75%
+
+Final bulk feed quality:
+pH: 3.26
+Conductivity: 4123 µS/cm
+TDS: 2150 ppm
+
+Final bulk permeate quality:
+pH: 3.21
+Conductivity: 805.7 µS/cm
+TDS: 393.6 ppm
+
+=== Slide 4 ===
+1st Pass - NF of Mixed wastewater from EQ Tank
+
+=== Slide 5 ===
+2nd Pass - RO of NF permeate
+Membrane used: SW30XHR
+
+Recovery: 80%
+
+Final bulk feed quality:
+pH: 3.73
+Conductivity: 2237 µS/cm
+TDS: 1131 ppm
+
+Final bulk permeate quality:
+pH: 3.13
+Conductivity: 292.6 µS/cm
+TDS: 139.7 ppm
+
+=== Slide 6 ===
+2nd Pass - RO of NF permeate
+
+=== Slide 7 ===
+Result – NF and RO filtration of mixed HFW wastewater from EQ Tank
+* Fluoride value needs to retest. This may be analytical error.
+Permeate
+Feed
+
+[Table 1]
+Elements	Mixed wastewater from EQ tank (mg/L)	NF concentrate (mg/L)	NF Permeate (mg/L)	RO concentrate (mg/L)	RO permeate (mg/L)
+pH	2.8	3.26	3.21	3.73	3.13
+Conductivity	2267 µS/cm	4123 µS/cm	805.7 µS/cm	2237 µS/cm	292.6 µS/cm
+TDS	-	2276	394	1131	139
+NH4	65.7	150	28.9	113	<1
+F	372	1002	95.1	291	23.0*
+SO4	1999	1168	34.5	140	0.23
+PO4	4.54	<5	1.27	<5	<0.1
+Cl	65.1	91.3	50.8	213	2.63
+Na	219	512	67.8	196	<0.1
+Ca	3.79	12.3	<0.1	<0.1	<0.1
+Si	25.3	50.4	15.1	54.8	<0.1
+COD	278	150	70	275	<10
+TOC	24	39.9	19.1	62.7	2.60
+IPA	26.5	-	-	-	-
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200 ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: ON Peter
+oo
+(3 e
+ya ; {
+ 1 i
+|
+1
+L f
+ m
+: <E 4 s e
+. ,
+ . 4 ; eye ~
+. ; - vom OI aD ene oe Kt beer Nt vr Toy : } 2 ;
+_ a ots ee ~ eS Pe. Oa sate 4, 2 ste ~h ~s a ap a : . > 7 7 .
+. : fh, tee ws ee OOP rate 10 a ee Fe : PP a . . :
+ps Wah gan 7 ey ee Nh on v.% ate oT > . a. ene 3 tig : :
+ 6 OM RES oe EE RE Bee EY 2 PR ae ee eS ra re wok
+z eT SE SS Feo oe eee PES A SRP a yes bee > od +2 MP ee got Sa . , <s~ <> ro E PP x 2 .
+. a pr VO ES oo . ~ ye NF. es ARES Rea ee eS Sh ign ELI SM PS ge Se OA SS ; < -
+% ye 9 GEE, Tae te one ae Tee oe Nara AEKTASS PNET Sx: ; y SSF FASS se ee aC ees Pte Sn er Te 5e
+ditens a ) et we we, ety z St aA Wes y, SARS Eaten te x . . yim hae ito Ag = Pale ye Ene hentia gre er S53 ma > eo
+j ay - > : - - : . < % 3 > 04 6 77, as a v 7 oe Pe a POO -. e is pe E
+me Ds Bist ee rac Te a eats aah, eee Beet Rs a - Roy SRILG Sor er ae St oe NE Sh Sgt este
+ a bl ae Py Bard 764 Pe bs eae Oe pew ts eS > es OAS ay P cE 14. Tee is 4 ie 58 BELL a oy TS 2, Psa LSS xy Psi ay eo a 2
+: a Teo Oe Se oS Sank . boa See - oar Doe A ed he ee eae a Qe Re oat i
+<< - ] YY ear 60: Se ~ ee Se > > P 4 Se Ay : oa - aw. lM ge: Lia v + = _ Deena = <n F Sipe Re 3
+. . v <ER Se eis fee A v GS See ew a ares Oo Nn hee Ke, fio Cae hg. 5G To a OTe eR Sone ere Pee
+hat. fod ys sa heh nding ang ie) a Nerdy, ns eRe, s SQT Vey %e Fitint ge od Ee FS ny gg eee an et 5a, NS Se ae < a
+rs hy a stiget eM igen engi 4-4 7 < Ee ng, > 4 at 4 a >. Bast Sa iwicn ; fect rao af tes 1 iol: 2. Lix~ SSS a Lees . aS ty
+ ; we OO ae oe hist 8 eee y tem mat, a he ea aye ar ant 5 0 Re os oe) dog Sed WE. Ww oe 7 pA: ies ~>
+F - ae J Le a OSG OLS BP. err er Se me hs ee e Ps Py 37 wv 5 a sone - Sets De: sgt ST ives a: Nex 2 aX, b,
+sie RE SRRTINESS RBA Be ena PS + OANGE. See i Se ad 25 | BR RS< 7S = S7 s ET aR o es
+ . > rape TS gh EO wir Fear ey, ony a SAGE ow C et te ey fe of ee eer ee : eg y See eS { Pa
+ Ps PT ag as Rees) Ye RPS ; ~w Pvt et A, oe: so 4 SS ee CAP ees A, ATS : : . ees eer rs ;
+ae whe 4 ARR. ey y Tare QMbeTM f . Pe, Ry ny Ce . e . [3 Rea oty 7 7. Ve Bee eS 2 : Z Ly : .
+Lo ee i ae Pring ee a os, ee a. Rate ; ete a 3 39 ny pe Ks Res an ind rs i te x : :
+, P CS OL iy r Pt es 4 P CN ag x uk Subs vad oy } oe. aw es ho 24 .
+ a oe tA ie s ity ~% oS oes a rt 4 ud Ps See has bas fa Stee ae Fey i. ; 3 oe x ~e > 5 . a 4
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ON Peter
+oo
+(3 e
+ya ; {
+ 1 i
+|
+1
+L f
+ m
+: <E 4 s e
+. ,
+ . 4 ; eye ~
+. ; - vom OI aD ene oe Kt beer Nt vr Toy : } 2 ;
+_ a ots ee ~ eS Pe. Oa sate 4, 2 ste ~h ~s a ap a : . > 7 7 .
+. : fh, tee ws ee OOP rate 10 a ee Fe : PP a . . :
+ps Wah gan 7 ey ee Nh on v.% ate oT > . a. ene 3 tig : :
+ 6 OM RES oe ...
+
+=== Slide 8 ===
+Reject treatment – Jar testing
+Case 2:
+2400mg of Ca(OH)2 & 1600mg of CaCl2
+in 400ml RO reject
+Case 1:
+4000mg of Ca(OH)2 in 400ml RO reject
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200 ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: 7 a
+a,
+ ibs % .
+ coats
+5 as, F
+| a isa
+LJ (ie
+ =
+4
+Pad
+a
+ed = f
+ rs
+3 2
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 7 a
+a,
+ ibs % .
+ coats
+5 as, F
+| a isa
+LJ (ie
+ =
+4
+Pad
+a
+ed = f
+ rs
+3 2 ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 9 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 3
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4	Supernatant quality for Jar 5
+pH	3.5	11.96	11.91	12.03	11.91	9.8
+Conductivity	6,375 µS/cm	8889 µS/cm	17.23 mS/cm	11.93 mS/cm	14.4 mS/cm	7756 µS/cm
+TDS	3,394	4844	9824	6624	8108	4180
+NH4	65.8
+F	2,928	9.15	13	29.1	14	14.2
+SO4	345	116	117	114	114	106
+PO4	366	<1	<1	3.14	<1	<1
+Cl	211	2258	5414	3515	4316	2376
+Na	500	440	496	440	434	429
+Ca	11.1	1098	2858	1738	2263	920
+Si	47.6	0.149	0.342	0.863	0.356	10.5
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage
+1	Flopam AN 934 SH	8000 ppm lime + 4000 ppm CaCl2
+2	Flopam AN 934 SH	8000 ppm lime + 10000 ppm CaCl2
+3	Flopam AN 934 SH	8000 ppm lime + 6000 ppm CaCl2
+4	Flopam AN 934 SH	8000 ppm lime + 8000 ppm CaCl2
+5	Flopam AN 934 SH	6000 ppm lime + 4000 ppm CaCl2
+
+=== Slide 10 ===
+Copper and Nickel treatment
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: Heavy metal concentration in waste water TMT 15 requirements
+Cadmium mg/l 0 Liter TMT 15
+Copper 12 mg/l 0.215990 Liter TMT 15
+Leac me/l 0 Liter TMT 15
+Nickel 6 me/l 0.12 Liter TMT 15
+Zine me /l 0 Liter TMT 15
+Total TMT 15 demand for the waste water = 0.335990 Liter TMT 15 ym:
+Waste water amour 45 mh S12 Liter TMT 16 th
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Heavy metal concentration in waste water TMT 15 requirements
+Cadmium mg/l 0 Liter TMT 15
+Copper 12 mg/l 0.215990 Liter TMT 15
+Leac me/l 0 Liter TMT 15
+Nickel 6 me/l 0.12 Liter TMT 15
+Zine me /l 0 Liter TMT 15
+Total TMT 15 demand for the waste water = 0.335990 Liter TMT 15 ym:
+Waste water amour  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: _ - |
+
+- OTC Peae a
+BT WS a FOAcC T t
+ve QT NiO,,0 4
+lee N : i;
+ut SS_NiOOH ,,, i:
+oa SAX HNIO,S
+ont ; 7
+poe Ni | oS
+
+4 : No . :
+2A || |NIOH).,, F
+> 02 -+ te
+42 = ~ J Ls
+= NE lod.
+
+: 7 te
+a6 Sw 4
+ NiH ,, i
+a : ole
+po
+ 2 4 2 4 6 t 1 12 is 16
+pH
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: _ - |
+
+- OTC Peae a
+BT WS a FOAcC T t
+ve QT NiO,,0 4
+lee N : i;
+ut SS_NiOOH ,,, i:
+oa SAX HNIO,S
+ont ; 7
+poe Ni | oS
+
+4 : No . :
+2A || |NIOH).,, F
+> 02 -+ te
+42 = ~ J Ls
+= NE lod.
+
+: 7 te
+a6 Sw 4
+ NiH ,, i
+a : ole
+po
+ 2 4 2 4 6 t 1 12 is 16
+pH ...
+
+=== Slide 11 ===
+Back up
+
+=== Slide 12 ===
+Date: 19-01-2022 | 21157_Micron HFW
+1st process: 2-pass Flat sheet membrane operation
+2nd process: RO reject to Jar testing
+Feed: 3L of HFW feed + Vitec 7400 added
+Pass 2- Permeate
+
+[Table 1]
+		Pass - 1		Pass - 2
+	Feed	Permeate	Reject	Permeate	Reject
+pH	2.93	2.83	2.838	2.87	2.838
+TDS (ppm)	1296	451	1288	425	1358
+EC (µs)	2546	920.4	2527	850	2727
+ORP (mV)	474	453	364	400	358
+NH4
+F
+SO4
+PO4
+Cl
+Na
+Ca
+Si
+Volume (ml)	3000 ml	210 ml	2790 ml	<100 ml	2850 ml
+Recovery	-	7%	93%	3.5%	96.5%
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200 ...
+
+=== Slide 13 ===
+2nd process: Jar Testing
+Case 2:
+2400mg of Ca(OH)2 & 1600mg of CaCl2
+in 400ml RO reject
+Case 1:
+4000mg of Ca(OH)2 in 400ml RO reject
+
+[Table 1]
+	Case 1	Case 2
+pH	12.43	2.83
+TDS (ppt)	110	7354 ppm
+EC (mS)	2546	13.16
+ORP (mV)	83	57
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Nadie tennant wer
+p13) 400 o
+i | 300
+
+ ra _
+
+ 200 ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: 7 a
+a,
+ ibs % .
+ coats
+5 as, F
+| a isa
+LJ (ie
+ =
+4
+Pad
+a
+ed = f
+ rs
+3 2
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 7 a
+a,
+ ibs % .
+ coats
+5 as, F
+| a isa
+LJ (ie
+ =
+4
+Pad
+a
+ed = f
+ rs
+3 2 ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: 7 a
+a,
+ ibs % .
+ coats
+5 as, F
+| a isa
+LJ (ie
+ =
+4
+Pad
+a
+ed = f
+ rs
+3 2
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 7 a
+a,
+ ibs % .
+ coats
+5 as, F
+| a isa
+LJ (ie
+ =
+4
+Pad
+a
+ed = f
+ rs
+3 2 ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 14 ===
+Result – NF and RO filtration of mixed HFW wastewater from EQ Tank – Trial 1
+
+[Table 1]
+Elements	Mixed wastewater from EQ tank (mg/L)	NF concentrate (mg/L)	NF Permeate (mg/L)	RO concentrate (mg/L)	RO permeate (mg/L)	Toyobo reject (mg/L)	Toyobo permeate (mg/L)
+pH	2.8	3.26	3.21	3.73	3.13
+Conductivity	2267 µS/cm	4123 µS/cm	805.7 µS/cm	2237 µS/cm	292.6 µS/cm
+TDS	-	2276	394	1131	139	1555	536
+NH4	65.7	150	28.9	113	<1	102	13.5
+F	372	1002	95.1	291	23.0*	450	171
+SO4	1999	1168	34.5	140	0.23	591	74.2
+PO4	4.54	<5	1.27	<5	<0.1	<5	<1
+Cl	65.1	91.3	50.8	213	2.63	140	26.8
+Na	219	512	67.8	196	<0.1	319	46.3
+Ca	3.79	12.3	<0.1	<0.1	<0.1	5.96	<0.1
+Si	25.3	50.4	15.1	54.8	<0.1	40.7	2.76
+COD	278	150	70	275	<10	175	50
+TOC	24	39.9	19.1	62.7	2.60	41.5	11.3
+IPA	26.5	-	-	-	-	-	-
+
+=== Slide 15 ===
+Preparation of Synthetic HFW+NH4F Solution (with pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	3.5	-	3.5
+Conductivity	-	-	2,481 µS/cm
+TDS	-	-	1,263
+NH4	20	20	19.2
+F	800	800	789
+SO4	100	100	98
+PO4	200	200	205
+Cl	50	55.86	62.9
+Na	5	5	339
+Ca	5	5	4.05
+Si	14.02	14.02	16.2
+
+[Picture on Slide 15 | GENERIC_FIGURE]
+OCR: ~~ Va ss
+wre U pe, | ; i oto at x he
+So ale , S9888 600G Corea ma Z = ts 4 wr | } : {es oa OO
+a ei -_ f
+A r H
+Y Raw Chemical i. Re a
+r | anal So | ; eo lw
+= a] = ; =a f) rer hey Moe :
+ : | = 4 Chemical Name: _ Mes ho : =D A/T i,
+| Il Li bs ) Date Received GIESE.
+= a . ifs Date Opened } | |F
+Date Expired NA : :
+- . - ae
+x OREC SIGMA-ALDRICH
+SS ) sso og
+13 y wr on > 18308 696017-2.6L Lot MKCNS381 os 9 ee
+ ne = Peer , TM Phosphonic acid sume
+LL Sulphuric acid 95-97% ae | Sonn ners
+Trae 650
+DANGERIBAHAYA _ sae
+CHEMICAL R . =
+NI EAGENT the Bers : H2S0. M.Wt 98,08 g/mol E> Mise,
+Yoni Cat.No. A1320001 pH (om solton ooo A
+Pak Heavy mas. Z | ral
+a, . . ed Ash 2 , t as
+Ve Ammonium Chloride SS ayes oe Z [See en cot | CHEMICAL REAGEN _;
+Z ati
+Nyssa < maxon | 2 [Settee ation burma
+wan NHAC) ; ome | s | site, PY. 06, Umea gas, Cat. Wo, 13256406
+Bima) NHAC Fw. 53.49 [12125-02-9] me om | 2 ROP neg Bl yen
+pp ; A Sree H Ac
+A / br, Stective : | (
+; Z = has ydrofluoric 4
+VW | CHEMIG C | | watt tery
+IA 4 ARG eer | CHEM Pes 40% i:
+Y 7 e Grade 1 kg . are a CAL R ang
+, | EAG wen
+Y 70190918 08 Silicic Acid |. ENT he | HF Mw
+ity Ge orn Lid Exp :. a i | No. 3150013 Wy) [7664-39
+eo ( rade J
+| Fw.110.99 /10043-52-4)
+
+
+AR
+| Sg 509
+Hy
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ~~ Va ss
+wre U pe, | ; i oto at x he
+So ale , S9888 600G Corea ma Z = ts 4 wr | } : {es oa OO
+a ei -_ f
+A r H
+Y Raw Chemical i. Re a
+r | anal So | ; eo lw
+= a] = ; =a f) rer hey Moe :
+ : | = 4 Chemical Name: _ Mes ho : =D A/T i,
+| Il Li bs ) Date Received GIESE.
+= a . ifs Date Opened } | |F
+Date Ex ...
+
+[Picture on Slide 15 | GENERIC_FIGURE]
+OCR: o> |
+: zg
+-
+fi 6 ae = = = : - -_ ~ .
+/ Oil ra A a | gence .
+. 1 one Va Za . - in y Ah ae | ., P
+; yh a Sar | j rye ie) ;
+ . Pas J : ro ; J ; j in = 7
+ ae gee mT ee: : nee
+aa ls 2 hia i i 7 : : .
+mn a |
+ow | ae +, ie
+ Me, - = 4. | e a ry a /
+ff Mer meciormeste : _ Ja
+; Fd ea iiinsienaastcapeeeel eae ~qiendl ~ - 4 = a 4 J
+TT ~a a ee . -

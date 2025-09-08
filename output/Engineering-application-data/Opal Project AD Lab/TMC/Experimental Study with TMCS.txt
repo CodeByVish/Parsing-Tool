@@ -1,0 +1,142 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\Opal Project AD Lab\TMC\Experimental Study with TMCS.pptx
+
+
+=== Slide 1 ===
+Ammonia Removal using Transmembrane Chemisorption (TMCS)
+Membrane Performance Study
+Rajesh Rajendran
+29/07/2025
+
+=== Slide 2 ===
+Experimental Setup
+GRADIANT CONFIDENTIAL
+spent Ammonia
+Membrane Cell
+Sulphuric Acid
+Ammonia soln (~750ppm)
+Pump
+Pump
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 3 ===
+List of Equipment
+Membrane cell: 3M G940 2.5x8 TMC
+Peristaltic Pump: Lab2015 YZ1515x
+Flexible Tubing: Silicone Hose #18
+Hard Tubing: Semi-Rigid Nylon ¼”
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 4 ===
+Experimental Procedure
+Prepared  fixed concentration of 11.1 Normal  sulfuric acid of 5L volume.
+Prepared a fixed concentration of  ~754ppm ammonium hydroxide of 35L
+ The pH of the Ammonium solution should be > pH 10 (if pH <10 adjust by adding NaOH).
+Carried out the experiment at a flow rate of 380ml/min in both shell and gas side .
+Sulphuric acid is recirculated for absorbing the Ammonia
+Ammonium hydroxide solution is single pass and spent ammonia is collected in separate tank
+Collected the samples at  intervals of 15min and taken for the analysis (change in Nitrogen)
+Ammonia is indicated by Nitrogen concentration, measured using TOC analyser
+GRADIANT CONFIDENTIAL
+
+=== Slide 5 ===
+Experimental Photos – Start & End
+GRADIANT CONFIDENTIAL
+Start of Experiment
+End of Experiment
+
+[Picture on Slide 5 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 5 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 6 ===
+Samples Collected
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: =
+| - 4 a 7 ee ve
+a i y e - a a 4
+wt LY 4 c
+We
+4 < oy
+yo
+4 Ne roe y
+Pe wid e we.
+ey, e, {a=
++= te MOSS ak
+e > ov pa
+d oid Vrtg 3
+NYO : ms ;
+el
+ ete: 7
+test
+ore ACV, J
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: =
+| - 4 a 7 ee ve
+a i y e - a a 4
+wt LY 4 c
+We
+4 < oy
+yo
+4 Ne roe y
+Pe wid e we.
+ey, e, {a=
++= te MOSS ak
+e > ov pa
+d oid Vrtg 3
+NYO : ms ;
+el
+ ete: 7
+test
+ore ACV, J ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: - eT i 4 : te
+ mills A} Sj pee) eee 7 sh q iy )
+i ay Teer 150 Prin yy nin
+sae =e a OSs 7 s )
+ = 23 . zy
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: - eT i 4 : te
+ mills A} Sj pee) eee 7 sh q iy )
+i ay Teer 150 Prin yy nin
+sae =e a OSs 7 s )
+ = 23 . zy ...
+
+=== Slide 7 ===
+Experimental Results
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Batches of 5     5 Lt	Reduction of NH4OH in ppm
+Batch 1	139.1
+Batch 2	97.9
+Batch 3	136.5
+Batch 4	148.1
+Batch 5	39.9
+Batch 6	48.9
+Batch 7	68.3
+
+=== Slide 8 ===
+Observations
+Initial and final volume of Sulphuric acid has not changed.
+Colour of the sulphuric acid turned to black from colorless
+Initial concentration of acid  11.1N
+Final concentration of acid reduced to 9.3N
+Final concentration  of Ammonium sulphate solution in sulphuric acid is increased from 75ppm to 13566 ppm
+
+Future Plan:
+ I would like to study the effect of increasing the concentration of ammonia solution at different levels, while keeping the concentration of sulfuric acid fixed.
+GRADIANT CONFIDENTIAL
+
+=== Slide 9 ===

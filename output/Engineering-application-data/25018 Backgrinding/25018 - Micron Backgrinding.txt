@@ -1,0 +1,346 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\25018 Backgrinding\25018 - Micron Backgrinding.pptx
+
+
+=== Slide 1 ===
+Micron Backgrinding
+Bench Testing Report
+Application Team
+7 July 2025
+Rev 1
+
+=== Slide 2 ===
+Executive Summary
+A combination of 8ppm Aquafloc OC 1035, followed by 4ppm Anionic polymer Cure 950 was able to successfully significantly improve the settling of the sludge.
+
+It is recommended to include two slow mix tanks for polymer mixing.
+Cationic Polymer mixing tank
+Anionic Polymer mixing tank
+Cationic Polymer dosing station
+Anionic Polymer dosing station
+
+Effluent from the anionic polymer tank should go to the sludge thickening tank.
+
+As a further improvement, Supernate from the sludge thickening tank can be sent to the TMF, Centrate from the centrifuge can be sent back to either the cationic, anionic, or sludge thickening tank.
+GRADIANT CONFIDENTIAL
+
+=== Slide 3 ===
+Background
+Micron Backgrinding wastewater project was having initial problems.
+Excessive H2 gas generation, leading to alarms on the portable gas detector
+Excessive H2 gas generation, leading to a hot and bubbling wet sludge
+Dry solids that tends to create a silica dust that is airborne
+Centrifuge had an effluent blockage and generated large solids within the centrifuge
+Excessive solids in centrate, leading to choking in TMF
+This plant is designed as an improvement of a conventional backgrinding WWTP and treats the backgrinding wastewater without the use of coagulants. The plant was designed with a centrifuge for solids removal due to continuous operation and minimal space available.
+GRADIANT CONFIDENTIAL
+
+=== Slide 4 ===
+Block Flow Diagram
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 4 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 5 ===
+Process Design
+To test different polymers that can improve the solids separation and for better solids dewatering.
+Polymer dosage calculation
+Jar test protocol
+GRADIANT CONFIDENTIAL
+
+=== Slide 6 ===
+Polymer Dosage Calculation
+Polymers in solid or liquid form were considered 100% purity.
+100% polymers were diluted into 0.1% w/w concentration.
+200mL of water sample was used for every jar test.
+Polymer dosage was calculated.
+Eg.
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+mL of 0.1% polymer	Dosage in ppm
+2	10
+4	20
+6	30
+8	40
+10	50
+
+=== Slide 7 ===
+Jar Test Protocol
+Sample + different Cationic polymer (varied dosages)
+Stir at 50/200 rpm for 30 min
+After 30 min, add Anionic Polymer (Cure Flocculant) (4ppm)
+Stir at 50 rpm for 15 min
+After 15 min, allow sludge to settle for 15 min
+Collect sludge for centrifuge test at 4,000 rpm for 5 min
+GRADIANT CONFIDENTIAL
+
+=== Slide 8 ===
+Experiments
+GRADIANT CONFIDENTIAL
+
+=== Slide 9 ===
+Test 1
+Sample collected on 1 July 2025
+Experiment conducted on 1 July 2025
+Jar test parameters
+Cationic - Stir at 200 rpm for 30 min
+Anionic - Stir at 50 rpm for 15 min
+
+[Table 1]
+ID	Sample, mL	Cationic, ppm	Anionic, ppm
+1	200	0	4
+2	200	10	4
+3	200	20	4
+4	200	30	4
+5	200	40	4
+6	200	50	4
+
+=== Slide 10 ===
+Results
+GRADIANT CONFIDENTIAL
+Control
+10ppm
+20ppm
+30ppm
+40ppm
+50ppm
+Conclusion from this test
+The solution does not settle and separate without chemical addition
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: a
+1. m=).
+TF
+a
+anne.
+-
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: a
+1. m=).
+TF
+a
+anne.
+- ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: al
+= art F L
+.
+
+ae
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: al
+= art F L
+.
+
+ae ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: Sp. : |
+
+A EE Se
+. csi 1
+
+1s i re = 2
+
+. gt ax.. oF me
+Pe oe =f Ay
+
+ e.6 Se z
+
+ a
+
+ veg y ~
+PO sata
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Sp. : |
+
+A EE Se
+. csi 1
+
+1s i re = 2
+
+. gt ax.. oF me
+Pe oe =f Ay
+
+ e.6 Se z
+
+ a
+
+ veg y ~
+PO sata ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: t =
+ee
+ ee ee
+200
+ 50
+yf 00
+J ~ 50
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: t =
+ee
+ ee ee
+200
+ 50
+yf 00
+J ~ 50 ...
+
+=== Slide 11 ===
+Test 2
+Sample collected on 3 July 2025
+Experiment conducted on 3 July 2025
+Jar test parameters
+Cationic - Stir at 200 rpm for 30 min
+Anionic - Stir at 50 rpm for 15 min
+
+[Table 1]
+ID	Sample, mL	Cationic, ppm	Anionic, ppm
+1	200	7	4
+2	200	4	4
+3	200	5	4
+4	200	6	4
+5	200	8	4
+6	200	10	4
+
+=== Slide 12 ===
+Results
+GRADIANT CONFIDENTIAL
+Conclusion from this test
+8ppm of Cationic polymer is promising
+7ppm
+4ppm
+5ppm
+6ppm
+8ppm
+10ppm
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 13 ===
+Test 3
+Sample Collected on 3 July 2025
+Experiment conducted on 4 July 2025
+Jar test parameters
+Cationic - Stir at 50 rpm for 30 min
+Anionic - Stir at 50 rpm for 15 min
+
+[Table 1]
+ID	Sample, mL	Cationic, ppm	Anionic, ppm
+1	200	8	4
+2	200	8	4
+
+=== Slide 14 ===
+Results
+GRADIANT CONFIDENTIAL
+Conclusion from this test
+Polymer should be added with a slow mixer around 50 rpm
+50ppm
+200 rpm
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 15 ===
+Test 4
+Sample Collected on 3 July 2025
+Experiment conducted on 4 July 2025
+Jar test parameters
+Cationic - Stir at 50 rpm for 30 min
+Anionic - Stir at 50 rpm for 15 min
+
+[Table 1]
+ID	Sample, mL	Cationic, ppm	Anionic, ppm
+1	200	8	4
+Aquafloc OC 1035	200	8	4
+Aquafloc OC 1035	200	10	4
+Aquafloc OC 1035	200	20	4
+
+=== Slide 16 ===
+Results
+GRADIANT CONFIDENTIAL
+Conclusion from this test
+Adding an anionic polymer after cationic polymer was necessary
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 17 ===
+Test 5
+Sample Collected on 3 July 2025
+Experiment conducted on 4 July 2025
+Jar test parameters
+Cationic - Stir at 50 rpm for 30 min
+Anionic - Stir at 50 rpm for 15 min
+
+[Table 1]
+ID	Sample, mL	Cationic, ppm	Anionic, ppm
+Aquafloc OC 1035	200	8	4
+KIMIC 448030	200	8	4
+KIMIC 446520	200	8	4
+KIMIC 445510	200	8	4
+Cationic	200	8	4
+
+=== Slide 18 ===
+Results
+GRADIANT CONFIDENTIAL
+Conclusion from this test
+Aquafloc 1035 was the most effective cationic polymer
+Aquafloc 1035
+Kimic 448030
+Kimic 446520
+Kimic 445510
+Cationic
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 19 ===
+THANK YOU!
+GRADIANT CONFIDENTIAL
+
+=== Slide 20 ===

@@ -1,0 +1,41 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23550 ID1 WW\Micron US ID1 Project.pptx
+
+
+=== Slide 1 ===
+Micron US ID1 Project
+2 Aug 2023
+GRADIANT CONFIDENTIAL
+Angela
+
+=== Slide 2 ===
+Objective & Design Basis
+To remove H2O2 using FBO from 70 ppm to not detectable
+To reduce the feed COD from 50 to 30 mg/L
+GRADIANT CONFIDENTIAL
+56 m3 Tank
+56 m3 Tank
+211 m3/h
+211 m3/h
+
+=== Slide 3 ===
+Assumptions & Calculations
+H2O2 + O3 → H2O + 2O2
+70 mg/L H2O2 =  2.06 mmol/L equals to 99 mg/L ozone
+Assume retention time 15 min, and 1 LPM 11% w.t. (153 g/Nm3) ozone per 100L
+100 L/15 min = 0.4 m3/h  211 m3/h is 528 times
+1 LPM x 153 g/Nm3 x 528 = 4.8 kg/h ozone with concentration >= 11% w.t. or 153 g/Nm3
+4.8 kg/h / 153 g/Nm3 = 31 m3/h, 5 pcs of MicroGas FS752DC
+GRADIANT CONFIDENTIAL
+
+=== Slide 4 ===
+Summary
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Device	Qty
+Ozone Generator 4.8 kg/h with ozone concentration >= 11% w.t. or 153 g/Nm3	2 sets (1 set per tank)
+MicroStar Nano Bubbler FS752DC	10 pcs (5 pcs per tank)
+Pump & Piping etc.
+
+
+=== Slide 5 ===

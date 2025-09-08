@@ -1,0 +1,684 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23524 Boise Opal\Micron OPAL VE3 CFRO Trial Final External Full Report.pptx
+
+
+=== Slide 1 ===
+Micron OPAL VE3
+Internal Full Report
+Application Team
+April 2025
+
+=== Slide 2 ===
+Background
+GRADIANT CONFIDENTIAL
+
+=== Slide 3 ===
+Project Background
+GRADIANT CONFIDENTIAL
+Concentrate 30K fluoride and sulphate rich feed to 218K using membrane processes.
+ Difficulty in reaching target reject TDS due to Kogarkoite (Na3(SO4)F) precipitation.
+
+[Table 1]
+Parameters	Units	ROI-2 Feed (RO Feed)	ROI-2 Reject (Target CFRO Reject)
+pH	-	7.5	8.1
+K	ppm	6	39
+Na	ppm	11168	77751
+Ca	ppm	10	66
+Mg	ppm	113	761
+Cl	ppm	8733	58371
+SO4	ppm	9036	66619
+PO4	ppm	1	3
+HCO3	ppm	701	4505
+F	ppm	1053	7169
+NO3	ppm	320	2115
+CO3	ppm	2	39
+CO2	ppm	36	59
+SiO2	ppm	10	66
+TMAH	ppm	13	83
+NH3 / NH4	ppm	153	1007
+IPA	ppm	42	245
+TDS	ppm	31295	218447
+TSS	ppm	1	0
+COD	ppm	128	761
+Alkalinity	ppm	576	3736
+
+=== Slide 4 ===
+OLi Projection for ROi Feed
+GRADIANT CONFIDENTIAL
+NaMgF3 and CaF precipitates are formed in the feed water.
+
+Prepare synthetic feed to verify this projection.
+
+[Picture on Slide 4 | GENERIC_FIGURE]
+OCR: es
+ee
+Wao CCCCdT:Cf.0927e5| .gtogtes| 0
+Es Le)
+Es er
+Ee 2) 2
+Es 27) 2)
+Cs 2-1
+NaMgF3 (Neighboritey | ase] | 480933
+CaF2(Fluoritey = =0S <s| stn} Ss s t i YS tise A DTT
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: es
+ee
+Wao CCCCdT:Cf.0927e5| .gtogtes| 0
+Es Le)
+Es er
+Ee 2) 2
+Es 27) 2)
+Cs 2-1
+NaMgF3 (Neighboritey | ase] | 480933
+CaF2(Fluoritey = =0S <s| stn} Ss s t i YS tise A DTT ...
+
+=== Slide 5 ===
+Test Method: Synthetic Feed Preparation
+Weight the salts required for synthetic feed according to the table below.
+
+
+
+
+
+
+Prepare the synthetic feed according to the table below:
+
+
+
+
+Collect samples of both bulk and NaF solutions and send for ICP and IC analysis.
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Solution		Bulk	NaF
+Volume of DI Water	mL	300	200
+Salts Added	-	1. NaHCO3	1. NaF
+		2. Na2SO4
+		3. NaCl
+		4. MgCl2
+
+[Table 2]
+Salts	Mass of Salts required For 1L (mg)	Volume to Prepare (L)	Mass of Salts required  For 0.5L (mg)
+Sodium Bicarbonate (NaHCO3)	964.88	0.5	482.44
+Sodium Fluoride (NaF)	2326.73	0.5	1163.37
+Sodium Sulphate (Na2SO4)	13361.4	0.5	6680.70
+Sodium Chloride (NaCl)	13822.92	0.5	6911.46
+Mgnesium Chloride (MgCl2)	443.14	0.5	221.57
+Calcium Chloride (CaCl)	27.69	0.5	13.85
+
+=== Slide 6 ===
+Observations
+GRADIANT CONFIDENTIAL
+Bulk and NaF Solutions
+Before Mixing
+After Settling
+After Mixing
+All salts fully dissolved to give clear bulk and NaF solutions.
+
+After mixing, the solution turned cloudy indicating precipitation.
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: - e a [ [
+.> ax fj .. - ~ . . 7 % > in zr -
+aa SSS
+Ly a. ame
+7
+- 4 : ,
+1000 mi 7
+IWAK Lens 800 ) a
+O60C iy THA Ano .
+= _ . e
+= 1 | t , ;
+- al ~
+i == -_ - nw
+| 400
+| wea
+fcsinier sy. ee o-rone 7 - a - _ ay
+EE eas a a ein gs eee 9
+PD anata fen OA ree oe et 1 taay
+ : = . ; io K > . az > ail ; a > en : + m os . ad 2 They
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: - e a [ [
+.> ax fj .. - ~ . . 7 % > in zr -
+aa SSS
+Ly a. ame
+7
+- 4 : ,
+1000 mi 7
+IWAK Lens 800 ) a
+O60C iy THA Ano .
+= _ . e
+= 1 | t , ;
+- al ~
+i == -_ - nw
+| 400
+| wea
+fcsinier sy. ee o-rone 7 - a - _ ay
+EE eas a a ein gs eee 9
+PD anata fen OA ree oe et 1 taay
+ : = . ; io K > . az > ail ; a > en ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: ial an Ee . p ;
+)
+ a =3 ) yj f
+=| BULK wf 34
+hoy wi :
+4 1000 m ye
+4 es : t
+, WADE IN, THAILAND
+] a .
+ S a = |
+oa.
+| |
+-_ |
+ad . /
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ial an Ee . p ;
+)
+ a =3 ) yj f
+=| BULK wf 34
+hoy wi :
+4 1000 m ye
+4 es : t
+, WADE IN, THAILAND
+] a .
+ S a = |
+oa.
+| |
+-_ |
+ad . / ...
+
+=== Slide 7 ===
+Water Analysis Results
+GRADIANT CONFIDENTIAL
+[Mg 2+] decreases by up to 98%, [Ca 2+] decreases by ~90% and [F -] decreases by 26%.
+
+[Table 1]
+Parameters	Units	ROI-2 Feed	Synthetic ROI Feed Before Mixing	Synthetic ROI Feed  After Mixing	Percentage decrease in [Ion] (%)
+pH	-	7.5	8.53	-	-
+Na	ppm	11168	10544	11850	-
+Ca	ppm	10	< 10	< 1	~ 90
+Mg	ppm	113	64	2	98
+Cl	ppm	8733	7623	8264	-
+SO4	ppm	9036	8796	9262	-
+F	ppm	1053	1163	866	26
+TDS	ppm	31295	28190	30244	-
+
+=== Slide 8 ===
+OLi Projection for RO Feed
+GRADIANT CONFIDENTIAL
+OLi projected precipitation verified.
+
+Prepare ROI Synthetic feed without Mg and Ca dosage and decrease the initial [F -] by 26% according to OLi projection for RO trial.
+Projected Precipitation
+Projected Ion Concentration
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: ee ee ee
+rt mt gt
+Wendt ses| tta8tees] 0
+moe trt00 2) tt0aeof tos ore
+moe) | 112086) oszzaaa] 112082
+ote ze ris] _avazne
+jo t06sse5| cetoses| 0
+jay tesaral _csss.2x] 00
+ee 6706 26726] 00
+see) | eens] z0eaa cn
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ee ee ee
+rt mt gt
+Wendt ses| tta8tees] 0
+moe trt00 2) tt0aeof tos ore
+moe) | 112086) oszzaaa] 112082
+ote ze ris] _avazne
+jo t06sse5| cetoses| 0
+jay tesaral _csss.2x] 00
+ee 6706 26726] 00
+see) | eens] z0eaa cn ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: ee
+a
+MO 8 t00ares| cstontes| 00
+et tool rosea i
+a
+ea asso] ssn SY
+CZ
+mos ar see] arses SC S
+ator omnbore) SS C ee] SSS SCCSC
+carzeuonie) | tree] tar
+CY
+a
+Inmgsoen | 00 r0n0se] oovsonei] +t
+jus casaata| oczszsel =d
+casou aanyeriey | 00122803] oowzesea| 0
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ee
+a
+MO 8 t00ares| cstontes| 00
+et tool rosea i
+a
+ea asso] ssn SY
+CZ
+mos ar see] arses SC S
+ator omnbore) SS C ee] SSS SCCSC
+carzeuonie) | tree] tar
+CY
+a
+Inmgsoen | 00 r0n0se] oovsonei] +t
+jus casaata| oczszsel =d
+casou aanyeriey | 00122803] oowzesea| 0 ...
+
+=== Slide 9 ===
+Precipitation was observed in the synthetic ROI Feed prepared.
+
+[Mg 2+] decreases by up to 98%, [Ca 2+] decreases by ~90% and [F -] decreases by 26%.
+
+Prepare ROI Synthetic feed without Mg and Ca dosage and decrease the initial [F -] by 26% for RO trial.
+GRADIANT CONFIDENTIAL
+Conclusions
+
+=== Slide 10 ===
+Plan 1: RO + CFRO (M150+M250)
+GRADIANT CONFIDENTIAL
+
+=== Slide 11 ===
+OLi Projections: Precipitation against TDS
+GRADIANT CONFIDENTIAL
+Kogarkoite precipitation when TDS > 160K mg/L.
+
+[Picture on Slide 11 | GENERIC_FIGURE]
+OCR: 70000 .
+
+65000
+
+60000
+
+oe
+
+55000 S02 (techateterte) . Sot jg)
+1
+3 45000 NaZSO4 Naf (Kogarkate) - Sei jag.)
+3 t Caf (Fucrte) - Sol (mgt)
+= 40000
+3 36000
+ 30000 }- p
+S 25000
+ 20000
+
+18000
+
+10000
+
+ 000
+
+0
+oy sy 2 Bo) z 7, 2 7, ye % % 2; % % 2 2, 2 2s
+Mp My Ray My Bay My My My Mi, Mey Me, My Mra Mi Mey hey My Mr, Mg My My, My My Me
+Total Orssolved Solids, Estimated [mo]
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 70000 .
+
+65000
+
+60000
+
+oe
+
+55000 S02 (techateterte) . Sot jg)
+1
+3 45000 NaZSO4 Naf (Kogarkate) - Sei jag.)
+3 t Caf (Fucrte) - Sol (mgt)
+= 40000
+3 36000
+ 30000 }- p
+S 25000
+ 20000
+
+18000
+
+10000
+
+ 000
+
+0
+oy sy 2 Bo) z 7, 2 7, ye % % 2; % % 2 2, 2 2s
+Mp My Ray My Bay My My My Mi, Mey Me, My Mra Mi Mey ...
+
+=== Slide 12 ===
+Objectives
+To investigate the feasibility of treating VE3 feed with membrane processes.
+
+
+
+
+
+
+Prepare 30K ROI feed for RO trial.
+Prepare 80K synthetic RO reject for CFRO trial.
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: Assumption: All Mg 2+ and Ca 2 precipitates out in the feed water
+ Verifying OL Projection Max TDS without PPT: 160K
+ RO + CFRO Trial
+RO Trial CERO Trial
+Feed SW30 M150 + M250
+TDS: 30K =) Target Reject TDS: 80K = Reject TDS:
+OLi projection: Kogarkoite PPT when TOS > 160K
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Assumption: All Mg 2+ and Ca 2 precipitates out in the feed water
+ Verifying OL Projection Max TDS without PPT: 160K
+ RO + CFRO Trial
+RO Trial CERO Trial
+Feed SW30 M150 + M250
+TDS: 30K =) Target Reject TDS: 80K = Reject TDS:
+OLi projection: Kogarkoite PPT when TOS > 160K ...
+
+=== Slide 13 ===
+Lab skid
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: - af
+I s b- i a Pi Lf ete, : 4 a ae | on ta Fos 4 J ah
+ aa 4 : > - ~ pL 1 a _ ay te - s
+ Q < . + ed > > . il = 4 ) Ps pil on
+| : -_ C ~ % | x . - - _ F - = . if } = s LP.
+= IL> - a | J =_ L. eT . | i a. a . :
+be = = A) | bel ra an | : rs | | ri
+8 . We 3 = ~ fe: May ao i= iia
+1 ar an Tad ce J x is cot ral
+- t : | i . 7% - Fue : , es: . Tene. - i
+<=) my | ) f 4 = Nhe y a 1% SY g ie 6B mee A
+aa we - 3 ea =f) OBL = eel | os | cies 7 sae oe | ae x
+n= a =, , B) | E } | | a : ae O8 id { 6 4 ss .) oar) = i , 5 =
+| - ER . : 5 o5 a4 a . | | Ti | - 4 es
+eae wl ~~ yi: | re _ = - ss 1 b r > 3
+SBC Ci Jy 4 La ema a
+; | in D 4 <f ee _ TM = = ae =m
+wie TOUS aera eae (CG | Viva awit. = eA ee Ee KE Le eee S
+7 4 Bit = in Fs ta ) ] vd , Y : , r4 ae . 7 ms 7 ~~ tc - we park oe = J Sens eros
+<= a iy 6 - SA hl (pete {| 1 eo~~ ce fee S ee y
+AY Ss tuk OOS SRO oe q AM | NESS a) l_s |
+. 2 4 As == aoe i Wee 7 i a = = x ~-_
+ 3 ~ _ a ; a ~ off ry s 5 oble ia i. | 4 H le } t . rh : } = Ni ale , .
+eee ee (nnn SUNS 7 wy, - 4 ~ | > POR 5
+ey Nee, x : mer Rage F ; as Ror: py. ~ = R ~
+a oe Z Z Sram LUI TIULLTITUTTTHALTTTTIALNTP Sie ese Prete: a as Gte |
+ore ; 3 : a oe 2 : f re Ba . j {Ste 2 BE ke Ss ~ wat . a <
+7 Ss A a | a : ee . eet Bey ; Bite 5 a og 2) P , ae . vetne > a <% ie even> . o SF i oad 7 ys ar : es ae . IN ae > Fame
+ity | CC tee nt Pag ee See A ee ee ee. 2. > X<e =
+oa Fa . ie A , oF eps Sf ye gl le EE = = a v4 adr aalset = a Pini a oe >
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: - af
+I s b- i a Pi Lf ete, : 4 a ae | on ta Fos 4 J ah
+ aa 4 : > - ~ pL 1 a _ ay te - s
+ Q < . + ed > > . il = 4 ) Ps pil on
+| : -_ C ~ % | x . - - _ F - = . if } = s LP.
+= IL> - a | J =_ L. eT . | i a. a . :
+be = = A) | bel ra an | : rs | | ri
+8 . We 3 = ~ fe: May ao i= iia
+1 ar an Tad ce J x is  ...
+
+=== Slide 14 ===
+Test Method
+GRADIANT CONFIDENTIAL
+Prepare Synthetic ROI Feed – 60L
+Generate tap water permeate using SWRO membrane to minimize [Ca 2+]
+
+Prepare synthetic feed based on the feed water quality report using tap water permeate
+
+Perform water analysis on  the synthetic ROI feed
+Perform pretreatment testing
+Perform antiscalant projections to determine necessity of pretreatment, antiscalant type, and dosage
+
+No antiscalant dosage required as SWRO tap water permeate is used in synthetic feed preparation
+Perform ROI concentration testing
+Load SWRO membrane into pressure vessel
+Start the pumps to circulate the feed water into the system with reject returned into feed tank while permeate is collected separately
+Record flow rates, pressures & refractive index (conversion to TDS by calibration curve) at regular intervals
+Stop current ROI stage testing when flux has reached minimum threshold
+Collect samples of feed, permeate & reject for water analysis
+Prepare synthetic feed for CFRO run using the RO reject water analysis report
+Load CFRO membrane & operate as the next stage as needed
+
+=== Slide 15 ===
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 15 | GENERIC_FIGURE]
+OCR: Assumption: All Mg 2+ and Ca 2 precipitates out in the feed water
+ Verifying OL Projection Max TDS without PPT: 160K
+ RO + CFRO Trial
+RO Trial CERO Trial
+Feed SW30 M150 + M250
+TDS: 30K =) Target Reject TDS: 80K = Reject TDS:
+OLi projection: Kogarkoite PPT when TOS > 160K
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Assumption: All Mg 2+ and Ca 2 precipitates out in the feed water
+ Verifying OL Projection Max TDS without PPT: 160K
+ RO + CFRO Trial
+RO Trial CERO Trial
+Feed SW30 M150 + M250
+TDS: 30K =) Target Reject TDS: 80K = Reject TDS:
+OLi projection: Kogarkoite PPT when TOS > 160K ...
+
+=== Slide 16 ===
+RO Trial Feed Water Analysis
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+PARAMETER	METHOD	UNIT	ROI-2 Feed (Projection)	Synthetic  ROI Feed
+pH	pH probe	-	7.50	8.24
+Conductivity	Conductivity probe	µS/cm	-	38400
+Hydroxide, OH Alkalinity	APHA 2320B	CaCO3 mg/l	-	<2
+Carbonate Alkalinity,  CO3/ P-Alkalinity	APHA 2320B	CaCO3 mg/l	-	<2
+Bicarbonate Alkalinity,  HCO3/ M-Alkalinity	APHA 2320B	CaCO3 mg/l	576	609
+Total Alkalinity	APHA 2320B	CaCO3 mg/l	576	609
+Fluoride as F	Ion Chromatography	mg/l	778	785
+Chloride as Cl	Ion Chromatography	mg/l	8733	8831
+Sulphate as SO4	Ion Chromatography	mg/l	9036	8695
+Nitrate as NO3	Ion Chromatography	mg/l	320	270
+Ammonia as NH3	Hach 10031	mg/l	153	186
+Calcium as Ca	EPA200.7	mg/l	0	<1
+Magnesium as Mg	EPA200.7	mg/l	0	<1
+Potassium as K	EPA200.7	mg/l	6	<1
+Silica SiO2	EPA200.7/ Calculation	mg/l	10	7.21
+Sodium as Na	EPA200.7	mg/l	11168	10910
+Total Hardness as CaCO3	APHA 2340B	mg/l	0	<1
+TDS	APHA 2540C	mg/l	31295	25700
+TDS	Ultrameter (NaCl)	mg/l	-	28320
+Turbidity	APHA 2130B	NTU	-	0.25
+TSS	Photometric	mg/l	1	<3
+
+[Table 2]
+PARAMETER	METHOD	UNIT	ROI-2 Feed (Projection)	Synthetic  ROI Feed
+Total Chlorine	Hach 8021	mg/l	-	0.03
+Free Chlorine	Hach 8021	mg/l	-	0.04
+Total Ions	Calculation	mg/l	31055	30293
+TDS & Total Ions Difference  (by Gravimetry)	Calculation	%	-0.77	15.2
+TDS & Total Ions Difference  (by Ultrameter)	Calculation	%	-	6.51
+
+[Table 3]
+Salts	Feed Volume (L)	Mass of salts required (g)	Actual Mass of salts used (g)
+NH42SO4	60	33.7	33.7
+NaHCO3	60	57.9	57.9
+NaF	60	103	103
+NaNO3	60	26.4	26.4
+Na2SO4	60	765	765
+NaCl	60	864	864
+Na2SiO3	60	1.12	1.12
+
+=== Slide 17 ===
+Interim TDS measurements via ATAGO RI meter
+GRADIANT CONFIDENTIAL
+The Atago PAL-03S refractometer is used to measure the refractive index of the brine, given the non-linearity between TDS and conductivity that occurs at higher salinities and that the main components are NaCl and Na2SO4.
+
+[Picture on Slide 17 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 18 ===
+RO Concentration Results
+The feed was concentrated from 25,700 mg/L to 95,200 mg/L TDS.
+Recovery obtained from gravimetric measurement of TDS is 72.2%.
+The final RO permeate TDS obtained is 132 mg/L.
+Operating parameters:
+Feed pressure: 800-1000 psi (55-69 bar)
+Flow rate: 10 - 11 LPM
+Temperature: 25̊ C
+Membrane: Dupont FilmTec SW30-2540
+GRADIANT CONFIDENTIAL
+
+=== Slide 19 ===
+RO Trial Water analysis Results
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+PARAMETER	METHOD	UNIT	Synthetic  ROI Feed	RO Reject	RO Permeate
+pH	pH probe	-	8.24	8.32	10.1
+Conductivity	Conductivity probe	µS/cm	38400	100300	340
+Hydroxide,  OH Alkalinity	APHA 2320B	CaCO3 mg/l	<2	<2	<2
+Carbonate Alkalinity,  CO3/  P-Alkalinity	APHA 2320B	CaCO3 mg/l	<2	<2	66
+Bicarbonate Alkalinity, HCO3/  M-Alkalinity	APHA 2320B	CaCO3 mg/l	609	1864	3
+Total Alkalinity	APHA 2320B	CaCO3 mg/l	609	1864	69
+Fluoride as F	Ion Chromatography	mg/l	785	2584	2.21
+Chloride as Cl	Ion Chromatography	mg/l	8831	28698	<0.1
+Sulphate as SO4	Ion Chromatography	mg/l	8695	30286	9.93
+Nitrate as NO3	Ion Chromatography	mg/l	270	929	4.22
+Ammonia as NH3	Hach 10031	mg/l	186	396	12.9
+Calcium as Ca	EPA200.7	mg/l	<1	<1	<1
+Magnesium as Mg	EPA200.7	mg/l	<1	<1	<1
+Silica SiO2	EPA200.7/ Calculation	mg/l	7.21	39.5	<0.1
+Sodium as Na	EPA200.7	mg/l	10910	37300	68.7
+Total Hardness as CaCO3	APHA 2340B	mg/l	<1	<1	<1
+TDS	APHA 2540C	mg/l	25700	95200	132
+TDS	Ultrameter (NaCl)	mg/l	28320	74140	482
+Turbidity	APHA 2130B	NTU	0.250	0.624	0.174
+TSS	Photometric	mg/l	<3	<3	<3
+
+[Table 2]
+PARAMETER	METHOD	UNIT	Synthetic  ROI Feed	RO Reject	RO Permeate
+Total Chlorine	Hach 8021	mg/l	0.03	0.1	<0.02
+Free Chlorine	Hach 8021	mg/l	0.04	0.1	<0.02
+Total Ions	Calculation	mg/l	30293	102097	167
+TDS & Total Ions Difference  (by Gravimetry)	Calculation	%	15.2	6.76	20.9
+TDS & Total Ions Difference  (by Ultrameter)	Calculation	%	6.51	27.38	-189
+
+=== Slide 20 ===
+Fluoride and Sulphate Rejection
+GRADIANT CONFIDENTIAL
+F – and SO4 2- rejection are within expected range (~99%).
+
+[Table 1]
+Parameters	Units	RO Reject	RO Permeate	Rejection (%)
+Sulphate as SO4	mg/L	30286	9.93	99.96
+Fluoride as F	mg/L	2584	2.21	99.91
+
+=== Slide 21 ===
+RO Flux against Feed TDS Graph
+GRADIANT CONFIDENTIAL
+Recommended Final RO Reject TDS: ~ 75K mg/L when flux ~ 5 LMH.
+
+=== Slide 22 ===
+RO Rejection against Feed TDS Graph
+GRADIANT CONFIDENTIAL
+
+=== Slide 23 ===
+Sample Photos
+GRADIANT CONFIDENTIAL
+Feed Water
+Permeate
+Reject
+Feed, reject and permeate are clear solution.
+
+[Picture on Slide 23 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 23 | GENERIC_FIGURE]
+OCR: on = ;
+
+eed ies ) 7 a
+| ~ ~
+ N ij
+; < 7 100 ||
+20 mi arene 100 ml 100
+See OO pe, SE 80
+ ~ = :
+60 S } ] 60
+% oT one ae ay ow ae <i a ee ee SO, caries cet Sg Ts eee Tee .
+ ev : bas nih, ae WF san >
+ = - ae Y ge a 2 = - ye ~
+ e SS eee 2 ae
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: on = ;
+
+eed ies ) 7 a
+| ~ ~
+ N ij
+; < 7 100 ||
+20 mi arene 100 ml 100
+See OO pe, SE 80
+ ~ = :
+60 S } ] 60
+% oT one ae ay ow ae <i a ee ee SO, caries cet Sg Ts eee Tee .
+ ev : bas nih, ae WF san >
+ = - ae Y ge a 2 = - ye ~
+ e SS eee 2 ae ...
+
+=== Slide 24 ===
+RO Trial Conclusions
+The feed was concentrated from 25,700 mg/L to 95,200 mg/L TDS.
+
+Recovery obtained from gravimetric measurement of TDS is 72.2%.
+
+The final RO permeate TDS obtained is 132 mg/L.
+
+F – and SO4 2- rejection is within expected range (~99%).
+
+Recommended Final RO Reject TDS: ~ 75K mg/L when flux ~ 5 LMH.
+
+Prepare synthetic RO reject for CFRO trial.
+GRADIANT CONFIDENTIAL
+
+=== Slide 25 ===
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 25 | GENERIC_FIGURE]
+OCR: Assumption: All Mg 2+ and Ca 2 precipitates out in the feed water
+ Verifying OL Projection Max TDS without PPT: 160K
+ RO + CFRO Trial
+RO Trial CERO Trial
+Feed SW30 M150 + M250
+TDS: 30K =) Target Reject TDS: 80K = Reject TDS:
+OLi projection: Kogarkoite PPT when TOS > 160K
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Assumption: All Mg 2+ and Ca 2 precipitates out in the feed water
+ Verifying OL Projection Max TDS without PPT: 160K
+ RO + CFRO Trial
+RO Trial CERO Trial
+Feed SW30 M150 + M250
+TDS: 30K =) Target Reject TDS: 80K = Reject TDS:
+OLi projection: Kogarkoite PPT when TOS > 160K ...
+
+=== Slide 26 ===
+CFRO Trial Feed Water Analysis
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+PARAMETER	METHOD	UNIT	RO Reject	Synthetic  CFRO Feed
+pH	pH probe	-	8.32	8.06
+Conductivity	Conductivity probe	µS/cm	100300	93500
+Hydroxide, OH Alkalinity	APHA 2320B	CaCO3 mg/l	<2	<2
+Carbonate Alkalinity,  CO3/ P-Alkalinity	APHA 2320B	CaCO3 mg/l	<2	<2
+Bicarbonate Alkalinity,  HCO3/ M-Alkalinity	APHA 2320B	CaCO3 mg/l	1864	2094
+Total Alkalinity	APHA 2320B	CaCO3 mg/l	1864	2094
+Fluoride as F	Ion Chromatography	mg/l	2584	2669
+Chloride as Cl	Ion Chromatography	mg/l	28698	24593
+Sulphate as SO4	Ion Chromatography	mg/l	30286	28073
+Nitrate as NO3	Ion Chromatography	mg/l	929	864
+Ammonia as NH3	Hach 10031	mg/l	396	261
+Calcium as Ca	EPA200.7	mg/l	<1	<1
+Magnesium as Mg	EPA200.7	mg/l	<1	<1
+Silica SiO2	EPA200.7/ Calculation	mg/l	39.5	26.1
+Sodium as Na	EPA200.7	mg/l	37300	37700
+Total Hardness as CaCO3	APHA 2340B	mg/l	<1	<1
+TDS	APHA 2540C	mg/l	95200	92510
+TDS	Ultrameter (NaCl)	mg/l	74140	68220

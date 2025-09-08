@@ -1,0 +1,644 @@
+ 2
+ e 0 AX x a TO) e TOO Ws
+on ear Ay eo AK As oe OOKY or YO Cy
+eo PO OX secees a >
+e OOO OOK vee, OOO ; ~ ~
+/ AY Py Ay oy Ay e ry ee oY Ory Ory Ory AR > os ~ ~ a
+a e e ..
+Ay Hts XX Aegg ry A Ax oe oe 2 reseees ve O00 iA. A+ vy i AI
+4 ...
+
+=== Slide 14 ===
+Initial and final concentrations: Refractive Index and TDS
+Initial: 2,610ppm TDS
+Final: 35,890ppm TDS
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: a
+4 9f
+
+ Gataco __ if
+
+/
+
+Cape be Da
+ f. al al al Lf |
+ REFRACTIVE INDEX |
+ 1.3306 ~1.5284
+
+ PAL-RI
+( NEC REFRACTOMETER
+oP ers SS
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: a
+4 9f
+
+ Gataco __ if
+
+/
+
+Cape be Da
+ f. al al al Lf |
+ REFRACTIVE INDEX |
+ 1.3306 ~1.5284
+
+ PAL-RI
+( NEC REFRACTOMETER
+oP ers SS ...
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: =
+| SO ATAGO
+ weal SOC :
+TT, Gy, wy
+| of ILI
+q REFRACTIVE INDEX 1|
+5 =: 1.3306 ~ 1.5284
+PAL- RI
+( NFC REFRACTOMETER
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: =
+| SO ATAGO
+ weal SOC :
+TT, Gy, wy
+| of ILI
+q REFRACTIVE INDEX 1|
+5 =: 1.3306 ~ 1.5284
+PAL- RI
+( NFC REFRACTOMETER ...
+
+=== Slide 15 ===
+ROi Stage 1 : Experimental results
+Permeate TDS < 75mg/L
+Concentrated TDS of Feed water from 2,610mg/L to 35,890mg/L and achieved ~92.7% recovery.
+Rechecking the silica value
+
+[Table 1]
+Parameter	Method	Unit	ROi Feed	ROi Brine	ROi Permeate
+Fluoride as F	Ion Chromatography	mg/l	6.11	92.2	0.15
+Chloride as Cl	Ion Chromatography	mg/l	378	4,712	10.9
+Sulphate as SO4	Ion Chromatography	mg/l	1,331	16,592	12.3
+Calcium as Ca	EPA200.7	mg/l	66.3	861	0.63
+Magnesium as Mg	EPA200.7	mg/l	1.9	20.9	<0.1
+Potassium as K	EPA200.7	mg/l	3.93	87.9	<0.1
+Total Silica SiO2	EPA200.7/ Calculation	mg/l	20.8	340*	<0.1
+Sodium as Na	EPA200.7	mg/l	790	12680	21
+Strontium as Sr	EPA200.7	mg/l	0.63	7.51	<0.1
+TDS	APHA 2540C	mg/l	2,610	35,890	61.5
+pH			7.03	7.0	7.05
+
+=== Slide 16 ===
+Experiments: SCE Stage 2Scheme followed: 	- Jar Testing
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR ...
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 17 ===
+SCE stage 2: Jar Testing protocols
+A beaker of 500ml of synthetic water is dosed with different concentrations of lime, MgCl2, and Na2CO3
+Once the dosage of both was, the mixture was rapidly mixed (200 rpm) for the 30s, & followed by slow mixing (100 rpm) for 45 min, and pH was measured and adjusted to 10.5 every 15 min
+1 mg/L of SNF polymer (anionic) was dosed and further slower mix (30 rpm) for 45 min. pH was measured every 15 min
+Mixing was stopped and the solids were left to settle for over 90 min, allowing the sludge to settle
+The supernatant and sludge were collected for analysis
+
+=== Slide 18 ===
+Experimental pictures: Jar Testing stage 2
+Feed Water
+Chemicals were weighed
+Sludge was left for settle for >90min
+Supernatant was collected, filtered, and sent for analysis
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: i |
+ 7 5
+ =e, |
+PIONEERTM
+Se a TEs
+, TEN
+ , JU.
+th aR
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: i |
+ 7 5
+ =e, |
+PIONEERTM
+Se a TEs
+, TEN
+ , JU.
+th aR ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: ae
+me Pe
+29 ae
+: > ~~ p = a) 4 a
+Tabs fe - 4 3
+as 3 y
+DS TM y / or
+ ce: ; _ a acme ream ann ee me =
+- Pan es ee) 6
+i. =
+ q
+a; 7.
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ae
+me Pe
+29 ae
+: > ~~ p = a) 4 a
+Tabs fe - 4 3
+as 3 y
+DS TM y / or
+ ce: ; _ a acme ream ann ee me =
+- Pan es ee) 6
+i. =
+ q
+a; 7. ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: , : : 1 | | ia { } Hil ] ; : He atta
+~ Dia : Filtered | , Filtere,
+SuPer Aorta Super Nadott uper nate
+MCL, : 200 ppm Noce,
+, 00 9m F Mocks : S00 ppm
+ a |
+ | | i cS
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: , : : 1 | | ia { } Hil ] ; : He atta
+~ Dia : Filtered | , Filtere,
+SuPer Aorta Super Nadott uper nate
+MCL, : 200 ppm Noce,
+, 00 9m F Mocks : S00 ppm
+ a |
+ | | i cS ...
+
+=== Slide 19 ===
+SCE STAGE 2- Jar Testing Treated Water Analysis
+Different chemical dosages were tested and successfully reduced silica to ~23ppm
+
+Dosage was varied from 500 to 1200 mg/l of MgCl2 etc.,
+
+[Table 1]
+Parameter	Unit	Synthetic Feed	Filtered Supernatant (Dosing 1)	Filtered Supernatant (Dosing 2)
+pH		7.93	10.36	10.62
+Total Silica as SiO2	mg/l	293	43.7	23.8
+Fluoride as F	mg/l	59.9	16.8	16.9
+Calcium as Ca	mg/l	709	38	32.6
+Potassium as K	mg/l	119.5	114	116
+Sodium as Na	mg/l	10,200	15,830	17,900
+Strontium as Sr	mg/l	2.95	0.25	0.27
+
+=== Slide 20 ===
+Experiments: CFROScheme followed: 	- CFRO membrane testing
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR ...
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 21 ===
+CFRO membrane lab setup
+Feed
+Permeate
+Operating parameters:
+Feed flow: 200 ml/min
+Feed operating pressure: 1000 psi
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 22 ===
+CFRO Stage 2 : Experimental results
+CFRO successfully concentrating up the feed from 31,020mg/L to >260,000mg/l based on equivalent RI index
+
+=== Slide 23 ===
+CFRO Stage 2 : Experimental results
+Concentrated TDS of CFRO Feed from 31,020 mg/L to 265,600 mg/L and achieved ~88% recovery
+
+[Table 1]
+Parameter	Method	Unit	Boise CFRO Feed	Boise CFRO Brine Reject
+Fluoride as F	Ion Chromatography	mg/l	13.9	140
+Chloride as Cl	Ion Chromatography	mg/l	4,594	38,883
+Sulphate as SO4	Ion Chromatography	mg/l	12443	108,724
+Calcium as Ca	EPA200.7	mg/l	18.6	209
+Magnesium as Mg	EPA200.7	mg/l	12.6	166
+Potassium as K	EPA200.7	mg/l	150.2	536
+Total Silica SiO2	EPA200.7/ Calculation	mg/l	23	263
+Sodium as Na	EPA200.7	mg/l	13,280	92,080
+Strontium as Sr	EPA200.7	mg/l	3.9	27.5
+TDS	APHA 2540C	mg/l	31,020	265,600
+PH	Ph probe		7.25	7.9
+
+[Picture on Slide 23 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 24 ===
+Experiments: Zero Liquid DischargeScheme followed: 	- Adiabatic Chiller, CGE and 	Crystallizer/Centrifuge
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ; Ss = oS
+ree:
+- ry
+ =
+a
+fa, GRADIANT
+ai Name S yitigte Wetey (Fane }
+Source Cherracss [RSF ame
+OReINE Mead |
+Date Py, See ee
+ Pores Alz3/ 33 2 Ser j
+Prmceres by Clara 24h te
+
+
+
+oe
+>
+ol
+4
+ =
+ ~
+A LA
+SS >) a ES ut. se
+2 he
+4
+ , cs mR ...
+
+=== Slide 25 ===
+Test objective using Adiabatic Chiller/Centrifuge
+The objective of the adiabatic chiller and centrifuge experiment is to produce the sodium sulfate rich salts from the CFRO brine.
+
+[Picture on Slide 25 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 26 ===
+Adiabatic Chiller: Experimental procedures
+Using a chiller cool down the water bath temperature to about 1˚C
+Soak the concentrated brine sample (TDS: 260,000 mg/l) in the cool water bath – monitor the change in sample temperature.
+Concentrated brine at room temperature.
+Concentrated brine after cooling to 2.2˚C.
+
+[Picture on Slide 26 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 26 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 27 ===
+Centrifuge/Crystallizer: Experimental results
+Salts after centrifuge,  from sodium sulphate rich stream
+
+[Table 1]
+Parameter	Sodium sulphate rich stream
+Fluoride as F	0.0%
+Chloride as Cl	5.5%
+Phosphate as PO4	0.0%
+Sulphate as SO4	55.0%
+Nitrate as NO3	0.0%
+Calcium as Ca	0.0%
+Magnesium as Mg	0.0%
+Potassium as K	0.2%
+Total Silica SiO2	0.0%
+Sodium as Na	39.2%
+Strontium as Sr	0.0%
+
+[Picture on Slide 27 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 28 ===
+CGE and ATFD for Mixed salts: Experimental results
+Mixed salt after ATFD
+
+[Table 1]
+Parameter	Mixed salts
+Fluoride as F	0.1%
+Chloride as Cl	24.4%
+Phosphate as PO4	0.0%
+Sulphate as SO4	37.5%
+Nitrate as NO3	0.0%
+Calcium as Ca	0.1%
+Magnesium as Mg	0.1%
+Potassium as K	4.9%
+Total Silica SiO2	0.1%
+Sodium as Na	32.8%
+Strontium as Sr	0.0%
+
+[Picture on Slide 28 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 29 ===
+Conclusion/summary
+Successfully achieved the target concentration of brine >230000 mg/l using ROi stage 1 and stage 2 membrane technology.
+Met the reclaimed treated water quality: <75 mg/L of TDS.
+Identified the optimized dosage of chemicals to reduce the scaling and maximize the recovery.
+Conducted the Adiabatic chiller, CGE, and ATFD/centrifuge experiments to validate the sodium sulfate-rich salts and mixed salts.
+
+=== Slide 30 ===
+Back up
+
+=== Slide 31 ===
+GRADIANT CONFIDENTIAL
+PFAS Removal Technology
+Foam Fractionation - Separation
+Electrochemical Oxidation (EO) - Destruction
+Foam Fractionation
+Electrochemical Oxidation (EO)
+PFAS Destruction
+GAC/IX
+(Polishing)
+PFAS Feed water
+
+[Picture on Slide 31 | GENERIC_FIGURE]
+OCR: C> RO INFINITY a s SmartOps TM
+/a.
+GRADIANT
+co Bio INFINITY o SMART+
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: C> RO INFINITY a s SmartOps TM
+/a.
+GRADIANT
+co Bio INFINITY o SMART+ ...
+
+[Picture on Slide 31 | FLOW_DIAGRAM]
+OCR: High concentration
+of PFAS
+RO system a PFAS destruction
+Plasma destruction
+PFAS-contaminated Mechnochemical oxidation
+feedwater Electrochenneal oxidation
+CS single or multi-stage Incineration
+eZ Foam Fractionation
+Polishing stage Clean Stream
+Figure 1 Proposed Process Flow Diagram
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: High concentration
+of PFAS
+RO system a PFAS destruction
+Plasma destruction
+PFAS-contaminated Mechnochemical oxidation
+feedwater Electrochenneal oxidation
+CS single or multi-stage Incineration
+eZ Foam Fractionation
+Polishing stage Clean Stream
+Figure 1 Proposed Process Flow Diagram ...
+
+=== Slide 32 ===
+Foam fractionation - Separation
+It is the state-of-the-art technology that uses adsorption-based technique to create many air-liquid interfaces within the solution to achieve PFAS removal. The surface-active PFAS compounds will be adsorbed onto these air-liquid interfaces and separated from waste stream.
+Fig. 1. Lab-scale setup for bench testing for various wastewater matrix.
+
+[Picture on Slide 32 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 32 | FLOW_DIAGRAM]
+OCR: Foam fractionator design
+i jg Game Air Inlet
+oe - Tilia |
+ | Y
+Foamate collector | ~ | = a
+= | > hale be bet
+Main features. ot % y 2 , meen limes Ss
+ Air bubble generated through a venturi {) a y
+injector 1, ~ Feed outlet ,
+ No air blower required : 4 ~
+ High bubbles density and consistency
+ High energy efficiency (~0.03 kW/m3) t ves
+ Counter-current flow design + +
+ High removal efficienc eubdies Rising Fig 1 Lab-scale setup for
+9 y ) + bench testing for partite
+ i -_ wastewater matrix
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Foam fractionator design
+i jg Game Air Inlet
+oe - Tilia |
+ | Y
+Foamate collector | ~ | = a
+= | > hale be bet
+Main features. ot % y 2 , meen limes Ss
+ Air bubble generated through a venturi {) a y
+injector 1, ~ Feed outlet ,
+ No air blower required : 4 ~
+ High bubbles density and consistency
+ High e ...
+
+[Picture on Slide 32 | GENERIC_FIGURE]
+OCR: F
+F
+F
+F F
+F
+F
+F F FE
+F
+FE F
+; F 5
+RISING Alk F
+ESUESE E F
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: F
+F
+F
+F F
+F
+F
+F F FE
+F
+FE F
+; F 5
+RISING Alk F
+ESUESE E F ...
+
+=== Slide 33 ===
+Benefits
+Foam fractionation has the potential to achieve more than 10X concentration factor (equivalent to > 90% volume reduction of waste stream for downstream EO destruction step) at a fraction of the cost compared to other conventional PFAS removal technologies.
+Fig.2. OPEX ($/m3) comparison among other PFAS removal technologies.
+Benefits:
+
+Simpler to O&M & modularization
+Easier deployment
+Low chemical consumption
+Low energy requirement
+Low competition with co-contaminants
+
+[Picture on Slide 33 | GENERIC_FIGURE]
+OCR: 2.50
+
+2.00
+on
+ 1.50
+~
+pak
+x<
+a 1.00
+O
+
+0.00
+
+GAC lon Exchange RO Foam
+Fractionation
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 2.50
+
+2.00
+on
+ 1.50
+~
+pak
+x<
+a 1.00
+O
+
+0.00
+
+GAC lon Exchange RO Foam
+Fractionation ...

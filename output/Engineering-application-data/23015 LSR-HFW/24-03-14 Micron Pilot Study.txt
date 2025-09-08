@@ -1,0 +1,149 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23015 LSR-HFW\24-03-14 Micron Pilot Study.pptx
+
+
+=== Slide 1 ===
+Pilot Study Update
+Client: Exyte
+Location: Singapore
+Date : 20 Mar 2024
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+Note
+Run 3 is completed on 13 Mar 24
+Permeate fluoride ~ 6 mg/L, conductivity ~ 80 uS/cm
+Pilot Study Recovery = 78.4%
+Operating pressure 12 – 13 bar
+GRADIANT CONFIDENTIAL
+
+=== Slide 3 ===
+HFW and LSR sampling points – Run 3
+GRADIANT CONFIDENTIAL
+Ratio HFW A1: A2= 7:3
+*Note: 	(1) 2 IBCs of HFW A1+A2 and LSR A2 	(2) 2 carboys of HFW Chem Room will be collected
+The mixing will be done in GIH lab
+Sample to be collected 2 times a day in 2 days
+
+[Table 1]
+Sampling points	Volume (L)	Total volume for each collection (L)	Frequency in 2 days	Total quantity per tote (L)
+HFW
+HFW Gravity Drain A1	175 x 2	250 x 2	4 x 2	1000 x 2*(1m3)
+HFW Gravity Drain A2	75 x 2
+HFW Gravity Drain Chem Room	5 x 2	5 x 2		20 x 2*
+LSR A2
+LSR A2 transfer pump	250 x 2	250 x 2	4 x 2	1000 x 2 (1m3)
+
+=== Slide 4 ===
+Run 3 Water analysis
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Sample	Feed	Reject	Permeate
+pH	8.6	7.85	9.39
+Conductivity (µS/cm)	2270	9604	80.0
+Bicarbonate alkalinity	74.0	284	NA
+Fluoride (mg/L)	372	1736	5.95
+Chloride (mg/L)	26.9	100	1.53
+Phosphate (mg/L)	2.7	13.2	<0.1
+Sulfate (mg/L)	4.03	13.7	0.128
+Nitrate (mg/L)	93.9	444	14
+Ammonium as NH3-N (mg/L)	17.2	66.6	NA
+Aluminium (mg/L)	0.115	0.259	<0.1
+Boron (mg/L)	1.62	10.5	<0.1
+Calcium (mg/L)	0.842	1.49	<0.1
+Magnesium (mg/L)	<0.1	0.126	<0.1
+Iron as Fe (mg/L)	<0.1	0.422	<0.1
+Potassium (mg/L)	1.28	<0.1	<0.1
+Total Silica (mg/L)	25.2	114	<0.1
+Sodium (mg/L)	521	2565	16.3
+TOC (mg/L)	8	47.3	2.99
+TDS (mg/L)	1079	4905	37.4
+
+=== Slide 5 ===
+Run 3 RO pressure profile
+GRADIANT CONFIDENTIAL
+Operating pressure = 12 - 13 bar
+Service duration = 15 mins
+Flushing duration = 110 sec
+
+[Picture on Slide 5 | GENERIC_FIGURE]
+OCR: Run 3
+20
+18
+16
+14
+12
+10
+8
+Qa 6
+4
+2
+0
+0:04 0:14 0:19 0:28 0:38 0:48 0:52 1:02 1:12 1:16 1:26 1:31 1:40 1:50 1:55 2:04
+Time
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Run 3
+20
+18
+16
+14
+12
+10
+8
+Qa 6
+4
+2
+0
+0:04 0:14 0:19 0:28 0:38 0:48 0:52 1:02 1:12 1:16 1:26 1:31 1:40 1:50 1:55 2:04
+Time ...
+
+=== Slide 6 ===
+Run 3 RO permeate flux profile
+GRADIANT CONFIDENTIAL
+Operating permeate flux = 22 LMH
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 7 ===
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 8 ===
+Feed tank
+BW30 PRO-4040
+High pressure pump
+Booster pump
+Cartridge filter
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: Do
+=
+AQ
+|
+ak
+on
+os
+a
+Ss
+f
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Do
+=
+AQ
+|
+ak
+on
+os
+a
+Ss
+f ...

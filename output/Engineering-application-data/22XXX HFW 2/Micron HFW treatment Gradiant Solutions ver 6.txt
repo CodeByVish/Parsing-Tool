@@ -1,0 +1,176 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX HFW 2\Micron HFW treatment Gradiant Solutions ver 6.pptx
+
+
+=== Slide 1 ===
+MICRON – HF WASTEWATER TREAMENT
+SIMULATION & BENCH TESTING – Dec 2021
+Siva Kumar Kota/Chun Yew
+Hiep Le/Sankar
+Part 6
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+Combined Sludge XRD analysis
+Dosage: 6000 mg/l of lime and 4000 mg/l of CaCl2
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: 1
+Match by searching the XRD database library:
+PDF Fluorite, syn CaF2 (major peaks)
+PDF Calcite, syn - CaCO3 (minor peaks)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 1
+Match by searching the XRD database library:
+PDF Fluorite, syn CaF2 (major peaks)
+PDF Calcite, syn - CaCO3 (minor peaks) ...
+
+=== Slide 3 ===
+Combined Sludge XRD analysis
+XRF Results shows that Calcium fluoride sludge as a major part (>80%)
+Dosage: 6000 mg/l of lime and 4000 mg/l of CaCl2
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: Element
+Result
+Unit
+Method
+c
+0.9485
+mass%
+XRF
+F
+41.9641
+mass%
+XRF
+Na
+0.2262
+mass%
+XRF
+Mg
+0.3881
+mass%
+XRF
+Al
+0.4289
+mass%
+XRF
+Si
+1.0454
+mass%
+XRF
+1.1729
+mass%
+XRF
+S
+1.1314
+mass%
+XRF
+cl
+0.4594
+mass%
+XRF
+K
+0.0538
+mass%
+XRF
+Ca
+51.9852
+mass%
+XRF
+Ti
+0.0237
+mass%
+XRF
+Mn
+0.0126
+mass%
+XRF
+Fe
+0.1215
+mass%
+XRF
+Zn
+0.0234
+mass%
+XRF
+Sr
+0.0131
+mass%
+XRF
+zr
+0.0018
+mass%
+XRF
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Element
+Result
+Unit
+Method
+c
+0.9485
+mass%
+XRF
+F
+41.9641
+mass%
+XRF
+Na
+0.2262
+mass%
+XRF
+Mg
+0.3881
+mass%
+XRF
+Al
+0.4289
+mass%
+XRF
+Si
+1.0454
+mass%
+XRF
+1.1729
+mass%
+XRF
+S
+1.1314
+mass%
+XRF
+cl
+0.4594
+mass%
+XRF
+K
+0.0538
+mass%
+XRF
+Ca
+51.9852
+mass%
+XRF
+Ti
+0.0237
+mass%
+XRF
+Mn
+0.0126
+mass%
+XRF
+Fe
+0.1215
+mass%
+XRF
+Zn
+0.0234
+mass%
+XRF
+Sr
+0.0131
+mass%
+XRF
+zr
+0.0018
+mass%
+XRF ...

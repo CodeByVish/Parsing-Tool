@@ -1,0 +1,606 @@
+ a clear illustration that communicates the concepts in: fe SWAG ect WHOM chor eauilitsuir atti camara
+
+ach nai 0 14000 14000
+Wa mgt 0 400 400 |
+, 3 , 763 , 8 Ob
+in 4 23 0617 |
+ht my 234 136 362 |
+ Ph Ph Ph |
+shie strengl_ mmolf 286 678 3533 |
+ mgt 19599 34130 2VANg |
+Nour iGier 24408 47013 3432 7 |
+Alkalinity IpM H322 H8 1386 |
+spr 8327 6827 1386 |
+spr 3 ...
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: mail 1336 , 1336 , 877
+
+ mail 068 : 8086 : 132
+ Eh mail 036 ; 036 ; 0 369
+ mail A635 : A864 : AB
+ mail V7 : 7 : V7
+o4 mail ng : ng : 718 |
+ultite mail Oo ; 1 86e 12 : 137e 11
+ultide mail o : 1 38e 18 : 391e 13
+| mail 1481 : 10474 : 10408
+wT mail 1198 : 1198 : 1196 |
+ mail 816 : 816 : 818
+4 mail 63 : 63 ; 6
+ mail 16 ; 126 : ag
+ mail 137 : 137 : 137
+3 mail 1833 : 1833 : 1830
+magi 2381 ; 2381 ; 2 36
+
+f miei ) is] ABe 1 3 08e 16 |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: mail 1336 , 1336 , 877
+
+ mail 068 : 8086 : 132
+ Eh mail 036 ; 036 ; 0 369
+ mail A635 : A864 : AB
+ mail V7 : 7 : V7
+o4 mail ng : ng : 718 |
+ultite mail Oo ; 1 86e 12 : 137e 11
+ultide mail o : 1 38e 18 : 391e 13
+| mail 1481 : 10474 : 10408
+wT mail 1198 : 1198 : 1196 |
+ mail 816 : 816 : 818
+4 mail 63  ...
+
+=== Slide 13 ===
+Option 5a -SWRO Reject chemical precipitation
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mmol per Liter solution:
+alccite: precip A 3 mM oO is] A 3
+Yydtoxyapatite precip 096 mM 0 ; 0 ; 0 596 ;
+eaife precip 62.6 mM 0 ; 0 : 62 6 ;
+Saturation Indices (Sl)
+input Output Output 2
+ol Oo Minerals in equilibrum
+alccite: ACO 1276 ; 83 ; [9]
+ydtoxyap.atite Cabl{POAJ3 ) h ba ; 136 ; 18]
+Juorite ak 7 ) Bb ; 653 ; [8]
+102 107 116 ; 119 : 0 .
+Sls oO supersaturated .
+on 107 2 43 : 2 a6 : 127 .
+haleedony S107 ; 203 ; OBA
+siren 107 Lar ; 1s : 0 306 .
+She O undersaturated ; .
+ ems SOA DH 387 : 0774 : 0 fh .
+-ortlandite aOH)2 138 : 92 : 133 .
+Brucite Ml OH 818 ; 748 : 104 .
+alite Nac 3.99 ; 316 ; 311
+henatdite | NaZSO4 42 : aaa : 426 .
+Mit aboilite Na S304 ) 3h ; 3 76 ; 35
+N ahccolite N ; ) 1 46 : 156 ; 03
+nie N 3. Na CO3 2H 713 ; 6 98 ; ab
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mmol per Liter solution:
+alccite: precip A 3 mM oO is] A 3
+Yydtoxyapatite precip 096 mM 0 ; 0 ; 0 596 ;
+eaife precip 62.6 mM 0 ; 0 : 62 6 ;
+Saturation Indices (Sl)
+input Output Output 2
+ol Oo Minerals in equilibrum
+alccite: ACO 1276 ; 83 ; [9]
+ydtoxyap.atite Cabl{POAJ3 ) h ba ; ...
+
+=== Slide 14 ===
+Option 6 - NF270 followed by SWRO (F-800 ppm)
+NF270
+HF WW
+SWRO
+Coagulation,Clarifier
+Sludge
+F: 150 m3/hr
+F:800 mg/l
+PO4: 100 mg/l
+CoagulationClarifier
+Sludge
+BWRO (optional)
+Stream 1
+Stream 2
+Stream 3
+Stream 4
+Stream 5
+Stream 6
+Stream 7
+Stream 9
+Stream 8
+Stream 10
+Stream 11
+Polishing filters
+Stream 12
+
+=== Slide 15 ===
+HFW – Feed Water Characteristics
+
+[Picture on Slide 15 | GENERIC_FIGURE]
+OCR: | bab Wie NbSSE 1 Se eie MEW Mix
+
+5 how cmh 200 719 439
+pi | 3% iQ ae
+( onductivity pec | 1.500 4000 220f
+TOK ppm | t, 1) a
+Drssalved Silica ppm | 0 100 a
+Ammoriuc ppm | 70 ie)
+ lucrtiche ppm | 800 sa) 643
+Sulphate ppm | 100 400 Fatd
+Tee bechity WI | 10 t
+TMA ppm | l
+PA ppm 1.000 400 ca)
+( hhoe che ppm | +0 700 178
+Sodram ppm | , 2000 1048
+C alcaum ppm | , 0 3
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: | bab Wie NbSSE 1 Se eie MEW Mix
+
+5 how cmh 200 719 439
+pi | 3% iQ ae
+( onductivity pec | 1.500 4000 220f
+TOK ppm | t, 1) a
+Drssalved Silica ppm | 0 100 a
+Ammoriuc ppm | 70 ie)
+ lucrtiche ppm | 800 sa) 643
+Sulphate ppm | 100 400 Fatd
+Tee bechity WI | 10 t
+TMA ppm | l
+PA ppm 1.000 400 ca)
+( hhoe che  ...
+
+=== Slide 16 ===
+Option 6 – NF270 + SWRO With 800 ppm of F
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: 3] (sv)
+th, ak
+[1] [2] eye A WA 7
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 3] (sv)
+th, ak
+[1] [2] eye A WA 7 ...
+
+[Picture on Slide 16 | FLOW_DIAGRAM]
+OCR: = Descrphon flow TDS Pewee = Dexcription Slow TDs Prevre
+{m /h) (me/t} (sr) {m fh) {mest} (bar)
+1 Rape Feed to RO Sytem 1247 196 a0 2A Net ieed to Pans 2 iad 1.090 290
+2 Met Feed fo Paw t Vit 2145 Sb 4A Total Concentrate fom Eke Y 7132 Pees]
+Pans
+2 Concentrate Recycie oa 60 39 SO Net Conoratsate cies 6,7:
+from Bans 1 to Pans 2
+4 Total Concentrate from He 6559 39
+Pawt
+Sheet Concentrate from 293 6.559 39
+RO Sytem
+6 Total Peemeagte from 1054 Ee] a0
+Paw
+9 Pert Product mas 993 a0
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: = Descrphon flow TDS Pewee = Dexcription Slow TDs Prevre
+{m /h) (me/t} (sr) {m fh) {mest} (bar)
+1 Rape Feed to RO Sytem 1247 196 a0 2A Net ieed to Pans 2 iad 1.090 290
+2 Met Feed fo Paw t Vit 2145 Sb 4A Total Concentrate fom Eke Y 7132 Pees]
+Pans
+2 Concentrate Recycie oa 60 39 SO Net Conoratsate ci ...
+
+=== Slide 17 ===
+Option 6 – NF270 + SWRO With 800 ppm of F
+
+[Picture on Slide 17 | FLOW_DIAGRAM]
+OCR: Pass : Pass 1 : Pass 2
+Scam Name : Stream 1 : .
+Water Type : Waste With DuPont UF, SDI < 2.5 : RO Permeaste SDI < 1 .
+ Husbes of Elements , 140 : 47 .
+Total Active Areca (m ) 5203 3148
+
+F eed Flow per Pass (m /h)} 1311 : 105 .
+beed TDS (rng/l) 7,145 1.090
+
+feed Pressure (bar) 56 79.0
+
+blow Factor Per Stage 090,090 095,095
+
+ Pevmesic blow per Pass (m /h)} : 1054 : a9.5 .
+Pass Average flux {LMebd) 20.2 284
+
+Permeate TDS (rng/l) 1.089 9.93
+
+Pas Recovery , 804% , 81% .
+eta: NDP (bar) : 14 : 71.8 .
+Specific f nerpy {kWh/m ) 024 1.19
+
+Temper sture ( C) 30.0 30.0
+
+pH 3.5 (After Adjustment) 49
+
+r hernical Dose : 3.0 rmp/t NayPpOuw : .
+RO System Recovery /1 8%
+
+Net RO System Recovery : 418% .
+ Spee ific E nergy {kWh/m ) : 14/7 .
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass : Pass 1 : Pass 2
+Scam Name : Stream 1 : .
+Water Type : Waste With DuPont UF, SDI < 2.5 : RO Permeaste SDI < 1 .
+ Husbes of Elements , 140 : 47 .
+Total Active Areca (m ) 5203 3148
+
+F eed Flow per Pass (m /h)} 1311 : 105 .
+beed TDS (rng/l) 7,145 1.090
+
+feed Pressure (bar) 56 79.0
+
+blow Factor Pe ...
+
+[Picture on Slide 17 | GENERIC_FIGURE]
+OCR: 3] (sv)
+th, ak
+[1] [2] eye A WA 7
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 3] (sv)
+th, ak
+[1] [2] eye A WA 7 ...
+
+=== Slide 18 ===
+Option 6 – NF270+SWRO with 800 PPM of F
+NF270
+SWRO
+Stream 4
+Stream 9
+
+[Picture on Slide 18 | FLOW_DIAGRAM]
+OCR: . Concentrations (mg/L as ton) .
+. Adjusted Feed Concentrate Permeaste .
+Raw Feed | Initial After Stagel Stage2 Stagel Stage2 Total to
+Recycle Pass 2
+. NH, 70.00 , 70.00 , ZU.71 33.3% 54.68 11.84 17,37 13.64 .
+K 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Na Bsa A874 BAS 1,321 7, 24%) Ab/ 4 685.9 538.7
+Mg 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Ca 500 5.00 5 86 11.06 22.54 14% 46 1/8
+Sr 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Bas 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+| CO, , 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 .
+HCO, 126 1.26 106 0/1 0 46 77.93 27.59 24.55
+NO, 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+t 00 0 00. 0 89/76 1.509 7,783 3/89 559.6 436.6
+Cl 59 00 59 00 63.37% 93.74 14% 2 3/7 40 55.92 43,71
+Br 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ 0, 7 100.0 100.0 1758 vd Ven | 67% .% 270 % 41 3.68
+. PO, 100.0 , 100.0 , 1762 2/64 6454 0.0 , 0.03 , 0.0 .
+SO; 30.00 30.00 3106 38.94 51.34 24.37 79.65 26.09
+Boron 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+. CO, 3/787 3787 379.0 3/96 380.0 367 , 359.9 361.8 .
+. TDS 1.916 , 1.916 , 7,14 3,583 6,559 O47 4 1380 1.089 .
+Cond 3477 3.477 3,770 5,652 8,946 7,043 2 MA 2,340
+pS/em
+pH 3% 35 3% 3.3 3.0 4.9 49 49
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: . Concentrations (mg/L as ton) .
+. Adjusted Feed Concentrate Permeaste .
+Raw Feed | Initial After Stagel Stage2 Stagel Stage2 Total to
+Recycle Pass 2
+. NH, 70.00 , 70.00 , ZU.71 33.3% 54.68 11.84 17,37 13.64 .
+K 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Na Bsa A874 BAS 1,321 7, 24%) Ab/ 4 685.9 538.7
+ ...
+
+[Picture on Slide 18 | FLOW_DIAGRAM]
+OCR: mamma ia
+Concentrations (mg/L at jon)
+. Concentrate Permeate .
+Feed Stagel Stage2 Stagel Stage2 Total
+| NH, 1364 3/7 BG 90 60 00% 0 16 0.08 .
+K 0.00 0.00 0.00 0.00 0.00 0.00
+Na 5387 149% 3.579 195 5 69 7.8/7
+Mg 0.00 0.00 0.00 0.00 0.00 0.00
+Ca 1/8 496 11.89 0.00 001 0.00
+Sr 0.00 0.00 0.00 0.00 0.00 0.00
+Ba 0.00 0.00 0.00 0.00 0.00 0.00
+. CO, 0.00 0.00 0.00 0.00 0.00 0.00 .
+HCO, 24 y s 41.39 b4 30 406 46 4.20
+NO, 0.00 0.00 0.00 0.00 0.00 0.00
+f 4366 1,71 7,900 159 AbA 2.34
+Cl 43.71 170.0 PRIA Oi 0.35 0.1/7
+Rr 0.00 0.00 0.00 0.00 0.00 0.00
+ 0, 3 68 10.2% 74 58 0.00 0.00 0.00
+. PO, 0.0 007 0.16 0.00 0.00 0.00 .
+SO, 76.09 17.3% 173.0 013 0 40 0.20
+Boron 0.00 0.00 0.00 0.00 0.00 0.00
+| CO, 3618 3/44 392.3 363.0 3/65 6.3 .
+. TDS 1.089 2 YN) 7,13 7% 15.94 , 9.93 .
+Cond 7,340 6,119 13,686 3 ae %
+pS/ermn
+pH 4g 5.0 541 4 43 4
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: mamma ia
+Concentrations (mg/L at jon)
+. Concentrate Permeate .
+Feed Stagel Stage2 Stagel Stage2 Total
+| NH, 1364 3/7 BG 90 60 00% 0 16 0.08 .
+K 0.00 0.00 0.00 0.00 0.00 0.00
+Na 5387 149% 3.579 195 5 69 7.8/7
+Mg 0.00 0.00 0.00 0.00 0.00 0.00
+Ca 1/8 496 11.89 0.00 001 0.00
+Sr 0.00 0.00 0.00 0.00 0.00  ...
+
+=== Slide 19 ===
+Option 6 – Polishing BWRO  to meet NEWater
+
+[Picture on Slide 19 | FLOW_DIAGRAM]
+OCR: 3]
+Ess
+| Description Flow TOS Pressure |
+a (m /h) (mg/l) (bar) .
+1 Rew Feed to RO System 89 6 10.30 0.0
+2 Net Feed to Pass 1 WS 17.75 7.3
+3) Concentrate Recycle from Pass 1 fo Pass 1 496 56.56 4.4
+4 Total Concentrate from Pass t 142 56.56 4A
+5 Net Concentrate from RO System 92 56.56 4.4
+6 Net Product from RO System 80 4 49 0.0
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: 3]
+Ess
+| Description Flow TOS Pressure |
+a (m /h) (mg/l) (bar) .
+1 Rew Feed to RO System 89 6 10.30 0.0
+2 Net Feed to Pass 1 WS 17.75 7.3
+3) Concentrate Recycle from Pass 1 fo Pass 1 496 56.56 4.4
+4 Total Concentrate from Pass t 142 56.56 4A
+5 Net Concentrate from RO System 92 56.56 4.4
+6 Net Produc ...
+
+=== Slide 20 ===
+Option 6 – Polishing BWRO  to meet NEWater
+
+[Picture on Slide 20 | FLOW_DIAGRAM]
+OCR: Pass : Pass 1
+ Steeamn Name : Stream 1
+Water Type , RO/NE Permeate (SDI < 1)
+ Number of Blements , 98
+Total Active Area (m ) 4006
+
+F eed Blow pet Pass (m /h) , 945
+feed TDS (mg/l) 175
+
+Seed Pressure (bar) 73
+
+Slow Factor Per Stage 095,094
+
+ permeate Slow per Pass (m /h) , 80.4
+Pass Average flux (UM) 20.2
+
+Permeate TDS (g/l) 492
+
+ pass Recovery : 851%
+ Average NDP (bar) : 43
+Specific nergy {kWh/m ) 030
+
+Tempereture ec 20.0
+
+pH a
+
+r hetnical Dose :
+RO System Recovery 89.7%
+
+ Net RO System Recovery : 89.7%
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass : Pass 1
+ Steeamn Name : Stream 1
+Water Type , RO/NE Permeate (SDI < 1)
+ Number of Blements , 98
+Total Active Area (m ) 4006
+
+F eed Blow pet Pass (m /h) , 945
+feed TDS (mg/l) 175
+
+Seed Pressure (bar) 73
+
+Slow Factor Per Stage 095,094
+
+ permeate Slow per Pass (m /h) , 80.4
+Pass Average flux (UM) ...
+
+[Picture on Slide 20 | FLOW_DIAGRAM]
+OCR: Concentrations (mg/L as ton)
+ : : Adjusted Feed : Concentrate : Permeate
+Raw Feed Initial : After , Stagel : Stage2 : Stagel : Stage2 : Total
+Recycle
+ NH, , 008 : 0.08 , a1 : 0273 , 069 : oo. : 00 : oo.
+K 0.00 0,00 ao00 ooo ooo ooo ooo 0.00
+Na 287 287 4al 813 24.61 076 O%7 0 38
+Mg 000 0,00 000 000 000 000 000 0.00
+Ca 0.00 0,00 ao00 ooo ooo ooo ooo 0.00
+Sr 0.00 0,00 ao00 ooo ooo ooo ooo 0.00
+Ba 000 0,00 000 000 000 000 000 0.00
+ CO : 0.00 , 0,00 , ao00 , ooo : ooo : ooo , ooo : 0.00
+HCO, 4a 435 AAA Aja Soe aul 419 414
+NO, 000 0,00 000 000 000 000 000 0.00
+f 234 7.34 377 660 19.96 02 ao47 0 32
+cl 038 0.38 OS 116 367 ooo ao. 000
+Be 000 0,00 000 000 000 000 000 0.00
+ 0, 7 0.00 0,00 ao00 ooo ooo ooo ooo 0.00
+ PO, , 0.00 : 0,00 , ao00 , ooo , ooo : ooo : ooo : 0.00
+SO, 0270 0.20 029 O61 193 000 000 0.00
+Boron 0.00 0,00 ao00 ooo ooo ooo ooo 0.00
+ co, , 478.3 : 4278.3 , 42787 , 4309 , 434% : 4)67 : 429.) : 427.6
+ TDS . 10.30 : 10 30 , Wy , 2156 , 56.56 : Abs : 32 : 49)
+Cond 39 39 aa 63 138 27 29 28
+pS/om
+pHi 4a A 4 4.2 42 4.2 a 4
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Concentrations (mg/L as ton)
+ : : Adjusted Feed : Concentrate : Permeate
+Raw Feed Initial : After , Stagel : Stage2 : Stagel : Stage2 : Total
+Recycle
+ NH, , 008 : 0.08 , a1 : 0273 , 069 : oo. : 00 : oo.
+K 0.00 0,00 ao00 ooo ooo ooo ooo 0.00
+Na 287 287 4al 813 24.61 076 O%7 0 38
+Mg 000 0,00 000 000 0 ...
+
+=== Slide 21 ===
+Option 6-NF270 Reject chemical precipitation using Ca(OH)2
+Stream 6-sludge
+Stream 419.3 m3/hr
+Stream 518 m3/hr
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: alOH)e nai 0 7000 7000
+
+, 3 127 , 128
+mn 4 32 32
+
+ht my 231 31% 31%
+
+ ay 2s 2s
+
+Ine strengl mmolf 96 B 278 111
+
+ mgt 6010 9781 3261
+C28 iGier 8061 26867 19799
+Alkalinity spr 4370003 8 796 A612
+spr 0 796 A612
+
+spr b6 3 QA9i 669
+
+3 , 79 0 0
+
+ magi 22% 3803 268
+
+N. ng 21a 21a 21a
+
+504 mgt 676 62 62
+
+ maqi 1a 1a 1a
+WHA mgt bA bA 6 bA 6
+14 mice 710 710 1 fer Of
+5 magi 2A 23.9 23.9
+3 magi 2 183 . 2779 . 336
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: alOH)e nai 0 7000 7000
+
+, 3 127 , 128
+mn 4 32 32
+
+ht my 231 31% 31%
+
+ ay 2s 2s
+
+Ine strengl mmolf 96 B 278 111
+
+ mgt 6010 9781 3261
+C28 iGier 8061 26867 19799
+Alkalinity spr 4370003 8 796 A612
+spr 0 796 A612
+
+spr b6 3 QA9i 669
+
+3 , 79 0 0
+
+ magi 22% 3803 268
+
+N. ng 21a 21a 21a
+
+504 mgt 676 62 62
+
+  ...
+
+=== Slide 22 ===
+Option 6- NF270 Reject chemical precipitation using Ca(OH)2
+>80% of CaF2 sludge
+
+[Picture on Slide 22 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+utp utp
+ftland re Om 0 ; 0 ; 170
+hearse ict 0 : 0 : 1138
+ber ict 0 : 0 : Sn
+Saturation Indices (Sl)
+utp utp
+Sl oO Minerals. in equilibrium
+fe tleatics eal 706 : 0 2 : o
+i Ip). <3 ja3 23.1 : 232 : o
+[iTey 5 3.96 : 667 : o
+ole O undersaturated : :
+wun a5 1a : 0778 : 0867
+t cl 823 : 839 ; 524
+5 AGA : 807 : 468
+ont 3 86 : A3 : 39
+| i 104 : 36 : 364
+ as 213 : 0492 : 108
+ijeat iT | git : 233 : 2 38
+ett i aba : 2 16 : 781
+hi 312 ; 248 : 973
+ 341 : 218 : 9.43
+Cals 607 : agi : S01
+rophil acl 208 : 1g : 195
+ acl 129 : i : 118
+sere i 101 : 329 : 334
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mg per Liter solution:
+utp utp
+ftland re Om 0 ; 0 ; 170
+hearse ict 0 : 0 : 1138
+ber ict 0 : 0 : Sn
+Saturation Indices (Sl)
+utp utp
+Sl oO Minerals. in equilibrium
+fe tleatics eal 706 : 0 2 : o
+i Ip). <3 ja3 23.1 : 232 : o
+[iTey 5 3.96 : 667 : o
+ole O undersaturated : :
+wun a5 1 ...
+
+=== Slide 23 ===
+Option 6- SWRO Reject chemical precipitation
+Stream 11-sludge
+Stream 915.8 m3/hr
+Stream 1014.8 m3/hr
+
+[Picture on Slide 23 | GENERIC_FIGURE]
+OCR: alOH)e nai 0 6000 6000
+, 1 , 6 6b , 6 69
+in 4 113 113
+ft my 231 641 669
+1 2s 2s 2s
+ magi 7903 20078 13377
+C28 iGier 13495 21251 17681
+Alkalinity spr 10% 8108 i641
+spr 10% 8108 (6A)
+spr 207 BIA 631
+3 Ob 0 0
+mgt 2a8 2486 243)
+ f ric) 119) BPH Ph 3
+7 mgt 3679 3679 36 78
+504 magi 2a 6 2a 6 2a 6
+} magi 287 287 287
+WHA mgt 90 6 90 6 90 6
+14 mice 0 05 0 05 0 047
+5 magi 80 7 80 7 67
+; mgt 2900 . 2900 . 1
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: alOH)e nai 0 6000 6000
+, 1 , 6 6b , 6 69
+in 4 113 113
+ft my 231 641 669
+1 2s 2s 2s
+ magi 7903 20078 13377
+C28 iGier 13495 21251 17681
+Alkalinity spr 10% 8108 i641
+spr 10% 8108 (6A)
+spr 207 BIA 631
+3 Ob 0 0
+mgt 2a8 2486 243)
+ f ric) 119) BPH Ph 3
+7 mgt 3679 3679 36 78
+504 magi 2a 6 2a 6 2a 6
+} magi 2 ...
+
+=== Slide 24 ===
+Option 6 -SWRO Reject chemical precipitation
+>80% of CaF2 sludge
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+ealecite: precip 469 mg [8] is] 469
+wot srecip 93 003 mg _ oO ; 0 ; 8934
+HOPL{ i precip 61 4 me ) [8] ; is] ; 614
+Saturation Indices (SI)
+ol Oo Minerals in equilibrum
+
+ealecite: eal 4 Bb ; 192 ; is]
+uorite ab 7 438 ; 661 ; )
+Ole 3107 39 : 0 708 ; )
+Sls oO supersaturated
+
+Sn 10 263 : 148 : 12
+halcedotr 107 ) 306 ; 10% ; O8A
+sheage 3107 36 ; Ob1A ; 0 306
+She

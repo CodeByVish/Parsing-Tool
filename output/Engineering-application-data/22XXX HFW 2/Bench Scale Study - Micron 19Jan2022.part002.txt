@@ -1,0 +1,717 @@
+ Il Li bs ) Date Received GIESE.
+= a . ifs Date Opened } | |F
+Date Ex ...
+
+[Picture on Slide 15 | GENERIC_FIGURE]
+OCR: o> |
+: zg
+-
+fi 6 ae = = = : - -_ ~ .
+/ Oil ra A a | gence .
+. 1 one Va Za . - in y Ah ae | ., P
+; yh a Sar | j rye ie) ;
+ . Pas J : ro ; J ; j in = 7
+ ae gee mT ee: : nee
+aa ls 2 hia i i 7 : : .
+mn a |
+ow | ae +, ie
+ Me, - = 4. | e a ry a /
+ff Mer meciormeste : _ Ja
+; Fd ea iiinsienaastcapeeeel eae ~qiendl ~ - 4 = a 4 J
+TT ~a a ee . - = : _ = =e.
+ hh Sag ,
+Fd ee ;
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: o> |
+: zg
+-
+fi 6 ae = = = : - -_ ~ .
+/ Oil ra A a | gence .
+. 1 one Va Za . - in y Ah ae | ., P
+; yh a Sar | j rye ie) ;
+ . Pas J : ro ; J ; j in = 7
+ ae gee mT ee: : nee
+aa ls 2 hia i i 7 : : .
+mn a |
+ow | ae +, ie
+ Me, - = 4. | e a ry a /
+ff Mer meciormeste : _ Ja
+; Fd ea iiinsienaastcapeeeel eae  ...
+
+=== Slide 16 ===
+Preparation of Synthetic Combined NF RO Reject Solution (with pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.210
+NaCl	0.064
+CaCl2	0.049
+HF	2.986
+H3PO4	0.367
+SiH2O3	0.138
+H2SO4	0.362
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	3.5	-	3.5
+Conductivity	-	-	6,375 µS/cm
+TDS	-	-	3,394
+NH4	70.8	70.8	65.8
+F	2,835	2,835	2,928
+SO4	355	355	345
+PO4	356	356	366
+Cl	209	209	211
+Na	2,790	24.99	500
+Ca	17.7	17.7	11.1
+Si	49.5	49.5	47.6
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey gs OO Pe i Ponee ee S
+5 ae See mate ee J a tin Se Ted FH G2: Se oe
+=: x get oe sets Ju eS - OA i oF = wine data ; oS
+as Se y > nat toe : is Sa Dien i ~ Fae aT, ats ft MS dawhe a CAPE. a
+a. 2 IS a al , ag Fi
+ > > Fe J
+s . ioe - er. -
+, ite Ex Payee ta foe
+: ow ret a Fried Sie 4 s : :
+. o ety - 3 iy F
+ de f. ae Ss
+: , :
+ial <- = a
+~ SS S , :.
+- -_ x
+=a i S , + > 2
+oH
+| ; P
+>
+ =
+> : >
+- _ -
+o=~, < =
+Io
+a |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey g ...
+
+=== Slide 17 ===
+Jar testing Procedure
+To each testing jar, pour in 1L of wastewater sample
+To each jar, dose in 7000/7500/8000 mg/L of Ca(OH)2 and rapid mix for 30s
+Slow mix for 30 min, measure pH every 10 min
+Dose 1mg/L for each of the SNF polymer (anionic) in each jar and further slower mix (30 rpm) for 30 min. Measure pH every 20 min
+Stop mixing and leave the solids to settle over 60 min
+Observe sludge settling and measure sludge height every 5 min (if applicable)
+Measure turbidity of supernatant and collect the sludge
+For the jar with the lowest supernatant turbidity reading, filter out the supernatant through 0.45 um filter and send for analysis and collect the sludge generated
+For the sludge collected, filter out using 1.5 µm filter. Collect the sludge, dry sample for XRD analysis. Meanwhile, dissolve a pre-determined amount of collected sludge in acid and send for analysis
+
+=== Slide 18 ===
+Jar testing of Synthetic HFW+NH4F with Lime (with pH adjustment)
+Synthetic HFW+NH4F with added lime
+Solution after the addition of Flocculant (precipitates clumped and settled in less than 1 min)
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: Ne a ae
+P = Seal epee
+ene LT .
+eal -
+eee
+ m a te Em - -
+. = - ba 4 -
+-- . -
+i ne
+5 Fe Se
+e.. See ee i
+ mange 7 : a
+
+aa
+: -
+;
+. ; ; o> Fl low. iM i 2
+4 a , % ; ain Lae hae rk a CTA Ris tong ran
+3 epee TOY oe eae Rannpiin gee UJ 22 aie mie
+a Ph ae Sap a ee r ap ~ pom J ates
+ 7 aa T } - ~ i _ a a eee
+Pal ee . : _ - oa feign
+<n in a. - oe ~ j rE Je hs ee
+ae, ne + a :. - . : r ; - igi eo -
+cies ge py i ede a 3 ere , 4
+er a. : E < _
+eae | : oy er cle 7s, = ,
+ 7 ei : ; a td Bitlis aa + 7 Sagan 7 a as s 3
+ _ a re - - ao . ; ; . _
+ie: ee : 7, a 7
+ ~ re, Ee Ee ge me ete oe Ah ee
+. . _
+4 = T
+ST _ _
+
+ _ _
+De _ A i
+4 . TE G fe lt he
+_ t e _ _ _
+, a
+i i
+meal i | j _ F E
+ a - ; oa ta , - : ey > bd Ss ie ed
+__. oe 2 - y e + <r eee, h be | Cn PP RN SS Sal Ca
+ < ae 1 LITER on ba i a eS eee : 2a
+_ y - RO SE, A re _ _ eB
+= _ = 7 a = le ; apd ae > eos fe.
+ . Se gt a < x ;
+ = ; ba % Seis >) a eee oy , a ae bd Se z
+ 4 ~ . 4 . wil os aaik- pie bY : oP F 5 ce a oa
+- 3 Se : --65 aa NES 4, a pone -~-
+ - - > . : e ad eee: i <u (Re as 4 ee + A 7 =
+ E fe mon . , ft get Fi = ; aan ~ PS = P . ; 74) wee / :
+. wets + + te q +
+oy > oe oe t , - i y anil
+ rr : iene , j
+ f 4 - 4 toe
+ae =a fs A _
+~ ; - _ _
+ - | ps
+; -
+e
+: , i
+as ; | YS
+ f Ww i)
+4 x
+- .
+| , a
+Bern, ae ere :
+ OE eee
+ren ee Rte in ne
+~ 4 Saat De, a on i
+intomes ; 1 pipes se ae ae ios Os ania
+ete ok a b Mad Ef ye es.
+. ha ee ae Pa es te ee)
+eo 7
+, ) |
+. = = ,
+ . :
+e
+NN
+
+~ ~ Boe
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Ne a ae
+P = Seal epee
+ene LT .
+eal -
+eee
+ m a te Em - -
+. = - ba 4 -
+-- . -
+i ne
+5 Fe Se
+e.. See ee i
+ mange 7 : a
+
+aa
+: -
+;
+. ; ; o> Fl low. iM i 2
+4 a , % ; ain Lae hae rk a CTA Ris tong ran
+3 epee TOY oe eae Rannpiin gee UJ 22 aie mie
+a Ph ae Sap a ee r ap ~ pom J ates
+ 7 aa T } - ~ i _ a a ee ...
+
+=== Slide 19 ===
+Jar testing of Synthetic HFW+NH4F with Lime (with pH adjustment)
+Chemical precipitation with 2000 mg/L Ca(OH)2
+Coagulation and flocculation with 1 mg/L anionic polymer
+
+[Table 1]
+Jar	pH
+	t = 10 min	t = 20 min	t = 30 min
+1	9.6	11.2	11.55
+2	10.8	11.54	11.75
+3	10.4	11.46	11.74
+
+[Table 2]
+Jar	pH			Polymer used
+	t = 10 min	t = 20 min	t = 30 min
+1	11.55	11.57	11.52	Flopam AN 905 MPM
+2	11.54	11.74	11.69	Flopam AN 905 SH
+3	11.63	11.72	11.62	Flopam AN 934 SH
+
+=== Slide 20 ===
+Jar testing of Synthetic HFW+NH4F with Lime (with pH adjustment)
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 3
+pH	3.5	11.62
+Conductivity	2,481 µS/cm	1,715 µS/cm
+TDS	1,263	857.3
+NH4	19.2	17
+F	789	131
+SO4	98	82.6
+PO4	205	<1
+Cl	62.9	54.3
+Na	339	305
+Ca	4.05	17.8
+Si	16.2	6.53
+
+[Table 2]
+Jar	Polymer added	Supernatant turbidity (NTU)
+1	Flopam AN 905 MPM	0.73
+2	Flopam AN 905 SH	0.55
+3	Flopam AN 934 SH	0.44
+
+=== Slide 21 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment) – Testing 1
+Synthetic combined reject solution in different jars
+Synthetic combined reject solution with added lime at different dosages (7000, 7500, 8000 ppm)
+Solution with added flocculant (Flopam AN 934 SH). Precipitates clumped and settled after the addition of flocculant.
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: e es
+5 Z vA .
+ oe
+3 se _ 6 La
+os
+.. eet.
+ Seif
+7. waa
+. iz ars My
+a, han + ~
+Ms rar 2
+
+heal .
+ze -
+ 1 . ; i s
+ ee om os ; rf - | iH os P
+ 2 | ; : -
+L | o z : - |
+MPHIPPS .BIAD : PR ee ; 4 |
+e ~) 7 a Tia > ;
+2 MPLIPBSCr 2D OPE - an
+ _ oR eae. = HMIRBSABIRD |
+ye . = 2 LITER . ie
+| ___ he + _ _ _ 2 LITER }
+ee au a
+ = -
+a ee _ _ - ee
+ae __
+ <. _ a
+es =f fT | = p
+ owe OF
+en 4 a a LITER
+ ee ont mii
+ee
+yi. a. ; aaa i TT s
+I
+_- } | x
+4 - _-_ Q >
+a = Shen, ia a
+ik ries - ee <a Git, = ae. ie a oui
+bat ou 5 ae D . red 4 | min : ial = ioe Fines 4
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: e es
+5 Z vA .
+ oe
+3 se _ 6 La
+os
+.. eet.
+ Seif
+7. waa
+. iz ars My
+a, han + ~
+Ms rar 2
+
+heal .
+ze -
+ 1 . ; i s
+ ee om os ; rf - | iH os P
+ 2 | ; : -
+L | o z : - |
+MPHIPPS .BIAD : PR ee ; 4 |
+e ~) 7 a Tia > ;
+2 MPLIPBSCr 2D OPE - an
+ _ oR eae. = HMIRBSABIRD |
+ye . = 2 LITER . ie
+| ___ he + _ _ _ 2 L ...
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: ae a -
+eee hah As, I Si a ieee eat mia Te
+; a > ee ; .
+ gee ; oe ad pate. it y Sm hl ea here ee
+ie Ms ie ae ae oe Skies SSS i Bees
+We ; ee = db eee he Me ee ee peat f= hg F
+~ cnn ea A. ae a Pr ye eS
+AT et Aer son eae ete partes greta - =
+Ae eraae Me 3 ry . . - = e :
+Pte i > Eat
+ Poe et ae
+4 See i
+eas Wits oe <a yee en 4 : - ~ > 3 :
+ge iz f We ; ey ge rd. f
+ if eee et ae i oe =
+~ , 7 |
+ y | IS ; ; <a . < re ~~ T
+} f . a fF 7
+P ej. Wea d co ye j Ks ) Zo ae 2 oe 7 im
+= ek , ee omen etme = aa ee eB
+aa = TE RR .
+: : A om = a j
+ Jo j
+ee a pe i
+- _ Wy = i
+ay i, he }
+a io }
+sens <n | A
+af : ot |
+a porte) 7 i }
+i oeeneneesineeenennea on Ake ~ _-
+a ee ea. y og
+oi ae d < <. _ saat ait . . sila eas sila - , .
+ amen . . a . t J aad ; nw
+ . a :
+parte . { ; = F
+ . w i - I 7, ;
+. : : wn
+_ - ~~ s <
+ _ _ a a -
+ | ~ |
+ | Pe
+em Tee o a
+ LITER
+ee oe Lie :
+ _ i e
+=e J
+ ;
+>= << i
+H
+| z= | =a
+ tue . PI
+ Saag - =
+SS a =
+Se
+ _ _ -_ F ~~
+> 4
+_ wa i
+ ,
+f - = i |
+be F
+|
+he , = ba : 4 i -
+ ay 4 i ;
+3g : F bee. a -
+ > - <n r 4 ~ . - by
+, ee xP - A ry = a 3 td
+F. ae ee Eat. me . > t yj
+3 y wae ete - em gd a. . .
+ am, a > aad diteeiien , my a . ee ee
+3 e wns a Pein , oe a4 : { TM J = oe q J o press - _ <<
+[3 e a5 i J : 4 4 oo.
+sac: 5 Suna ; 2 . : : 43 ee di , ie , o by 2 ta ged F , 7 a
+fart % ae era | FS tn ink ai i ae OE otal ty = . 4 a, PRL Ye 3 .
+. ss hal F be Sa aaa 2 a Be oy eon a ee a we eS va e a nd items - r med i 3
+aie ies is ve xP i eal ~ ; on a
+2. x ve pe it r
+oe ete AS ie be | - . See ee .
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ae a -
+eee hah As, I Si a ieee eat mia Te
+; a > ee ; .
+ gee ; oe ad pate. it y Sm hl ea here ee
+ie Ms ie ae ae oe Skies SSS i Bees
+We ; ee = db eee he Me ee ee peat f= hg F
+~ cnn ea A. ae a Pr ye eS
+AT et Aer son eae ete partes greta - =
+Ae eraae Me 3 ry . . - = e :
+Pte i > Eat
+ Poe et ae
+4 See i
+ea ...
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: h |
+SPRIPPS2 BIRD WPHIPPSal py (WPHIPPS BIR ID
+pie cea eae | =e == .
+=a | 7 , a F = . Fj %,- - :
+eaaaamane aa , y | 3 ae
+as EE LN
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: h |
+SPRIPPS2 BIRD WPHIPPSal py (WPHIPPS BIR ID
+pie cea eae | =e == .
+=a | 7 , a F = . Fj %,- - :
+eaaaamane aa , y | 3 ae
+as EE LN ...
+
+=== Slide 22 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment) – Testing 1
+Chemical precipitation with Ca(OH)2
+Coagulation and flocculation with 1 mg/L anionic polymer
+
+[Table 1]
+Jar	Lime dosage (ppm)	pH
+		t = 15 min	t = 20 min	t = 30 min
+1	7000	4.82	6.49	8.97
+2	7500	9.98	11.08	11.46
+3	8000	11.69	11.81	11.93
+
+[Table 2]
+Jar	Lime dosage (ppm)	pH			Polymer used
+		t = 10 min	t = 20 min	t = 30 min
+1	7000	9.03	9.23	9.22	Flopam AN 934 SH
+2	7500	11.45	11.47	11.43	Flopam AN 934 SH
+3	8000	12.01	12.05	12.00	Flopam AN 934 SH
+
+=== Slide 23 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment) – Testing 1
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3
+pH	3.5	9.22	11.43	12
+Conductivity	6,375 µS/cm	2,324 µS/cm	2,338 µS/cm	3,115 µS/cm
+TDS	3,394	1,177	1,185	1,603
+NH4	65.8	67.4	55.7	51.6
+F	2,928	210	137	60.3
+SO4	345	207	216	179
+PO4	366	<1	<1	<1
+Cl	211	192	194	194
+Na	500	493	459	478
+Ca	11.1	1.43	2.58	9.57
+Si	47.6	21.7	1.86	0.308
+
+[Table 2]
+Jar	Polymer added	Lime dosage (ppm)	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	7000	0.39
+2	Flopam AN 934 SH	7500	0.33
+3	Flopam AN 934 SH	8000	1.08
+
+=== Slide 24 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 2
+Synthetic combined reject solution in different jars, with added different chemicals. Jar 1 from the left most to jar 4 in right most.
+Starting of settling
+End of settling
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: . Ye - al
+- s 4 . 5 ;
+ _
+a
+ry - +
+ be. 3
+i nial Ds aia eal
+2 SE a a
+ ) - aa eo - qpemmme enw re y 3
+
+ 4 eis, ow ss a = 2 :
+het o ee Mie . j we i in
+
+s- PLIPPSep ss | ;
+
+oo a : . S 2 |
+ous - ye pe
+= a 7 - 7
+ Qa : 7 ; ==
+- ) i
+a Ss ,
+i a a: - we
+So Steed ed Rees y j i ll, aida wid -
+
+. on : a TM - - e
+
+= nn y : i 4
+es 4 eo ; i . : 5
+
+_ ye 2 ; =. e Fy aa - - a ;
+
+ a : a Sees = ace e ; bib : 3 ay eal ae f pI Po. / bog =u ay Rae ~ ~ A itil whe rae te Pow. a <_ 4
+De yy a e st : . ae bi + ; . { ky Tw
+_- , - - 3 a Sa aaa er ES, ee / vee ed _ an Yr,
+LITER ms =| | | om - SaaeRRIEERaEneneenE = 1 a oe 1 TER Ten aeaintih 9 Or 9 CPt yo . a 1 . - ae . )
+y : zs ITE
+ = | 5 LITER
+PO i, a | 7 e |
+ , a
+=, Boe |
+ oe | i a
+
+ _ pe -- be, ] a /
+
+ + : 4 :
+
+ ee eet J j ue : 4
+
+ , Yi 4 : ; d TM~ Aa oh.
+
+%
+- = |
+ . _ be
+e , }
+ |
+a | | = /
+a : a 4 x. 7 a
+: . ; =~
+ e Fat = ee Be be . . 7 : -
+
+i e 7 ae Pe LO LS a i i j : : ;
+ie ear . e Le 7 5 ae aed : aii ine . P ~. . oe. a na sia
+ - : 5 slap ei ne Troe he as nee } Pe tia nnd a 7 ee ee : 4 ee he ow
+
+i ele ce tak F _ wih aes vihigpage Py ey aig a 5 f a ; MERE eos: ae - ~~
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: . Ye - al
+- s 4 . 5 ;
+ _
+a
+ry - +
+ be. 3
+i nial Ds aia eal
+2 SE a a
+ ) - aa eo - qpemmme enw re y 3
+
+ 4 eis, ow ss a = 2 :
+het o ee Mie . j we i in
+
+s- PLIPPSep ss | ;
+
+oo a : . S 2 |
+ous - ye pe
+= a 7 - 7
+ Qa : 7 ; ==
+- ) i
+a Ss ,
+i a a: - we
+So Steed ed Rees y j i ll, aida wid -
+
+. on : a TM -  ...
+
+=== Slide 25 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 2
+Chemical precipitation with Ca(OH)2 (lime) and CaCl2
+Coagulation and flocculation with 1 mg/L anionic polymer
+
+[Table 1]
+Jar	Chemical dosage	pH
+		t = 10 min	t = 20 min	t = 30 min
+1	10,000 ppm lime	12.52	12.59	12.62
+2	12,000 ppm lime	12.65	12.70	12.71
+3	5,000 ppm lime + 5,000 ppm CaCl2	2.04	2.08	2.13
+4	6,000 ppm lime + 6,000 ppm CaCl2	2.38	2.94	4.81
+
+[Table 2]
+Jar	Chemical dosage	pH			Polymer used
+		t = 2 min	t = 10 min	t = 30 min
+1	10,000 ppm lime	12.58	12.54	12.56	Flopam AN 934 SH
+2	12,000 ppm lime	12.67	12.72	12.65	Flopam AN 934 SH
+3	5,000 ppm lime + 5,000 ppm CaCl2	2.13	2.13	2.09	Flopam AN 934 SH
+4	6,000 ppm lime + 6,000 ppm CaCl2	6.21	6.29	6.48	Flopam AN 934 SH
+
+=== Slide 26 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 2
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4
+pH	3.5	12.56	12.65	2.09	6.48
+Conductivity	6,375 µS/cm	8,233 µS/cm	10.64 mS/cm	11.76 mS/cm	10.43 mS/cm
+TDS	3,394	4,460	5,867	6,526	5,745
+NH4	65.8	57	59.4	68.4	72.6
+F	2,928	8.21	5.61	187	610
+SO4	345	72.4	50.6	32	96.3
+PO4	366	<1	<1	241	83
+Cl	211	191	164	2,939	3,548
+Na	500	353	343	365	402
+Ca	11.1	389	622	1,077	2,139
+Si	47.6	<0.1	<0.1	65.2	66.7
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	10,000 ppm lime	20.8
+2	Flopam AN 934 SH	12,000 ppm lime	74.2
+3	Flopam AN 934 SH	5,000 ppm lime + 5,000 ppm CaCl2	430
+4	Flopam AN 934 SH	6,000 ppm lime + 6,000 ppm CaCl2	496
+
+=== Slide 27 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 3
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4	Supernatant quality for Jar 5
+pH	3.5	11.96	11.91	12.03	11.91	9.8
+Conductivity	6,375 µS/cm	8889 µS/cm	17.23 mS/cm	11.93 mS/cm	14.4 mS/cm	7756 µS/cm
+TDS	3,394	4844	9824	6624	8108	4180
+NH4	65.8
+F	2,928	9.15	13	29.1	14	14.2
+SO4	345	116	117	114	114	106
+PO4	366	<1	<1	3.14	<1	<1
+Cl	211	2258	5414	3515	4316	2376
+Na	500	440	496	440	434	429
+Ca	11.1	1098	2858	1738	2263	920
+Si	47.6	0.149	0.342	0.863	0.356	10.5
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	8000 ppm lime + 4000 ppm CaCl2	56.9
+2	Flopam AN 934 SH	8000 ppm lime + 10000 ppm CaCl2	226
+3	Flopam AN 934 SH	8000 ppm lime + 6000 ppm CaCl2	138
+4	Flopam AN 934 SH	8000 ppm lime + 8000 ppm CaCl2	162
+5	Flopam AN 934 SH	6000 ppm lime + 4000 ppm CaCl2	22
+
+=== Slide 28 ===
+Preparation of Synthetic Combined NF RO Reject Solution (without pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.209
+NaCl	0.011
+CaCl2	0.049
+HF	2.242
+H3PO4	0.367
+SiH2O3	0.128
+H2SO4	0.362
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	1.9	-	3
+Conductivity	-	-	7745 µS/cm
+TDS	-	-	4175
+NH4	70.6	70.6	TBC
+F	2129	2129	2304
+SO4	355	355	336
+PO4	356	356	389
+Cl	177	177	234
+Na	17.6	4.49	7.74
+Ca	17.7	17.7	7.94
+Si	46.2	46.2	41.2
+
+[Picture on Slide 28 | GENERIC_FIGURE]
+OCR: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey gs OO Pe i Ponee ee S
+5 ae See mate ee J a tin Se Ted FH G2: Se oe
+=: x get oe sets Ju eS - OA i oF = wine data ; oS
+as Se y > nat toe : is Sa Dien i ~ Fae aT, ats ft MS dawhe a CAPE. a
+a. 2 IS a al , ag Fi
+ > > Fe J
+s . ioe - er. -
+, ite Ex Payee ta foe
+: ow ret a Fried Sie 4 s : :
+. o ety - 3 iy

@@ -1,0 +1,358 @@
+343	365	402
+Ca	11.1	389	622	1,077	2,139
+Si	47.6	<0.1	<0.1	65.2	66.7
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	10,000 ppm lime	20.8
+2	Flopam AN 934 SH	12,000 ppm lime	74.2
+3	Flopam AN 934 SH	5,000 ppm lime + 5,000 ppm CaCl2	430
+4	Flopam AN 934 SH	6,000 ppm lime + 6,000 ppm CaCl2	496
+
+=== Slide 13 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 3
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4	Supernatant quality for Jar 5
+pH	3.5	11.96	11.91	12.03	11.91	9.8
+Conductivity	6,375 µS/cm	8889 µS/cm	17.23 mS/cm	11.93 mS/cm	14.4 mS/cm	7756 µS/cm
+TDS	3,394	4844	9824	6624	8108	4180
+NH4	65.8	61.8	54.1	52.9	46.4	59.3
+F	2,928	9.15	13	29.1	14	14.2
+SO4	345	116	117	114	114	106
+PO4	366	<1	<1	3.14	<1	<1
+Cl	211	2258	5414	3515	4316	2376
+Na	500	440	496	440	434	429
+Ca	11.1	1098	2858	1738	2263	920
+Si	47.6	0.149	0.342	0.863	0.356	10.5
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	8000 ppm lime + 4000 ppm CaCl2	56.9
+2	Flopam AN 934 SH	8000 ppm lime + 10000 ppm CaCl2	226
+3	Flopam AN 934 SH	8000 ppm lime + 6000 ppm CaCl2	138
+4	Flopam AN 934 SH	8000 ppm lime + 8000 ppm CaCl2	162
+5	Flopam AN 934 SH	6000 ppm lime + 4000 ppm CaCl2	22
+
+=== Slide 14 ===
+Preparation of Synthetic Combined NF RO Reject Solution (without pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.209
+NaCl	0.011
+CaCl2	0.049
+HF	2.242
+H3PO4	0.367
+SiH2O3	0.128
+H2SO4	0.362
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	1.9	-	3
+Conductivity	-	-	7745 µS/cm
+TDS	-	-	4175
+NH4	70.6	70.6	63
+F	2129	2129	2304
+SO4	355	355	336
+PO4	356	356	389
+Cl	177	177	234
+Na	17.6	4.49	7.74
+Ca	17.7	17.7	7.94
+Si	46.2	46.2	41.2
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey gs OO Pe i Ponee ee S
+5 ae See mate ee J a tin Se Ted FH G2: Se oe
+=: x get oe sets Ju eS - OA i oF = wine data ; oS
+as Se y > nat toe : is Sa Dien i ~ Fae aT, ats ft MS dawhe a CAPE. a
+a. 2 IS a al , ag Fi
+ > > Fe J
+s . ioe - er. -
+, ite Ex Payee ta foe
+: ow ret a Fried Sie 4 s : :
+. o ety - 3 iy F
+ de f. ae Ss
+: , :
+ial <- = a
+~ SS S , :.
+- -_ x
+=a i S , + > 2
+oH
+| ; P
+>
+ =
+> : >
+- _ -
+o=~, < =
+Io
+a |
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 2 Ce Gas SE aa ee ig Gs ee hod gos an eiiigl tang ae
+ps a ae P, . ~~ - . _ = a _ = o> of
+SS ae. . Te eta fx 1 ay ~~) a i ne OF io ae > x75. at hod ais |
+ adn 2e a fen ee SER Oo rr +3, : Re eS a 4 Ppt eg See. et
+aa ae aS Stee Pe hase En Pe TE BS
+ p . + fe. <- a Pw es be PP, : =, p ~ . a -
+Ree ea ey g ...
+
+=== Slide 15 ===
+Jar testing of Synthetic Combined NF RO Reject (without pH adjustment)– Testing 1
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2
+pH	3	9.68	9.29
+Conductivity	7745 µS/cm	1941 µS/cm	7256 µS/cm
+TDS	4175	974.7	3889
+NH4	81.2	91.5	65.7
+F	2304	22	7.51
+SO4	336	150	137
+PO4	389	<1	<1
+Cl	234	456	2227
+Na	7.74	8.2	25.4
+Ca	7.94	295	1290
+Si	41.2	14.9	5.66
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	6000 ppm lime + 500 ppm CaCl2	9.98
+2	Flopam AN 934 SH	6000 lime + 4000 ppm CaCl2	20.4
+
+=== Slide 16 ===
+Preparation of Synthetic HFW+NH4F with IPA (with pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+IPA	1
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	-	-	3.5
+Conductivity	-	-	3,357 µS/cm
+TDS	-	-	1,134
+NH4	20	20	19.7
+F	800	800	819
+SO4	100	100	100
+PO4	200	200	214
+Cl	50	55.86	54.3
+Na	5	5	721
+Ca	5	5	1.49
+Si	14.02	14.02	12.7
+COD	-	-	2,450
+TOC	-	-	473
+IPA	1,000	1,000	1000
+
+=== Slide 17 ===
+Anti-scalant compatibility test - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+Initial solution pH: 3.3, pH adjusted to 3.5
+Avista vitec 7400 was selected for the NF filtration experiment because its addition into the feed solution didn’t alter the solution pH much.
+
+[Table 1]
+Anti-scalant	pH	Solution appearance
+Flocon 260	3.0	Clear
+Avista Vitec 3000	7.19	Clear
+Avista Vitec 5100	3.7	Clear
+Avista Vitec 7400	3.58	Clear
+
+[Picture on Slide 17 | GENERIC_FIGURE]
+OCR: i > ~~. 5 oS Me Ea OR %. lll a il a ee Re a 2 Se 2. < jot ao ae
+: RR I) Te, POE Sn ER eget ek a eae ~ Se Be PR RY
+j == , , ba oe, a ae et: Pe eh et A SEtSa ect of) Sees aah er a gee ee :
+ ae = ~ = y Se. ee LP == .
+1} 7 oS emai . a) Seer eee ae a = a %
+y = te om = at e = _ Pa ts ~, VS ~ . 6 ~ -. >
+; 7 4 > Z < j ~ . f ; m= . Fe - aed > oe 4
+Wy 2 oe ee A ~ Maes 3 is 1 f Ta j Sys tg r . : ees hk Pal | : =
+(a ae : g .7 Ne 7 Ubi : 2 e Py | OP PY eee Serle apne | : i ; ~ -
+es : 7 tM are aan : i hn Vertaal ve oT , : SS
+= : _ Aig: On : : = ch >
+- - = = = ee = Se : a3 net . %. GR cae jd 4 . ; i
+. oa a %.. aa il ya = > ~~ a ait ; Wy ) he %: . = 2
+: Bs cn ~ nt a a. ipoar AA . toma a : ; _ = ime ta
+. Mie see Bi 4 pa a ake ti: vie , t a aa mec -. ee ee 4, FS ag oe > 4 aa ~ i ot
+ as ae a __ rea ae | ett pel i a ron (Oe ees A aes. |
+% bee . ae 7h 0 TT eh ts ol ys the Ro ae We
+cs ~ j Ae megaget a as S x . ; . _ hw 9 ; ye . ; Ppa ee, sae e he
+ ; : : = P pire OSRE (| f 0 a hs
+ ; . ag ee
+= i i edna thew ge 0 I A ti Pasting -
+ } . f = a8 et
+: - - { = or
+ = ae i . 1 ; P a,
+ - ; ; [ee wep : | ;
+ 7 - . .
+- lau |
+5 f
+-_ Pe | : | ae al ~
+ _ et os P
+> ae 5 - a ad a %, | TS =,
+te we mt J
+ _. = +4 y AI
+ gO peas a = a Soko: - <f -
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: i > ~~. 5 oS Me Ea OR %. lll a il a ee Re a 2 Se 2. < jot ao ae
+: RR I) Te, POE Sn ER eget ek a eae ~ Se Be PR RY
+j == , , ba oe, a ae et: Pe eh et A SEtSa ect of) Sees aah er a gee ee :
+ ae = ~ = y Se. ee LP == .
+1} 7 oS emai . a) Seer eee ae a = a %
+y = te om = at e = _ Pa ts ~, VS ~ . 6 ~ -. > ...
+
+[Picture on Slide 17 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 18 ===
+Result - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+Operating conditions
+
+Batch mode (using Dupont NF90 membrane)
+
+75% recovery
+
+100 psi operating pressure, increased pressure over time as feed gets more and more concentrated
+Observation: Membrane flux was lower after the NF filtration.
+
+Before NF: 15.1g in 3 min (filtration using DI water
+After NF: 6.1g in 3 min
+
+=== Slide 19 ===
+Result - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	Concentrated feed (ppm)	Permeate (ppm)
+pH	3.5	5.04	3.29
+Conductivity	3,357 µS/cm	9,022 µS/cm	708.6 µS/cm
+TDS	1,134	4,921	344.4
+NH4	19.7	50.1	12.2
+F	819	1,555	144
+SO4	100	389	3.83
+PO4	214	637	1.55
+Cl	54.3	178	21
+Na	721	2082	86
+Ca	1.49	<0.1	<0.1
+Si	12.7	73.9	51.9
+COD	2,450	3935	1580
+TOC	473	870	382
+IPA	1000	1640	658
+
+=== Slide 20 ===
+Preparation of Synthetic HFW+NH4F with IPA (without pH adjustment) – Trial 1
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+IPA	1
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	-	-	2.92
+Conductivity	-	-	3371 µS/cm
+TDS	-	-	1741
+NH4	20	20	20
+F	800	800	802
+SO4	100	100	101
+PO4	200	200	161
+Cl	50	55.86	147
+Na	5	5	10.1
+Ca	5	5	4.6
+Si	14.02	14.02	9.15
+COD	-	-	2523
+TOC	-	-	588
+IPA	1,000	1,000	1000
+
+=== Slide 21 ===
+Result - NF filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 1
+Operating conditions
+
+Batch mode (using Trisep TS40 NF membrane)
+
+75% recovery
+
+100 psi operating pressure, increased pressure over time as feed gets more and more concentrated
+
+=== Slide 22 ===
+Result – NF and RO filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 1
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	NF concentrated feed (ppm)	NF Permeate (ppm)	RO permeate (ppm)
+pH	2.92	2.08	2.26	2.53
+Conductivity	3371 µS/cm	4821 µS/cm	3071 µS/cm	1382 µS/cm
+TDS	1741	2535	1580	685.3
+NH4	20	61	9.1	1.0
+F	802	1328	456	278
+SO4	101	201	88.9	3.45
+PO4	161	203	150	1.21
+Cl	147	152	147	24.8
+Na	10.1	30.9	4.72	4.34
+Ca	4.6	21.5	0.105	<0.1
+Si	9.15	41.5	4.19	0.233
+COD	2523	2970	2013	67
+TOC	588	691	484	16.2
+IPA	1000	1238	839	28
+
+=== Slide 23 ===
+Result - NF filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 2
+Operating conditions
+
+Batch mode (using Trisep TS40 NF membrane)
+
+75% recovery
+
+100 psi operating pressure, increased pressure over time as feed gets more and more concentrated
+
+=== Slide 24 ===
+Result – NF and RO filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 2
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	NF concentrated feed (ppm)	NF Permeate (ppm)	RO concentrated feed (ppm)	RO permeate (ppm)
+pH	2.15	2.3	2.3	2.31	2.9
+Conductivity	3376 µS/cm	3298 µS/cm	1905 µS/cm	2416 µS/cm	493.1 µS/cm
+TDS	1730	3001	945.5	1230	214.4
+NH4	20.4	67	9.7	17.6	1.3
+F	813	1959	203	333	48.5
+SO4	102	299	55	11.6	0.286
+PO4	187	4.3	72	9.59	<0.1
+Cl	147	265	140	131	8.77
+Na	2.6	30.45	<0.1	<0.1	<0.1
+Ca	6.5	25.2	1.8	1.73	<0.1
+Si	12.2	39.5	3.4	9.69	0.221
+COD	2390	3456.7	1533.3	2791.67	27.33
+TOC	570	812	369	656	7.58
+IPA	1000	1024	639	1163	11
+
+=== Slide 25 ===
+Result – NF and RO filtration of mixed HFW wastewater from EQ Tank – Trial 1
+
+[Table 1]
+Elements	Mixed wastewater from EQ tank (mg/L)	NF concentrate (mg/L)	NF Permeate (mg/L)	RO concentrate (mg/L)	RO permeate (mg/L)	Toyobo reject (mg/L)	Toyobo permeate (mg/L)
+pH	2.8	3.26	3.21	3.73	3.13
+Conductivity	2267 µS/cm	4123 µS/cm	805.7 µS/cm	2237 µS/cm	292.6 µS/cm
+TDS	1158	2276	394	1131	139	1555	536
+NH4	65.7	150	28.9	113	<1	102	13.5
+F	372	1002	95.1	291	23.0	450	171
+SO4	1999	1168	34.5	140	0.23	591	74.2
+PO4	4.54	<5	1.27	<5	<0.1	<5	<1
+Cl	65.1	91.3	50.8	213	2.63	140	26.8
+Na	219	512	67.8	196	<0.1	319	46.3
+Ca	3.79	12.3	<0.1	<0.1	<0.1	5.96	<0.1
+Si	25.3	50.4	15.1	54.8	<0.1	40.7	2.76
+COD	278	150	70	275	<10	175	50
+TOC	24	39.9	19.1	62.7	2.60	41.5	11.3
+IPA	26.5	-	-	-	-	-	-

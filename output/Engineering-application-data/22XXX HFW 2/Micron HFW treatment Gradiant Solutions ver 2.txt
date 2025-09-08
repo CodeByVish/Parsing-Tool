@@ -1,0 +1,3001 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX HFW 2\Micron HFW treatment Gradiant Solutions ver 2.pptx
+
+
+=== Slide 1 ===
+MICRON – HF WASTEWATER TREAMENT
+SIMULATION & BENCH TESTING – Dec 2021
+Siva Kumar Kota/Chun Yew
+Hiep Le/Sankar
+Part 2
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+Option 5 -NF270 followed by SWRO (clarified water recycle)
+SWRO
+NF 270
+HF WW
+Polishing Filters
+Coagulation, Clarifier
+Phosphate sludge
+F: 150 m3/hr
+F:1136 mg/l
+PO4: 100 mg/l
+Coagulation, Clarifier
+CaF2 sludge
+Treated Water
+
+=== Slide 3 ===
+Option 5– NF270 followed by SWRO
+NF270
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: Concentrate
+-
+-
+Alter
+Staget
+Total
+.
+Recycle
+.
+2070
+1143
+138.0
+x
+7.90
+324
+3
+tole
+3
+Ca
+O24
+ait
+0.00
+3
+om
+3
+aco
+0.00
+3
+aco
+0.00
+3
+om
+3
+aco
+0.00
+3
+aco
+0.00
+3
+om
+3
+aco
+0.00
+3
+aco
+WOO,
+79
+79
+12.72
+1170
+7240
+73.40
+73,70
+1,238
+130:
+622.9
+20
+ie
+Dw
+70.29
+73.7%
+1740
+174.0
+11.73
+ac
+O Ce:
+1000
+100
+O28
+On
+O24
+6570
+13
+2,327
+338
+4,700
+pee
+36
+36
+a3
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Concentrate
+-
+-
+Alter
+Staget
+Total
+.
+Recycle
+.
+2070
+1143
+138.0
+x
+7.90
+324
+3
+tole
+3
+Ca
+O24
+ait
+0.00
+3
+om
+3
+aco
+0.00
+3
+aco
+0.00
+3
+om
+3
+aco
+0.00
+3
+aco
+0.00
+3
+om
+3
+aco
+0.00
+3
+aco
+WOO,
+79
+79
+12.72
+1170
+7240
+73.40
+73,70
+1,238
+130:
+622.9
+20
+ie
+Dw
+70.29
+73.7%
+1740
+174.0
+11.73
+ac
+O Ce:
+1000
+100
+O28
+On
+O24
+6570
+13
+2,327
+338
+4,700
+pee
+36
+36
+a3 ...
+
+=== Slide 4 ===
+Option 5– SWRO (NF permeate and F rich clarified water)
+SWRO
+
+[Picture on Slide 4 | GENERIC_FIGURE]
+OCR: (mg/l
+Concentrate
+Raw Fred Alter Saget Total
+60 17.07 0.04 ata Ce
+L178
+0.05 oor av 0.30 0.00 aco
+at 0.00 aco
+0.00 0.00
+0.00 oco 0.00
+0.00 oco 0.00 oco
+51.90 5190 19.08 19.97
+338 1013 70
+i 1.236 0.23
+1769
+308 0.00 oco
+4797 1774 ain
+76.11 137.9 138
+1772 777.9 O39 aw
+O24 ait aor
+co; 7,087 7,087 7422 7,140
+6381
+4,628 4,628 6,276 12,128 20,727 133
+pee 39 39 34 37 37 3b
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: (mg/l
+Concentrate
+Raw Fred Alter Saget Total
+60 17.07 0.04 ata Ce
+L178
+0.05 oor av 0.30 0.00 aco
+at 0.00 aco
+0.00 0.00
+0.00 oco 0.00
+0.00 oco 0.00 oco
+51.90 5190 19.08 19.97
+338 1013 70
+i 1.236 0.23
+1769
+308 0.00 oco
+4797 1774 ain
+76.11 137.9 138
+1772 777.9 O39 aw
+O24 ait aor
+co; 7,087 7,087 7422 7,140
+6381
+4,628 4,628 6,276 12,128 20,727 133
+pee 39 39 34 37 37 3b ...
+
+=== Slide 5 ===
+Option 5a - NF270 followed by SWRO (separate sludge)
+SWRO
+NF270
+HF WW
+Polishing Filters
+Coagulation, Clarifier
+Phosphate sludge
+F: 150 m3/hr
+F:1136 mg/l
+PO4: 100 mg/l
+Coagulation, Clarifier
+CaF2 sludge
+Treated Water
+
+=== Slide 6 ===
+Option 5a – NF270 (Loose membrane)
+
+[Picture on Slide 6 | FLOW_DIAGRAM]
+OCR: Pass 1
+fream Name
+Stream 1
+Water Type
+Waste With DuPont UF, SDI<
+Number of
+140
+Total Active
+5203
+133.0
+Freed Flow per Pass
+7,001
+Feed Pressure
+(bar)
+Flow Pet Stage
+Flow per Pass
+105.4
+20.3
+Pass Average flux
+Pass Recovery
+192%
+Average NDP
+(bar)
+Specific Energy
+O24
+30.0
+Temperature
+pH
+36
+Chemical Dose
+RO System Recovery
+%
+Net RO System Recovery
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Pass 1
+fream Name
+Stream 1
+Water Type
+Waste With DuPont UF, SDI<
+Number of
+140
+Total Active
+5203
+133.0
+Freed Flow per Pass
+7,001
+Feed Pressure
+(bar)
+Flow Pet Stage
+Flow per Pass
+105.4
+20.3
+Pass Average flux
+Pass Recovery
+192%
+Average NDP
+(bar)
+Specific Energy
+O24
+30.0
+Temperature
+pH
+36
+Chemical Dose
+RO System Recovery
+%
+Net RO System Recovery ...
+
+[Picture on Slide 6 | FLOW_DIAGRAM]
+OCR: Concentrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed
+Initial
+After
+Total
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+2070
+7070
+7327
+618%
+166.5
+131.6
+327
+5 26
+8 89
+799
+180
+Na
+4530
+453.0
+7
+0.08
+010
+031
+004
+0.06
+004
+020
+0.20
+0273
+0 40
+073
+009
+0.10
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+HCO,
+118
+1.18
+0%
+0 66
+22,53
+19.05
+NO,
+7340
+73.40
+73.19
+69.79
+73,49
+74.06
+600.0
+600.0
+689
+1,150
+7,030
+2979
+433.0
+C1
+29.10
+75.10
+41.41
+63.81
+23.17
+Br
+30.30
+30.30
+37.65
+46,58
+70.66
+29,24
+23,42
+1/40
+1740
+7309
+4936
+1087
+498
+10.48
+PO,
+100.0
+100.0
+1340
+229 8
+6456
+002
+005
+003
+50 80
+80
+66.89
+50.02
+44.06
+Boron
+O25
+0.25
+O25
+0 7b
+0 7b
+07%
+07%
+07%
+CO,
+785
+7860
+7866
+28/70
+2/36
+277.8
+7,001
+3,371
+6,089
+1,178
+947.8
+Cond
+3,338
+3,338
+3,741
+9,306
+7,634
+pH
+36
+36
+33
+3.1
+49
+49
+49
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concentrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed
+Initial
+After
+Total
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+2070
+7070
+7327
+618%
+166.5
+131.6
+327
+5 26
+8 89
+799
+180
+Na
+4530
+453.0
+7
+0.08
+010
+031
+004
+0.06
+004
+020
+0.20
+0273
+0 40
+073
+009
+0.10
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+HCO,
+118
+1.18
+0%
+0 66
+22,53
+19.05
+N ...
+
+=== Slide 7 ===
+Option 5a – SWRO  with pH adjustment
+
+[Picture on Slide 7 | PARAM_TABLE]
+OCR: Pass 1
+Stream Name Blended
+Water Type RO/NE Permeate 1)
+of 98
+Total Active Area A006
+eed Flow per Pass 1239
+Feed (mg/l) 3,306
+Feed Pressure (bar) 783
+Flow Factor Per Stage 095,095
+Flow per Pass
+Pass Average flux 248
+Permeate (mg/l) 4/ 46
+Recovery 80.1%
+NDP (bar) 18/
+Specific Energy 123
+Temperature 309
+pH 7 (After Adjustment)
+Dose 191.6 HC
+RO System Recovery 86.0%
+Net RO System Recovery 8b
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: Pass 1
+Stream Name Blended
+Water Type RO/NE Permeate 1)
+of 98
+Total Active Area A006
+eed Flow per Pass 1239
+Feed (mg/l) 3,306
+Feed Pressure (bar) 783
+Flow Factor Per Stage 095,095
+Flow per Pass
+Pass Average flux 248
+Permeate (mg/l) 4/ 46
+Recovery 80.1%
+NDP (bar) 18/
+Specific Energy 123
+Temperature 309
+pH 7 (After Adjustment)
+Dose 191.6 HC
+RO System Recovery 86.0%
+Net RO System Recovery 8b ...
+
+[Picture on Slide 7 | FLOW_DIAGRAM]
+OCR: Concentrations (mg/L at ton}
+Adjusted Feed Concentrate
+Raw Feed After After Stage2 Stage2 Total
+Chemicals Recycle
+1/38 1/38 7 1,198 494 14 06 7.04
+344 783 17.03 003 0.07 0.04
+6519 6519 931% 3.2 9.99 543
+005 005 016 0 36 000 0.00 0.00
+010 010 031 068 000 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 000 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 000 0.00 0.00
+4593 076 143 137 32,39 000 0.00 0.00
+HOO, 1,520 3,219 1634 4% AQ
+NO, 73.66 73.66 1047 7380 170 3.50 1.88
+335.0 335.0 4/86 1,093 7,381
+cl 71.99 708.3 29/76 6/96 1481 110 3.00 1.66
+2154 3079 1,533 103 3.01 161
+100 6 100 6 1440 719.3 009 0.7%
+PO, 38.9% 88.97 193.7 016 0.50 0.26
+4/81 4/7 81 338.9 0 36 1.06 0.57
+Boron 069 137 00% 0.07
+CO; 0 49/1 52.52 41.62 48 03 O4
+2,152 3,306 7903 16,758 8b
+Cond. 3,399 3,853 5,373 11.578 73,383 139 /6
+pid 88 70 72 73 61 59
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concentrations (mg/L at ton}
+Adjusted Feed Concentrate
+Raw Feed After After Stage2 Stage2 Total
+Chemicals Recycle
+1/38 1/38 7 1,198 494 14 06 7.04
+344 783 17.03 003 0.07 0.04
+6519 6519 931% 3.2 9.99 543
+005 005 016 0 36 000 0.00 0.00
+010 010 031 068 000 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 000 0.00 0.00
+0.00 0.00 0.00 0.00 0.00 000 0.00 0.00
+4593 076 143 137 32,39 000 0.00 0.00
+HOO, 1,520 3,219 1634 ...
+
+=== Slide 8 ===
+NEWater spec
+
+[Table 1]
+Chemical Parameters
+Ammonia (as N)	mg/L	<1.0
+Aluminium	mg/L	<0.1
+Barium	mg/L	<0.1
+Boron	mg/L	<0.5
+Calcium	mg/L	<20
+Chloride	mg/L	<20
+Copper	mg/L	<0.05
+Fluoride	mg/L	<0.5
+Iron	mg/L	<0.04
+Manganese	mg/L	<0.05
+Nitrate (as N)	mg/L	<5
+Sodium	mg/L	<20
+Sulphate	mg/L	<5
+Silica (as SiO2)	mg/L	<3
+Strontium	mg/L	<0.1
+Total Trihalomethanes Ratio	-	<0.04
+Total Organic Carbon (TOC)	mg/L	<0.5
+Total Hardness (as CaCO3)	mg/L	<50
+Zinc	mg/L	<0.1
+
+=== Slide 9 ===
+Option 5a – polishing BWRO  to meet NEWater
+
+[Picture on Slide 9 | FLOW_DIAGRAM]
+OCR: Stream Name
+Stream 1
+RO/NE Permeate 1)
+Water Type
+Number of
+98
+Total Active Area
+4006
+Flow per Pass
+(g/t)
+Pressure
+(bar)
+095,09%
+Factor Per Stage
+Permeate per Pass
+83.6
+Pass Average flux
+70.9
+Permeate
+Pass Recovery
+(bar)
+a9
+050
+Specific nerpy
+Temperature
+30.0
+59
+pH
+Chemical Dose
+RO System Recovery
+2%
+(Net RO System Recovery
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Stream Name
+Stream 1
+RO/NE Permeate 1)
+Water Type
+Number of
+98
+Total Active Area
+4006
+Flow per Pass
+(g/t)
+Pressure
+(bar)
+095,09%
+Factor Per Stage
+Permeate per Pass
+83.6
+Pass Average flux
+70.9
+Permeate
+Pass Recovery
+(bar)
+a9
+050
+Specific nerpy
+Temperature
+30.0
+59
+pH
+Chemical Dose
+RO System Recovery
+2%
+(Net RO System Recovery ...
+
+[Picture on Slide 9 | FLOW_DIAGRAM]
+OCR: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Stagel
+Stage2
+Stagel
+Stage2
+Total
+Recycle
+64
+7.64
+961
+19.71
+46.94
+0 38
+0277
+O04
+0.04
+00%
+010
+O24
+0.00
+0.00
+0.00
+5 43
+680
+13.48
+031
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+00%
+0.00
+0.00
+0.00
+1378
+145
+16/
+153
+HCO,
+NO,
+188
+733
+10.88
+0.19
+161
+161
+401
+007
+C1
+594
+5.94
+740
+14.57
+0 38
+Br
+161
+161
+204
+412
+10.20
+0.00
+0.00
+0.00
+018
+0 35
+0.00
+001
+PO,
+026
+0.26
+0.32
+156
+002
+SO;
+O57
+146
+359
+0.00
+0.00
+Boron
+0.07
+008
+012
+003
+0.06
+004
+CO,
+4710
+47.10
+47.13
+41.40
+4709
+4709
+59 06
+78
+3.82
+3.15
+Cond
+49
+49
+99
+195
+46/7
+10
+11
+10
+pH
+59
+59
+60
+6.3
+6.6
+47
+4.8
+4.8
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Stagel
+Stage2
+Stagel
+Stage2
+Total
+Recycle
+64
+7.64
+961
+19.71
+46.94
+0 38
+0277
+O04
+0.04
+00%
+010
+O24
+0.00
+0.00
+0.00
+5 43
+680
+13.48
+031
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+00%
+0.00
+0.00
+0.0 ...
+
+=== Slide 10 ===
+Option 5a - NF270 Reject chemical precipitation using Ca(OH)2
+
+[Picture on Slide 10 | PARAM_TABLE]
+OCR: |
+31 116
+I A 6 AB 6 79
+380
+a a
+fic ab 173 621
+7802 3602
+11081
+Jk 1991
+2781 1991
+31
+629 10 3
+0 73 2269 0 0436
+031 0 309 0 164
+1346 1344 1344
+| 8 89
+1087
+638 637 637
+618 617 617
+| 698 697 697
+au 210 0 876
+40.9 408 408
+0 26 0 26 0 26
+3 679
+7030 2076 304
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: |
+31 116
+I A 6 AB 6 79
+380
+a a
+fic ab 173 621
+7802 3602
+11081
+Jk 1991
+2781 1991
+31
+629 10 3
+0 73 2269 0 0436
+031 0 309 0 164
+1346 1344 1344
+| 8 89
+1087
+638 637 637
+618 617 617
+| 698 697 697
+au 210 0 876
+40.9 408 408
+0 26 0 26 0 26
+3 679
+7030 2076 304 ...
+
+=== Slide 11 ===
+Option 5a- NF270 Reject chemical precipitation using Ca(OH)2
+
+[Picture on Slide 11 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mmol per Liter solution:
+A
+0 00641 mb
+2 26
+aba
+Saturation Indices (Sl)
+A
+oO in
+163 0 366
+30
+2249 634
+supersaturated
+O10 68
+120 904 39
+0 067 abe
+Land
+483 81
+432 389
+i 932 194
+9 78 281
+hyd 343 0779
+i 8 0b 0 782
+848 11
+812 139
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mmol per Liter solution:
+A
+0 00641 mb
+2 26
+aba
+Saturation Indices (Sl)
+A
+oO in
+163 0 366
+30
+2249 634
+supersaturated
+O10 68
+120 904 39
+0 067 abe
+Land
+483 81
+432 389
+i 932 194
+9 78 281
+hyd 343 0779
+i 8 0b 0 782
+848 11
+812 139 ...
+
+=== Slide 12 ===
+Option 5a-SWRO Reject chemical precipitation
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: 14000 14000
+400 400
+23 9b
+4 23 0612
+136
+a a
+286 878 363
+19599 34130
+42013 34327
+8377 1386
+8377 1386
+318 17628 1830
+8 88 8 03
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 14000 14000
+400 400
+23 9b
+4 23 0612
+136
+a a
+286 878 363
+19599 34130
+42013 34327
+8377 1386
+8377 1386
+318 17628 1830
+8 88 8 03 ...
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: mail 1336 1336 877
+068
+036 036
+A635 A864
+ng ng
+ultite 1 86e 12 137e 11
+ultide 1 38e 18 13
+1481 10474 10408
+1198 1198 1196
+816 816
+126
+137 137 137
+3 1833 1833 1830
+2381 2381 36
+ABe 3 08e 16
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: mail 1336 1336 877
+068
+036 036
+A635 A864
+ng ng
+ultite 1 86e 12 137e 11
+ultide 1 38e 18 13
+1481 10474 10408
+1198 1198 1196
+816 816
+126
+137 137 137
+3 1833 1833 1830
+2381 2381 36
+ABe 3 08e 16 ...
+
+=== Slide 13 ===
+Option 5a -SWRO Reject chemical precipitation
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mmol per Liter solution:
+precip 3
+precip 096 mM 0 596
+mM 62 6
+Saturation Indices (Sl)
+ol in
+83
+ba 136
+7 653
+107 116 119
+supersaturated
+a6 127
+203 OBA
+107 0 306
+O
+387 0774 0
+138 92 133
+Brucite 818 748 104
+alite 3.99 316 311
+426
+Mit 3h 3 76
+1 46 156 03
+6 98
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mmol per Liter solution:
+precip 3
+precip 096 mM 0 596
+mM 62 6
+Saturation Indices (Sl)
+ol in
+83
+ba 136
+7 653
+107 116 119
+supersaturated
+a6 127
+203 OBA
+107 0 306
+O
+387 0774 0
+138 92 133
+Brucite 818 748 104
+alite 3.99 316 311
+426
+Mit 3h 3 76
+1 46 156 03
+6 98 ...
+
+=== Slide 14 ===
+Option 6 - NF270 followed by SWRO (F-800 ppm)
+NF270
+HF WW
+SWRO
+Coagulation,Clarifier
+Sludge
+F: 150 m3/hr
+F:800 mg/l
+PO4: 100 mg/l
+CoagulationClarifier
+Sludge
+BWRO (optional)
+Stream 1
+Stream 2
+Stream 3
+Stream 4
+Stream 5
+Stream 6
+Stream 7
+Stream 9
+Stream 8
+Stream 10
+Stream 11
+Polishing filters
+Stream 12
+
+=== Slide 15 ===
+HFW – Feed Water Characteristics
+
+[Picture on Slide 15 | PARAM_TABLE]
+OCR: cmh 200 219 435
+70
+| 4000
+TOC ppm | 1) 4
+Silica | 0 100
+ppm | 70 8 a
+ppm | 300
+Sulphate ppm | 100 400
+| 10
+TMA |
+ppm | 1.000 400
+ppm +0 700 78
+ppm | , 2000
+C ppm | 20
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: cmh 200 219 435
+70
+| 4000
+TOC ppm | 1) 4
+Silica | 0 100
+ppm | 70 8 a
+ppm | 300
+Sulphate ppm | 100 400
+| 10
+TMA |
+ppm | 1.000 400
+ppm +0 700 78
+ppm | , 2000
+C ppm | 20 ...
+
+=== Slide 16 ===
+Option 6 – NF270 + SWRO With 800 ppm of F
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: TDS TDs
+to RO 1247 a0 Net to 2 1.090 290
+fo 2145 Total Concentrate fom
+Concentrate 39 Net
+from 1 to Pans
+Total Concentrate from 39
+from 39
+RO
+Total from a0
+Product 993 a0
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: TDS TDs
+to RO 1247 a0 Net to 2 1.090 290
+fo 2145 Total Concentrate fom
+Concentrate 39 Net
+from 1 to Pans
+Total Concentrate from 39
+from 39
+RO
+Total from a0
+Product 993 a0 ...
+
+=== Slide 17 ===
+Option 6 – NF270 + SWRO With 800 ppm of F
+
+[Picture on Slide 17 | PARAM_TABLE]
+OCR: Stream Name
+Stream 1
+Waste With DuPont UF, 2.5
+RO 1
+Water Type
+Number of
+140
+Total Active Area
+5203
+3148
+Flow per Pass
+1311
+1052
+(mg/l)
+1,090
+Pressure
+56
+29.0
+(bar)
+Factor Per Stage
+95,095
+Permeate blow per Pass
+1054
+Pass Average flux
+Permeate
+9.93
+Pass Recovery
+804%
+NDP
+(bar)
+15
+Specific E
+O24
+1,19
+Temperature
+30.0
+30.0
+pH
+3.5 (After Adjustment)
+Chemical Dose
+3.0
+RO System Recovery
+Net RO System
+147
+ific
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: Stream Name
+Stream 1
+Waste With DuPont UF, 2.5
+RO 1
+Water Type
+Number of
+140
+Total Active Area
+5203
+3148
+Flow per Pass
+1311
+1052
+(mg/l)
+1,090
+Pressure
+56
+29.0
+(bar)
+Factor Per Stage
+95,095
+Permeate blow per Pass
+1054
+Pass Average flux
+Permeate
+9.93
+Pass Recovery
+804%
+NDP
+(bar)
+15
+Specific E
+O24
+1,19
+Temperature
+30.0
+30.0
+pH
+3.5 (After Adjustment)
+Chemical Dose
+3.0
+RO System Recovery
+Net RO System
+ ...
+
+[Picture on Slide 17 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 18 ===
+Option 6 – NF270+SWRO with 800 PPM of F
+NF270
+SWRO
+Stream 4
+Stream 9
+
+[Picture on Slide 18 | FLOW_DIAGRAM]
+OCR: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Total to
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+Pass 2
+70.00
+54.68
+17.37
+13.64
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+3
+1,311
+538.7
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+5.00
+5,00
+86
+11.06
+77.54
+145
+46
+1/78
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+HCO,
+126
+1.26
+106
+0 46
+77.93
+27.59
+NO,
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+8976
+3/89
+436.6
+1,509
+7,783
+cl
+63.7%
+93.74
+5.22
+43.71
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+100.0
+100.0
+12758
+3.68
+PO,
+100.0
+100.0
+1768
+2/64
+002
+003
+S10;
+30.00
+30.00
+3106
+38.94
+51.34
+79.65
+Boron
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+CO,
+3787
+3787
+3790
+3/96
+3800
+367
+359.9
+361.8
+1,916
+1.916
+3,583
+6,559
+9474
+1,380
+1,089
+Cond
+3477
+3477
+3,770
+2,043
+pH
+3.5
+34
+3.3
+3.0
+49
+49
+49
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Total to
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+Pass 2
+70.00
+54.68
+17.37
+13.64
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+3
+1,311
+538.7
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+5.00
+5,00
+86
+11.06
+77.54
+145
+46
+1/78
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0 ...
+
+[Picture on Slide 18 | FLOW_DIAGRAM]
+OCR: Concentrations (mg/L as ton)
+Concentrate Permeate
+Feed Stagel Stage2 Stagel Stage2 Total
+13.64 90 60 016 0.08
+000 0.00 0.00 000 0.00 0.00
+L4% 3,979 195 5 69 2.87
+000 0.00 0.00 000 0.00 0.00
+178 11.89 000 0.00
+0.00 0.00 0.00 000 0.00 0.00
+000 0.00 0.00 000 0.00 0.00
+000 0.00 0.00 000 0.00 0.00
+HCO, 41.39 64 30 406 4.20
+NO, 0.00 0.00 0.00 000 0.00 0.00
+4366 1,717 7,900 159
+cl 4371 12700 035
+000 0.00 0.00 000 0.00 0.00
+7 368 10.2% 24 58 0.00
+0.16 000 0.00 0.00
+S10; 76.09 12.3% 013 0.20
+Boron 0.00 0.00 0.00 000 0.00 0.00
+CO, 3618 391.3 363.0 366.3
+1.089 7,132 7% 15.94 9.93
+Cond 7,340 6,119 13,686 32 AB
+pH ag 43
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concentrations (mg/L as ton)
+Concentrate Permeate
+Feed Stagel Stage2 Stagel Stage2 Total
+13.64 90 60 016 0.08
+000 0.00 0.00 000 0.00 0.00
+L4% 3,979 195 5 69 2.87
+000 0.00 0.00 000 0.00 0.00
+178 11.89 000 0.00
+0.00 0.00 0.00 000 0.00 0.00
+000 0.00 0.00 000 0.00 0.00
+000 0.00 0.00 000 0.00 0.00
+HCO, 41.39 64 30 406 4.20
+NO, 0.00 0.00 0.00 000 0.00 0.00
+4366 1,717 7,900 159
+cl 4371 12700 035
+000 0.00 ...
+
+=== Slide 19 ===
+Option 6 – Polishing BWRO  to meet NEWater
+
+[Picture on Slide 19 | FLOW_DIAGRAM]
+OCR: 3]
+Description Flow TOS Pressure
+(bar)
+Rew Feed to RO System 89 6 10.30 0.0
+2 Net Feed to Pass 1 WS 7.3
+Concentrate Recycle from Pass 1 fo Pass 1 496 56.56 4.4
+4 Concentrate from Pass 56.56 4A
+5 Net Concentrate from RO System 56.56 4.4
+Net Product from RO System 80 4 0.0
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: 3]
+Description Flow TOS Pressure
+(bar)
+Rew Feed to RO System 89 6 10.30 0.0
+2 Net Feed to Pass 1 WS 7.3
+Concentrate Recycle from Pass 1 fo Pass 1 496 56.56 4.4
+4 Concentrate from Pass 56.56 4A
+5 Net Concentrate from RO System 56.56 4.4
+Net Product from RO System 80 4 0.0 ...
+
+=== Slide 20 ===
+Option 6 – Polishing BWRO  to meet NEWater
+
+[Picture on Slide 20 | FLOW_DIAGRAM]
+OCR: Pass
+Stream Name Stream 1
+Water Type RO/NE Permeate 1)
+of 98
+Total Active Area 4006
+pet Pass 945
+Slow Factor Per Stage
+per Pass 80.4
+Pass Average flux
+Permeate 492
+Recovery
+NDP (bar) 43
+Specific 030
+ec 20.0
+pH
+Chemical Dosa
+RO System Recovery 89.7%
+Net RO System
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Pass
+Stream Name Stream 1
+Water Type RO/NE Permeate 1)
+of 98
+Total Active Area 4006
+pet Pass 945
+Slow Factor Per Stage
+per Pass 80.4
+Pass Average flux
+Permeate 492
+Recovery
+NDP (bar) 43
+Specific 030
+ec 20.0
+pH
+Chemical Dosa
+RO System Recovery 89.7%
+Net RO System ...
+
+[Picture on Slide 20 | FLOW_DIAGRAM]
+OCR: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Total
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+0.08
+0.08
+0.73
+069
+002
+001
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+813
+0 7b
+0
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+HCO,
+435
+444
+419
+NO,
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+27%
+2.34
+327
+660
+19.96
+cl
+0 38
+0.38
+0.5%
+116
+36/7
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+PO,
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+SO;
+020
+0.20
+029
+061
+193
+0.00
+0.00
+0.00
+Boron
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+CO,
+4783
+4787
+4309
+434%
+4259.2
+10.30
+10.30
+71.56
+56.56
+Cond
+39
+39
+63
+138
+29
+28
+pH
+43
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Total
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+0.08
+0.08
+0.73
+069
+002
+001
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+813
+0 7b
+0
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+HCO ...
+
+=== Slide 21 ===
+Option 6-NF270 Reject chemical precipitation using Ca(OH)2
+Stream 6-sludge
+Stream 419.3 m3/hr
+Stream 518 m3/hr
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: 3
+4 8 32 8 32
+230 318
+a a
+hic 9b 8 282
+6010 9781 3261
+8061 19299
+796
+796
+3 669
+749
+3803
+2142
+626
+145 145 145
+210 210 1 be Ob
+24 239 239
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 3
+4 8 32 8 32
+230 318
+a a
+hic 9b 8 282
+6010 9781 3261
+8061 19299
+796
+796
+3 669
+749
+3803
+2142
+626
+145 145 145
+210 210 1 be Ob
+24 239 239 ...
+
+=== Slide 22 ===
+Option 6- NF270 Reject chemical precipitation using Ca(OH)2
+>80% of CaF2 sludge
+
+[Picture on Slide 22 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+170
+1138
+Saturation Indices (Sl)
+18)
+Sol
+706
+0
+396
+667
+O
+07/8
+O
+23
+464
+468
+3 86
+43
+39
+104
+36
+364
+13
+0
+1 08
+911
+33
+38
+81
+AB
+341
+18
+6
+481
+|
+70%
+19.6
+11
+118
+101
+329
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mg per Liter solution:
+170
+1138
+Saturation Indices (Sl)
+18)
+Sol
+706
+0
+396
+667
+O
+07/8
+O
+23
+464
+468
+3 86
+43
+39
+104
+36
+364
+13
+0
+1 08
+911
+33
+38
+81
+AB
+341
+18
+6
+481
+|
+70%
+19.6
+11
+118
+101
+329 ...
+
+=== Slide 23 ===
+Option 6- SWRO Reject chemical precipitation
+Stream 11-sludge
+Stream 915.8 m3/hr
+Stream 1014.8 m3/hr
+
+[Picture on Slide 23 | GENERIC_FIGURE]
+OCR: 6000 6000
+6 6b 669
+4 113 113
+230 669
+a a
+hic 189 322
+7903 13377
+13495 2121 17681
+p 8134 631
+2486 2431
+119 263
+78
+246 246 246
+| 906 906 906
+0 0572 0 0572 0 0572
+80 7 80 7
+2900 2900
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 6000 6000
+6 6b 669
+4 113 113
+230 669
+a a
+hic 189 322
+7903 13377
+13495 2121 17681
+p 8134 631
+2486 2431
+119 263
+78
+246 246 246
+| 906 906 906
+0 0572 0 0572 0 0572
+80 7 80 7
+2900 2900 ...
+
+=== Slide 24 ===
+Option 6 -SWRO Reject chemical precipitation
+>80% of CaF2 sludge
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+precip 469
+003
+precip 61 4 me 614
+Saturation Indices (SI)
+ol in
+192
+438 661
+39 0 708
+supersaturated
+263 148
+10% O8A
+3107 36 0 306
+O
+168 133
+a 0418 931
+ate 416 482
+6 Ob 73
+Mit 496
+N 36 135
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mg per Liter solution:
+precip 469
+003
+precip 61 4 me 614
+Saturation Indices (SI)
+ol in
+192
+438 661
+39 0 708
+supersaturated
+263 148
+10% O8A
+3107 36 0 306
+O
+168 133
+a 0418 931
+ate 416 482
+6 Ob 73
+Mit 496
+N 36 135 ...
+
+=== Slide 25 ===
+Option 6a – NF270 followed by SWRO (F-800 ppm and combined sludge)
+NF270
+HF WW
+SWRO
+Sludge
+F: 150 m3/hr
+F:800 mg/l
+PO4: 100 mg/l
+CoagulationClarifier
+BWRO (optional)
+Stream 1
+Stream 2
+Stream 3
+Stream 4
+Stream 6
+Stream 9
+Stream 5
+Stream 10
+Stream 7
+Stream 8
+Polishing filters
+
+=== Slide 26 ===
+Option 6a–combined reject chemical precipitation –CaF2 sludge
+Stream 7-sludge
+Stream 4&535.3 m3/hr
+Stream 633.5 m3/hr
+
+[Picture on Slide 26 | GENERIC_FIGURE]
+OCR: Tat
+6000
+6000
+3 bt
+128
+309
+2b
+ab
+124
+1275
+6443
+9681
+10440
+28156
+6092
+5656
+6092
+5656
+2 18
+2790
+2788
+2788
+3bb
+209
+209
+209
+708
+708
+708
+116
+116
+6
+Ole Ob
+aga
+2833
+989
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Tat
+6000
+6000
+3 bt
+128
+309
+2b
+ab
+124
+1275
+6443
+9681
+10440
+28156
+6092
+5656
+6092
+5656
+2 18
+2790
+2788
+2788
+3bb
+209
+209
+209
+708
+708
+708
+116
+116
+6
+Ole Ob
+aga
+2833
+989 ...
+
+=== Slide 27 ===
+Option 6a–combined reject chemical precipitation –CaF2 sludge
+>80% of CaF2 sludge
+
+[Picture on Slide 27 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+676 me 676
+me 5806
+Saturation Indices (Sl)
+ol in
+206 274
+A3 6 62
+pour 234 213
+196 0 878 0
+lite 8
+enatdite 412 469
+394 43
+1071 109 341 351
+107 807 224
+halcedom 107 58
+811
+204 184 202
+127 108
+107 311 32
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mg per Liter solution:
+676 me 676
+me 5806
+Saturation Indices (Sl)
+ol in
+206 274
+A3 6 62
+pour 234 213
+196 0 878 0
+lite 8
+enatdite 412 469
+394 43
+1071 109 341 351
+107 807 224
+halcedom 107 58
+811
+204 184 202
+127 108
+107 311 32 ...
+
+=== Slide 28 ===
+Option 6b – NF270 + SWRO With 600 ppm of F
+
+[Picture on Slide 28 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 28 | FLOW_DIAGRAM]
+OCR: Pass
+Stream Name Stream 1
+Type Waste With DuPont UF, 2.5 RO Permeate 1
+of 140
+Total Active Area 5203 3148
+Flow per Pass 1311 1052
+1/18 8501
+Pressure (bar)
+Slow Factor Per Stage 0.99,0.9%
+Slow per Pass 1054 89.6
+Pass Average flux 20.2
+Permeate
+Recovery 804%
+NDP (bar) 216
+Specific 022 1.15
+Temperature 30.0 30.0
+pH 3.5 (After Adjustment) 48
+Dose 3.0
+RO Recovery
+RO System
+Specific Energy 1,4)
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Pass
+Stream Name Stream 1
+Type Waste With DuPont UF, 2.5 RO Permeate 1
+of 140
+Total Active Area 5203 3148
+Flow per Pass 1311 1052
+1/18 8501
+Pressure (bar)
+Slow Factor Per Stage 0.99,0.9%
+Slow per Pass 1054 89.6
+Pass Average flux 20.2
+Permeate
+Recovery 804%
+NDP (bar) 216
+Specific 022 1.15
+Temperature 30.0 30.0
+pH 3.5 (After Adjustment) 48
+Dose 3.0
+RO Recovery
+RO System
+Specific Energy 1,4) ...
+
+=== Slide 29 ===
+Option 6b – NF270+SWRO WITH 600 PPM of F
+NF270
+SWRO
+
+[Picture on Slide 29 | FLOW_DIAGRAM]
+OCR: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Total to
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+Pass 2
+70.00
+16,74
+13.52
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+6035
+655 8
+L664
+358.2
+507.4
+409.1
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+5.00
+5,00
+10.82
+77.44
+146
+799
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+HCO,
+171
+1.71
+102
+069
+O44
+20.07
+21.40
+NO,
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+600 0
+600.0
+6/27
+7,079
+788.1
+3279.0
+cl
+63.07
+90.84
+1417
+38.30
+54.53
+43.85
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+100.0
+100.0
+12758
+7639
+3.70
+PO,
+100.0
+100.0
+1768
+769.0
+002
+003
+S10;
+30.00
+30.00
+31.02
+38.37
+79.56
+26.73
+Boron
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+3787
+3787
+3790
+3/96
+3799
+364 9
+CO,
+1,530
+1.930
+2,829
+1,048
+849.0
+Cond
+7,473
+7.473
+3,016
+1,610
+2,246
+1,829
+pH
+3.5
+34
+3.3
+3.0
+48
+49
+4.8
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concemrations (mest at bon)
+Permeate
+Adjusted Feed
+Raw Feed Initial
+After
+Total to
+Stagel
+Stage2
+Stagel
+Stage2
+Recycle
+Pass 2
+70.00
+16,74
+13.52
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+6035
+655 8
+L664
+358.2
+507.4
+409.1
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+Ca
+5.00
+5,00
+10.82
+77.44
+146
+799
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0,00
+0.00
+0.00
+0.00
+0.00 ...
+
+[Picture on Slide 29 | FLOW_DIAGRAM]
+OCR: Concentrations at bon)
+Concentrate
+Permeate
+-
+Feed
+Total
+Stagel
+Stage2
+Stagel
+Stage2
+36.92
+89 /6
+0.05
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1,118
+148
+7.16
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+478
+12.65
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+.
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+71.40
+O4
+400
+443
+HCO,
+NO,
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+329.0
+8929
+7,186
+120
+3.38
+C1
+1199
+291.6
+0 36
+0.18
+Br
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+370
+0.00
+0.00
+0.00
+0 06
+0.00
+0.00
+0.00
+PO,
+71.59
+1/3.9
+013
+0 38
+0.20
+Boron
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+364 1
+3/48
+389.7
+364 8
+53
+704
+17.94
+Cond
+1.8279
+10,806
+30
+33
+pH
+5.0
+51
+43
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Concentrations at bon)
+Concentrate
+Permeate
+-
+Feed
+Total
+Stagel
+Stage2
+Stagel
+Stage2
+36.92
+89 /6
+0.05
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1,118
+148
+7.16
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+478
+12.65
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+.
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+71.40
+O4
+400
+443
+HCO,
+NO,
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+329.0
+8929
+7,186
+120
+3.38
+C1
+1199
+291.6
+0 36
+0.18
+Br
+0. ...
+
+=== Slide 30 ===
+Option 7-HFW Effluent treatment – UF, RO
+
+[Picture on Slide 30 | GENERIC_FIGURE]
+OCR: 4
+1Ds Dexription
+to RO oo Net to Pan 2 av
+2 fo 1017 7,118 4A Total Concentrate
+Total from
+6 Total from oo
+9 Product oo
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 4
+1Ds Dexription
+to RO oo Net to Pan 2 av
+2 fo 1017 7,118 4A Total Concentrate
+Total from
+6 Total from oo
+9 Product oo ...
+
+=== Slide 31 ===
+Option 7- HFW Effluent treatment ( UF & RO)
+
+[Picture on Slide 31 | FLOW_DIAGRAM]
+OCR: Name Strram 1
+Type RO
+of .
+Total Active 2003
+pre .
+22.89
+(bar) 39
+Factot Pre Stage 2.90,
+Flaw pet
+Mux
+22.88
+Recowery
+NDP RR 46
+Temperature ro 70.0
+Dewe .
+Recowery
+RO .
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Name Strram 1
+Type RO
+of .
+Total Active 2003
+pre .
+22.89
+(bar) 39
+Factot Pre Stage 2.90,
+Flaw pet
+Mux
+22.88
+Recowery
+NDP RR 46
+Temperature ro 70.0
+Dewe .
+Recowery
+RO . ...
+
+=== Slide 32 ===
+Option 7- HFW Effluent treatment (UF& RO)
+Pass 1 – BWRO
+Pass 2 - BWRO
+
+[Picture on Slide 32 | GENERIC_FIGURE]
+OCR: RO Solute t
+to
+2
+1390 L254 204
+3.20
+2 44
+30 2.00 0.00
+372.0 4
+28 2.00 200 0.00
+203 0.03 2.00 200 0.00
+co, 2 0.20 2.00 200 0.00
+763 73 7700 O24
+2% Bits
+a 13.00
+6.50 a07 0.10
+432.0
+O44 0.90 2.00 0.01
+123 0.23
+CO; 707 40
+2.118 4,370 R402 70 BR
+4,420 4430 70
+70 6.0 4
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: RO Solute t
+to
+2
+1390 L254 204
+3.20
+2 44
+30 2.00 0.00
+372.0 4
+28 2.00 200 0.00
+203 0.03 2.00 200 0.00
+co, 2 0.20 2.00 200 0.00
+763 73 7700 O24
+2% Bits
+a 13.00
+6.50 a07 0.10
+432.0
+O44 0.90 2.00 0.01
+123 0.23
+CO; 707 40
+2.118 4,370 R402 70 BR
+4,420 4430 70
+70 6.0 4 ...
+
+[Picture on Slide 32 | GENERIC_FIGURE]
+OCR: -
+-
+1/43
+oa
+3%
+ar
+on
+4
+1
+3
+401
+oa
+4
+on
+on
+4
+CO,
+on
+4
+93
+1
+oa
+O04
+ag
+20
+20 43
+OAR
+20
+3%
+oat
+1
+3%
+3%
+oat
+3%
+ar
+on
+4
+404
+3%
+oa
+at
+4
+BR
+13
+Ab
+37
+207
+t
+t
+2
+a
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: -
+-
+1/43
+oa
+3%
+ar
+on
+4
+1
+3
+401
+oa
+4
+on
+on
+4
+CO,
+on
+4
+93
+1
+oa
+O04
+ag
+20
+20 43
+OAR
+20
+3%
+oat
+1
+3%
+3%
+oat
+3%
+ar
+on
+4
+404
+3%
+oa
+at
+4
+BR
+13
+Ab
+37
+207
+t
+t
+2
+a ...

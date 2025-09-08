@@ -1,0 +1,618 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX LSR + HFW Mixing\Micron HFW+ LSR mixing WW treatment scheme analysis_26 th Sept 2022 VER 3.pptx
+
+
+=== Slide 1 ===
+HFW and LSR WW - Mixed Influent feasibility study
+
+
+
+Sept 2022
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 2 ===
+Agenda
+Discussion on the various simulations
+Case 1: 1500 mg/l of Fluoride, 150 m3/hr of HFW, 250 m3/hr of LSR A2
+Case 2: 500 mg/l of Fluoride, 150 m3/hr of HFW, 250 m3/hr of LSR A2
+Case 3: 500 mg/l of Fluoride, 190 m3/hr of HFW, 210 m3/hr of LSR A2
+Case 4: 500 mg/l of Fluoride, 150 m3/hr of HFW, 150 m3/hr of LSR A2
+Case 5: 500 mg/l of Fluoride, 150 m3/hr of HFW, 200 m3/hr of LSR A2
+
+Next steps
+
+=== Slide 3 ===
+HFW and LSR A2 mixed Influent WW chemistryCase 1
+*Assumed to be neutral Ph. This will be confirmed after collecting few samples
+
+[Table 1]
+S/N	Parameters	Units	HFW	LSR A2	Combined Wastewater
+1	Flow	m3/h	150.0	250.0	400.0
+2	pH	-		7 - 9	7*
+3	Sodium	mg/ℓ	750.00	262.3	445.2
+4	Potassium	mg/ℓ		1.0	0.6
+4	Magnesium	mg/ℓ		1.0	0.6
+5	Calcium	mg/ℓ		1.0	0.6
+6	Nitrate	mg/ℓ		10.0	6.3
+6	Carbonate	mg/ℓ		12.0	7.5
+7	Bicarbonate	mg/ℓ		108.3	67.7
+7	Chloride	mg/ℓ	250.00	50.0	125.0
+8	Sulphate	mg/ℓ		1.0	0.6
+9	Silica	mg/ℓ		100.0	62.5
+12	TDS	mg/ℓ	1000		375.0
+13	Fluoride	mg/ℓ	1500.0	200.0	687.5
+14	TSS	mg/ℓ	1000.0	200.0	500.0
+14	NH4	mg/ℓ		100.0	62.5
+15	Phosphate	mg/ℓ	50.0		18.8
+
+=== Slide 4 ===
+Case 1: ROi Projections - Mixed InfluentCR100 and 75% recovery
+
+[Picture on Slide 4 | GENERIC_FIGURE]
+OCR: RO) Slow Table (Mager irvel) Pans 1
+; 7 7 7 : deed : Compente ste : Permeste ;
+Mage O torments Ore fin | teed Recie teed Rom Com Come Pres Perm Reg hes Perms Perm
+oer Mee Phe ens Pent Oem | Prete Oop Dow Peew to.
+ev
+at ie ll fe | ear} bef lee) fee} fms) Rt fer} ime fl
+oy cots cman tse tase ate es go) ome tt et are | oe | oe ee
+RO Sobvir Conernitation Paw t
+ Comemnts atic fora ft 91 eon)
+ . . Adgortiad teed Casuiest Permeste
+.
+Rew tees bets Aes , , tease
+Recor
+ ays ww ew ore ame et ore
+. on on pas 708 o%0 eto
+tes mr mr Li a] iar Pe ad
+ntg on on tn Pa ow 20D
+cs on on tn Pa ow 20D
+wet 200 200 ou ou ow 0D
+hs 200 200 aa ace ow 20D
+ cot cor coe Cts
+Oe 80 arco tyes yu 2 soe
+Oh, 600 600 bh rt 7047 to 372
+ oars oars Lat TAM to 40 8040
+q iro iro rare 4006 29 298
+me 200 200 ou ou ow 0D
+TM on on tn Pa ow 20D
+ rot 18 30 . 18.30 . cad . + 2D . per . 70
+0, ew aro twat pee ar a7
+form 900 200 aa ace ow 20D
+ ca, . 247 . 247 . VIP . tate . 740 . 240
+ame 1.900 . 1.900 . PT 9 . 229 ee ee
+ta eae eae 7.708 str73e8 i =a
+lone
+wife
+- +0 70 78 73
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: RO) Slow Table (Mager irvel) Pans 1
+; 7 7 7 : deed : Compente ste : Permeste ;
+Mage O torments Ore fin | teed Recie teed Rom Com Come Pres Perm Reg hes Perms Perm
+oer Mee Phe ens Pent Oem | Prete Oop Dow Peew to.
+ev
+at ie ll fe | ear} bef lee) fee} fms) Rt fer} ime fl
+oy cots cman tse tase ate es go ...
+
+[Picture on Slide 4 | FLOW_DIAGRAM]
+OCR: is] -
+.
+Tt, 9 Os co .
+ow. + Geeta)
+oe Dever yptice ee
+mrs ime) tall
+nae tied te 80 Sytem woe 1 7 oe |
+2 Met Need to Pane t hens ery 310
+1 Commnte ste Rev ys te from Faz t to Maxed ser nm we
+4 Totet Comcenteste Brom Mest t m 120 awe
++ Met Commemteste fromm 2 tyxten re 120 ave
+A het Preise freee RO ystems are ane a0
+RO Spitiem Ovreverw
+ tots of tewee 2 Ontee = : Sette = TRG Recovery Man
+byitem Wow Rate Tet Meet tert - we Meet Prone = are
+ pa . Pont :
+ eeem Nome . trea 2 :
+ wae tee . Wante Wate (Comyer tions:
+peetreatment Ube)
+ member of Neem: . ery
+Teta Active Aves i wort
+ med Dew pee Pons inn hae
+Veg Toe ref) ste
+Need Poesimte ao) t0e
+Vow Bitar Pee Stage or
+Pcmnahs lien onion ine 7 are
+Nene Average Poe a) a
+Meemeste Tht ee) aa
+ ree Recovery . orm
+ aweeage NOP fee 4 ;
+Spee ate Ieweey (wey) ow
+Temper state rm ne
+Ps 70 [Aer Adtpertmend)
+ Cheeese of Cane . NO mg Mahe 100%)
+Wc Yyrtem Revcovery 4m
+ sect 80 by utaen tes every . no.
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: is] -
+.
+Tt, 9 Os co .
+ow. + Geeta)
+oe Dever yptice ee
+mrs ime) tall
+nae tied te 80 Sytem woe 1 7 oe |
+2 Met Need to Pane t hens ery 310
+1 Commnte ste Rev ys te from Faz t to Maxed ser nm we
+4 Totet Comcenteste Brom Mest t m 120 awe
++ Met Commemteste fromm 2 tyxten re 120 ave
+A het Preise freee RO y ...
+
+=== Slide 5 ===
+HFW and LSR mixed Influent WW chemistryCase 2
+*Assumed to be neutral Ph. This will be confirmed after collecting few samples
+
+[Table 1]
+S/N	Parameters	Units	HFW	LSR A2	Combined Wastewater
+1	Flow	m3/h	150.0	250.0	400.0
+2	pH	-		7 - 9	7*
+3	Sodium	mg/ℓ	750.00	262.3	445.2
+4	Potassium	mg/ℓ		1.0	0.6
+4	Magnesium	mg/ℓ		1.0	0.6
+5	Calcium	mg/ℓ		1.0	0.6
+6	Nitrate	mg/ℓ		10.0	6.3
+6	Carbonate	mg/ℓ		12.0	7.5
+7	Bicarbonate	mg/ℓ		108.3	67.7
+7	Chloride	mg/ℓ	250.00	50.0	125.0
+8	Sulphate	mg/ℓ		1.0	0.6
+9	Silica	mg/ℓ		100.0	62.5
+12	TDS	mg/ℓ	1000		375.0
+13	Fluoride	mg/ℓ	500.0	200.0	312.5
+14	TSS	mg/ℓ	1000.0	200.0	500.0
+14	NH4	mg/ℓ		100.0	62.5
+15	Phosphate	mg/ℓ	50.0		18.8
+
+=== Slide 6 ===
+Case 2: ROi Projections - Mixed InfluentCR100 at 75% Recovery
+
+[Picture on Slide 6 | FLOW_DIAGRAM]
+OCR: RO) Blow Tabbe (Stage lewel) Pass t
+Mage taremeents SPY Mn | teed Recitt Peed Boort | Come Come renner Aug fies Perm Perm
+rd Dow Show Pen Pens Cow Pee rep Show Pres mH.
+ew
+Cmts) bee ee) Bee iemtfe) Pe} fer} lef) ft ae) beg ft)
+ octmte cree et seer ane v4 . ea . ar a on gro ee ao a
+RO Sokte Comcrntratmam: Pans t
+ Cemnatestions (mg f a snl :
+ . . Adiyarted Deed Comemady st Permeste
+
+five tend hestics = Ata , Maget , Staged tetas
+Recyeee
+ pa, . 2 WO . 2 WO . sare . th . tu . 2
+ on on 272 277 oo oot
+ts +70 +70 lhe Aw 4m em
+tee one one tay 248 oo: oot
+ta one one tay 248 oo: oot
+ Ose Ose oop oop om ow
+Gs Ose Ose oop oop om ow
+ ane ose . ose . om . om . om . ow
+ao, rere rere 3472 ma. - ao
+0, ave ave s74 22383 oun oes
+ ties ties ms spe ta28 torr
+a 87% 7e% wl OA t76 ert
+te Ose Ose oop oop om ow
+10, one one 2 74 ace ow
+ 9a, i200 . i200 . usa . am . ar . or;
+tad, 2 WO 2 WO 2800 2400 ow ow
+boro Ose Ose oop oop om ow
+ chy . an . an . sbie . ws . Pa . .P ]
+ isaod . Li . hau . 2th . +08 . or . ey
+re) were vere +r 8708 ue
+ice
+oe 76 76 ry 27 at 3
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: RO) Blow Tabbe (Stage lewel) Pass t
+Mage taremeents SPY Mn | teed Recitt Peed Boort | Come Come renner Aug fies Perm Perm
+rd Dow Show Pen Pens Cow Pee rep Show Pres mH.
+ew
+Cmts) bee ee) Bee iemtfe) Pe} fer} lef) ft ae) beg ft)
+ octmte cree et seer ane v4 . ea . ar a on gro ee ao a
+RO Sokte Comcrntr ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: i
+=:
+aa tNe) (hte eer)
+: : Chenu siggetinnes : Show : Tis : Weise :
+fen fa) beast) {esr}
+
+ . . . .
+ Raw Seed to > bysteem wo tite oo
+2 rt Deed to Merz} 3487 7% too
+ Comm cote ste ex yche teoem Pert to Parr } 4a 4 +4
+4 Tets Cons eeteste Porm Max: } 7 4 1 +4
+% Sert Come rete ste treem 0) Syzterm 7to 4 1 +4
+% Set Peon Boom BO Syrtere 670 et 78 oo
+RO} System Chvertwerw
+
+ tees of Teame cielo = wamditey - 9 RO Recovery 44a :
+Dyrteen Slow Kate bens) Met lces - wo Met Produxt - 70
+
+ . Pan :
+
+ .
+
+Were Sarr trea
+
+ Waoes TyE< . Warte Waster (. orererdioms
+
+; . pteterstemee Ue< 4) ;
+
+Seyanteee of Dice ents ics
+
+Tots Ac tier Aspe j= ) a0t8
+
+ Sean Dow gee Pax: fen fe) . 407
+
+9 eee TE>E ines) ar)
+
+Jord Precwuwre (hesr} 300
+
+Stow I axtoe Mev ttape o 7
+
+ieee Stow geet Macs fen fe) . 70
+
+Pax: Ayvecage Fine (Une) 34 7
+
+Poreeate Tie inet) ea ve
+
+Pai Ree coer y . +4
+
+ pnce age MOP | . eo
+
+leeuTe Mmerzy Rwt/en on
+
+Temper stute rc) mo
+
+oe 20 Armee Adpe: tem cee
+
+ eeeas Choe . 2D mest Wal ee
+
+RO) eyrteen Recovery mate
+
+ tet WO) Syrteam Rex coyery . a4 Om
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: i
+=:
+aa tNe) (hte eer)
+: : Chenu siggetinnes : Show : Tis : Weise :
+fen fa) beast) {esr}
+
+ . . . .
+ Raw Seed to > bysteem wo tite oo
+2 rt Deed to Merz} 3487 7% too
+ Comm cote ste ex yche teoem Pert to Parr } 4a 4 +4
+4 Tets Cons eeteste Porm Max: } 7 4 1 +4
+% Sert Come rete ste treem 0) Syzterm 7to  ...
+
+=== Slide 7 ===
+HFW and LSR mixed Influent WW chemistryCase 3
+*Assumed to be neutral Ph. This will be confirmed after collecting few samples
+
+[Table 1]
+S/N	Parameters	Units	HFW	LSR A2	Combined Wastewater
+1	Flow	m3/h	190.0	210.0	400.0
+2	pH	-		7 - 9	7*
+3	Sodium	mg/ℓ	750.00	262.3	494.0
+4	Potassium	mg/ℓ		1.0	0.5
+4	Magnesium	mg/ℓ		1.0	0.5
+5	Calcium	mg/ℓ		1.0	0.5
+6	Nitrate	mg/ℓ		10.0	5.3
+6	Carbonate	mg/ℓ		12.0	6.3
+7	Bicarbonate	mg/ℓ		108.3	56.9
+7	Chloride	mg/ℓ	250.00	50.0	145.0
+8	Sulphate	mg/ℓ		1.0	0.5
+9	Silica	mg/ℓ		100.0	52.5
+12	TDS	mg/ℓ	1000		475.0
+13	Fluoride	mg/ℓ	500.0	200.0	342.5
+14	TSS	mg/ℓ	1000.0	200.0	580.0
+14	NH4	mg/ℓ		100.0	52.5
+15	Phosphate	mg/ℓ	50.0		23.8
+
+=== Slide 8 ===
+Case 3: ROi Projections - Mixed InfluentCR100 at 75% Recovery
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: RO) Slow Table (Mager irvel) Pans 1
+; 7 7 7 : Veet : Compente ste : Permeste ;
+Mage O torments Ore fin | teed Recie teed Rom Com Come Pres Perm Reg hes Perms Perm
+rr Now Show fren Preset Sherer Men Qrop tow fren oH
+ev
+at ie ll fe | ear} bef lee) fee} fms) Rt fer} ime fl
+ 3 . SerciiteTM <RI00 . s . ane at . +3 . ao . a . . ot . 70 . a . oe . nn
+RO Sobvir Conernitation Paw t
+ Comnwatsatecen fre ft 1 son) :
+ . . Adgortiad teed Casuiest Permeste
+.
+Rew tees bets Aes , , tease
+Recor
+wus 4 MO . 4 MO . ta7 . a . 20 . 2
+- ow ow pit 707 oso oto
+tes 4700 4700 27k tan ee om
+neg 10 10 ta 26 ow 200
+crt ow ow tot aM ow oop
+e oo oo om om ow oop
+he oo oo om om ow oop
+ cot ear . ear . ar . aw . ow . 200
+26D oe oe tore pee oO 708
+sO, 0 0 tla iM usr 337
+ mS mS rors ten an am
+a HAO HAO aw wera tor wa
+me oo oo om om ow oop
+wa, ow ow tot am ow oop
+ ra 2680 . 2680 . 44% . ai 20 . 2% . 77
+ a, 4 MO 4 MO tot 3 yore a 47 342
+Boren oo oo om om ow oop
+ co, . ert . ert . a+ . a] . a . .
+ To. . aM . aM . Ft . 4ane . ohm . +2
+ta 2) 2 wet 4aa8 sm w ee
+Coes
+wife
+= a) to 73 7 2
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: RO) Slow Table (Mager irvel) Pans 1
+; 7 7 7 : Veet : Compente ste : Permeste ;
+Mage O torments Ore fin | teed Recie teed Rom Com Come Pres Perm Reg hes Perms Perm
+rr Now Show fren Preset Sherer Men Qrop tow fren oH
+ev
+at ie ll fe | ear} bef lee) fee} fms) Rt fer} ime fl
+ 3 . SerciiteTM <RI00 . s . a ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: > >
+Ls]
+Geo hyo: 6 (Aaettie ati)
+: e . Dresat tpl eon . Kon . oH. . Preswote :
+b> fm) femal) Peo}
+ . . . .
+2 Raw eed to RC Sy: tere wo ou ao
+> Ohee Vee to Pace ten Pam ta | sot
+ Cow endrste Rey ye te rou Parr t bo Maus Sd atte 7%
+4 Tote Corcendsstr room Face 74 aate 7%
+4 het Cone eettzte toum .) lycteen 246 atte 7%
+ deer Predtins oem RC) bycteen 476 om ao
+RD Stem Ovrrverw
+ tetst 8 of Teaen 3 Qetine - t Semettey - ng Ree cyery Man
+Syrteem I iow Rate be tM) Met tert - 109 Met Peoetent - 72
+ : Pew t ,
+ .
+Vresm Maumee Wreom
+ ana Tver , Waste Water (Corwrr thoes
+eertrestemeet Wes)
+ of | pewmmseent: . see
+Tees Active Aree i= ) rt
+heck iten panPans i= /s) . tag
+Need Tie teh) ram Ee}
+led Pretuete Sher) to:
+Vice Os tor Mee tesge an
+ns iow ger Pace i= /e) . %78
+Vert Awer age Pee pater) te
+Neemmeste Tht t- f) coe
+inom Feex Query . |
+poe tor Sher) . 4
+Spee atx I meary ae an
+Termperr stir ra) m2
+en 70 [Amer Adpectmena}
+ Cow 2 Doe . POomgA Ms.) 100%)
+Bi) Dyrtem Rey oyery aay
+ion OE) Syzterm ex query . 2 th
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: > >
+Ls]
+Geo hyo: 6 (Aaettie ati)
+: e . Dresat tpl eon . Kon . oH. . Preswote :
+b> fm) femal) Peo}
+ . . . .
+2 Raw eed to RC Sy: tere wo ou ao
+> Ohee Vee to Pace ten Pam ta | sot
+ Cow endrste Rey ye te rou Parr t bo Maus Sd atte 7%
+4 Tote Corcendsstr room Face 74 aate 7%
+4 het Cone eettzte toum .) ly ...
+
+=== Slide 9 ===
+HFW and LSR Mixed Influent WW chemistryCase 4
+*Assumed to be neutral Ph. This will be confirmed after collecting few samples
+
+[Table 1]
+S/N	Parameters	Units	HFW	LSR A2	Combined Wastewater
+1	Flow	m3/h	150.0	150.0	300.0
+2	pH	-		7 - 9	7*
+3	Sodium	mg/ℓ	750.00	262.3	506.2
+4	Potassium	mg/ℓ		1.0	0.5
+4	Magnesium	mg/ℓ		1.0	0.5
+5	Calcium	mg/ℓ		1.0	0.5
+6	Nitrate	mg/ℓ		10.0	5.0
+6	Carbonate	mg/ℓ		12.0	6.0
+7	Bicarbonate	mg/ℓ		108.3	54.2
+7	Chloride	mg/ℓ	250.00	50.0	150.0
+8	Sulphate	mg/ℓ		1.0	0.5
+9	Silica	mg/ℓ		100.0	50.0
+12	TDS	mg/ℓ	1000		500.0
+13	Fluoride	mg/ℓ	500.0	200.0	350.0
+14	TSS	mg/ℓ	1000.0	200.0	600.0
+14	NH4	mg/ℓ		100.0	50.0
+15	Phosphate	mg/ℓ	50.0		25.0
+
+=== Slide 10 ===
+Case 4: ROi Projections - Mixed InfluentCR100 at 75% Recovery
+
+[Picture on Slide 10 | FLOW_DIAGRAM]
+OCR: RO) Glow tabbir (Viagr tewri) Pass t
+Sect Come ends ote Pevmeste
+ - - - . - - . - - -
+Mage Shermersts av 8h eed Rechte eed (Bowst Com Com Prens Perm Ave live Pere Peer
+per Done Show Pen Pres toe Peer rom Show Pees oH.
+ry
+femtfe) beefed ae} Pe} ime) Pe} fer] fem) (Uae) emg ft)
+ . . . . . . . . . . . . . .
+t loetiitr TM CK ESD by 497 yb tos a m7 a oe 670 ta ao = 10
+RO Sak tr Comcrntratzom, Pans ft
+Comment sthoe: (ag fl x: som]
+ - - - -
+Adigarted tord Coma ands at Per este
+.
+ - . . -
+Row tered bewtns afer Mage Serge Tetat
+Recycle
+ . . . . . .
+hm, oO 90 oO 90 307 2 1e064 7O8 2ot
+ ov ov 3a 3 at oa oo
+hs am 7 am 7 toast 3982 th 38 438
+tate ov ov :o8 Pa | act oo:
+cs ow ov :o8 Pa | act oo:
+le ose ose oo oo om ow
+to ose ose oo oo om ow
+ . . . . . .
+Em oct oct 70 of. om ow
+oar, vert wart 2083 sete 24 1M
+wo, 4 2D 4 2D 1m 38:0 aw ow
+ 0 ma stae 3.6% tier ti 47
+cy :7e4 764 uA 2 4a} 8 we 1%
+te ose ose oo oo om ow
+1, ov ov :o8 i acm ow
+ . . . . . .
+ra, Pa] Pa] 4: oe ba to +o
+ath, 1.0.00 1.0.00 204 0 oTM 4 os oe
+bor cs ose ose oo oo om ow
+ . . . . . .
++5 aw aw est 738 7 7
+ . . . . . .
+tt bays byyt or 444) 40 2D 2m
+{oud Pas BI 7.408 tw s77x a at
+eiyem
+ee 7 7 ry zt 3 a3
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: RO) Glow tabbir (Viagr tewri) Pass t
+Sect Come ends ote Pevmeste
+ - - - . - - . - - -
+Mage Shermersts av 8h eed Rechte eed (Bowst Com Com Prens Perm Ave live Pere Peer
+per Done Show Pen Pres toe Peer rom Show Pees oH.
+ry
+femtfe) beefed ae} Pe} ime) Pe} fer] fem) (Uae) emg ft)
+ . . . . . . . . . . . ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: [s
+=:
+aa tNe) (hte eer)
+: : Chenu siggetinnes : Show : Tis : Weise :
+fen fa) beast) {esr}
+
+ . . . .
+ Raw Seed to > bysteem wo b273 oo
+2 rt Deed to Merz} 3487 Fes to 8
+ Comm cote ste ex yche teoem Pert to Parr } 4a 4aAn +t
+4 Tets Comm eats ste oem Marz | m7 4 tar t
+% Set Cemecerits ste treem 0) Sytem 2to 44> +t
+% Set Peon Boom BO Syrtere 670 40 > oo
+RO} System Chvertwerw
+
+ tees of Teame cielo = wamditey - 9 RO Recovery 44a :
+Dyrteen Slow Kate bens) Met lces - wo Met Produxt - 70
+
+ion . Pant ;
+
+ .
+
+Were Sarr trea
+
+ Waoes TyE< . Warte Waster (. orererdioms
+
+; . pteterstemee Ue< 4) ;
+
+Siyantes of | hemes tos
+
+Tots Ac tier Aspe j= ) a0t8
+
+ Sean Dow gee Pax: fen fe) . 407
+
+9 eee TE>E ines) 7.01
+
+Jord Precwuwre (hesr} 308
+
+Stow I axtoe Mev ttape o 7
+
+ieee Stow geet Macs fen fe) . 70
+
+Pax: Ayvecage Fine (Une) 34 7
+
+Peermeste Tie (nef 49
+
+Pai Ree coer y . +4
+
+ Awee age CaP (hse} . a4
+
+leew e Imerzy Rwe/en or
+
+Temper stute rc) mo
+
+oe 20 Armee Adpe: tem cee
+
+ eeeas Croce . 2D mest Wal ee
+
+RO) eyrteen Recovery mate
+
+ tet WO) Syrteam Rex coyery . a4 Om
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: [s
+=:
+aa tNe) (hte eer)
+: : Chenu siggetinnes : Show : Tis : Weise :
+fen fa) beast) {esr}
+
+ . . . .
+ Raw Seed to > bysteem wo b273 oo
+2 rt Deed to Merz} 3487 Fes to 8
+ Comm cote ste ex yche teoem Pert to Parr } 4a 4aAn +t
+4 Tets Comm eats ste oem Marz | m7 4 tar t
+% Set Cemecerits ste treem 0) S ...
+
+=== Slide 11 ===
+HFW+LSR Mixed Influent WW chemistryCase 5
+*Assumed to be neutral Ph. This will be confirmed after collecting few samples
+
+[Table 1]
+S/N	Parameters	Units	HFW	LSR A2	Combined Wastewater
+1	Flow	m3/h	150.0	200.0	350.0
+2	pH	-		7 - 9	7*
+3	Sodium	mg/ℓ	750.00	262.3	471.3
+4	Potassium	mg/ℓ		1.0	0.6
+4	Magnesium	mg/ℓ		1.0	0.6
+5	Calcium	mg/ℓ		1.0	0.6
+6	Nitrate	mg/ℓ		10.0	5.7
+6	Carbonate	mg/ℓ		12.0	6.8
+7	Bicarbonate	mg/ℓ		108.3	61.9
+7	Chloride	mg/ℓ	250.00	50.0	135.7
+8	Sulphate	mg/ℓ		1.0	0.6
+9	Silica	mg/ℓ		100.0	57.1
+12	TDS	mg/ℓ	1000		428.6
+13	Fluoride	mg/ℓ	500.0	200.0	328.6
+14	TSS	mg/ℓ	1000.0	200.0	542.9
+14	NH4	mg/ℓ		100.0	57.1
+15	Phosphate	mg/ℓ	50.0		21.4
+
+=== Slide 12 ===
+Case 5: ROi Projections - Mixed InfluentCR100 at 75% Recovery
+
+[Picture on Slide 12 | FLOW_DIAGRAM]
+OCR: RO) Glow Tabbe (Mage lewri) Pass t
+Sect Come ends ote Permeste
+ - - - . - - . - - -
+Mage Shermersts av 8h eed Rechte eed (Bowst Com Com Prens Perm Ave live Pere Peer
+per Done Show Pen Pres toe Peer rom Show Pees oH.
+ry
+et i) Mn at de Poor} fmt fe) Pk) fesr] (emt fe) (tt fe} emg ft)
+ . . . . . . . . . . . . . .
+t loetiitr TM CK ESD by 497 yee v2 6a mm an oe 70 47 ao oO.
+RO Sak tr Comcrntratzom, Pans ft
+Comment sthon: fag ft x: som]
+Adiparted toed Come aunt t xt Per este
+.
+ - . . -
+Row tered bewtns afer Mage Serge Tetat
+Recycle
+ . . . . . .
+La + 30 + 30 3ta 7 7344 7
+a Oo Oo 372 27 oor oot
+is 472% 472%

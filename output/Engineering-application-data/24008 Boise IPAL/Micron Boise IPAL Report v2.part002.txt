@@ -1,0 +1,41 @@
+ pressure:  263 psi
+- Average Feed Flow rate: 9 LPM
+-Membrane: Pro-LF1
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+List of Substance	P4 Inlet	Final P4 Reject	Final P4 Permeate
+Projection[IPA]  (mg/L)	10	32	0.7
+Actual [IPA]  (mg/L)	11	135	0.44-2.40
+
+[Table 2]
+List of Substance	TOC (mg/L)	[IPA] (mg/L)
+P3 Permeate	1.91	2.39
+Tap Water	1.29	1.45
+P3 Permeate with [IPA] only	0.62	0.44
+
+=== Slide 37 ===
+GRADIANT CONFIDENTIAL
+Flux Vs IPA Concentration
+
+=== Slide 38 ===
+GRADIANT CONFIDENTIAL
+Rejection Vs IPA Concentration
+
+=== Slide 39 ===
+GRADIANT CONFIDENTIAL
+Discussions & Conclusions
+Three passes were sufficient to achieve permeate with quality projected to be achieved with four passes.
+
+Decreasing Pass 2 recovery may achieve P3 Reject and Permeate with [IPA] closer to Pass 4 projected values.
+
+ROi recovery 91.6% (by CF) / 67.9% (by volume).
+
+[Table 1]
+List of Substance	P1 Inlet	P1 Reject	P1 Permeate	P2 Inlet	P2 Reject	P2 Permeate	P3 Inlet	P3 Reject	P3 Permeate	P4 Inlet	P4 Reject	P4 Permeate
+Projection [IPA]  (mg/L)	3949	24992	758	690	5919	123	101	469	10	10	32	0.7
+Actual [IPA]  (mg/L)	4107	46383	197	197	2356	12	-	-	-	11	135	0.44-2.40
+Projection Recovery  (% v/v)			93.0			90.2			80.2			70.0
+Actual Recovery (% v/v)			93.1			88.4			-			67.9
+
+=== Slide 40 ===

@@ -1,0 +1,246 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23006 HFW\Micron HFW Jar testing Update_01 Mar 2022.pptx
+
+
+=== Slide 1 ===
+Micron HFW treatment - Lab Testing  Update
+
+=== Slide 2 ===
+Objective of the Base Case Study
+To evaluate the effectiveness of Fluoride precipitation using lime (Ca(OH)2) or calcium chloride (CaCl2) or its combination for fluoride containing wastewater
+
+=== Slide 3 ===
+Feed collected on 10-Feb-2022 from HFW EQ Outlet Base Case Experiment 1Scheme followed: 	- Jar Testing
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: Water Sample
+-
+Sample ID: Micven HF
+Customer: Mreven
+Industry: Location:
+_Reactive Other{__)
+Flammable
+Description: Acid Tp
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Water Sample
+-
+Sample ID: Micven HF
+Customer: Mreven
+Industry: Location:
+_Reactive Other{__)
+Flammable
+Description: Acid Tp ...
+
+=== Slide 4 ===
+Base case experiment 1
+2 beakers of 500ml each of HFW feedwater is considered as Case 1 & Case 2
+
+
+Once dosed, allow rapid mixing for 30s, & followed by Slow mixing for 45 min, measure pH every 10 min
+Dose 1 mg/L of SNF polymer (anionic) for each jars and further slower mix (60 rpm) for 45 min. Measure pH every 30 min
+Stop mixing and leave the solids to settle over 60 min, allow sludge settling
+All supernatant was collected for analysis
+
+[Table 1]
+Case 1 Dosage	Case 2 Dosage
+2920 mg/L Ca(OH)2	800 mg/L Ca(OH)2 + 2350 mg/L CaCl2
+
+=== Slide 5 ===
+Base case experiment 1: Jar testing
+
+[Table 1]
+EC(uS/cm)			TDS/PPM		pH
+Time	Jar 1	Jar 2	Jar 1	Jar 2	Jar 1	Jar 2
+16:00	7204	5208	3868	2753	11.9	8.72
+16:15	7629	5208	4115	2753	11.9	8.5
+16:30	7770	5221	4197	2760	12	8.5
+16:45	7770	5198	4197	2748	11.77	8.32
+17:00	7890	5181	4269	2739	11.97	8.4
+17:20	7915	5217	4283	2759	11.93	8.46
+17:40	7927	5029	4291	2656	12.1	8.98
+
+[Table 2]
+Case 1 Dosage	Case 2 Dosage
+2920 mg/L Ca(OH)2	800 mg/L Ca(OH)2 + 2350 mg/L CaCl2
+
+=== Slide 6 ===
+Jar Testing  – Addition of chemicals
+Addition of chemicals into different jars (Left: case 1, right: case 2)
+Addition of 1 mg/L polymer into different jars (Left: case 1, right: case 2)
+Sludge settling (Left: case 1, right: case 2)
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 7 ===
+Base case experiment 1- Jar testing treated water analysis
+Inference: Fluoride is meeting the discharge specification
+
+[Table 1]
+Parameters	Units	Feed	Case 1	Case 2
+pH	-	2.95	12.1	8.98
+TDS	ppm	1302	4291	2656
+EC	uS/cm	2556	7927	5029
+Fluoride as F	ppm	372	9.02	7.02
+Sulphate as SO4	ppm	310	256	275
+Phosphate as PO4	ppm	<1	<1	<1
+Chloride as Cl	ppm	72.4	59	1443
+Sodium as Na	ppm	263	279	288
+Calcium as Ca	ppm	1.15	627	685
+Silicon as Si	ppm	23.9	0.274	2.88
+Total Alkalinity as CaCO3	ppm		1975	200
+
+[Table 2]
+Case 1 Dosage	Case 2 Dosage
+2920 mg/L Ca(OH)2	800 mg/L Ca(OH)2 + 2350 mg/L CaCl2
+
+=== Slide 8 ===
+Lime only – Lab test vs simulation
+
+[Table 1]
+Parameters	Units	Feed	Case 1
+pH	-	2.95	12.1
+TDS	ppm	1302	4291
+EC	uS/cm	2556	7927
+Fluoride as F	ppm	372	9.02
+Sulphate as SO4	ppm	310	256
+Phosphate as PO4	ppm	<1	<1
+Chloride as Cl	ppm	72.4	59
+Sodium as Na	ppm	263	279
+Calcium as Ca	ppm	1.15	627
+Silicon as Si	ppm	23.9	0.274
+Total Alkalinity as CaCO3	ppm	-	1975
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: 2970 2970
+9b
+4 88 73
+ala
+30 30 30
+fic 110 607
+1043 2622 1420
+1944 145278 9396
+1741 13011 BAIS
+594 3113 2014
+3113 2014
+p 3946 18/1
+912
+1880 749
+263 263 263
+310 310 310
+ble 13 13
+19 19
+0 376 0 376 6 87e 06
+23.9 23.9 23.9
+377 377
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 2970 2970
+9b
+4 88 73
+ala
+30 30 30
+fic 110 607
+1043 2622 1420
+1944 145278 9396
+1741 13011 BAIS
+594 3113 2014
+3113 2014
+p 3946 18/1
+912
+1880 749
+263 263 263
+310 310 310
+ble 13 13
+19 19
+0 376 0 376 6 87e 06
+23.9 23.9 23.9
+377 377 ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+precip 813 mg 813 |
+precip 1
+precip mg
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mg per Liter solution:
+precip 813 mg 813 |
+precip 1
+precip mg ...
+
+=== Slide 9 ===
+Hybrid (Lime +CaCl2) –Lab test vs simulation
+
+[Table 1]
+Parameters	Units	Feed	Case 2
+pH	-	2.95	8.98
+TDS	ppm	1302	2656
+EC	uS/cm	2556	5029
+Fluoride as F	ppm	372	7.02
+Sulphate as SO4	ppm	310	275
+Phosphate as PO4	ppm	<1	<1
+Chloride as Cl	ppm	72.4	1443
+Sodium as Na	ppm	263	288
+Calcium as Ca	ppm	1.15	685
+Silicon as Si	ppm	23.9	2.88
+Total Alkalinity as CaCO3	ppm		200
+
+[Picture on Slide 9 | GENERIC_FIGURE]
+OCR: 800 800
+2350 2350
+113 113
+4 96
+30 30 30
+100
+1043 3067
+1944
+1741
+694 PAG
+oO PAG
+3202 220%
+9
+1282
+263 263 263
+504 310 310 310
+oO 13 13
+oO She
+4 1873 1873
+04 0 376 0 376 1
+239 239 239
+312 312
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 800 800
+2350 2350
+113 113
+4 96
+30 30 30
+100
+1043 3067
+1944
+1741
+694 PAG
+oO PAG
+3202 220%
+9
+1282
+263 263 263
+504 310 310 310
+oO 13 13
+oO She
+4 1873 1873
+04 0 376 0 376 1
+239 239 239
+312 312 ...
+
+[Picture on Slide 9 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+Input Output 1 Output
+Hydroxyapatite precip 1 mq ie) 1
+preaip 761 ma ie)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Amount of Minerals in mg per Liter solution:
+Input Output 1 Output
+Hydroxyapatite precip 1 mq ie) 1
+preaip 761 ma ie) ...

@@ -1,0 +1,1202 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23524 Boise Opal\Micron Boise _Gradiant  Presentation rev 0_25th Apr 2023.pptx
+
+
+=== Slide 1 ===
+Project: Micron Boise FAB ID1 Green Field Project
+
+ZLD Facility Integrator RFI
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+INFLUENT WASTEWATER QUALITY
+
+[Picture on Slide 2 | PARAM_TABLE]
+OCR: Average
+Parameter
+Units
+Value
+Flow
+5,000
+gpm
+pH
+pH units
+7
+Total Dissolved Solids (TDS)
+mg/L
+2,750
+Total Suspended Solids (TSS)
+mg/L
+10
+244
+Total Nitrogen
+mg/L as N
+Total Phosphorus
+mg/L as P
+2
+Sulfate
+mg/L
+1,200
+Nitrate
+mg/L
+40
+Fluoride
+6
+mg/L
+Chloride
+mg/L
+380
+Calcium
+mg/L
+100
+Magnesium
+mg/L
+15
+Strontium
+0.3
+mg/L
+Potassium
+mg/L
+4
+Sodium
+mg/L
+460
+Alkalinity
+mg/L as CaCO,
+90
+Total Silica
+mg/L as SiO,
+150
+Total Organic Carbon
+210
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: Average
+Parameter
+Units
+Value
+Flow
+5,000
+gpm
+pH
+pH units
+7
+Total Dissolved Solids (TDS)
+mg/L
+2,750
+Total Suspended Solids (TSS)
+mg/L
+10
+244
+Total Nitrogen
+mg/L as N
+Total Phosphorus
+mg/L as P
+2
+Sulfate
+mg/L
+1,200
+Nitrate
+mg/L
+40
+Fluoride
+6
+mg/L
+Chloride
+mg/L
+380
+Calcium
+mg/L
+100
+Magnesium
+mg/L
+15
+Strontium
+0.3
+mg/L
+Potassium
+mg/L
+4
+Sodium
+mg/L
+460
+Alkalinity
+mg/L as CaCO,
+90
+Total Silica
+mg/L as S ...
+
+=== Slide 3 ===
+TREATED WATER QUALITY
+Reclaim treated water quality :<75 mg/l of TDS
+
+Brine TDS concentration is >230,000 mg/L, followed by ZLD system
+
+=== Slide 4 ===
+Micron Boise - Lab Testing
+
+=== Slide 5 ===
+Objectives of lab trials
+The objectives of the present study
+
+ To identify the maximum recovery that can be able to achieve through the ROi stage 1 & CFRO stage 2
+
+To determine the dosage of chemicals required for SCE stage 1  and stage 2 that is needed to bring down Silica, Hardness, and fluoride levels to the required concentrations.
+
+=== Slide 6 ===
+Experimental procedures
+Prepared synthetic water according to the feed water parameters
+
+Performed water analysis using Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES), Ion Chromatography (IC), and other techniques to confirm feed water parameters
+
+Performed membrane and antiscalant projections to predict maximum recovery
+
+Identified the initial chemical dosages through the OLI and other software
+
+=== Slide 7 ===
+Experiments: SCE Stage 1Scheme followed: 	- Jar Testing
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23 ...
+
+=== Slide 8 ===
+SCE Stage1 Experiment: Synthetic Feed Water Preparation
+Salts were added to prepare synthetic water
+
+[Table 1]
+		Quantity required, (g/L)	mg/L	10L (mg)	20L (mg)
+1	SrSO4	0.000629	0.629	6.289	12.578
+2	Na2SiO3	0.304731	304.731	3047.308	6094.616
+3	NaF	0.013261	13.261	132.608	265.215
+4	NaHCO3	0.090000	90.000	900.000	1800.000
+5	KCl	0.007628	7.628	76.275	152.550
+6	NaCl	0.271301	271.301	2713.014	5426.028
+7	MgSO4	0.007428	7.428	74.279	148.558
+8	Na2SO4	0.532317	532.317	5323.173	10646.346
+9	CaCl2	0.376747	376.747	3767.469	7534.939
+10	(NH4)2SO4	1.150350	1150.350	11503.502	23007.003
+11	Na3PO4.12H2O	0.008005	8.005	80.051	160.102
+12	NaNO3	0.054831	54.831	548.311	1096.621
+
+[Picture on Slide 8 | PARAM_TABLE]
+OCR: TABLE 1. INCOMING WATER CHARACTERISTICS.
+Average
+Parameter
+Units
+Value
+Flow
+5,000
+gpm
+pH
+pH units
+7
+Dissolved Solids (TOS)
+mg/L
+2,750
+Suspended Solids (TSS)
+mg/L
+10
+244
+Total Nitrogen
+mg/L as N
+Phosphorus
+mg/L as P
+2
+Sulfate
+mg/L
+1,200
+Nitrate
+mg/L
+40
+Fluoride
+6
+mg/L
+Chloride
+mg/L
+380
+Calcium
+mg/L
+100
+Magnesium
+mg/L
+1.5
+Strontium
+0.3
+mg/L
+Potassium
+mg/L
+4
+Sodium
+mg/L
+460
+Alkalinity
+mg/L as CaCO,
+90
+Silica
+mg/L as
+150
+210
+Total Organic Carbon
+mg/L as C
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: TABLE 1. INCOMING WATER CHARACTERISTICS.
+Average
+Parameter
+Units
+Value
+Flow
+5,000
+gpm
+pH
+pH units
+7
+Dissolved Solids (TOS)
+mg/L
+2,750
+Suspended Solids (TSS)
+mg/L
+10
+244
+Total Nitrogen
+mg/L as N
+Phosphorus
+mg/L as P
+2
+Sulfate
+mg/L
+1,200
+Nitrate
+mg/L
+40
+Fluoride
+6
+mg/L
+Chloride
+mg/L
+380
+Calcium
+mg/L
+100
+Magnesium
+mg/L
+1.5
+Strontium
+0.3
+mg/L
+Potassium
+mg/L
+4
+Sodium
+mg/L
+460
+Alkalinity
+mg/L as CaCO,
+9 ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: Cac.
+Sodium Phosph
+Sodium metasilicate
+Anhydrous
+12H20 Fw 36
+06
+AR Grade
+AR Grade
+S00 g
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Cac.
+Sodium Phosph
+Sodium metasilicate
+Anhydrous
+12H20 Fw 36
+06
+AR Grade
+AR Grade
+S00 g ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: [_ CHEMICAL REAGENT
+P1620647
+Polyfe
+Potassium Chloride
+KCl
+AR Grade
+1 kg
+(
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: [_ CHEMICAL REAGENT
+P1620647
+Polyfe
+Potassium Chloride
+KCl
+AR Grade
+1 kg
+( ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: 7
+Cat.Wo.
+- | Sodium Fluoride
+NaF Fw.41.99
++ AR Grade
+it SCRS
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 7
+Cat.Wo.
+- | Sodium Fluoride
+NaF Fw.41.99
++ AR Grade
+it SCRS ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: ~
+a
+Calcium Chloride
+Anhydrous
+Fw.110.90
+AR Grade
+(toms
+FS
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: ~
+a
+Calcium Chloride
+Anhydrous
+Fw.110.90
+AR Grade
+(toms
+FS ...
+
+=== Slide 9 ===
+Jar Testing protocols (FeCl3)
+A beaker of 500ml of synthetic water is dosed with different concentrations of FeCl3
+Once dosed, the mixture was rapidly mixed (200 rpm) for the 30s, & followed by slow mixing (100 rpm) for 45 min, pH was measured and adjusted to 8.5 every 15 min
+Mixing was stopped and the solids were left to settle for over 90 min, allowing the sludge to settle
+The supernatant and sludge were collected for analysis
+
+=== Slide 10 ===
+Experimental pictures: Jar Testing (FeCl3)
+Feed Water adjusted to pH 7 by dosing HCl and NaOH
+FeCl3 was weighed
+Sludge was left for settle for >90min
+Supernatant was collected, filtered, and sent for analysis
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: w
+=
+Filtered
+Supernatall
+PPM
+est
+4
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: w
+=
+Filtered
+Supernatall
+PPM
+est
+4 ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: 38
+ff
+=
+ow
+a A
+v
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 38
+ff
+=
+ow
+a A
+v ...
+
+=== Slide 11 ===
+SCE STAGE 1- Jar Testing Treated Water Analysis
+Ferric chloride was tested, and successfully reduce to ~20ppm using ferric chloride
+Filtration was done for pre-treated samples to remove precipitates
+Dosage of FeCl3 ~500 mg/l
+
+[Table 1]
+	Units	Feed	Jar
+pH	-	6.96	8.45
+Fluoride as F	ppm	4.73	4.93
+Chloride as Cl	ppm	369	837
+Sulphate as SO4	ppm	1132	1035
+Nitrate as NO3	ppm	37	33.7
+Calcium as Ca	ppm	98.6	80.1
+Magnesium as Mg	ppm	0.664	<0.1
+Potassium as K		<0.1	<1
+Total Silica as SiO2	ppm	136	20.9
+Sodium as Na		532	955
+Strontium as Sr		0.2	0.2
+TOC	ppm	<1	<1
+
+=== Slide 12 ===
+Experiments: ROi Stage 1Scheme followed: 	- semi-batch RO
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23 ...
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: ai
+wy
+A
+A
+43
+ae
+ay
+|
+4
+W
+yar
+ae
+;
+7
+W
+of
+|
+AS
+~
+ee
+ee
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: ai
+wy
+A
+A
+43
+ae
+ay
+|
+4
+W
+yar
+ae
+;
+7
+W
+of
+|
+AS
+~
+ee
+ee ...
+
+=== Slide 13 ===
+ROi Stage 1 – Lab setup
+RO feed stream was concentrated 10x using the micromodule setup and these parameters
+
+Feed pressure: 1000 psi (69 bar)
+Flow rate: 200 ml/min
+Instruments
+High pressure pump
+Membrane cell
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: i -
+puMP
+pe
+4
+|
+A 4
+J
+>
+F
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: i -
+puMP
+pe
+4
+|
+A 4
+J
+>
+F ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: a
+on
+e
+Y
+Ay eo
+e
+/ AY Ory Ory ~
+e
+A
+4 oo os
+e
+ee ee ee
+e e
+ee ee e ee
+ee Ory x
+ee ee ee ee ee ee ee ee e ee
+ee ee ee ee ee
+e ee ee ee ee ee oe
+eee ee
+ee eee ee eee ee ee
+= ee
+oe eee eee eee eee
++e te
+eee eee ee eee ee
+ee ee ee ee oe ry ood eee
+ee ee oe oe /
+ee eee eee an
+ee ee ee ee ee eee
+eee eee oo oe oe oe oe
+e ee ee oe
+ee ee eee ee eee ee ee ee ee ee
+ee eee eee ee eee ee ee ee e e
+eee ee ee ee oe ee eee ee
+ee ee ee oe oe oe oe oe a
+eo eee am eo ee ae ee ee eee eee eee
+ee ee ee ee ee ee eee ee eee
+eee ee ee eo ee oe oe
+ee ee eee eee ee ee ee ee eee eee ee
+ee ee ee eee ee oe oe eee ee oe
+ee ee eee eee ee eee eee oe eee WA
+ee ee oe eee ee eee eee
+oe oe
+ry) ee ee oe eee oe ry)
+eee eee eee eee eee +44
+oe
+ee ee eee eee eee eee
+eee eee eee eee
+eee =
+oe eee one ve
+eee ee eee eee
+oe
+oe
+eee eee eee eee J
+eee =
+0 0 eee
+0 0
+=
+00
+oe
+Py
+=
+ee = +
+:
+=
+- di.
+e
+|
+a
+f
+at
+y
+y
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: a
+on
+e
+Y
+Ay eo
+e
+/ AY Ory Ory ~
+e
+A
+4 oo os
+e
+ee ee ee
+e e
+ee ee e ee
+ee Ory x
+ee ee ee ee ee ee ee ee e ee
+ee ee ee ee ee
+e ee ee ee ee ee oe
+eee ee
+ee eee ee eee ee ee
+= ee
+oe eee eee eee eee
++e te
+eee eee ee eee ee
+ee ee ee ee oe ry ood eee
+ee ee oe oe /
+ee eee eee an
+ee ee ee ee ee eee
+eee eee oo oe oe oe oe
+e ee ee oe
+ee ee eee ee eee ee ee ee ee ee
+ee eee eee ee eee ee ee ee e e
+eee ee ee ee ...
+
+=== Slide 14 ===
+Initial and final concentrations: Refractive Index and TDS
+Initial: 2,610ppm TDS
+Final: 35,890ppm TDS
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: |
+REFRACTIVE INDEX
+1.3306 ~1.5284
+PAL-RI
+3:4
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: |
+REFRACTIVE INDEX
+1.3306 ~1.5284
+PAL-RI
+3:4 ...
+
+[Picture on Slide 14 | GENERIC_FIGURE]
+OCR: ATAGO
+Wa
+330 |
+REFRACTIVE INDEX
+1.3306 ~1.5284
+PAL-RI
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: ATAGO
+Wa
+330 |
+REFRACTIVE INDEX
+1.3306 ~1.5284
+PAL-RI ...
+
+=== Slide 15 ===
+ROi Stage 1 : Experimental results
+Permeate TDS < 75mg/L
+Concentrated TDS of Feed water from 2,610mg/L to 35,890mg/L and achieved ~92.7% recovery.
+Rechecking the silica value
+
+[Table 1]
+Parameter	Method	Unit	ROi Feed	ROi Brine	ROi Permeate
+Fluoride as F	Ion Chromatography	mg/l	6.11	92.2	0.15
+Chloride as Cl	Ion Chromatography	mg/l	378	4,712	10.9
+Sulphate as SO4	Ion Chromatography	mg/l	1,331	16,592	12.3
+Calcium as Ca	EPA200.7	mg/l	66.3	861	0.63
+Magnesium as Mg	EPA200.7	mg/l	1.9	20.9	<0.1
+Potassium as K	EPA200.7	mg/l	3.93	87.9	<0.1
+Total Silica SiO2	EPA200.7/ Calculation	mg/l	20.8	340*	<0.1
+Sodium as Na	EPA200.7	mg/l	790	12680	21
+Strontium as Sr	EPA200.7	mg/l	0.63	7.51	<0.1
+TDS	APHA 2540C	mg/l	2,610	35,890	61.5
+pH			7.03	7.0	7.05
+
+=== Slide 16 ===
+Experiments: SCE Stage 2Scheme followed: 	- Jar Testing
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23 ...
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 17 ===
+SCE stage 2: Jar Testing protocols
+A beaker of 500ml of synthetic water is dosed with different concentrations of lime, MgCl2, and Na2CO3
+Once the dosage of both was, the mixture was rapidly mixed (200 rpm) for the 30s, & followed by slow mixing (100 rpm) for 45 min, and pH was measured and adjusted to 10.5 every 15 min
+1 mg/L of SNF polymer (anionic) was dosed and further slower mix (30 rpm) for 45 min. pH was measured every 15 min
+Mixing was stopped and the solids were left to settle for over 90 min, allowing the sludge to settle
+The supernatant and sludge were collected for analysis
+
+=== Slide 18 ===
+Experimental pictures: Jar Testing stage 2
+Feed Water
+Chemicals were weighed
+Sludge was left for settle for >90min
+Supernatant was collected, filtered, and sent for analysis
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: 293
+ae
+4
+m .
+SS
+NS
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 293
+ae
+4
+m .
+SS
+NS ...
+
+[Picture on Slide 18 | PARAM_TABLE]
+OCR: 1
+| Filtere,
+200
+F
+|
+|
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: 1
+| Filtere,
+200
+F
+|
+| ...
+
+=== Slide 19 ===
+SCE STAGE 2- Jar Testing Treated Water Analysis
+Different chemical dosages were tested and successfully reduced silica to ~23ppm
+
+Dosage was varied from 500 to 1200 mg/l of MgCl2 etc.,
+
+[Table 1]
+Parameter	Unit	Synthetic Feed	Filtered Supernatant (Dosing 1)	Filtered Supernatant (Dosing 2)
+pH		7.93	10.36	10.62
+Total Silica as SiO2	mg/l	293	43.7	23.8
+Fluoride as F	mg/l	59.9	16.8	16.9
+Calcium as Ca	mg/l	709	38	32.6
+Potassium as K	mg/l	119.5	114	116
+Sodium as Na	mg/l	10,200	15,830	17,900
+Strontium as Sr	mg/l	2.95	0.25	0.27
+
+=== Slide 20 ===
+Experiments: CFROScheme followed: 	- CFRO membrane testing
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23 ...
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 20 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 21 ===
+CFRO membrane lab setup
+Feed
+Permeate
+Operating parameters:
+Feed flow: 200 ml/min
+Feed operating pressure: 1000 psi
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: A
+te
+om
+cy
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A
+te
+om
+cy ...
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: WS
+pg
+jd
+>
+V4
+/
+L
+a
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: WS
+pg
+jd
+>
+V4
+/
+L
+a ...
+
+=== Slide 22 ===
+CFRO Stage 2 : Experimental results
+CFRO successfully concentrating up the feed from 31,020mg/L to >260,000mg/l based on equivalent RI index
+
+=== Slide 23 ===
+CFRO Stage 2 : Experimental results
+Concentrated TDS of CFRO Feed from 31,020 mg/L to 265,600 mg/L and achieved ~88% recovery
+
+[Table 1]
+Parameter	Method	Unit	Boise CFRO Feed	Boise CFRO Brine Reject
+Fluoride as F	Ion Chromatography	mg/l	13.9	140
+Chloride as Cl	Ion Chromatography	mg/l	4,594	38,883
+Sulphate as SO4	Ion Chromatography	mg/l	12443	108,724
+Calcium as Ca	EPA200.7	mg/l	18.6	209
+Magnesium as Mg	EPA200.7	mg/l	12.6	166
+Potassium as K	EPA200.7	mg/l	150.2	536
+Total Silica SiO2	EPA200.7/ Calculation	mg/l	23	263
+Sodium as Na	EPA200.7	mg/l	13,280	92,080
+Strontium as Sr	EPA200.7	mg/l	3.9	27.5
+TDS	APHA 2540C	mg/l	31,020	265,600
+PH	Ph probe		7.25	7.9
+
+[Picture on Slide 23 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 24 ===
+Experiments: Zero Liquid DischargeScheme followed: 	- Adiabatic Chiller, CGE and 	Crystallizer/Centrifuge
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A GRADIANT
+Chemical
+Name
+Source
+)
+Dare Prepares Ale
+23 ...
+
+=== Slide 25 ===
+Test objective using Adiabatic Chiller/Centrifuge
+The objective of the adiabatic chiller and centrifuge experiment is to produce the sodium sulfate rich salts from the CFRO brine.
+
+[Picture on Slide 25 | GENERIC_FIGURE]
+OCR: A
+c
+|
+|
+Ye
+te
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: A
+c
+|
+|
+Ye
+te ...
+
+=== Slide 26 ===
+Adiabatic Chiller: Experimental procedures
+Using a chiller cool down the water bath temperature to about 1˚C
+Soak the concentrated brine sample (TDS: 260,000 mg/l) in the cool water bath – monitor the change in sample temperature.
+Concentrated brine at room temperature.
+Concentrated brine after cooling to 2.2˚C.
+
+[Picture on Slide 26 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 26 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 27 ===
+Centrifuge/Crystallizer: Experimental results
+Salts after centrifuge,  from sodium sulphate rich stream
+
+[Table 1]
+Parameter	Sodium sulphate rich stream
+Fluoride as F	0.0%
+Chloride as Cl	5.5%
+Phosphate as PO4	0.0%
+Sulphate as SO4	55.0%
+Nitrate as NO3	0.0%
+Calcium as Ca	0.0%
+Magnesium as Mg	0.0%
+Potassium as K	0.2%
+Total Silica SiO2	0.0%
+Sodium as Na	39.2%
+Strontium as Sr	0.0%
+
+[Picture on Slide 27 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 28 ===
+CGE and ATFD for Mixed salts: Experimental results
+Mixed salt after ATFD
+
+[Table 1]
+Parameter	Mixed salts
+Fluoride as F	0.1%
+Chloride as Cl	24.4%
+Phosphate as PO4	0.0%
+Sulphate as SO4	37.5%
+Nitrate as NO3	0.0%
+Calcium as Ca	0.1%
+Magnesium as Mg	0.1%
+Potassium as K	4.9%
+Total Silica SiO2	0.1%
+Sodium as Na	32.8%
+Strontium as Sr	0.0%
+
+[Picture on Slide 28 | GENERIC_FIGURE]
+OCR: S
+4 6
+Os
+DA
+wet
+4
+Xa
+A
+man
+te
+a7
+i
+>
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: S
+4 6
+Os
+DA
+wet
+4
+Xa
+A
+man
+te
+a7
+i
+> ...
+
+=== Slide 29 ===
+Conclusion/summary
+Successfully achieved the target concentration of brine >230000 mg/l using ROi stage 1 and stage 2 membrane technology.
+Met the reclaimed treated water quality: <75 mg/L of TDS.
+Identified the optimized dosage of chemicals to reduce the scaling and maximize the recovery.
+Conducted the Adiabatic chiller, CGE, and ATFD/centrifuge experiments to validate the sodium sulfate-rich salts and mixed salts.
+
+=== Slide 30 ===
+Back up
+
+=== Slide 31 ===
+GRADIANT CONFIDENTIAL
+PFAS Removal Technology
+Foam Fractionation - Separation
+Electrochemical Oxidation (EO) - Destruction
+Foam Fractionation
+Electrochemical Oxidation (EO)
+PFAS Destruction
+GAC/IX
+(Polishing)
+PFAS Feed water
+
+[Picture on Slide 31 | GENERIC_FIGURE]
+OCR: C> RO INFINITY SmMARTOPS
+MART+
+GRADIANT
+NFINITY s
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: C> RO INFINITY SmMARTOPS
+MART+
+GRADIANT
+NFINITY s ...
+
+[Picture on Slide 31 | FLOW_DIAGRAM]
+OCR: Proposed Process Flow Diagram
+High concentration
+of PFAS
+RO system
+PFAS destruction
+Plasma destruction
+PFAS-contaminated
+oxidation
+feedwater
+oxidation
+Incineration
+single or multi-stage
+Foam Fractionation
+Clean Stream
+Polishing stage
+Figure 1 Proposed Process Flow Diagram
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Proposed Process Flow Diagram
+High concentration
+of PFAS
+RO system
+PFAS destruction
+Plasma destruction
+PFAS-contaminated
+oxidation
+feedwater
+oxidation
+Incineration
+single or multi-stage
+Foam Fractionation
+Clean Stream
+Polishing stage
+Figure 1 Proposed Process Flow Diagram ...
+
+=== Slide 32 ===
+Foam fractionation - Separation
+It is the state-of-the-art technology that uses adsorption-based technique to create many air-liquid interfaces within the solution to achieve PFAS removal. The surface-active PFAS compounds will be adsorbed onto these air-liquid interfaces and separated from waste stream.
+Fig. 1. Lab-scale setup for bench testing for various wastewater matrix.
+
+[Picture on Slide 32 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 32 | FLOW_DIAGRAM]
+OCR: Foam fractionator design
+Air
+4
+Foamate collector
+4
+YN
+Water
+Feed Inlet
+Main features
+Air bubble generated through a venturi
+injector
+~ Feed outlet
+No air blower required
+High bubbles density and consistency
+High energy efficiency (~0.03
+Counter-current flow design
+High removal efficiency
+Fig 1 Lab-scale setup for
+bench testing for various
+wastewater
+~
+injection
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: Foam fractionator design
+Air
+4
+Foamate collector
+4
+YN
+Water
+Feed Inlet
+Main features
+Air bubble generated through a venturi
+injector
+~ Feed outlet
+No air blower required
+High bubbles density and consistency
+High energy efficiency (~0.03
+Counter-current flow design
+High removal efficiency
+Fig 1 Lab-scale setup for
+bench testing for various
+wastewater
+~
+injection ...
+
+[Picture on Slide 32 | GENERIC_FIGURE]
+OCR: F
+F
+F
+F F
+F
+F
+F F
+F
+F
+F
+RISING Alk
+F
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: F
+F
+F
+F F
+F
+F
+F F
+F
+F
+F
+RISING Alk
+F ...
+
+=== Slide 33 ===
+Benefits
+Foam fractionation has the potential to achieve more than 10X concentration factor (equivalent to > 90% volume reduction of waste stream for downstream EO destruction step) at a fraction of the cost compared to other conventional PFAS removal technologies.
+Fig.2. OPEX ($/m3) comparison among other PFAS removal technologies.
+Benefits:
+
+Simpler to O&M & modularization
+Easier deployment
+Low chemical consumption
+Low energy requirement
+Low competition with co-contaminants
+
+[Picture on Slide 33 | GENERIC_FIGURE]
+OCR: 2.50
+2.00
+1.50
+x<
+1.00
+O
+0.00
+GAC lon Exchange RO Foam
+Fractionation
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 2.50
+2.00
+1.50
+x<
+1.00
+O
+0.00
+GAC lon Exchange RO Foam
+Fractionation ...

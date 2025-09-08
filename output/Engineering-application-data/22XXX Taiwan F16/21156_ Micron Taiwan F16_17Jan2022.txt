@@ -1,0 +1,130 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX Taiwan F16\21156_ Micron Taiwan F16_17Jan2022.pptx
+
+
+=== Slide 1 ===
+F16 SLS SYSTEM UPGRADES
+MICRON MEMORY TAIWAN CO., LTD.
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+DESIGN BASIS
+Layout is designed to accommodate Phase 2 requirements
+(i.e., total capacity of 3000 m3/day including 20m3/day IPA 3.05% and HF 1.54% + 180 m3/day of IPA 6%)
+
+[Table 1]
+	Phase - 1	Phase - 2
+1. Feed Capacity	2* 1000m3/day of Salix + 20m3/day IPA 3.05% and HF 1.54% + 180 m3/day of IPA 6%	Addition of 1000m3/day of Salix
+2. Base Case  (Working)	Feed to ROi: 1000m3/day of Salix        (ROi recovery 80%)  Feed to NH3-IPA recovery: 190m3/day of Salix (20% ROi reject)	Feed to ROi: 2000m3/day of Salix        (ROi recovery 80%)  Feed to NH3-IPA recovery: 380m3/day of Salix (20% ROi reject)
+3. Alternate Case  (Working)	Feed to ROi: 1000m3/day of Salix        (ROi recovery 80%)  Feed to NH3-IPA recovery: 190m3/day of Salix (20% ROi reject) + 20m3/day IPA 3.05% and HF 1.54% + 180 m3/day of IPA 6%	Feed to ROi: 2000m3/day of Salix        (ROi recovery 80%)  Feed to NH3-IPA recovery: 380m3/day of Salix (20% ROi reject) + 20m3/day IPA 3.05% and HF 1.54% + 180 m3/day of IPA 6%
+
+=== Slide 3 ===
+PROPOSED CONFIGURATION FOR ROi
+NOTE: During maintenance of any individual pumps or membranes, the standby unit will be automatically come into operation mode.
+
+[Table 1]
+Tanks	2 Working  (Designed for a total capacity of 2000 m3/day)
+Pumps & membranes	1 Working +1 Standby during Phase 1 of 1000 m3/day 1 Working +1 Standby +1 Future during Phase 2 of 2000 m3/day
+
+=== Slide 4 ===
+PROPOSED CONFIGURATION FOR
+NH3-IPA RECOVERY SYSTEM
+
+[Table 1]
+Systems	2 Working  -Designed for a total capacity of 30 m3/hr (15+15)
+Stripper & Distillation	Stripper(short-bed)：2 Working+1 Standby  Pre-distillation(short-bed) w/Reboiler：2 Working+1 Standby  NH3 distillation(column)：2 Working IPA distillation(short-bed)：2 Working+1 Standby
+HX & Condenser & Receiver & Absorber & Tank	2 Working
+Pumps	2 Working +2 Standby
+
+=== Slide 5 ===
+SALIX FEEDWATER QUALITY
+
+[Table 1]
+Parameters	Units	Salix (Average)	Salix (Worse case)
+pH	-	3-10	3-10
+COD	mg/l	<3187.5	<3187.5
+TSS	mg/l	10.0	<30
+TDS	mg/l	4267.0	<5000
+Conductivity	µS/cm	<9000	<10546
+SDI	-	<5	<5
+IPA	mg/l	<1667	<2000
+NH3-N	mg/l	<1440	<1440
+F-	mg/l	<10	<50
+H202	mg/l	<2000	<2000
+SiO2	mg/l	177	<200
+Temperature	deg C	30	30
+Alkalinity (as CaCO3)	mg/l	<90	<90
+Hardness (as CaCO3)	mg/l	<16	<16
+
+=== Slide 6 ===
+SALIX FEEDWATER QUALITY
+
+[Table 1]
+S/N	Parameter	Limitation
+1	SiO2	Above 200ppm will affect:  ROi recovery Antiscalant selection is difficult  Increase in IPA recovery system sizing & space
+2	NH3-N	Above 1440ppm will affect:  ROi permeate quality of <5ppm May need further treatment like more membranes or degassers unit Additional space
+3	TDS	Above 5000ppm will affect:  ROi permeate Conductivity quality of <300 µS/cm ROi recovery Requirement of more membranes Additional space.
+4	Fluoride	Above 50ppm will affect:  ROi permeate quality  Requirement of more membranes Additional space Frequent CIP Increased Antiscalant consumption
+5	IPA	Above 2000ppm will affect:  Frequent CIP Lower membrane life <1.5 years
+
+=== Slide 7 ===
+1) For A3 Cooling Tower Makeup (RO Permeate)
+
+
+
+
+
+
+2) Stripper Outlet
+
+
+
+
+
+3) Outlet Air Quality
+TREATED WATER QUALITY
+
+[Table 1]
+NH3-N	ppm	< 5
+COD	ppm	< 400
+F-	ppm	< 1
+Conductivity	µS/cm	< 300
+
+[Table 2]
+IPA	ppm	< 50
+COD	ppm	< 150
+NH3-N	ppm	< 30
+
+[Table 3]
+THC	ppmv	<20
+NH3	ppmv	< 20
+NOx	ppmv	< 50
+
+=== Slide 8 ===
+BLOCK FLOW DIAGRAM
+20m3/day,
+IPA 3.05% and
+HF 1.54%
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 9 ===
+PROJECT TIMELINE
+
+[Table 1]
+Months	1	2	3	4	5	6	7	8	9	10	11	12	13
+Order
+Detail Design and Submission / HAZOP
+Equipment Purchase and deliver
+Civil and Construction
+Installation
+Piping
+Electrical MCC and Power Cabling Works
+PLC and SCADA
+Inspection / Testing and Star-up Commissioning & performance Test
+Certification and Acceptance
+Training

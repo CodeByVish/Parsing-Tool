@@ -1,0 +1,684 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX HFW 1 Incoming\Bench Scale Study - Micron HFW Pump Discharge_Jar Test (130922-230922).pptx
+
+
+=== Slide 1 ===
+Jar testing Procedure
+To each testing jar, pour in 1L of wastewater sample
+To each jar, dose in 4000 - 7000 mg/L of Ca(OH)2 and rapid mix for 30s
+Slow mix for 30 min, measure pH every 15 min
+Dose 1mg/L for each of the AN905 polymer (anionic) in each jar and further slower mix (30 rpm) for 30 min. Measure pH every 15 min
+Stop mixing and leave the solids to settle over 60 min
+Observe sludge settling and measure sludge height every 15 min (if applicable)
+Measure turbidity of supernatant and collect the sludge
+For the jar with the lowest supernatant turbidity reading, filter out the supernatant through 0.45 um filter and send for analysis and collect the sludge generated
+For the sludge collected, filter out using 1.5 µm filter. Collect the sludge, dry sample for XRF analysis.
+
+=== Slide 2 ===
+Water Analysis of HFW Pump Discharge
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)
+F	455.8
+Cl	251.3
+SO4	30.6
+I	4.1
+NO3	61.6
+NH3	56
+Al	10.9
+B	0.778
+Ca	4.09
+Fe	0.129
+Mg	0.688
+Ni	0.52
+K	1.5
+SiO2	55
+Na	308
+
+[Table 2]
+Elements	Characteristics based on in-house measurements	Units
+pH	3.42	-
+Conductivity	1794	µS/cm
+Colour (True)	350	Pt/Co
+TDS	956.9	mg/l
+Turbidity	154	NTU
+TSS	83	mg/l
+TOC	26.71	mg/l
+COD	277	O2 mg/l
+Total Chlorine	1.16	mg/l
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: ~~ Va ss
+wre U pe, | ; i oto at x he
+So ale , S9888 600G Corea ma Z = ts 4 wr | } : {es oa OO
+a ei -_ f
+A r H
+Y Raw Chemical i. Re a
+r | anal So | ; eo lw
+= a] = ; =a f) rer hey Moe :
+ : | = 4 Chemical Name: _ Mes ho : =D A/T i,
+| Il Li bs ) Date Received GIESE.
+= a . ifs Date Opened } | |F
+Date Expired NA : :
+- . - ae
+x OREC SIGMA-ALDRICH
+SS ) sso og
+13 y wr on > 18308 696017-2.6L Lot MKCNS381 os 9 ee
+ ne = Peer , TM Phosphonic acid sume
+LL Sulphuric acid 95-97% ae | Sonn ners
+Trae 650
+DANGERIBAHAYA _ sae
+CHEMICAL R . =
+NI EAGENT the Bers : H2S0. M.Wt 98,08 g/mol E> Mise,
+Yoni Cat.No. A1320001 pH (om solton ooo A
+Pak Heavy mas. Z | ral
+a, . . ed Ash 2 , t as
+Ve Ammonium Chloride SS ayes oe Z [See en cot | CHEMICAL REAGEN _;
+Z ati
+Nyssa < maxon | 2 [Settee ation burma
+wan NHAC) ; ome | s | site, PY. 06, Umea gas, Cat. Wo, 13256406
+Bima) NHAC Fw. 53.49 [12125-02-9] me om | 2 ROP neg Bl yen
+pp ; A Sree H Ac
+A / br, Stective : | (
+; Z = has ydrofluoric 4
+VW | CHEMIG C | | watt tery
+IA 4 ARG eer | CHEM Pes 40% i:
+Y 7 e Grade 1 kg . are a CAL R ang
+, | EAG wen
+Y 70190918 08 Silicic Acid |. ENT he | HF Mw
+ity Ge orn Lid Exp :. a i | No. 3150013 Wy) [7664-39
+eo ( rade J
+| Fw.110.99 /10043-52-4)
+
+
+AR
+| Sg 509
+Hy
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ~~ Va ss
+wre U pe, | ; i oto at x he
+So ale , S9888 600G Corea ma Z = ts 4 wr | } : {es oa OO
+a ei -_ f
+A r H
+Y Raw Chemical i. Re a
+r | anal So | ; eo lw
+= a] = ; =a f) rer hey Moe :
+ : | = 4 Chemical Name: _ Mes ho : =D A/T i,
+| Il Li bs ) Date Received GIESE.
+= a . ifs Date Opened } | |F
+Date Ex ...
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: o> |
+: zg
+-
+fi 6 ae = = = : - -_ ~ .
+/ Oil ra A a | gence .
+. 1 one Va Za . - in y Ah ae | ., P
+; yh a Sar | j rye ie) ;
+ . Pas J : ro ; J ; j in = 7
+ ae gee mT ee: : nee
+aa ls 2 hia i i 7 : : .
+mn a |
+ow | ae +, ie
+ Me, - = 4. | e a ry a /
+ff Mer meciormeste : _ Ja
+; Fd ea iiinsienaastcapeeeel eae ~qiendl ~ - 4 = a 4 J
+TT ~a a ee . - = : _ = =e.
+ hh Sag ,
+Fd ee ;
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: o> |
+: zg
+-
+fi 6 ae = = = : - -_ ~ .
+/ Oil ra A a | gence .
+. 1 one Va Za . - in y Ah ae | ., P
+; yh a Sar | j rye ie) ;
+ . Pas J : ro ; J ; j in = 7
+ ae gee mT ee: : nee
+aa ls 2 hia i i 7 : : .
+mn a |
+ow | ae +, ie
+ Me, - = 4. | e a ry a /
+ff Mer meciormeste : _ Ja
+; Fd ea iiinsienaastcapeeeel eae  ...
+
+=== Slide 3 ===
+Scheme 1: Jar testing of HFW pump discharge with Lime
+HFW Pump Discharge solution in different jars
+HFW Pump Discharge with added lime at different dosages (4000, 5000, 6000 ppm)
+Solution with added flocculant (Flopam AN 905 SH). Precipitates clumped and settled after the addition of flocculant.
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: aoe J z rch , wl. oP eee eee eee ee
+4 seu ~ >. | - y . iets wl = =. 4 Lo Z : ee i =
+_ ar a ;
+nf i a = Shon 284 = any z .
+ ee ee ser :
+ 5 ; SS ee -
+~ - om ons - ss . rh
+wee a a EE sd ; , as
+. ehh ay > ey aS a . | 5 4 |
+| | it ee ee | | s
+, . AS % r 7 he, 2
+: - Ne ted x = y i > . Pao Pret ) j
+. q e 2 b or Ib) - on SOR v So ~) a, / { es J |
+ 5 > re - ; 5 t= oO - ij i}, > ara
+Bimer 2 - hy i a . 4 A wil bod FN atl met . fi ; TM . +f
+Se Ld Sa a oe oo) Sees : Bree Dee Se Oa co So nm ae Ss ITER |
+P +. - ~_ erat - 8 Tt al iin ary ad 7 > ty b + % a ah, ie. a , _ a Po . ii Fas, 7 =. ba e a, 7 ; t cr a dee 4 j
+= ert yee a aaa nh ae _ > <a = ats al i ae > Cops. ae a J oie 7
+= ct pee ; ne - % : a 3 :
+_ by > Dy. x ah Bias a he ie - ra .: the 7 ; Et ee, ge Det aan ae /
+. - 5 < ani, 7 AS sill a , ar 2 a ; wo Fle et oy . 7 |
+Y= iad SEs ; 4 . aa
+oe L ce i. oe i a . ay ae j a es) f 4
+3 of ee es i
+ L a em ae
+ae bie i
+ee roe |
+. aoe pi 3 .o im EEEEEEEE
+; oa
+ oe pet |
+ oe i es:
+ fi b-S
+( eae I = i
+ ae a a es 86S | |)
+ og > + o3: ,
+ (oj ee TMUITER were ) i
+a pet - SSeS ]
+ane s 4 < _ ty > ae
+ j a ay i
+ ered < Y abn 2 5 et eo eg Ht _ f
+E Bg | a bE i Y f
+[ A AD eh b n 1
+P : ) : a .
+; es 4 Pd pe . . | ee
+: a hy . 7 | - - H Nek % A < =
+v eed 4 4 / | , ee . oe
+em _ j Re sad 1 /
+aie : _ t ;
+ Boi : . = :
+ry >, _ _ _ __ _
+a, , = - ba . ed
+= se =) 7 - sie. > . A .
+ated . a | 7 os 1 %
+ ia ee nr | ; wes. i
+; 7 y ye ae Tmo - . ~ _
+4 a oe ee i e i. . =~
+- i. i < . awh <A art cane Lf 7 es ora rae a Z , a Bis.
+aie De: a: = > : a f i she eae tre Pe oe A J > a4
+a ~~ or ete Pre I oat, . ish} . Pen od 3 Jie a ~g
+4
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: aoe J z rch , wl. oP eee eee eee ee
+4 seu ~ >. | - y . iets wl = =. 4 Lo Z : ee i =
+_ ar a ;
+nf i a = Shon 284 = any z .
+ ee ee ser :
+ 5 ; SS ee -
+~ - om ons - ss . rh
+wee a a EE sd ; , as
+. ehh ay > ey aS a . | 5 4 |
+| | it ee ee | | s
+, . AS % r 7 he, 2
+: - Ne ted x = y i > . Pao Pret ) j
+. q e 2 ...
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: 4 im, - D
+au f
+;
+ 4g ;
+: ; F eh she ea 7 ps <n R a SM Fear ee SRNR TT 239
+i 6
+> 4 : > auc wd ae - | | I e . ~
+ ae 43 4 -
+ 4 eee dl ae Fete eae cg Se. a De ti | -~ | gt S ; Sere f, ;
+ , oe Lae. Pees ca: . r ay 7. ro :
+. ro Sees Pia at mae cy ] bs i}
+ol 4 i ra a . : % +
+p Th Oke = a = i A ae = _ _ - - . 4 e =, lon)
+ . . : ry m. Bi. hain fo ae Ws rp) me 5) Cea ea Os } ) 1 Na Oo} iI Her
+. ; aa oS I Ahad epee, ; wad Sg 1 | =e = | {Patel } 4 ; ia}
+eS Sk eee a v Tia Va < >, Tae o-. e af Fe . . A To
+4 ss ee a . ; ms ed ie 8 ad . PS Mey ~ :
+a. ea aa maa oe , oie ns - iad fe ae H
+ e oe RD , ~ 5 ae < .
+ical Pe 2 1 As j Pe Po on ts 4
+ a | P 4 t 4
+ ij > ss < | f
+7 o; a | ,
+. j ~ | J dt et per e j
+ame | re | ae ae |
+- 7 a - ee 6 tee rm f . ae - rs of, / .
+_ ,urTee q oe 9 LTE a } q SS ae = yaexe
+: ea ] oe a
+| on | : Ray. - aes
+; P 4 PA | a | vi f mee
+os y = es
+oe oz
+. } a , _ : a Soa
+i A - a F - fis ln
+< ns am ~
+ os z Nee whe Peas ch at ae ert. 3 id
+Ae ; a0 mf : . : Aes ee we eat OLS ESN ee ea
+Es > af ae ee 3 7 ae +, < roe aa 9)
+pe i> a =; ~ aa. Al leg whe: pc
+- eee a i - a4 a iidites) a aN I nulidla a ime FS ll oe 1 ae eee . aoe a at re ae Sy aes : :
+ee ea ian ee - oi mie . = hi gaia ge oS As se : ate 2 ee Se :
+ee ee F vu, > Pe = F, F Rete a . ery : ab oh peat re os a 7, Es
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 4 im, - D
+au f
+;
+ 4g ;
+: ; F eh she ea 7 ps <n R a SM Fear ee SRNR TT 239
+i 6
+> 4 : > auc wd ae - | | I e . ~
+ ae 43 4 -
+ 4 eee dl ae Fete eae cg Se. a De ti | -~ | gt S ; Sere f, ;
+ , oe Lae. Pees ca: . r ay 7. ro :
+. ro Sees Pia at mae cy ] bs i}
+ol 4 i ra a . : % +
+p Th Oke = a = i A ae = _ _ - ...
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: ; id Che Oe EER aeRY 9
+a ORR eer ty o oa 27 FN)
+F _ TM ae | . f we iP babi Cas 7
+; - : f , ye ile A ny es 2 as ;
+4 + msl ae a oe ee ie ia eee z > aa esis - ae. a fe re rp :
+_ - ry = iy Nay 7 a el oe
+ i a ee al Aa +
+ oe Ear, ht eta
+4 aoe -
+2 oe eck
+a 5
+ae ;
+: ene 8 ae - - - a ; Seems SR EE ta a eee Ta a
+. ~- ats ~<a
+: = +O es ;
+cae . ~
+ie, ; oe 4
+af A)
+as | ;
++ 4
+op 7 : i
+ fica . oe
+ ~ 4
+ay A fio) G= r a ~ Tr)
+: | ; SPS2r ap Y, RAO)
+- SDPrPPS2Biny p | SULT ULL |
+; a os 2 LITER ; rn
+or : < ey
+_
+7 - >
+Ti, .
+- Mf _> . e oe |
+~~. . mot Lae = _
+2 ne
+ a , id eat ~~ . ne aka i
+~ , . TM a, = = os ,
+Pate . = -) aed
+ - > a EE e Ppaek
+se ae id f j K
+_ f a a i i .
+>, . a ent
+} - . as 4 ae -
+e P
+7 s ae | } { _ _
+ | q
+a = 4 ee
+9 oo J - = ~~ a
+ i - I Aaklles
+ jae = = -_ = oe
+Ra ts / ae :
+anne the oe See | om ene
+I _ t 7 Z . i F - 2
+= } ; a. ae > EES Se eR aa ni ae nlc ca
+4 - oH ie: oe a , es ee ea OMEN teeta gl ak ee ;
+| 4% i 3 ty _ % XG ie ones ae ae cone Eee Oates unt ta ~<a
+; a a ck i : aoa el nk ee
+{ a , oa k ee So} ee a ee er een
+wal < = Ps i 5 ays awe Sen ne , ok. s
+ae .
+oe : -
+ < a ra
+~ mJ ~ p
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ; id Che Oe EER aeRY 9
+a ORR eer ty o oa 27 FN)
+F _ TM ae | . f we iP babi Cas 7
+; - : f , ye ile A ny es 2 as ;
+4 + msl ae a oe ee ie ia eee z > aa esis - ae. a fe re rp :
+_ - ry = iy Nay 7 a el oe
+ i a ee al Aa +
+ oe Ear, ht eta
+4 aoe -
+2 oe eck
+a 5
+ae ;
+: ene 8 ae - - - a ; Seems SR EE ta a eee T ...
+
+=== Slide 4 ===
+Chemical precipitation with Ca(OH)2
+Coagulation and flocculation with 1 mg/L anionic polymer
+Treatment 1: Jar testing of HFW pump discharge with Lime
+
+[Table 1]
+Jar	Lime dosage (ppm)	pH
+		t = 0 min	t = 15 min	t = 30 min
+1	4000	3.65	12.49	12.46
+2	5000	3.65	12.49	12.53
+3	6000	3.69	12.46	12.56
+
+[Table 2]
+Jar	Lime dosage (ppm)	pH			Polymer used
+		t = 0 min	t = 15 min	t = 30 min
+1	4000	12.46	12.48	12.49	Flopam AN 905 SH
+2	5000	12.53	12.49	12.44	Flopam AN 905 SH
+3	6000	12.56	12.52	12.44	Flopam AN 905 SH
+
+=== Slide 5 ===
+Treatment 1: Jar testing of HFW pump discharge with Lime
+
+[Table 1]
+Elements	Concentration, in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3
+pH	3.42	12.49	12.44	12.44
+Turbidity	154 NTU	13.1 NTU	13.5 NTU	15.8 NTU
+F	455.8	8.98	8.68	8.55
+Cl	251.3	46.6	46.5	46.4
+SO4	30.6	7.37	8.09	9.36
+NO3	61.6	58.2	58.1	58.8
+Al	10.9	<0.1	<0.1	<0.1
+Ba	<0.1	0.118	0.128	0.13
+B	0.778	1.53	1.55	1.60
+Ca	4.09	711	756	757
+Fe	0.129	<0.1	<0.1	<0.1
+Mg	0.688	<0.1	<0.1	<0.1
+Ni	0.52	<0.1	<0.1	<0.1
+K	1.5	12.7	13.1	13.5
+SiO2	55	<0.1	0.227	0.227
+Na	308	334	358	344
+Sr	<0.1	0.445	0.509	0.551
+
+=== Slide 6 ===
+Treatment 1: Jar testing of HFW pump discharge with Lime
+Sludge collected from vacuum filtration and dried in 80C oven.
+
+[Table 1]
+Jar	Lime dosage (ppm)	Weight of Wet Sludge (g)	Weight of Dry Sludge (g)	Moisture Content of Wet Sludge
+1	4000	10.627	3.010	71.7%
+2	5000	12.742	3.962	68.9%
+3	6000	14.892	4.909	67.0%
+
+=== Slide 7 ===
+HFW Pump Discharge solution in Jar 1, 2, and 3
+HFW Pump Discharge adjusted pH to 7-8 with NaOH, added CaCl2 at different dosages (2500, 3000, 4000 ppm),
+Solution with added flocculant (Flopam AN 905 SH). Solution stays turbid even with addition of flocculant, and did not settle down
+Scheme 2A: Jar testing of HFW pump discharge with CaCl2 and NaOH pH adjustment
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: <
+e - .
+, , : Sh ee
+% > omens _ ~- ia :
+oe ll
+
+_ N
+e >
+-o
+PP cmon 4
+>
+Cee er
+od t
+~
+ae 4
+a |
+-
+ eal F - ;
+v }
+4 ; 4 a z
+
+: . <
+4 =
+; a = -- dain, Loto
+- ps ss as = oe ps aaa 7
+. = i a oP wt fe : s , P wig d a
+bas ls wk 3 4 Si ie ie ate ete thse r ieee ee 2 A, .
+ a mae a < , ian RS a p tee ae +e a ye st oa i ae ee 7 Me eo ae
+oe rh q ; SS ee 8 - ee Ke sy ee a ee ha 7 t. en . aie Bee. oa
+ra Jee hata. c ali, Py wea Ga = x eee ae RE Ae, me ceils | Bae cut ; i tag if Bs : ae shies Pieters a }
+ P ae Psbg AF ee ee SEA p oF ate ea Lk eS A ee eee sat yore oy aa = ite ous a as ae aS .
+ rc - bare < Rin } 4 oe OS auen Ae payee > j em <a ;
+a I a _ _ < < : ed eee gs tal i aaen _ a
+a 7 4g ae eae =a .
+a 7 . it ei : vs. Wee a4 rs , ;
+ ; ane oe shee 7: 4
+ _ es ~~ f 02s x. i
+ua ale F bo) j | ;
+ov > ee ; = - /
+aula 7] ___. - | 4 . - A %
+ade SS 1 ae
+f a>.
+| | _ 7 4
+> ee i ITER 4 { | | a 3
+._ S i= ,
+A |
+et i ee od ) ~ ~ :
+, i TH ITER
+ / LITE
+te
+} / / _ - 7
+_ ba eee ee 7
+ae = aan. at.
+es | ail i
+ { Fm
+aad . P
+- ; 4
+ we ss A. | a Sa a [=
+ = | 2 ae 7 eas gee
+ | a 7 CC eh x < m
+| 90, : _ = emo 4 eR = ~
+ ; aa NS ee .
+ / om 2 c hs Se
+-_ y a a
+| | Se = e s
+, 4 (
+= at . I feb
+ _ fe ii
+ : -_ - NS
+e - _ _ _ f ; Ss
+| a pe | | We):
+ _ si | ey J ~
+at f | r
+_ RT peed, ae - . ee SO SL
+wee a . yj ; J = |. (his : aww >
+. 7 heed : 4 x al es
+Z : ve . cae ll . os
++e ; a x
+A A 7] _
+/ : a tad . 7 :
+i) cae ill ma . =
+Fae ee ie : a is - j ~
+. > yield : ees Ls) Ry may
+Ps a. p ca 4 = < ae tet Able Sey a ws canes: cane eee as :
+ . Yo ee eee ee a Cae i ae
+7a 4 ce a td bP bay
+es -
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: <
+e - .
+, , : Sh ee
+% > omens _ ~- ia :
+oe ll
+
+_ N
+e >
+-o
+PP cmon 4
+>
+Cee er
+od t
+~
+ae 4
+a |
+-
+ eal F - ;
+v }
+4 ; 4 a z
+
+: . <
+4 =
+; a = -- dain, Loto
+- ps ss as = oe ps aaa 7
+. = i a oP wt fe : s , P wig d a
+bas ls wk 3 4 Si ie ie ate ete thse r ieee ee 2 A, .
+ a mae a < , ian RS a p tee ae +e ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 8 ===
+Chemical precipitation with pH adjustment, then CaCl2
+Coagulation and flocculation with 1 mg/L anionic polymer
+Scheme 2A: Jar testing of HFW pump discharge with CaCl2 and NaOH pH adjustment
+
+[Table 1]
+Jar	CaCl2 dosage (ppm)	NaOH dosage (ppm)	pH	pH
+			Initial pH adjustment	t = 0 min	t = 15 min	t = 30 min
+1	2500	450	7.96	6.4	6.4	6.4
+2	3000	440	7.5	6.5	6.4	6.6
+3	4000	450	7.44	6.4	6.4	6.5
+
+[Table 2]
+Jar	CaCl2 dosage (ppm)	NaOH dosage (ppm)	pH			Polymer used
+			t = 0 min	t = 15 min	t = 30 min
+1	4000	450	6.4	6.5	6.5	Flopam AN 905 SH
+2	5000	440	6.6	6.6	6.6	Flopam AN 905 SH
+3	6000	450	6.5	6.5	6.5	Flopam AN 905 SH
+
+=== Slide 9 ===
+Scheme 2A: Jar testing of HFW pump discharge with CaCl2 and NaOH pH adjustment
+
+[Table 1]
+Elements	Concentration, in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3
+pH	3.42	6.5	6.6	6.5
+Turbidity	154 NTU	123 NTU	131 NTU	209 NTU
+F	455.8	11.3	11.0	12.8
+Cl	251.3	1,446	1,489	1,298
+SO4	30.6	4.31	4.54	4.95
+NO3	61.6	57.3	58.2	57.1
+Al	10.9	<0.1	<0.1	<0.1
+Ba	<0.1	0.204	0.111	0.109
+B	0.778	1.51	1.53	1.58
+Ca	4.09	405	423	325
+Fe	0.129	<0.1	<0.1	<0.1
+Mg	0.688	1.72	1.81	1.47
+Ni	0.52	<0.1	<0.1	<0.1
+K	1.5	11.0	4.77	8.38
+SiO2	55	44.7	45.3	44.8
+Na	308	548	544	569
+Sr	<0.1	0.344	0.366	0.284
+
+=== Slide 10 ===
+Scheme 2A: Jar testing of HFW pump discharge with CaCl2 and NaOH pH adjustment
+Sludge collected from vacuum filtration, discarded as no solids are visible.
+
+[Table 1]
+Jar	CaCl2 dosage (ppm)	NaOH dosage (ppm)	Weight of Wet Sludge (g)	Weight of Dry Sludge (g)	Moisture Content of Wet Sludge
+1	2500	450	6.108	Sludge was not dried for this testing, as there is very little to be obtained.
+2	3000	440	4.003
+3	4000	450	4.141
+
+=== Slide 11 ===
+Jar 1 and 2 filled with 500mL of HFW Supernatant treated with 2500 ppm and 3000 ppm CaCl2
+Additional 1000 ppm of CaCl2 was added to both jars for 2nd step precipitation.
+Solution with added flocculant (Flopam AN 905 SH). Precipitates clumped and settled after the addition of flocculant.
+Scheme 2B: Jar testing of treated water in 2A with CaCl2 (2 step precipitation)
+
+[Picture on Slide 11 | GENERIC_FIGURE]
+OCR: se : f Ea ==,
+L, f
+cf
+. v . = . a
+p, TM y,
+ic Ra j
+Le 4 yy ad Zz < . 4
+: , .
+i fone Bs 7
+i } 1 a
+m | i}
+ ) >, 4 x : a F
+Pe 4 4 |
+na 7 a | x . ie : ae
+ , ; , . | ; are
+: ss ( be
+
+- 3p = -
+
+TM R oe : a Bd : :
+Ya 1e e : 5 j ;
+
+Si 400 O35 -
+Pune - ; | r
+. bo 7 J aT,
+
+As a 8) el wd ; F -
+pd | f =e
+Wet. y sat ,
+
+ } - 2 | MIT
+ee
+O | 4 3 300
+ ~~, ax
+ty 2 aca = < os r R f
+ _ _ . tine ee / ES eS ~ :
+L Fs 7 : 5a Sia aaa patel Bleak RSS 34 see oe Lon Sor Noses
+a = _ 2) an yo A eat es sett , 3 33 oA Gels ~e oS 2 X eA
+i . ns CT his wat = tice ee Move SS Fs ~~ SF . 7
+ pele so ere POONER SS ER Ree DEOL . ae :
+ate . Nite nL Tee RS a AE
+es eT . ~ sais +4 NS Sate ney-s1 mrs > = <= . 2 on o frrq
+De. tee aA yh Fries Ey >. es th Sx
+fm ~ as TACT 7 . CF eee Pe. nd ~ t . Then f
+ody Ww are TM~ eae Ate ay SCAG len Ni OR ne ee x y
+~ SS
+ et oe a a es e
+. - ~ re
+a ~ ~. ma
+_
+.
+hy
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: se : f Ea ==,
+L, f
+cf
+. v . = . a
+p, TM y,
+ic Ra j
+Le 4 yy ad Zz < . 4
+: , .
+i fone Bs 7
+i } 1 a
+m | i}
+ ) >, 4 x : a F
+Pe 4 4 |
+na 7 a | x . ie : ae
+ , ; , . | ; are
+: ss ( be
+
+- 3p = -
+
+TM R oe : a Bd : :
+Ya 1e e : 5 j ;
+
+Si 400 O35 -
+Pune - ; | r
+. bo 7 J aT,
+
+As a 8) el wd ; F -
+pd | f =e
+Wet ...
+
+[Picture on Slide 11 | GENERIC_FIGURE]
+OCR:

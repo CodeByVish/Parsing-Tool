@@ -1,0 +1,1214 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX HFW 2\Bench Scale Study - Micron 19Jan2022.pptx
+
+
+=== Slide 1 ===
+HFW Wastewater analysis
+
+[Picture on Slide 1 | FLOW_DIAGRAM]
+OCR: -
+HF Wastewater
+EO Tank
+Test Parameters
+Test Method
+28/12/2021
+78
+otal
+25490
+<10
+NTU
+280
+130
+at Al
+21208
+as Be
+as Cu
+0.0080
+31258
+a3
+31708
+0024
+Boror 93
+APHA 31708
+143
+2x
+as
+og
+as Ca
+31208
+31208
+6.039
+0 040
+as K
+APRA 23208
+1D)
+4500-7
+372
+=
+192
+tate aa SO,
+OC,
+1088
+-
+(COO)
+mg
+350
+PromptSuggestion: Draw a simple left-to-right process flow (boxes + arrows). Use short step names extracted from text around this figure. Helpful terms: -
+HF Wastewater
+EO Tank
+Test Parameters
+Test Method
+28/12/2021
+78
+otal
+25490
+<10
+NTU
+280
+130
+at Al
+21208
+as Be
+as Cu
+0.0080
+31258
+a3
+31708
+0024
+Boror 93
+APHA 31708
+143
+2x
+as
+og
+as Ca
+31208
+31208
+6.039
+0 040
+as K
+APRA 23208
+1D)
+4500-7
+372
+=
+192
+tate aa SO,
+OC,
+1088
+-
+(COO)
+mg
+350 ...
+
+=== Slide 2 ===
+HFW Wastewater – Particle size distribution
+
+[Picture on Slide 2 | GENERIC_FIGURE]
+OCR: Average - (cormpatibie)
+ic
+e
+3
+>
+2
+OD1 10 100 1009 10.000.0
+of - Average of
+OOD SOT
+OM
+Result
+cor om 446
+om
+28
+om 180
+wee
+om ans
+om
+Lats
+om M4
+om
+om om
+om
+com
+5 oe 2.
+Figure 1: From the above results, 90% of the particles are below 46 um, 50% are below 19 um and
+10% are below 3 um.
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Average - (cormpatibie)
+ic
+e
+3
+>
+2
+OD1 10 100 1009 10.000.0
+of - Average of
+OOD SOT
+OM
+Result
+cor om 446
+om
+28
+om 180
+wee
+om ans
+om
+Lats
+om M4
+om
+om om
+om
+com
+5 oe 2.
+Figure 1: From the above results, 90% of the particles are below 46 um, 50% are below 19 um and
+10% are below 3 um. ...
+
+=== Slide 3 ===
+1st Pass - NF of Mixed wastewater from EQ Tank
+Membrane used: Microdyn Trisep TS40 or NF270
+
+Recovery: 75%
+
+Final bulk feed quality:
+pH: 3.26
+Conductivity: 4123 µS/cm
+TDS: 2150 ppm
+
+Final bulk permeate quality:
+pH: 3.21
+Conductivity: 805.7 µS/cm
+TDS: 393.6 ppm
+
+=== Slide 4 ===
+1st Pass - NF of Mixed wastewater from EQ Tank
+
+=== Slide 5 ===
+2nd Pass - RO of NF permeate
+Membrane used: SW30XHR
+
+Recovery: 80%
+
+Final bulk feed quality:
+pH: 3.73
+Conductivity: 2237 µS/cm
+TDS: 1131 ppm
+
+Final bulk permeate quality:
+pH: 3.13
+Conductivity: 292.6 µS/cm
+TDS: 139.7 ppm
+
+=== Slide 6 ===
+2nd Pass - RO of NF permeate
+
+=== Slide 7 ===
+Result – NF and RO filtration of mixed HFW wastewater from EQ Tank
+* Fluoride value needs to retest. This may be analytical error.
+Permeate
+Feed
+
+[Table 1]
+Elements	Mixed wastewater from EQ tank (mg/L)	NF concentrate (mg/L)	NF Permeate (mg/L)	RO concentrate (mg/L)	RO permeate (mg/L)
+pH	2.8	3.26	3.21	3.73	3.13
+Conductivity	2267 µS/cm	4123 µS/cm	805.7 µS/cm	2237 µS/cm	292.6 µS/cm
+TDS	-	2276	394	1131	139
+NH4	65.7	150	28.9	113	<1
+F	372	1002	95.1	291	23.0*
+SO4	1999	1168	34.5	140	0.23
+PO4	4.54	<5	1.27	<5	<0.1
+Cl	65.1	91.3	50.8	213	2.63
+Na	219	512	67.8	196	<0.1
+Ca	3.79	12.3	<0.1	<0.1	<0.1
+Si	25.3	50.4	15.1	54.8	<0.1
+COD	278	150	70	275	<10
+TOC	24	39.9	19.1	62.7	2.60
+IPA	26.5	-	-	-	-
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: 3.3
+400
+300
+200
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 3.3
+400
+300
+200 ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 8 ===
+Reject treatment – Jar testing
+Case 2:
+2400mg of Ca(OH)2 & 1600mg of CaCl2
+in 400ml RO reject
+Case 1:
+4000mg of Ca(OH)2 in 400ml RO reject
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: 3.3
+400
+300
+200
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 3.3
+400
+300
+200 ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 8 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 9 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 3
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4	Supernatant quality for Jar 5
+pH	3.5	11.96	11.91	12.03	11.91	9.8
+Conductivity	6,375 µS/cm	8889 µS/cm	17.23 mS/cm	11.93 mS/cm	14.4 mS/cm	7756 µS/cm
+TDS	3,394	4844	9824	6624	8108	4180
+NH4	65.8
+F	2,928	9.15	13	29.1	14	14.2
+SO4	345	116	117	114	114	106
+PO4	366	<1	<1	3.14	<1	<1
+Cl	211	2258	5414	3515	4316	2376
+Na	500	440	496	440	434	429
+Ca	11.1	1098	2858	1738	2263	920
+Si	47.6	0.149	0.342	0.863	0.356	10.5
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage
+1	Flopam AN 934 SH	8000 ppm lime + 4000 ppm CaCl2
+2	Flopam AN 934 SH	8000 ppm lime + 10000 ppm CaCl2
+3	Flopam AN 934 SH	8000 ppm lime + 6000 ppm CaCl2
+4	Flopam AN 934 SH	8000 ppm lime + 8000 ppm CaCl2
+5	Flopam AN 934 SH	6000 ppm lime + 4000 ppm CaCl2
+
+=== Slide 10 ===
+Copper and Nickel treatment
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: Heavy metal concentration in waste water TMT requirements
+Cadmium me/l 0 Liter TMT
+Copper 12 0.21599% Liter TMT
+Lead me/l 0 Liter TMT
+Nickel 6 0.12 Liter TMT
+Zine me/l 0 Liter TMT
+Total TMT demand for the waste water = 0.33599% Liter TMT
+Waste water 45 18.12 Liter TMT
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: Heavy metal concentration in waste water TMT requirements
+Cadmium me/l 0 Liter TMT
+Copper 12 0.21599% Liter TMT
+Lead me/l 0 Liter TMT
+Nickel 6 0.12 Liter TMT
+Zine me/l 0 Liter TMT
+Total TMT demand for the waste water = 0.33599% Liter TMT
+Waste water 45 18.12 Liter TMT ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: ty
+22
+iA
+ae
++98
+14
+Cu
+22)
+az
+Cu
+eS
+4
+as
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: ty
+22
+iA
+ae
++98
+14
+Cu
+22)
+az
+Cu
+eS
+4
+as ...
+
+[Picture on Slide 10 | GENERIC_FIGURE]
+OCR: S
+S
+i
+S
+NiO,(H,O) ,
+19
+NiOOH ,,
+N
+os
+06
+Ni
+o4
+i(OH),
+42
+a4
+Ni
+(s)
+of
+Ni,H
+19
+2
+el
+4
+6
+12
+ie
+pH
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: S
+S
+i
+S
+NiO,(H,O) ,
+19
+NiOOH ,,
+N
+os
+06
+Ni
+o4
+i(OH),
+42
+a4
+Ni
+(s)
+of
+Ni,H
+19
+2
+el
+4
+6
+12
+ie
+pH ...
+
+=== Slide 11 ===
+Back up
+
+=== Slide 12 ===
+Date: 19-01-2022 | 21157_Micron HFW
+1st process: 2-pass Flat sheet membrane operation
+2nd process: RO reject to Jar testing
+Feed: 3L of HFW feed + Vitec 7400 added
+Pass 2- Permeate
+
+[Table 1]
+		Pass - 1		Pass - 2
+	Feed	Permeate	Reject	Permeate	Reject
+pH	2.93	2.83	2.838	2.87	2.838
+TDS (ppm)	1296	451	1288	425	1358
+EC (µs)	2546	920.4	2527	850	2727
+ORP (mV)	474	453	364	400	358
+NH4
+F
+SO4
+PO4
+Cl
+Na
+Ca
+Si
+Volume (ml)	3000 ml	210 ml	2790 ml	<100 ml	2850 ml
+Recovery	-	7%	93%	3.5%	96.5%
+
+[Picture on Slide 12 | GENERIC_FIGURE]
+OCR: 3.3
+400
+300
+200
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 3.3
+400
+300
+200 ...
+
+=== Slide 13 ===
+2nd process: Jar Testing
+Case 2:
+2400mg of Ca(OH)2 & 1600mg of CaCl2
+in 400ml RO reject
+Case 1:
+4000mg of Ca(OH)2 in 400ml RO reject
+
+[Table 1]
+	Case 1	Case 2
+pH	12.43	2.83
+TDS (ppt)	110	7354 ppm
+EC (mS)	2546	13.16
+ORP (mV)	83	57
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: 3.3
+400
+300
+200
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 3.3
+400
+300
+200 ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 13 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 14 ===
+Result – NF and RO filtration of mixed HFW wastewater from EQ Tank – Trial 1
+
+[Table 1]
+Elements	Mixed wastewater from EQ tank (mg/L)	NF concentrate (mg/L)	NF Permeate (mg/L)	RO concentrate (mg/L)	RO permeate (mg/L)	Toyobo reject (mg/L)	Toyobo permeate (mg/L)
+pH	2.8	3.26	3.21	3.73	3.13
+Conductivity	2267 µS/cm	4123 µS/cm	805.7 µS/cm	2237 µS/cm	292.6 µS/cm
+TDS	-	2276	394	1131	139	1555	536
+NH4	65.7	150	28.9	113	<1	102	13.5
+F	372	1002	95.1	291	23.0*	450	171
+SO4	1999	1168	34.5	140	0.23	591	74.2
+PO4	4.54	<5	1.27	<5	<0.1	<5	<1
+Cl	65.1	91.3	50.8	213	2.63	140	26.8
+Na	219	512	67.8	196	<0.1	319	46.3
+Ca	3.79	12.3	<0.1	<0.1	<0.1	5.96	<0.1
+Si	25.3	50.4	15.1	54.8	<0.1	40.7	2.76
+COD	278	150	70	275	<10	175	50
+TOC	24	39.9	19.1	62.7	2.60	41.5	11.3
+IPA	26.5	-	-	-	-	-	-
+
+=== Slide 15 ===
+Preparation of Synthetic HFW+NH4F Solution (with pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	3.5	-	3.5
+Conductivity	-	-	2,481 µS/cm
+TDS	-	-	1,263
+NH4	20	20	19.2
+F	800	800	789
+SO4	100	100	98
+PO4	200	200	205
+Cl	50	55.86	62.9
+Na	5	5	339
+Ca	5	5	4.05
+Si	14.02	14.02	16.2
+
+[Picture on Slide 15 | PARAM_TABLE]
+OCR: at
+et
+Lot SLBWo994
+de
+Sodium chiori
+299 0
+Raw Chemical
+Chemical Name
+T
+la
+Date Rece
++
+S |
+7 |
+Date Opened
+Z
+NA
+Date Expired
+2.5Liter
+Lot MKCNS381
+Sulphuric acid 95-97%
+Grade AR
+NO GHS
+H2S0.
+M.Wt 98,08 g/mol
+Purity
+in
+A1320001
+PH (5%
+OY
+Sulphate(
+as PD
+4
+0.1%
+2
+Ash
+in co,
+CHEMICAL }
+Ammonium Chloride
+Loss
+2
+|
+Skin
+burns
+As
+2
+Z
+on not
+migt,
+Fw. 53.49
+Ca
+skin
+Fe
+Z
+br
+face
+Hydrofluoric
+|
+Exp 05
+>
+40%
+AR Grade
+REAGENT
+HF
+M
+i
+201
+Silicic
+4,
+Fw.78.10
+9520
+Cly
+AR
+500
+Fw.110.99
+SCRS
+PromptSuggestion: Reconstruct a clean table with columns: Parameter | Units | Value. Parse units carefully (mg/L, µS/cm, gpm). Then, if helpful, create a simple bar chart for a subset of key parameters (e.g., TDS, TSS, TOC, major ions). Use these lines: at
+et
+Lot SLBWo994
+de
+Sodium chiori
+299 0
+Raw Chemical
+Chemical Name
+T
+la
+Date Rece
++
+S |
+7 |
+Date Opened
+Z
+NA
+Date Expired
+2.5Liter
+Lot MKCNS381
+Sulphuric acid 95-97%
+Grade AR
+NO GHS
+H2S0.
+M.Wt 98,08 g/mol
+Purity
+in
+A1320001
+PH (5%
+OY
+Sulphate(
+as PD
+4
+0.1%
+2
+Ash
+in co,
+CHEMICAL }
+Ammonium Chloride
+Loss
+2
+|
+Skin
+burns
+As
+2
+Z
+on not
+migt,
+Fw. 53.49
+Ca
+skin
+Fe
+Z
+br
+face
+Hydrofluoric
+|
+Exp 05
+>
+40%
+ ...
+
+[Picture on Slide 15 | GENERIC_FIGURE]
+OCR: ay
+|
+|
+at
+i
+W
+Ay
+bag
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: ay
+|
+|
+at
+i
+W
+Ay
+bag ...
+
+=== Slide 16 ===
+Preparation of Synthetic Combined NF RO Reject Solution (with pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.210
+NaCl	0.064
+CaCl2	0.049
+HF	2.986
+H3PO4	0.367
+SiH2O3	0.138
+H2SO4	0.362
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	3.5	-	3.5
+Conductivity	-	-	6,375 µS/cm
+TDS	-	-	3,394
+NH4	70.8	70.8	65.8
+F	2,835	2,835	2,928
+SO4	355	355	345
+PO4	356	356	366
+Cl	209	209	211
+Na	2,790	24.99	500
+Ca	17.7	17.7	11.1
+Si	49.5	49.5	47.6
+
+[Picture on Slide 16 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 17 ===
+Jar testing Procedure
+To each testing jar, pour in 1L of wastewater sample
+To each jar, dose in 7000/7500/8000 mg/L of Ca(OH)2 and rapid mix for 30s
+Slow mix for 30 min, measure pH every 10 min
+Dose 1mg/L for each of the SNF polymer (anionic) in each jar and further slower mix (30 rpm) for 30 min. Measure pH every 20 min
+Stop mixing and leave the solids to settle over 60 min
+Observe sludge settling and measure sludge height every 5 min (if applicable)
+Measure turbidity of supernatant and collect the sludge
+For the jar with the lowest supernatant turbidity reading, filter out the supernatant through 0.45 um filter and send for analysis and collect the sludge generated
+For the sludge collected, filter out using 1.5 µm filter. Collect the sludge, dry sample for XRD analysis. Meanwhile, dissolve a pre-determined amount of collected sludge in acid and send for analysis
+
+=== Slide 18 ===
+Jar testing of Synthetic HFW+NH4F with Lime (with pH adjustment)
+Synthetic HFW+NH4F with added lime
+Solution after the addition of Flocculant (precipitates clumped and settled in less than 1 min)
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 18 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 19 ===
+Jar testing of Synthetic HFW+NH4F with Lime (with pH adjustment)
+Chemical precipitation with 2000 mg/L Ca(OH)2
+Coagulation and flocculation with 1 mg/L anionic polymer
+
+[Table 1]
+Jar	pH
+	t = 10 min	t = 20 min	t = 30 min
+1	9.6	11.2	11.55
+2	10.8	11.54	11.75
+3	10.4	11.46	11.74
+
+[Table 2]
+Jar	pH			Polymer used
+	t = 10 min	t = 20 min	t = 30 min
+1	11.55	11.57	11.52	Flopam AN 905 MPM
+2	11.54	11.74	11.69	Flopam AN 905 SH
+3	11.63	11.72	11.62	Flopam AN 934 SH
+
+=== Slide 20 ===
+Jar testing of Synthetic HFW+NH4F with Lime (with pH adjustment)
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 3
+pH	3.5	11.62
+Conductivity	2,481 µS/cm	1,715 µS/cm
+TDS	1,263	857.3
+NH4	19.2	17
+F	789	131
+SO4	98	82.6
+PO4	205	<1
+Cl	62.9	54.3
+Na	339	305
+Ca	4.05	17.8
+Si	16.2	6.53
+
+[Table 2]
+Jar	Polymer added	Supernatant turbidity (NTU)
+1	Flopam AN 905 MPM	0.73
+2	Flopam AN 905 SH	0.55
+3	Flopam AN 934 SH	0.44
+
+=== Slide 21 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment) – Testing 1
+Synthetic combined reject solution in different jars
+Synthetic combined reject solution with added lime at different dosages (7000, 7500, 8000 ppm)
+Solution with added flocculant (Flopam AN 934 SH). Precipitates clumped and settled after the addition of flocculant.
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: 3
+B-KE
+Be
+4
+2 LITER
+2 LITER
+2 LITER
+TER
+iTER
+=
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: 3
+B-KE
+Be
+4
+2 LITER
+2 LITER
+2 LITER
+TER
+iTER
+= ...
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 21 | GENERIC_FIGURE]
+OCR: |
+B-K
+2 UTER
+2 LITER
+2 LITER
+|
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text: |
+B-K
+2 UTER
+2 LITER
+2 LITER
+| ...
+
+=== Slide 22 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment) – Testing 1
+Chemical precipitation with Ca(OH)2
+Coagulation and flocculation with 1 mg/L anionic polymer
+
+[Table 1]
+Jar	Lime dosage (ppm)	pH
+		t = 15 min	t = 20 min	t = 30 min
+1	7000	4.82	6.49	8.97
+2	7500	9.98	11.08	11.46
+3	8000	11.69	11.81	11.93
+
+[Table 2]
+Jar	Lime dosage (ppm)	pH			Polymer used
+		t = 10 min	t = 20 min	t = 30 min
+1	7000	9.03	9.23	9.22	Flopam AN 934 SH
+2	7500	11.45	11.47	11.43	Flopam AN 934 SH
+3	8000	12.01	12.05	12.00	Flopam AN 934 SH
+
+=== Slide 23 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment) – Testing 1
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3
+pH	3.5	9.22	11.43	12
+Conductivity	6,375 µS/cm	2,324 µS/cm	2,338 µS/cm	3,115 µS/cm
+TDS	3,394	1,177	1,185	1,603
+NH4	65.8	67.4	55.7	51.6
+F	2,928	210	137	60.3
+SO4	345	207	216	179
+PO4	366	<1	<1	<1
+Cl	211	192	194	194
+Na	500	493	459	478
+Ca	11.1	1.43	2.58	9.57
+Si	47.6	21.7	1.86	0.308
+
+[Table 2]
+Jar	Polymer added	Lime dosage (ppm)	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	7000	0.39
+2	Flopam AN 934 SH	7500	0.33
+3	Flopam AN 934 SH	8000	1.08
+
+=== Slide 24 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 2
+Synthetic combined reject solution in different jars, with added different chemicals. Jar 1 from the left most to jar 4 in right most.
+Starting of settling
+End of settling
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 24 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 25 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 2
+Chemical precipitation with Ca(OH)2 (lime) and CaCl2
+Coagulation and flocculation with 1 mg/L anionic polymer
+
+[Table 1]
+Jar	Chemical dosage	pH
+		t = 10 min	t = 20 min	t = 30 min
+1	10,000 ppm lime	12.52	12.59	12.62
+2	12,000 ppm lime	12.65	12.70	12.71
+3	5,000 ppm lime + 5,000 ppm CaCl2	2.04	2.08	2.13
+4	6,000 ppm lime + 6,000 ppm CaCl2	2.38	2.94	4.81
+
+[Table 2]
+Jar	Chemical dosage	pH			Polymer used
+		t = 2 min	t = 10 min	t = 30 min
+1	10,000 ppm lime	12.58	12.54	12.56	Flopam AN 934 SH
+2	12,000 ppm lime	12.67	12.72	12.65	Flopam AN 934 SH
+3	5,000 ppm lime + 5,000 ppm CaCl2	2.13	2.13	2.09	Flopam AN 934 SH
+4	6,000 ppm lime + 6,000 ppm CaCl2	6.21	6.29	6.48	Flopam AN 934 SH
+
+=== Slide 26 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 2
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4
+pH	3.5	12.56	12.65	2.09	6.48
+Conductivity	6,375 µS/cm	8,233 µS/cm	10.64 mS/cm	11.76 mS/cm	10.43 mS/cm
+TDS	3,394	4,460	5,867	6,526	5,745
+NH4	65.8	57	59.4	68.4	72.6
+F	2,928	8.21	5.61	187	610
+SO4	345	72.4	50.6	32	96.3
+PO4	366	<1	<1	241	83
+Cl	211	191	164	2,939	3,548
+Na	500	353	343	365	402
+Ca	11.1	389	622	1,077	2,139
+Si	47.6	<0.1	<0.1	65.2	66.7
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	10,000 ppm lime	20.8
+2	Flopam AN 934 SH	12,000 ppm lime	74.2
+3	Flopam AN 934 SH	5,000 ppm lime + 5,000 ppm CaCl2	430
+4	Flopam AN 934 SH	6,000 ppm lime + 6,000 ppm CaCl2	496
+
+=== Slide 27 ===
+Jar testing of Synthetic Combined NF RO Reject (with pH adjustment – Testing 3
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2	Supernatant quality for Jar 3	Supernatant quality for Jar 4	Supernatant quality for Jar 5
+pH	3.5	11.96	11.91	12.03	11.91	9.8
+Conductivity	6,375 µS/cm	8889 µS/cm	17.23 mS/cm	11.93 mS/cm	14.4 mS/cm	7756 µS/cm
+TDS	3,394	4844	9824	6624	8108	4180
+NH4	65.8
+F	2,928	9.15	13	29.1	14	14.2
+SO4	345	116	117	114	114	106
+PO4	366	<1	<1	3.14	<1	<1
+Cl	211	2258	5414	3515	4316	2376
+Na	500	440	496	440	434	429
+Ca	11.1	1098	2858	1738	2263	920
+Si	47.6	0.149	0.342	0.863	0.356	10.5
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	8000 ppm lime + 4000 ppm CaCl2	56.9
+2	Flopam AN 934 SH	8000 ppm lime + 10000 ppm CaCl2	226
+3	Flopam AN 934 SH	8000 ppm lime + 6000 ppm CaCl2	138
+4	Flopam AN 934 SH	8000 ppm lime + 8000 ppm CaCl2	162
+5	Flopam AN 934 SH	6000 ppm lime + 4000 ppm CaCl2	22
+
+=== Slide 28 ===
+Preparation of Synthetic Combined NF RO Reject Solution (without pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.209
+NaCl	0.011
+CaCl2	0.049
+HF	2.242
+H3PO4	0.367
+SiH2O3	0.128
+H2SO4	0.362
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	1.9	-	3
+Conductivity	-	-	7745 µS/cm
+TDS	-	-	4175
+NH4	70.6	70.6	TBC
+F	2129	2129	2304
+SO4	355	355	336
+PO4	356	356	389
+Cl	177	177	234
+Na	17.6	4.49	7.74
+Ca	17.7	17.7	7.94
+Si	46.2	46.2	41.2
+
+[Picture on Slide 28 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 29 ===
+Jar testing of Synthetic Combined NF RO Reject (without pH adjustment)– Testing 1
+
+[Table 1]
+Elements	Concentration based on in-house measurement (ppm)	Supernatant quality for Jar 1	Supernatant quality for Jar 2
+pH	3	9.68	9.29
+Conductivity	7745 µS/cm	1941 µS/cm	7256 µS/cm
+TDS	4175	974.7	3889
+NH4	TBC	TBC	TBC
+F	2304	22	7.51
+SO4	336	150	137
+PO4	389	<1	<1
+Cl	234	456	2227
+Na	7.74	8.2	25.4
+Ca	7.94	295	1290
+Si	41.2	14.9	5.66
+
+[Table 2]
+Jar	Polymer added	Chemicals dosage	Supernatant turbidity (NTU)
+1	Flopam AN 934 SH	6000 ppm lime + 500 ppm CaCl2	9.98
+2	Flopam AN 934 SH	6000 lime + 4000 ppm CaCl2	20.4
+
+=== Slide 30 ===
+Preparation of Synthetic HFW+NH4F with IPA (with pH adjustment)
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+IPA	1
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	-	-	3.5
+Conductivity	-	-	3,357 µS/cm
+TDS	-	-	1,134
+NH4	20	20	19.7
+F	800	800	819
+SO4	100	100	100
+PO4	200	200	214
+Cl	50	55.86	54.3
+Na	5	5	721
+Ca	5	5	1.49
+Si	14.02	14.02	12.7
+COD	-	-	2,450
+TOC	-	-	473
+IPA	1,000	1,000	TBC
+
+=== Slide 31 ===
+Anti-scalant compatibility test - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+Initial solution pH: 3.3, pH adjusted to 3.5
+Avista vitec 7400 was selected for the NF filtration experiment because its addition into the feed solution didn’t alter the solution pH much.
+
+[Table 1]
+Anti-scalant	pH	Solution appearance
+Flocon 260	3.0	Clear
+Avista Vitec 3000	7.19	Clear
+Avista Vitec 5100	3.7	Clear
+Avista Vitec 7400	3.58	Clear
+
+[Picture on Slide 31 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 31 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 32 ===
+Result - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+Operating conditions
+
+Batch mode (using Dupont NF90 membrane)
+
+75% recovery
+
+100 psi operating pressure, increased pressure over time as feed gets more and more concentrated
+Observation: Membrane flux was lower after the NF filtration.
+
+Before NF: 15.1g in 3 min (filtration using DI water
+After NF: 6.1g in 3 min
+
+=== Slide 33 ===
+Result - NF filtration of HFW+NH4F with IPA (with pH adjustment)
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	Concentrated feed (ppm)	Permeate (ppm)
+pH	3.5	5.04	3.29
+Conductivity	3,357 µS/cm	9,022 µS/cm	708.6 µS/cm
+TDS	1,134	4,921	344.4
+NH4	19.7	50.1	12.2
+F	819	1,555	144
+SO4	100	389	3.83
+PO4	214	637	1.55
+Cl	54.3	178	21
+Na	721	2082	86
+Ca	1.49	<0.1	<0.1
+Si	12.7	73.9	51.9
+COD	2,450	3935	1580
+TOC	473	870	382
+IPA	TBC	TBC	TBC
+
+=== Slide 34 ===
+Preparation of Synthetic HFW+NH4F with IPA (without pH adjustment) – Trial 1
+
+[Table 1]
+Preferred chemicals	Required quantity for 1 Liter solution (gram)
+NH4Cl	0.059
+NaCl	0.013
+CaCl2	0.014
+HF	0.843
+H3PO4	0.206
+SiH2O3	0.039
+H2SO4	0.102
+IPA	1
+
+[Table 2]
+Elements	Desired concentration (ppm)	Calculated concentration based on added chemicals (ppm)	Concentration based on in-house measurement (ppm)
+pH	-	-	2.92
+Conductivity	-	-	3371 µS/cm
+TDS	-	-	1741
+NH4	20	20	TBC
+F	800	800	802
+SO4	100	100	101
+PO4	200	200	161
+Cl	50	55.86	147
+Na	5	5	10.1
+Ca	5	5	4.6
+Si	14.02	14.02	9.15
+COD	-	-	2523
+TOC	-	-	588
+IPA	1,000	1,000	TBC
+
+=== Slide 35 ===
+Result - NF filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 1
+Operating conditions
+
+Batch mode (using Trisep TS40 NF membrane)
+
+75% recovery
+
+100 psi operating pressure, increased pressure over time as feed gets more and more concentrated
+
+=== Slide 36 ===
+Result – NF and RO filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 1
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	NF concentrated feed (ppm)	NF Permeate (ppm)	RO permeate (ppm)
+pH	2.92	2.08	2.26	2.53
+Conductivity	3371 µS/cm	4821 µS/cm	3071 µS/cm	1382 µS/cm
+TDS	1741	2535	1580	685.3
+NH4	TBC	TBC	TBC	TBC
+F	802	1328	456	278
+SO4	101	201	88.9	3.45
+PO4	161	203	150	1.21
+Cl	147	152	147	24.8
+Na	10.1	30.9	4.72	4.34
+Ca	4.6	21.5	0.105	<0.1
+Si	9.15	41.5	4.19	0.233
+COD	2523	2970	2013	TBC
+TOC	588	691	484	16.2
+IPA	TBC	TBC	TBC	TBC
+
+=== Slide 37 ===
+Result - NF filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 2
+Operating conditions
+
+Batch mode (using Trisep TS40 NF membrane)
+
+75% recovery
+
+100 psi operating pressure, increased pressure over time as feed gets more and more concentrated
+
+=== Slide 38 ===
+Result – NF and RO filtration of HFW+NH4F with IPA (without pH adjustment) – Trial 2
+
+[Table 1]
+Elements	Concentration for synthetic feed (ppm)	NF concentrated feed (ppm)	NF Permeate (ppm)	RO concentrated feed (ppm)	RO permeate (ppm)
+pH	2.15	2.3	2.3	2.31	2.9
+Conductivity	3376 µS/cm	3298 µS/cm	1905 µS/cm	2416 µS/cm	493.1 µS/cm
+TDS	TBC	TBC	TBC	TBC	TBC
+NH4	TBC	TBC	TBC	TBC	TBC
+F	813	1959	203	333	48.5
+SO4	102	299	55	11.6	0.286
+PO4	187	4.3	72	9.59	<0.1
+Cl	147	265	140	131	8.77
+Na	2.6	30.45	<0.1	<0.1	<0.1
+Ca	6.5	25.2	1.8	1.73	<0.1
+Si	12.2	39.5	3.4	9.69	0.221
+COD	2390	3456.7	1533.3	2791.67	27.33
+TOC	570	812	369	656	7.58
+IPA	TBC	TBC	TBC	TBC	TBC

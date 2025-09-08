@@ -1,0 +1,341 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\Opal Project AD Lab\Papers\Biological treatment of TMAH in full scale TFT LCD waste water.pdf
+
+
+=== PDF Page 1 ===
+
+[OCR Page]
+Bioresource Technology 113 (2012) 303-310
+SUVS NE Ce Es Contents lists available at SciVerse ScienceDirect x
+ate Cay eae, BIORESOURCE
+SRR OSes TECHNOLOGY
+hae | Bioresource Technology aaa
+ 4 nj Aye, al
+journal homepage: www.elsevier.com/locate/biortech _
+eee
+Biological treatment of TMAH (tetra-methyl ammonium hydroxide) in a full-scale
+TFT-LCD wastewater treatment plant
+Tai-Ho Hu , Liang-Ming Whang , Pao-Wen Grace Liu , Yu-Ching Hung , Hung-Wei Chen ,
+Li-Bin Lin , Chia-Fu Chen , Sheng-Kun Chen , Shu Fu Hsu , Wason Shen , Ryan Fu , Romel Hsu
+ Department of Environmental Engineering, National Cheng Kung University, No. 1, University Road, Tainan 701, Taiwan
+ Sustainable Environment Research Center (SERC), National Cheng Kung University, No. 1, University Road, Tainan 701, Taiwan
+ Research Center for Energy Technology and Strategy (RCETS), National Cheng Kung University, No. 1, University Road, Tainan 701, Tatwan
+ Department of Safety Health and Environmental Engineering, Chung Hwa University of Medical Technology, Taiwan
+ Department of Environmental Engineering, Kun Shan University, Taiwan
+ Chimei-innolux Corporation, No. 21, Zihlian Road, Sinshih District, Tainan City 74148, Taiwan
+ARTICLE INFO ABSTRACT
+Article history: This study evaluated biological treatment of TMAH in a full-scale methanogenic up-flow anaerobic sludge
+Available online 27 February 2012 blanket (UASB) followed by an aerobic bioreactor. In general, the UASB was able to perform a satisfactory
+a TMAH degradation efficiency, but the effluent COD of the aerobic bioreactor seemed to increase with an
+Keywords: increased TMAH in the influent wastewater. The batch test results confirmed that the UASB sludge under
+Anaerobic wastewater treatment methanogenic conditions would be favored over the aerobic ones for TMAH treatment due to its superb
+Mon enic inbabie ability of handling high strength of TMAH-containing wastewaters. Based on batch experiments, inhibi-
+ethanogenic intibition tory chemicals present in TFT-LCD wastewater like surfactants and sulfate should be avoided to secure a
+Methanomethylovorans hollandica . . ; : ia an ost
+Methanosarcina mazei stable methanogenic TMAH degradation. Finally, molecular monitoring of Methanomethylovorans
+hollandica and Methanosarcina mazei in the full-scale plant, the dominant methanogens in the UASB
+responsible for TMAH degradation, may be beneficial for a stable TMAH treatment performance.
+ 2012 Elsevier Ltd. All rights reserved.
+1. Introduction (Hirano et al., 2001). It is a highly toxic compound and caused a
+few deaths in Taiwan (Wu et al., 2008). One way to treat this kind
+The amount of pollutants produced during manufacturing of wastewater is oxidation treatment. Hirano et al. (2001) devel-
+processes of TFT-LCD (thin-film transistor liquid crystal display) sub- oped a process which combined pyrolysis and catalytic oxidation
+stantially increases due to an increasing production of the opto- to treat TMAH wastewater. Although this method avoids the pro-
+electronic industry in Taiwan. Organic solvents used in TFT-LCD duction of noxious compounds like NO, or NH3, the cost of this
+manufacturing processes account for more than 33% of the total method is still much higher than the biological ones and makes
+organic wastes present in wastewater. The main components of it difficult to be employed in full scale.
+these organic solvents are composed of the stripper (dimethy] The treatment of TMAH-containing wastewaters using acti-
+sulfoxide (DMSO) and monoethanolamine (MEA)), developer (tet- vated sludge treatment is usually difficult (Urakami et al., 1990).
+ra-methyl ammonium hydroxide (TMAH)) and chelating agents. However, this can be achieved by some methylotroph and
+These compounds are recognized as slow-biodegradable organic some Paracoccus spp., Kluyveromyces delphensis, Bacillus circus,
+compounds and very few information is available regarding their Acinetobacter sp. (Anthony, 1982; Urakami et al., 1990). According
+biological treatability (Chang et al., 2008; Park et al., 2001). In a pre- to the proposed pathway for aerobic TMAH degradation, tetra-
+vious study (Lei et al., 2010), it was found that MEA can be treated methyl ammonium ion is first degraded to trimethylamime, and
+without difficulties under aerobic, anoxic, and anaerobic conditions, then to dimethylamine, methylamine and finally to ammonia.
+while a higher DMSO degradation rate can be achieved under Formaldehyde is produced in each of the reactions and can be
+anaerobic condition with the presence of external electron donors. quickly oxidized to carbon dioxide and water under aerobic condi-
+TMAH, a toxic and corrosive alkaline chemical, is widely used in tions. In addition to aerobic conditions, methanogenic degradation
+the semiconductor and opto-electronic industries as developer of TMAH has been reported (Tanaka, 1994). Methanogens are
+strictly anaerobic archaea capable of producing methane as the
+eC a 5 Dersenen Gr Ean ease end-product during anaerobic conversion of organic compounds
+orresponding author a: epartmen O nvironmentad ngineering, > i
+National Cheng Kung University, No. 1, University Road, Tainan 701, Taiwan. (Ferry, 1993). An isolated methanogen has been own on TMAH
+Tel.: +886 6 2757575x65837: fax: +886 6 2752790. and degrade TMAH to methane gas and ammonium (Tanaka,
+E-mail address: whang mail.ncku.edu.tw (L.-M. Whang). 1994). In a recent study, Chang et al. (2008) successfully enriched
+0960-8524/ - see front matter 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.biortech.2012.02.070
+
+[IMAGE 1 | GENERIC_FIGURE]
+OCR: edt Se ta
+ abe 2)
+El SEVIER
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: edt Se ta
+ abe 2)
+El SEVIER ...
+
+[IMAGE 2 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== PDF Page 2 ===
+
+[OCR Page]
+304 T.-H. Hu et al. / Bioresource Technology 113 (2012) 303-310
+anaerobic TMAH-degrading sludge under methanogenic conditions for methanogenic batch tests sludge was taken from the UASB.
+using a lab-scale up-flow anaerobic sludge blanket (UASB) fed with For the aerobic batch experiment, 800 mL of examined mixed-
+TMAH-containing wastewater. Their results indicated that the tox- liquor-suspended solids (MLSS) were centrifuged at 10,000g for
+icity effects of TMAH up to 10,000 mg/L on enriched UASB sludge 10 min. The supernatant was discarded, and the solids were resus-
+was negligible (Chang et al., 2008). Although anaerobic processes pended in a 1L flask containing 800 mL of the nutrient medium
+involving diverse microbes for industrial wastewater treatment with composition same as that previously described (Lei et al.,
+have been successfully applied in full-scale for decades, their appli- 2010). The initial biomass concentrations in batch experiments
+cation to TMAH treatment at full-scale has not been evaluated. Fur- were controlled at around 2000 mg/L. During the experiment, the
+thermore, information for microbial community of methanogenic MLSS in the flask was mixed using a magnetic stirrer and aerated
+TMAH treatment processes is also quite limited at this time. for aerobic condition experiment to maintain the DO concentration
+In this study, biological treatment of TMAH in a full-scale meth- above 3 mg/L. The pH of the batch reactor was controlled with a pH
+anogenic UASB bioreactor followed by an aerobic bioreactor was controller at 7 +0.1 by addition of 0.1 MHCI or 0.1 MNaOH. The
+evaluated. Batch experiments were conducted to evaluate aerobic batch tests were carried out in an incubator maintained at
+and methanogenic TMAH biodegradation kinetics, and possible ad- 27+2 C. Samples were frequently taken throughout the batch
+verse effects on methnogenic TMAH degradation caused by poten- experiments for the determination of TMAH.
+tial inhibitors present in TFT-LCD wastewater. Finally, microbial Methanogenic batch experiments were conducted to evaluate
+community of methanogenic TMAH treatment processes was also the effects of TMAH concentration and potential inhibitory chem-
+evaluated using molecular methods. icals present in TFT-LCD wastewater on TMAH degradation activity
+of the UASB sludge. Batch tests were conducted in 1L serum bot-
+2. Methods tles sealed with a rubber stopper. The total liquid volume was
+400 mL. UASB sludge and predetermined concentrations of TMAH
+2.1. Description of full-scale wastewater treatment bioreactors (1000 mg/L for inhibitor batch tests) and potential inhibitors such
+as sulfate, surfactants, and DMSO were mixed using a shaker at
+The full-scale bioprocess for TMAH-containing wastewater | 199 rpm and incubated at 35 + 1 C. The pH was frequently moni-
+treatment investigated in this study included an UASB bioreactor | tored and maintained at 7.0+0.2 during experiments. Batches
+followed by a conventional activated sludge (CAS) system, as without inhibitors were conducted as control experiments, dem-
+shown in Fig. 1. The influent wastewater of the UASB contained MStrating TMAH degradation performance of UASB sludge. For
+mainly TMAH, some domestic wastewater, and some other chem- each experiment, duplicated batches were conducted and samples
+icals such as surfactants used during TFT-LCD manufacturing. The Were taken frequently for analyses.
+capacity of the UASB was about 1000 m /d and the hydraulic reten- 2.3. Analytical methods
+tion time (HRT) was 15 h. The influent and effluent TMAH concen-
+trations of UAB were averaged around 1200 and 100 mg/L, The composition of biogas in the headspace was analyzed using a
+respectively. During this study, the full-scale UASB was able to per- gas chromatograph (China GC 8900, Taipei, Taiwan) equipped with
+form up to 92% of TMAH degradation efficiency and achieve amere a thermal conductivity detector (TCD). A 2m stainless column
+than 90% in gas momMposttion for methane. The CAS bioreactor with packed with Hayesep Q (60/80 mesh) was installed in a 60 C oven.
+a total volume of 1000 m treated 1000 m Id of Ware wallet efflu- The operational temperatures of the injection port, the oven, and the
+ent from the UASB. The CAS bioreactor, with an average biomass detector were all set at 60 C. Nitrogen was used as the carrier gas at
+CONCenntatton of 2000 mg VSS/L, was operated at hydraulic reten- a flow rate of 15 mL/min. The concentration of TMAH was analyzed
+tion time (HRT) and solids retention time (SRT) of 1 and 20 days, by an ion chromatography (IC) (Mrklas et al., 2003). The IC used was
+respectively. The influent COD of the CAS bioreactor varied be- ICS-1000 (Dionex, California, USA) equipped with a lonPacCG-18
+eween 400 and 1000 mg/L, depending on the TMAH removal effi- column as the guard and cation analytical column, a CSRS 3002-
+ciency of the UASB. Based on determined average TMAH loading mm self-regenerated suppressor, and a conductivity detector. A
+of the UASB, wo phases were defined in this study. In Phase I, 3 mM of methanesulfonic acid was used as the eluent at a flow rate
+the average influent TMAH was 1528 mg/L, while the average of 0.25 mL/min. The pH, ORP, COD and volatile suspended solids
+influent TMAH in Phase Il was 1144 mg/L. (VSS) were measured according to standard methods (APHA, 1995).
+2.2. Batch experiments for TMAH biodegradation 2.4. Genomic DNA extraction and polymerase chain reaction (PCR)
+amplification
+A series of batch tests were performed in order to study biodeg-
+radation of TMAH under aerobic and methanogenic conditions. For The UltraClean Soil DNA Isolation kit (Mo Bio Laboratories,
+aerobic batch tests, sludge was taken from the CAS bioreactor, while Solana Beach, CA) was used to obtain genomic DNA from the batch
+r Overflow By-Pass
+| i iit Secondary Clarifier
+i} }
+Domestic ; _ |
+Wastewater _ __ _ >
+a a es a Effluent
+UASB .
+TMAH Aerobic Tank
+Return Activated Sludge
+Fig. 1. Schematic of the full-scale bioprocess for TMAH-containing wastewater treatment.
+
+=== PDF Page 3 ===
+
+[OCR Page]
+T.-H. Hu et al./Bioresource Technology 113 (2012) 303-310 305
+sludge. A specific primer set including a forward primer mlas GenBank database for homologous sequences and their identity
+(5 -GGTGGTGTMGGGDTTCACMCARTA-3 ) and a reverse primer using the BLAST.
+mcrA-rev (5 -CGTTCATBGCGTAGTTVGGRTAGT-3 ) was used for
+amplifying a 480 base pair (bp) fragment of mcrA functional gene . :
+of methanogen (Steinberg and Regan, 2008). The mcrA gene, encod- 3. Results and discussion
+te ne wiohly comeerved ana specific to M ethanogens (heey. 3.1, Full-scale bioprocess performance for treatment of TMAH-
+1993).Expression of the mcrA gene has been used as an indicator containing wastewater
+of the methanogenic activity of the methanogen population as . .
+this enzyme catalyzes the terminal step in the pathway for meth- The influent TMA ee ethiuene COD concentrations of the full
+anogenesis. Furthermore, the mcrA gene was also used as a scale bioprocess during this study are summarized in the Fig. 2, in
+phylogenetic marker to enumerate the methanogen population general, the UASB was able to perform a satisfactory TMAH meera
+(Steinberg and Regan, 2008). Taq DNA Polymerase Master Mix dation efficiency, but the effluent COD of the aerobic bioreactor
+RED (Ampliqon, Copenhagen, Denmark) was used as the taq of seemed to increase with an increased TMAH in the influent waste-
+PCR reaction. The thermal profile used for the amplification was: water. In Phase I, the average effluent COD of 388 mg/L corre-
+an initial denaturation at 95 C for 3 min, 5 cycles of denaturation sponded to an average influent TMAH of 1528 mg/L, while in
+at 95 C for 30s, annealing at 48 C for 45 s, and extension at 72 C Phase Il me average eftluent COD of 302 mg/l corresponded to
+for 30s with a ramp rate of 0.1 C/s from the annealing to exten- an average ineidient TMAH of Ti tagiL. Werder to-achieve a Sta
+sion temperature, 30 cycles of denaturation at 95 C for 30s, ble water quality of the treated effluent, better understanding of
+annealing at 55 C for 45 s, and extension at 72 C for 30s followed the treatment capacity of the individual DIGFEACEOES Is necessary,
+by a final extension at 72 C for 10 min. and thus optimization of the full-scale bioprocess can be attained.
+25. Terminal restriction fragment length polymorphism (T-RFLP) 3.2. TMAH biodegradation under aerobic and methanogenic conditions
+analysis The results of specific TMAH degradation rates observed at dif-
+
+To perform the T-RFLP analysis for the mcr functional gene of ferent TMAH concentrations under aerobic and methanogenic con-
+methanogen, the forward primer mlas was labeled at the 5 end sludee ons Pible to, deatade va nown , areas svecife
+with 6-hexachlorofluorescein (6-HEX) and the thermal condition
+was same as the PCR condition described in the previous section.
+
+Purified PCR products were digested with Fatl restriction endonu- 2500
+
+clease for 2 h and digestion temperature was 37 C. Digested sam-
+
+ples were analyzed by capillary electrophoresis at the Nucleic Acid 5 4
+
+Analysis and Synthesis Core Laboratory of the National Cheng Kung 3000 oO a
+
+University in Tainan, Taiwan, to determine the size of fragments en oi a,
+
+using an ABI Prism 377 automated sequencer (Perkin-Elmer Corp., th fo o
+
+Wellesley, MA, USA). The relative abundance of each T-RF was 2. 0 0 RL A 7 o
+
+determined by calculating the ratio between the height of each Eg 00 Tap ASP ay a 0 ;
+
+peak and the summed height from all peaks in one sample. The x 5 F a NE a4 Q Be oo
+peaks with relative abundance with <1% or smaller T-RF length 5 ro Bp Tae Ned ote ar Pec Ta
+(<50 bp) were neglected in this study, due to high background = 1000 F Qo [Go as GS Oro
+noise. 9 0 A
+2.6. Clone library construction and analysis 700
+
+PCR products of unlabeled primer set of mlas with mcrA-rev
+were purified by electrophoresis in a 1.5% (wt/vol) agarose gel, )
+recovered using a gel purification kit (Gene-Spin TM 1-4-3 DNA 0
+extraction kit), and used in the construction of the mcrA functional 500 B S
+gene clone libraries. The purified PCR products were ligated into g
+the pGEM-T Easy Vector System (Promega, Madison, WI, USA) 5 SP o 4
+and transformed into DH5a Escherichia coli competent cells follow- Bm 400 th es 8 3 020 0. 6,
+ing the manufacture s protocol (Invitrogen).Clones were randomly A D: OR Pr ok 9 , o 2 Soh
+selected and re-amplified with mlas and mcrA-rev primer set. PCR 8 x00 ~ 6s OR G00 eB CRS PEN
+products of the clones were digested with Fatl restriction endonu- = o 6 eo Sy pscieon op. A
+clease to find the corresponding to each observed T-RFLP results. = g 8 2 50 SB 60 r)
+The resulting fragments were analyzed on ethidium bromide = 200 Oo cor 0 oc % fo)
+stained agarose gels. Selected clones were incubated with nutrient 8 3
+broth in 10mL tube one day. The tubes were centrifuged at
+10,000g for 1 min and kept the cells with discarding the superna- 100
+tant. Plasmids of clone cells were extracted by Wizard Plus mini-
+preps DNA purification system (Promega, Madison, WI,USA). DNA P
+sequencing reactions were performed using ABI3100 and 3730 Phase I Phase II
+capillary sequencers (Applied Biosystems) and sequencing was
+performed at the National Cheng Kung University in Tainan, Fig. 2. Influent TMAH (upper) and effluent COD (bottom) concentrations of the full-
+Taiwan. Sequences of the clones were searched on the NCBI scale bioprocess. The lines represent moving average of measured data.
+
+=== PDF Page 4 ===
+
+[OCR Page]
+306 T.-H. Hu et al. / Bioresource Technology 113 (2012) 303-310
+10 gated full-scale UASB sludge dramatically decreased to less than
+0.5 mg TMAH/gVSS/h, due presumably to an inhibition on the
+g 2 UASB sludge at a high TMAH concentration. Accordingly, the UASB
+Aerobic Condition sludge under methanogenic conditions seemed to be promising for
+ treatment of high strength TMAH-containing wastewaters, but a
+2 6 maximum concentration allowed for methanogenic TMAH biodeg-
+- ; Py radation should be determined using the full-scale sludge. Further-
+ eI 4 | more, in addition to the high TMAH concentration, unexpected
+3 y sources having a negative impact on methanogenic TMAH degra-
+sb a 5 dation also need to be clarified in order to avoid an unstable water
+a = a quality of the treated effluent as depicted in Fig. 2.
+ _
+<
+2 I 0 3.3. Effects of potential inhibitors on methanogenic THAM
+vt biodegradation
+3B . Batch experiments were conducted to evaluate potential inhibi-
+tion that might encounter during methanogenic TMAH degrada-
+6 tion in the full-scale UASB bioreactor. In this study, a modified
+Gompertz equation (Fang et al., 2007) was employed to calculate
+4 the kinetic parameters of the TMAH biodegradation under metha-
+nogenic condition. The equation could be expressed as follows:
+2 S = Sy A exp{ exp Rm e (4 0)/A + 1]}
+P where Sy and S were the TMAH concentrations at time O and t
+0 1000 2000 3000 4000 5000 6000-7000 during the experiment, A the degradation potential, R,,, the poten-
+TMAH (me/l.) tial maximum degradation rate, and 4 the potential lag phase. The
+: results of best-fit kinetic parameters for methanogenic batch
+Fig. 3. Specific TMAH degradation rates observed at different TMAH concentrations experiments are summarized in Table 1.
+under aerobic (upper) and methanogenic (bottom) conditions. The lines represent Compared to the batch without potential inhibitor present,
+regression curves following Haldane-type kinetic expression. addition of Surfactant 1 (2000-10,000 mg/L) caused no apparent
+lag period for TMAH degradation but a slight decrease in specific
+TMAH degradation rate, while addition of Surfactant 2 (4000-
+degradation of 8.8 mg TMAH/gVSS/h at initial TMAH of 145 mg/L, 20,000 mg/L) caused a slight increase of lag period but a noticeable
+but inhibition on the specific TMAH degradation rate occurred at decrease in specific TMAH degradation rate. For the batches added
+TMAH concentrations higher than 150 mg/L. Furthermore, com- with either ST801 (2000-10,000 mg/L) or ST823 (5000-20,000 mg/
+plete inhibition with respect to TMAH degradation was observed L), considerable inhibition on TMAH biodegradation was observed,
+in the beginning of batch experiments with TMAH concentrations resulting in a longer lag period and a lower specific TMAH degrada-
+higher than 450 mg/L, although the aerobic sludge could gradually tion rate. These surfactants were occasionally used in TFT-LCD
+degrade TMAH after 5h of inhibition. Biological treatment of manufacturing process and can be present in TFT-LCD wastewater.
+TMAH-containing wastewater is usually difficult in activated It is suggested that the presence of these surfactants, especially
+sludge systems (Urakami et al., 1990), but complete TMAH degra- ST801 and ST823, at concentrations higher than 1000 mg/L should
+dation can be possible by methylotrophs (Hampton and Zatman, be avoided to secure stable methanogenic TMAH degradation.
+1973; Anthony, 1982) and Paracoccus spp. (Ohara et al., 1990). In the presence of sulfate, two sets of batch experiments,
+Lei et al. (2010) have confirmed that aerobic degradation of TMAH Sulfates I and II, were conducted using the UASB sludges taken
+could be achieved in aerobic and anoxic-oxic sequencing batch during the Phases I and II, respectively. For the Sulfate I batches,
+reactors, but aerobic conditions were more effective compared to addition of sulfate (150-1500 mg/L) caused a substantial lag period
+anoxic ones. By using the acclimated aerobic sludge, a maximum and significantly reduced specific TMAH degradation rate, espe-
+specific degradation rate of 8.1 mg TMAH/gVSS/h was obtained in cially at concentrations >300 mg/L. For the Sulfate II batches,
+Lei et al. (2010) without significant inhibitory effect up to inhibition on TMAH biodegradation caused by sulfate addition
+300 mg/L of TMAH. It is suggested that acclimation of aerobic (150-1500 mg/L), however, was much less severe. The clear mech-
+TMAH-degrading community is necessary to reduce a sudden inhi- anism for inhibitory effect of sulfate on methanogenic TMAH
+bition at an unexpectedly high TMAH concentration. degradation is not clear at this time, but its possible toxic effects
+Under methanogenic conditions, the UASB sludge was able to on methanogenic activity have been examined (Lin et al., 2001)
+attain a specific degradation rate of 9.5 mg TMAH/gVSS/h despite and reviewed previously (Chen et al., 2008). In anaerobic bioreac-
+that the initial TMAH concentration was as high as 1500 mg/L. tors with the presence of suitable organic substrates, sulfate can be
+Additionally, the specific degradation rate of the UASB sludge only reduced to sulfide by the sulfate reducing bacteria (SRB), resulting
+slightly decreased to 7.1 mg TMAH/gVSS/hat the initial TMAH con- in two possibilities of inhibition during sulfate reduction. Primary
+centration as high as 3000 mg/L. Therefore, the UASB sludge under inhibition is due to competition for common organic and inorganic
+methanogenic conditions would be favored over the aerobic ones substrates by the SRB, which reduces methane production (Harada
+for TMAH treatment due to its potential of handling a higher et al., 1994). Secondary inhibition results from the toxicity of
+strength of TMAH-containing wastewaters. Indeed, previous study produced sulfide from sulfate reduction to various microbial
+(Chang et al., 2008) demonstrated that anaerobic TMAH-degrading groups in anaerobic bioreactors including acidogens, acetogens,
+sludge enriched in a lab-scale UASB was able to perform more than and methanogens (Anderson et al., 1982; Oude Elferink et al.,
+95% of TMAH removal efficiency at volumetric loadings around 1994; Colleran et al., 1995, 1998).In the current study, the ob-
+7.30 kg TMAH/m /day. However, at the initial TMAH concentration served different inhibitory effects of sulfate on TMAH biodegrada-
+>4500 mg/L, the specific TMAH degradation rate of the investi- tion are likely due to the difference in microbial community
+
+=== PDF Page 5 ===
+
+[OCR Page]
+T.-H. Hu et al. / Bioresource Technology 113 (2012) 303-310 307
+Table 1
+Summary of methanogenic TMAH degradation experiments with addition of different potential inhibitors.
+Inhibitor Concentration (mg/L) q (mg-TMAH/gVSS/h) 7 (h) R,, (Mg-TMAH/h) A (mg/L) R
+ST801 0 16.5 0.5 250 894 0.995
+2000 7.28 2.0 107 924 0.931
+4000 3.41 2.8 74.3 805 0.925
+8000 3.00 7.5 79.7 752 0.978
+10,000 1.45 12.9 10.1 891 0.978
+ST823 0 17.0 1.0 267 818 1.00
+5000 5.97 9.5 112 1277 0.970
+8000 2.69 10.3 61.6 1100 0.996
+10,000 2.55 8.6 48.3 1160 0.969
+20,000 1.75 10.2 57.7 1099 0.948
+Surfactant 1 0 9.04 2.1 283 879 0.993
+2000 7.38 1.9 294 715 1.00
+5000 7.00 1.2 284 779 0.999
+10,000 7.93 24 252 875 0.988
+Surfactant 2 4000 6.50 2.5 201 870 0.999
+10,000 4.21 3.7 150 910 0.995
+20,000 2.31 2.9 65.4 972 0.998
+Sulfate | 0 6.88 5.4 762 1002 0.967
+150 2.78 10.5 355 876 0.984
+300 0.44 42 23.6 1237 0.946
+660 0.51 22 15.8 1296 0.944
+1000 0.22 16.6 8.0 1169 0.886
+1500 0.21 21.1 8.1 1141 0.905
+Sulfate Il 0 9.43 3.4 173 1113 0.989
+150 9.21 3.3 157 1201 0.987
+300 9.15 3.1 149 1188 0.994
+600 7.63 10.2 385 1652 0.980
+1500 7.75 10.2 385 1680 0.986
+DMSO 0 7.72 1.2 178 794 0.991
+100 6.57 1.4 192 762 0.990
+240 6.20 3.3 477 744 0.994
+500 6.05 2.8 281 747 0.999
+750 5.52 2.9 275 713 0.992
+1000 5.77 2.9 291 730 0.980
+structures of SRB or methanogens present in the Phases | and II, hollandica (330, 356, and 484 bp) were the major methanogen pop-
+respectively. It is speculated that a lower SRB population in the ulations in the UASB during 2007 to 2008, while in the 2010 sam-
+Phase II sludge produced less sulfide in the Sulfate II batch exper- ples Methanosarcina mazei (276 bp), Methanolobus zinderi (468 bp),
+iments, resulting in a lower inhibition on TMAH biodegradation. and Methanomethylovorans hollandica (484 bp) became dominant.
+Methanosarcina species including Methanosarcina mazei have
+3.4. Microbial community structures of methanogens in UASB sludge been reported for their ability of utilizing methylated amines such
+as trimethylamine, dimethylamine, and methylamine as carbon
+Cloning and sequencing of functional gene, mcrA, were per- source for growth (Ferry, 1993). In addition, Methanomethylovorans
+formed to investigate methanogen community diversity of the hollandica, isolated from freshwater sediments, was capable of uti-
+UASB sludge. The results of sequence analysis with the neighbor- lizing methylamines as the carbon source for growth (Lomans
+joining phylogenetic tree, as shown in Fig. 4, suggests that Methan- et al

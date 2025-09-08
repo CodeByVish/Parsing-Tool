@@ -1,0 +1,517 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\22XXX HFW 2\Micron HFW treatment Gradiant Solutions ver 5.pptx
+
+
+=== Slide 1 ===
+MICRON – HF WASTEWATER TREAMENT
+SIMULATION & BENCH TESTING – Dec 2021
+Siva Kumar Kota/Chun Yew
+Hiep Le/Sankar
+Part 5
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in:  ...
+
+=== Slide 2 ===
+Option 7 - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (separate sludge)
+SWRO
+NF270
+HF WW
+Polishing Filters
+Coagulation, Clarifier
+Phosphate sludge
+F: 150 m3/hr
+Coagulation, Clarifier
+CaF2 sludge
+Treated Water
+
+=== Slide 3 ===
+Option 7 - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (separate sludge)
+
+[Picture on Slide 3 | GENERIC_FIGURE]
+OCR: aes a
+~ min 0
+[9]
+NaePsO:8 (Antscalant)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: aes a
+~ min 0
+[9]
+NaePsO:8 (Antscalant) ...
+
+[Picture on Slide 3 | FLOW_DIAGRAM]
+OCR: Description Flow TOS Pressure = Description Flow TOS Pressure
+(m /h) (mg/L) (bar) (m /h) (mg/L) (bar)
+1 Raw Feed to RO System 124.7 1,334 0.0 2A Net Feed to Pass 2 105.2 492.0 26.8
+2 Net Feed to Pass 1 131.4 1,572 4.0 4A Total Concentrate from 15.8 3,267 22.7
+Pass 2
+3 Concentrate Recycle 6.79 5,931 2.2 5D Net Concentrate 35.1 4,730 :
+from Pass 1 to Pass 1
+4 Total Concentrate from 26.1 5,930 2.2
+Pass 1
+5 Net Concentrate from 19.3 5,930 2.2
+RO System
+6 Total Permeate from 105.3 491.4 0.0
+Pass 1
+9 Net Product 89.5 2.36 0.0
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Description Flow TOS Pressure = Description Flow TOS Pressure
+(m /h) (mg/L) (bar) (m /h) (mg/L) (bar)
+1 Raw Feed to RO System 124.7 1,334 0.0 2A Net Feed to Pass 2 105.2 492.0 26.8
+2 Net Feed to Pass 1 131.4 1,572 4.0 4A Total Concentrate from 15.8 3,267 22.7
+Pass 2
+3 Concentrate Recycle 6.79 5,931  ...
+
+=== Slide 4 ===
+Option 7 - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (separate sludge)
+
+[Picture on Slide 4 | FLOW_DIAGRAM]
+OCR: Pass Pass 1 Pass 2 .
+ qienrs Natne Stream 1 , |
+Wares Type: , Waste With DuPont UF, SDI < 25 , RO Pemmeste SDL < 1 |
+(umber of Elements , 153 , 4} |
+Total Active: Area (117) SOR6 3148
+
+ ced Blow per Pass (m /h) , 1214 , 10% |
+Feed TEDS (mg/l) 1,572 4527.0
+
+Feed Pressure (boar) 40 268
+
+Flow Factor Per Stage 0.50, 0 90 0.95, 0.9%
+
+ Pes mete: Flaw pat Pass (m /h} , 10% 3 , 895 |
+Pass Average flux (L Mia) 18.5 284
+
+Pes meate: TDS (rng /t) 4914 2.36
+
+fess Recovery , B01 % BR 1% |
+Average NDP (bar) t 713
+
+Specific Energy (kWh/m } 0.17 1.10
+
+Temperature (O) 30.0 20 0
+
+pi 2.6 (After Adjustiment} 3.6
+
+ hernical Dose , 3.0 mg/l NayPyOw , .
+RO System Recovery 418%
+
+Net RO System Recovery , 41.8% |
+ee: ific Energy (kWh/m } , 1 20 |
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass Pass 1 Pass 2 .
+ qienrs Natne Stream 1 , |
+Wares Type: , Waste With DuPont UF, SDI < 25 , RO Pemmeste SDL < 1 |
+(umber of Elements , 153 , 4} |
+Total Active: Area (117) SOR6 3148
+
+ ced Blow per Pass (m /h) , 1214 , 10% |
+Feed TEDS (mg/l) 1,572 4527.0
+
+Feed Pressure (boar) 40 268
+
+Flow Factor Pe ...
+
+=== Slide 5 ===
+Option 7 - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (separate sludge)
+NF270
+SWRO
+
+[Picture on Slide 5 | FLOW_DIAGRAM]
+OCR: RO Solute Concentrations - Pass 1
+ Concentrations (mg/l a2 ton)
+ Adjusted Feed Concentrate Permeste .
+Raw Feed Initial Akter Stagel Stage2 Stagel Stage2 Total to
+Recycle Pass 2
+. Nbig , 2070 , 707.0 , 716.3 , 2615 , 386.5 , tbh 4 , 1854 , 1/741 .
+ 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Na %.00 500 5.23 6. 3s 3A 3.98 Aa/ AiR
+Meg 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Ca 5.00 500 5.50 7.73 14.57 3.03 3.56 3.94
+Se 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+tan 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+. COs , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 .
+HOO, 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+NOK 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+5 800 0 800.0 962.6 Loag 3,945) 203 8 77 0 2734
+Cl 0.00 40.00 50 20 2.12 1.68 48.96 0.77 4969
+Be 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+SOg 1000 100.0 176.8 23/79 618.0 3.96 6.58 5% O02
+. x), , 1000 , 100.0 , 178.2 244.3 , As 4 , 0.00 , 0.00 , 0.00 .
+SO, 30.00 0.00 43 32.54 38.72 29.70 24 47 IB 49
+Boton 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+. CO; , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 .
+. TDS , 2.334 , 1,334 , L572 , 2 7b , 930 , 4670 , S34 4 , AgLA .
+Carsred 7,370 7,370 7,633 3,638 6,370 1.7959 1,473 1,327
+psfem
+pi 26 26 748 2.3 2.0 a7 ay 3.6
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: RO Solute Concentrations - Pass 1
+ Concentrations (mg/l a2 ton)
+ Adjusted Feed Concentrate Permeste .
+Raw Feed Initial Akter Stagel Stage2 Stagel Stage2 Total to
+Recycle Pass 2
+. Nbig , 2070 , 707.0 , 716.3 , 2615 , 386.5 , tbh 4 , 1854 , 1/741 .
+ 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Na %.00 500  ...
+
+[Picture on Slide 5 | FLOW_DIAGRAM]
+OCR: <<<
+Concentrations (mg/l a2 ton)
+ Concentrate Permeste
+Feed Stagel Stage2 Stagei Stage2 Total
+. Nbig , 17At , ALA Y Lis , 0.67 , 1 80 , 097 .
+ 0 00 0.00 0.00 0.00 0.00 0.00
+NaX 418 bh eee) 27.78% 0.0 004 0.02
+Me 0 00 0.00 0.00 0.00 0.00 0.00
+Ca 394 8 bt 21.62 0.00 oot oot
+Se 0 00 0.00 0.00 0.00 0.00 0.00
+ta 0 00 0.00 0.00 0.00 0.00 0.00
+. COy , 0 00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 .
+HOO, 0 00 0.00 0.00 0.00 0.00 0.00
+NOK 0 00 0.00 0.00 0.00 0.00 0.00
+5 2234 595.9 1,486 0.67 177 0.96
+Cl 49.69 132.6 330 0.13 0 3% 0.19
+Be 0 00 0.00 0.00 0.00 0.00 0.00
+SO O 134 3.52 0.00 0.00 0.00
+. rm, 0 00 , oot , 0.0 , 0.00 , 0.00 , 0.00 .
+wO, 7R.A9 75 90 189.0 O15 0 39 0.7%
+Boron 0 00 0.00 0.00 0.00 0.00 0.00
+. CO; , 0 00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 .
+. Ths , agia , 1,321 , 3,767 , 1.64 , 437 , 36 .
+Carsred 1,377 3.779 7 6435s 5 4 ;
+psfem
+pid 3.6 4 a4 .1 0 6 0
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: <<<
+Concentrations (mg/l a2 ton)
+ Concentrate Permeste
+Feed Stagel Stage2 Stagei Stage2 Total
+. Nbig , 17At , ALA Y Lis , 0.67 , 1 80 , 097 .
+ 0 00 0.00 0.00 0.00 0.00 0.00
+NaX 418 bh eee) 27.78% 0.0 004 0.02
+Me 0 00 0.00 0.00 0.00 0.00 0.00
+Ca 394 8 bt 21.62 0.00 oot oot
+Se 0 00 0.00 0.00 0.00 0.00 ...
+
+=== Slide 6 ===
+Option 7-  NF270 Separate Sludge
+>80% CaF2
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+ydroxyapatite precip At 003 mq i) i) 1138 |
+atr srecip 8 O8 003 mg _ o ; o ; 8083
+Saturation Indices (Sl)
+input Output Output 2
+ol oO Minerals in equilibrium |
+ydroxyapeatite Cahl POAj3 311 ; 20 ; [8]
+wen le 2b : a : 0
+Sl oO supersaturated
+904 ; 0633 ; o
+gar : 0 704 ; 0781
+She O undersaturated :
+pour A504 2H 199 ; 0 183 : tat
+ortlaricite eal , ) 2 6 : % th ; 8B th
+lite Hac 796 ; 813 ; 794
+enatdite Na SO8 93 ; 983 ; 903
+Mit abilite NAO > 84 : 9 06 ; 823
+3107 102 103 ; 0 636 ; 0bb9
+nhydrite ASO4 al : 0398 : 213
+Srushite aH POA 2H 07 ; 0 761 ; 39
+Monetite AH POd 412 : lor ; 36
+aubente WAP Cal S04) 108 ; 9 48 ; 104
+ydrophilte | CaCl aia : 194 : 216
+ntatchete | CaCl 6H 138 : 118 ; 13.9
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mg per Liter solution:
+ydroxyapatite precip At 003 mq i) i) 1138 |
+atr srecip 8 O8 003 mg _ o ; o ; 8083
+Saturation Indices (Sl)
+input Output Output 2
+ol oO Minerals in equilibrium |
+ydroxyapeatite Cahl POAj3 311 ; 20 ; [8]
+wen le 2b : a : 0
+Sl oO supersaturated
+904 ; 0633 ; o  ...
+
+[Picture on Slide 6 | GENERIC_FIGURE]
+OCR: alOH)e nai 0 8400 8400
+, 9 36 , 9.03
+in 4 4QA 371
+it my 234 239 219
+1 2s 2s 2s
+Ine strengl mmolf 36 1 766 70
+ mgt B2HA 9811 1099
+C28 iSherr BAI 13977 1878
+Alkalinity spr 1 Obe904 1158 368
+spr 0 1158 368
+spr 36 4 11472 228
+3 , 633 0 0
+, ,
+ magi 146 ALGA 913
+7 mgt gat 9 a3 9 a3
+504 mgt 618 61% 616
+ ultite mice oO 1 bbe 1 Be 1
+sulticle ricyi 18) fe 16 6 G4e 16
+ maqi BI b1S BLS
+TY mgt 387 38% 38%
+04 mgt 210 210 00199
+5 mgt 178 le le
+3 mgt 3948 . 3929 . 11
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: alOH)e nai 0 8400 8400
+, 9 36 , 9.03
+in 4 4QA 371
+it my 234 239 219
+1 2s 2s 2s
+Ine strengl mmolf 36 1 766 70
+ mgt B2HA 9811 1099
+C28 iSherr BAI 13977 1878
+Alkalinity spr 1 Obe904 1158 368
+spr 0 1158 368
+spr 36 4 11472 228
+3 , 633 0 0
+, ,
+ magi 146 ALGA 913
+7 mgt gat 9 a3 9 a3
+504 mgt 618 61% 616
+ u ...
+
+=== Slide 7 ===
+Option 7-  SWRO Separate Sludge
+>80% CaF2
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: Amount of Minerals in mg per Liter solution:
+ip I I I I A
+toxyapatite preci A 0 0 00345 |
+uot recip 3 Of 003 mq _ 0 : 0 : 3047
+Saturation Indices (SI)
+ip aT pat utp a
+Sroo Minerals in equilibrium i
+foxyapatite Cab(PO4]3 32 : mu : 0
+yor 39 : 614 : 0
+She O supersaturated : ;
+ed tT 603 : 0 883 : 093
+Jo f 6 46 : 0424 ; Ob
+Sl< oO undersaturated : :
+uh 04 2H 3.08 ; 161 : 2 08
+ftland (OH) 19 : 476 ; 3b
+tT NaCl 673 : 6 78 : 664
+rd Naa 25st 965 : 991 : 933
+1 Nass OH 8 86 : 913 : BA
+4 tT 73 : 0416 : 0 339
+nhydi aS By) : 173 : 23
+hi ; nH 758 : 453 : B1e
+ 128 ; 420 : 5 86
+Cal Si 172 ; 109 : 109
+rophuili aACIZ 197 : 18 . 188
+v T acl 1 : 10 3 : 11 vy
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mg per Liter solution:
+ip I I I I A
+toxyapatite preci A 0 0 00345 |
+uot recip 3 Of 003 mq _ 0 : 0 : 3047
+Saturation Indices (SI)
+ip aT pat utp a
+Sroo Minerals in equilibrium i
+foxyapatite Cab(PO4]3 32 : mu : 0
+yor 39 : 614 : 0
+She O supersaturated : ;
+ed tT 603 : 0 883 : 093
+Jo ...
+
+[Picture on Slide 7 | GENERIC_FIGURE]
+OCR: _ mot 3 | digits lons Minerals
+ i mail 0 3000 3000
+ 3h , 102 , 102
+mn 4 : Ab : 4%
+mv 234 : 270 : 264
+Co a : a : a
+ mail 314% : 4162 ; 1718
+ uSicm 5996 : 107% : 1493
+Ikalinar apm 1 540603 : 2967 : 2967
+apm 0 ; 2967 : 2967
+apm bA : alot ; 2700
+ a 122 ; 0 : 0
+ mel 216 , 1642 , 80 1
+ mail 278 : ott : ott
+of mall 33% : 33% : 335
+ultite mail Oo ; 1 93e 14 : 291e 14
+ultide mail o : 3.178 20 : 69e 70
+ mail 331 : 330 : 330
+WH mail 1b : 1156 : 1156
+04 an 0 00687 : 0 0061 : 0 000175
+mail 1486 1484 313
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: _ mot 3 | digits lons Minerals
+ i mail 0 3000 3000
+ 3h , 102 , 102
+mn 4 : Ab : 4%
+mv 234 : 270 : 264
+Co a : a : a
+ mail 314% : 4162 ; 1718
+ uSicm 5996 : 107% : 1493
+Ikalinar apm 1 540603 : 2967 : 2967
+apm 0 ; 2967 : 2967
+apm bA : alot ; 2700
+ a 122 ; 0 : 0
+ mel 216 , 1642 , 80 1
+ mail 278 : ott :  ...
+
+=== Slide 8 ===
+Option 7a - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (Combined sludge)
+SWRO
+NF270
+HF WW
+Polishing Filters
+Coagulation, Clarifier
+Phosphate sludge
+F: 150 m3/hr
+Coagulation, Clarifier
+CaF2 sludge
+Treated Water
+
+=== Slide 9 ===
+Option 7a - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (Combined sludge)
+
+[Picture on Slide 9 | GENERIC_FIGURE]
+OCR: oes
+ A
+3.
+NaePeO:e (Artincalarn)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: oes
+ A
+3.
+NaePeO:e (Artincalarn) ...
+
+[Picture on Slide 9 | FLOW_DIAGRAM]
+OCR: Description Flow TOS Pressure Description Flow TOS Pressure
+(m /h) (mg/L) (bar) (m /h) (mg/l) (bar)
+1 Raw Feed to RO System 1247 1,334 00 JA Net Feed to Pass 2 10% 2 1,171 289
+2 Net feed to Pass 1 404 2,070 4 ) 4A Total Concentrate from 158 /, 440 249
+Pass 2
+
+A Total Concentrate from 351 4,719 2 SC Concentrate Recycle from 158 /,441 249
+Pass 1 Pass 2 to Pass 1
+
+6 Total Permeate from 10% 3 1,119 00
+Pass 1
+
+9 Net Product 895 634 00
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Description Flow TOS Pressure Description Flow TOS Pressure
+(m /h) (mg/L) (bar) (m /h) (mg/l) (bar)
+1 Raw Feed to RO System 1247 1,334 00 JA Net Feed to Pass 2 10% 2 1,171 289
+2 Net feed to Pass 1 404 2,070 4 ) 4A Total Concentrate from 158 /, 440 249
+Pass 2
+
+A Total Concentrate from 351 4,719 2 SC  ...
+
+=== Slide 10 ===
+Option 7a - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (Combined sludge)
+
+[Picture on Slide 10 | FLOW_DIAGRAM]
+OCR: Pass Pass 1 Pass 2 |
+Gueum Name Stream 1 , |
+Water Type , Waste With DuPont UF, SDI< 2.5 , RO Permeate SDI < 1 |
+Nunes of flements 153 re |
+Total Active Area (m7 ) 5686 3148
+
+F eed Flow per Pass (m /h) 1404 10%) |
+Feed TDS (rrgz/l) 2,020 1,171
+
+Feed Pressure (bar) 4 289
+
+Flow Factor Per Stage 0 90,090 095,095
+
+(Penner Flow per Pass (m /h) 10% 3 , 894 |
+Pass Average flux (L Mba} 18% 284
+
+Permeate TDS (rge/l) 1,119 6 34
+
+iPass Recovery 50% 85.1% |
+Avewee NDP (bar) 13 a1/ |
+Specific Energy (kWh/m ) 0 20 118
+
+Temperature ( C) 30.0 30.0
+
+pH 2 6 (After Adjustment) 43
+
+r hemuical Dose , 3.0 mg/l NagPcOrw , |
+RO System Recovery I1R%
+
+ Net RO System Recovery 41.8% |
+ Spe ific Energy (kWh/m ) , 141 |
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass Pass 1 Pass 2 |
+Gueum Name Stream 1 , |
+Water Type , Waste With DuPont UF, SDI< 2.5 , RO Permeate SDI < 1 |
+Nunes of flements 153 re |
+Total Active Area (m7 ) 5686 3148
+
+F eed Flow per Pass (m /h) 1404 10%) |
+Feed TDS (rrgz/l) 2,020 1,171
+
+Feed Pressure (bar) 4 289
+
+Flow Factor Per Stage 0 90,0 ...
+
+=== Slide 11 ===
+Option 7a - NF270 followed by SWRO with 800 ppm of F, ammonia -207 ppm (Combined sludge)
+NF270
+SWRO
+
+[Picture on Slide 11 | FLOW_DIAGRAM]
+OCR: : Concentrations (mg/L a2 ton) :
+: . Adjusted Feed : Concentrate . Permeate
+Raw Feed = Initial : Aker , Stagel : Stage2 , Stagel : Stage2 ; Total to
+Recycle Patz 2
+ Nig , 2070 , 707.0 , 5027.6 , 8/69 , 778.6 , 4135 , AaB 3 : A272
+ 0.00 000 0.00 0,00 0.00 0.00 0.00 0.00
+Na 5.00 500 1193 13.80 1761 969 1057 1003
+Mg 0.00 ooo 0.00 0,00 0.00 0.00 0.00 0.00
+Ca 5.00 500 Bb> 12.46 17,12 2B 6.15 5.63
+se 0.00 ooo 0.00 0,00 0.00 0.00 0.00 0.00
+Ba 0.00 ooo 0.00 0,00 0.00 0.00 0.00 0.00
+ cO, , 0.00 , 000 , 0.00 , 0,00 , 0.00 , 0.00 . 0.00 : 0.00
+HOO, 0.00 ooo 0.00 0,00 0.00 0.00 0.00 0.00
+NOL 0.00 ooo 0.00 0,00 0.00 0.00 0.00 0.00
+ 8000 800.0 1.0271 Lao 2. B34 399.0 aaa Atb68
+fa] 0.00 40,00 143.2 i355 759 1784 1383 1323
+Bet 0.00 ooo 0.00 0,00 0.00 0.00 0.00 0.00
+SOe 1000 100.0 9122 165.0 355.0 2.68 ats 325
+ PO, , 1000 , 100.0 , BB /8 , 167.8 , 355.0 , oot , oot , oot
+SO 30.00 30.00 118.2 1B 104.2 ts4 1312 12729
+Boron 0.00 000 0.00 0,00 0.00 0.00 0.00 0.00
+ CO; , 0.00 , 000 , 0.00 , 0,00 , 0.00 , 0.00 . 0.00 : 0.00
+ TDS , L334 , 1334 , 7,020 , 2,805 : 4719 . 1.077 , 118s . 1,119
+Cand 2,370 7,370 3,820 4,568 6.128 2, BAR 3,082 7,937
+yS/em
+pid 76 26 30 78 24 aa a 43
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: : Concentrations (mg/L a2 ton) :
+: . Adjusted Feed : Concentrate . Permeate
+Raw Feed = Initial : Aker , Stagel : Stage2 , Stagel : Stage2 ; Total to
+Recycle Patz 2
+ Nig , 2070 , 707.0 , 5027.6 , 8/69 , 778.6 , 4135 , AaB 3 : A272
+ 0.00 000 0.00 0,00 0.00 0.00 0.00 0.00
+Na 5.00 500 1193 13.80 1761 96 ...
+
+[Picture on Slide 11 | FLOW_DIAGRAM]
+OCR: =
+Concentrations (mg/l a2 ton)
+ Concentrate Permeste
+Feed Stagel Stage2 Stagei Stage2 Total
+. NPig 42/7 , Lina , 7,839) , 1.64 , 4K , 244 .
+ 0 00 0.00 0.00 0.00 0.00 0.00
+Na 10.03 27 83 66 7% 0.04 O21 0.0%
+Me 0 00 0.00 0.00 0.00 0.00 0.00
+Ca 63 15 62 7.52 0.0% 00 oot
+Se 0 00 0.00 0.00 0.00 0.00 0.00
+ta 0 00 0.00 0.00 0.00 0.00 0.00
+. COy , 0 00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 .
+HOO, 0 00 0.00 0.00 0.00 0.00 0.00
+NOK 0 00 0.00 0.00 0.00 0.00 0.00
+e 4:68 1.156 2,772 1.55 451 2.78
+Cl 137.3 367.0 B80 0 OAS 1 2% 0.63
+Be 0 00 0.00 0.00 0.00 0.00 0.00
+SO 374 904 71.73 0.00 0.00 0.00
+. rm, , oot , 003 , 0.06 , 0.00 , 0.00 , 0.00 .
+wO, 1227.9 440.4 815 0.63 1 RG 0.94
+Boron 0 00 0.00 0.00 0.00 0.00 0.00
+. CO; , 0 00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 .
+. TDS , 1.219 , 104 , 7,440 , 4.0 , 12 %7 , 6 34 .
+Carre} 23937 FIVS 1/7, 4%8 1 3S; if
+psfem
+pid 4.3 4 Al 6.8 7 6 7
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms

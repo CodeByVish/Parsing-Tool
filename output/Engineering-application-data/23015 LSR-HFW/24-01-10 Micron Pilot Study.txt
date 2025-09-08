@@ -1,0 +1,113 @@
+[SOURCE] C:\kb\raw\Engineering-application-data\23015 LSR-HFW\24-01-10 Micron Pilot Study.pptx
+
+
+=== Slide 1 ===
+Pilot Study Update
+Client: Exyte
+Location: Singapore
+Date : 17 Jan 2024
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+[Picture on Slide 1 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...
+
+=== Slide 2 ===
+Discussion points
+Sample collection starts 18 Jan 24
+Do we need Micron/Exyte witness for sample collection?
+GRADIANT CONFIDENTIAL
+
+=== Slide 3 ===
+HFW and LSR sampling points – Run 1
+GRADIANT CONFIDENTIAL
+Ratio HFW A1: A2= 7:3
+*Collect in two separate 20 L carboys and mixing will be done in GIH lab, LSR A1 feed is not required
+Sample to be collected once per 12-hour shift
+
+[Table 1]
+Sampling points	Volume (L)	Total volume (L)	Frequency per week	Total quantity per week (L)
+HFW
+HFW Gravity Drain A1	70	100	10	1000 (1m3)
+HFW Gravity Drain A2	30
+HFW Gravity Drain Chem Room	2*
+HFW Gravity Drain Corrosive gas room	2*
+LSR A2
+LSR A2 transfer pump	100	100	10	1000  (1m3)
+
+=== Slide 4 ===
+HFW and LSR sampling points – Run 2
+GRADIANT CONFIDENTIAL
+*Collect in 8x separate 20 L carboys and mixing will be done in GIH lab, LSR A1 feed is not required
+Sample to be collected once per 12-hour shift
+
+[Table 1]
+Sampling points	Volume (L)	Total volume (L)	Frequency per week	Total quantity per week (L)
+HFW
+HFW Gravity Drain A1	268	400	10	4000 (4m3)
+HFW Gravity Drain A2	116
+HFW Gravity Drain Chem Room	8*
+HFW Gravity Drain Corrosive gas room	8*
+LSR A2
+LSR A2 transfer pump	400	400	10	4000  (4m3)
+
+=== Slide 5 ===
+Sample analysis
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Samples	Measured F (mg/L)  18 Aug	Volume (L)	Combined fluoride by calculation (mg/L)
+HFW
+HFW Gravity Drain A1	580	48	1076.6
+HFW Gravity Drain A2	140	48
+HFW Chem Room	30857	2
+HFW Corrosive Gas Room	417	2
+LSR
+LSR A2	29.4	NA	NA
+
+=== Slide 6 ===
+Sample analysis
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Samples	Measured F (mg/L)  18 Aug	Measured F (mg/L) 19 Aug, 6 am	Measured F (mg/L) 20 Aug, 6 pm	Measured F (mg/L) 21 Aug, 11 am	Measured F (mg/L) 9 Jan 24, 1:30 pm
+HFW Gravity Drain A1	580	454	422	1015	592
+HFW Gravity Drain A2	140	735	473	463	351
+HFW Chem Room	30,857	546	27,953	15,132	828
+HFW Corrosive Gas Room	417	422	540	407	162
+HFW Combined Header to Eq tank					395
+
+=== Slide 7 ===
+Schedule for lab setup
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Items	Status	PO number	ETA
+Membranes BW30 PRO-4040	PO issued	POGIH22357	Delivered today –10 Jan
+Pressure vessels	PO issued	POGIH22329	Delivered today -10 Jan
+High pressure hose and pressure relieve valve to upgrade existing setup	Delivered	COD	12 Jan
+Fittings	Procured and delivered	NA	NA
+
+=== Slide 8 ===
+Schedule
+GRADIANT CONFIDENTIAL
+
+[Table 1]
+Event	Description	Date
+01	Pilot Readiness	25-Jan
+02	Sample Collection at Site	18-Jan to 25-Jan
+03	Micron/Exyte witness	01-Feb
+04	Pilot Operation	26-Jan to 08-Feb
+05	Report Preparation	09-Feb to 22-Feb
+06	Draft Submission Review	23-Feb to 07-Mar
+07	Final Report Submission	08-Mar to 15-Mar
+
+=== Slide 9 ===
+GRADIANT CONFIDENTIAL
+
+[Picture on Slide 9 | GENERIC_FIGURE]
+OCR: (skipped: low quality)
+PromptSuggestion: Generate a clear illustration that communicates the key ideas. Use short labels and simple layout. Helpful text:  ...

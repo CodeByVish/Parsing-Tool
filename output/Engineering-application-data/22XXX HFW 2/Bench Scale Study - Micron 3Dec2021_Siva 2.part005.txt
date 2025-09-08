@@ -1,0 +1,473 @@
+ : 213
+ortlandite aOH)2 196 ; 0 878 ; 0 80
+lite ie 498 ; 8 Ob ; agt
+enatdite | Na2GO4 ) 412 : Sof ; 469
+Mit abilite WPS OF > 394 ; 43 ; 3a
+1071 109 9 34 ; 341 ; 351
+fihhydtite rey 2 bb ; 0791 : 23
+om 107 807 : 21 : 224
+halcedom 107 ) BH ; 58 ; 26
+aubente | NaPCalSOay ) 642 ; 811 ; 629
+ydrophite | CaCl 204 ; 184 : 202
+ntateteite | CaCl 6H 127 : 108 : 126
+ecenc 107 903 ; 311 ; 32
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: Amount of Minerals in mg per Liter solution:
+ydroxyapatite precip 676 me Oo Oo 676
+Juorite nrecip 6 033 me ) [8] : [8] : 5806
+Saturation Indices (Sl)
+ol Oo Minerals in equilibrum
+ydroxyapeatite Cabl{ POA j3 206 ; 274 ; [9]
+wot at A3 ; 6 62 : 0
+Sle oO undersaturated ; ;
+pour A504 2H 234 ; obe : 213
+o ...
+
+=== Slide 47 ===
+Option 6b – NF270 + SWRO With 600 ppm of F
+
+[Picture on Slide 47 | GENERIC_FIGURE]
+OCR: 3] (sv)
+th, ak
+[1] [2] eye A WA 7
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: 3] (sv)
+th, ak
+[1] [2] eye A WA 7 ...
+
+[Picture on Slide 47 | FLOW_DIAGRAM]
+OCR: Pass : Pass 1 : Pass 2
+Scam Name : Stream 1 : .
+Water Type : Waste With DuPont UF, SDI < 2.5 : RO Permeaste SDI < 1 .
+ Husbes of Elements , 140 : 47 .
+Total Active Areca (m ) 5203 3148
+
+F eed Flow per Pass (m /h)} 1311 : 105 .
+Beed TIS (rng/l) 1/18 850 1
+
+feed Pressure (bar) 2 28.1
+
+blow Factor Per Stage 090,090 095,095
+
+ Pevmesic blow per Pass (m /h)} : 1054 : 89.6 .
+Pass Average flux {LMebd) 20.2 284
+
+Permeate TDS (rng/l) R490 B54
+
+Pas Recovery , 804% , BD 2% .
+eta: NDP (bar) : 14 : 71.6 .
+Specific f nerpy {kWh/m ) 02 way
+
+Temper sture ( C) 30.0 30.0
+
+pH 3.5 (After Adjustment) 48
+
+r hernical Dose : 3.0 rmp/t NayPpOuw : .
+RO System Recovery /1 8%
+
+Net RO System Recovery : 418% .
+ Spee ific E nergy {kWh/m ) : 1.4 .
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass : Pass 1 : Pass 2
+Scam Name : Stream 1 : .
+Water Type : Waste With DuPont UF, SDI < 2.5 : RO Permeaste SDI < 1 .
+ Husbes of Elements , 140 : 47 .
+Total Active Areca (m ) 5203 3148
+
+F eed Flow per Pass (m /h)} 1311 : 105 .
+Beed TIS (rng/l) 1/18 850 1
+
+feed Pressure (bar) 2 28.1
+
+blow Factor Per  ...
+
+=== Slide 48 ===
+Option 6b – NF270+SWRO WITH 600 PPM of F
+NF270
+SWRO
+
+[Picture on Slide 48 | FLOW_DIAGRAM]
+OCR: : Concentrations (mg/L as ton) :
+ : : Adjusted Feed : Concentrate : Permeate
+Raw Feed Initial : After , Stagel : Stage2 , Stagel : Stage2 : Total to
+Recycle Pass 2
+ NH, : 70.00 : 270.00 : 2174 : 37. BA : 59,38 : 11.84 : 16.74 : 13.52
+K 0.00 0,00 000 000 000 000 000 000
+Na 6035 6035 655 8 9896 L664 358.2 S074 409.1
+Mg 0.00 0,00 000 0.00 0.00 0.00 0.00 000
+Ca 500 5.00 5 B7 10.8 2274 146 2729 Vsy
+sr 0.00 0,00 000 ooo 000 000 000 000
+Ba 000 0.00 000 000 000 000 000 0.00
+ COy : 0.00 : 0.00 : 000 : 000 : 000 : 000 : 000 : 000
+HCO, 171 171 102 069 O44 20.07 23.75 21.40
+NO, 0.00 0.00 000 000 000 000 000 000
+f 600.0 600.0 6/27 1,104 2,079 288.1 407.7 329.0
+a 99.00 99 00 6307 90.84 417 38.30 54.53 ABBS
+Br 0.00 0,00 ooo a00 000 000 000 0.00
+ 04 100.0 100.0 1758 2639 6755 272 Sor 3.70
+ PO. : 100.0 : 100.0 : 1768 : 269.0 : 6455 : a0 : 003 : O00
+sO, 30 00 30.00 31.02 38,37 50.56 24.50 29.56 26.23
+Boron 0.00 0,00 000 000 000 000 000 000
+ CO, : 3/87 : 3787 : 3790 : 3/96 : 3/99 : 364 9 : 367.7 : 34.1
+ TOS , 1,530 , 1.530 , 1/18 , 2,829 , 5,355 , Fay D , 1,048 , 849.0
+Cond 7,473 7473 3,016 4406 729) 1,610 2,246 1,829
+wS/ermn
+pH bey 3% 34 3.3 3.0 48 49 48
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: : Concentrations (mg/L as ton) :
+ : : Adjusted Feed : Concentrate : Permeate
+Raw Feed Initial : After , Stagel : Stage2 , Stagel : Stage2 : Total to
+Recycle Pass 2
+ NH, : 70.00 : 270.00 : 2174 : 37. BA : 59,38 : 11.84 : 16.74 : 13.52
+K 0.00 0,00 000 000 000 000 000 000
+Na 6035 6035 655 8 9896 L664 3 ...
+
+[Picture on Slide 48 | FLOW_DIAGRAM]
+OCR: ne
+Concentrations (mg/L at jon)
+. Concentrate Permeate .
+Feed Stagel Stage2 Stagel Stage2 Total
+| NH, 13% 36.9) 89 7/6 00% 0.1% , 0.08 .
+K 0.00 0.00 0.00 0.00 0.00 0.00
+Na 409 1 1,118 7,718 148 Als 7.16
+Mg 0.00 0.00 0.00 0.00 0.00 0.00
+Ca sy 478 11.65 0.00 001 0.00
+Sr 0.00 0.00 0.00 0.00 0.00 0.00
+Ba 0.00 0.00 0.00 0.00 0.00 0.00
+. CO, 0.00 0.00 0.00 0.00 0.00 0.00 .
+HCO, 71.40 3%). 72 56 04 400 443 421
+NO, 0.00 0.00 0.00 0.00 0.00 0.00
+i 379.0 8989 7,18 120 3.38 17%
+Cl AVRS 1199 791.6 Oi 0 36 0.18
+Rr 0.00 0.00 0.00 0.00 0.00 0.00
+ 0, 370 10.1 24 6/7 0.00 0.00 0.00
+. PO, 0.0 0.06 0.1% 0.00 0.00 0.00 .
+SO, 36.73 41.59 173.9 013 0 38 0.20
+Boron 0.00 0.00 0.00 0.00 0.00 0.00
+| CO, ib4 1 3/48 389.7 3b4 B 3/64 , 367.7 |
+. TDS AQ 0 2,296 9, 9% 3 704 12.94 , B54 .
+Cond 1.879 473%) 10.806 30 4) 33
+pS/om
+pH AR 5.0 541 4 43 4
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: ne
+Concentrations (mg/L at jon)
+. Concentrate Permeate .
+Feed Stagel Stage2 Stagel Stage2 Total
+| NH, 13% 36.9) 89 7/6 00% 0.1% , 0.08 .
+K 0.00 0.00 0.00 0.00 0.00 0.00
+Na 409 1 1,118 7,718 148 Als 7.16
+Mg 0.00 0.00 0.00 0.00 0.00 0.00
+Ca sy 478 11.65 0.00 001 0.00
+Sr 0.00 0.00 0.00 0.00 0.00 0.00
+B ...
+
+=== Slide 49 ===
+Option 7-HFW Effluent treatment – UF, RO
+
+[Picture on Slide 49 | GENERIC_FIGURE]
+OCR: SX)
+3 hes
+= Descreption F hove THS Peewee = Description 6 hor Ths Pressure
+{en fh) ime/t} (se } {m fh} {g/t} {bar}
+1 Rupa Fea fo RO Sytem 0) 3 7, Boe a0 2A NF Feed fo Pais 2 63 77 89 aR
+2 Met Feed fo Paws t 101 7 7,118 1349 4A Total Comorntrate torn 224 Vsti 3.9
+Pay
+4 Total Canceretrate fron Pace | 8,401 Yt Comarciraty Recycie fron 225 137i 3.9
+Pax 2 Pansy 2 fc Pars
+4% Total Peemergio from t: 3 77 FS a0
+Fans 2
+9 Pet Product tas 8 a0
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: SX)
+3 hes
+= Descreption F hove THS Peewee = Description 6 hor Ths Pressure
+{en fh) ime/t} (se } {m fh} {g/t} {bar}
+1 Rupa Fea fo RO Sytem 0) 3 7, Boe a0 2A NF Feed fo Pais 2 63 77 89 aR
+2 Met Feed fo Paws t 101 7 7,118 1349 4A Total Comorntrate torn 224 Vsti 3.9
+Pay
+4 Total Canceretrate fron Pace  ...
+
+=== Slide 50 ===
+Option 7- HFW Effluent treatment ( UF & RO)
+
+[Picture on Slide 50 | FLOW_DIAGRAM]
+OCR: Pass . Pass t . Pass ,
+ stream Nanna , Strram 1 ,
+ Wate Type . Wartr WEh DuGont UF, SoM < 2S . RO Peeemeate S00 < 2
+ seumtet of Phrenects , Bits) , a
+Total Active Area {m ) ; 90 : 7003
+
+ heed flow pre Pans {m /h) , 1017 , 73
+Bred TOS (mf) : 2.228 : 22 849
+
+teed Prewase (Dar) : 13.9 ; R
+
+Chow Factors Pee Stage ; 0.90, 0.90 ; Oo, OF
+
+ peemwate Flow pre Pansy (en /h) . 163 . od
+Pans Avetage Mux a) ; 19.5 ; 124
+
+Peemweate TDSt (me) : 2 BR : 2.8
+
+ pa Recowery , xO% , ie
+ borenge ar (Dar) , RE . 4b
+Specific suave gy (ewtfn ) ; Ob : Ot
+
+Temperatutr fue) ; 20.0 : 20.0
+
+ou ; 9 ;
+
+ Chemecal Onwr . .
+RO) System Recawry ; 718%
+
+ eet RO Sytem Recovery : 71 Bw
+ specst Erwezy (ewtfn ) . ae
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass . Pass t . Pass ,
+ stream Nanna , Strram 1 ,
+ Wate Type . Wartr WEh DuGont UF, SoM < 2S . RO Peeemeate S00 < 2
+ seumtet of Phrenects , Bits) , a
+Total Active Area {m ) ; 90 : 7003
+
+ heed flow pre Pans {m /h) , 1017 , 73
+Bred TOS (mf) : 2.228 : 22 849
+
+teed Prewase (Dar) : 13.9 ; R
+
+Chow Fa ...
+
+=== Slide 51 ===
+Option 7- HFW Effluent treatment (UF& RO)
+Pass 1 – BWRO
+Pass 2 - BWRO
+
+[Picture on Slide 51 | FLOW_DIAGRAM]
+OCR: RO Solute Comcernttabons Pas. t
+ (Comorntt ations (mg/l 45. 20m)
+. : Adpntedterd = Concentrate Permeste
+Rarw bend . tnitist = Alter Mugri : Stage ; Stage : Stage otal to .
+Becyche Paes 2
+ Ni4, : 133.0 . 1390 : L254 . Pa b . 4331 : 204 : 40 . 7 BY
+x: ee a) 1180 10% 71 80 4.87 3.20 273 O.14
+ a 339.0 239.0 203.4 2%% 8,203 2 44 % 3s i
+Me Pa 8) 30 7. 423 ai 2.00 a0} 0.00
+Ca 372.0 710 7ES 4 592.0 2,140 O 4 tao Ob
+ s aA a A OFS 2.55 28 2.00 200 0.00
+fe 203 203 0.03 0.085 Qi 2.00 200 0.00
+ co, . 2 Ob : 2 0% : 0.085 : 0.20 : ong . 2.00 . 200 : 0.00
+Teor 3.90 1.90 99 97 22 27K 3 338 Risa om a)
+NO: 763 73 6.93 14.27 7700 a:8 a9 O24
+5 t4.00 14.00 1 >4 2% Bits 69 68 0.27 a2% O16
+a 9.0 FO Be 4 LR 3,533 iO 13.00 a.10
+fs 7% 7% 6.50 136 Jt 1 a07 2 is 0.10
+x, 432.0 4350 2s ROD ee O28 24 0.39
+ 1), : a 4% : 249 . O44 . 0.90 : 174 . 2.00 . a0} : 0.01
+SA; 42.00 4100 343 Fas 2) Bi 845% 24 a 0.5
+Boren a4 a4 OAI OFS 123 0.23 273 O16
+ CO; 24 . 3A . 707 . 77 : 34.4 : % 40 : % 50 : sal
+ Ttys . 2, 3se : 2 36h . 2.118 : 4,370 : R402 : th : ws 70 : 2 BR
+Card, 4,420 4430 3, {992 try 14,08 3 70 a3
+peSfern
+ou 6.49 54 54 ba 70 6.0 4
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: RO Solute Comcernttabons Pas. t
+ (Comorntt ations (mg/l 45. 20m)
+. : Adpntedterd = Concentrate Permeste
+Rarw bend . tnitist = Alter Mugri : Stage ; Stage : Stage otal to .
+Becyche Paes 2
+ Ni4, : 133.0 . 1390 : L254 . Pa b . 4331 : 204 : 40 . 7 BY
+x: ee a) 1180 10% 71 80 4.87 3.20 273 O.14
+ a 339.0 2 ...
+
+[Picture on Slide 51 | FLOW_DIAGRAM]
+OCR: Comornt: ations (mg/l 45 20m)
+; : : Concentrate . Permeste
+feed | Stage) Stage Stage Stage Total |
+ Ni oes 7 poe 7 aaa a2 ose
+< a ax oes oa oa aa
+Na 33% 3 70.5% On o4t os
+Me 2.00 oat 203 ooo 000 aon
+Ca Ob 19 4.01 oa 008 aa3
+set aco ooo 203 ooo ooo ooo
+fat a.00 ooo ooo ooo 000 ooo
+ co. a0 oo aa oo oo om -
+MOO, sa 12 a8 30.93 ons 124 oan
+NOs a2 On 148 aos os aos
+5 a6 039 09% oa oa oa
+a R20 20 43 Or oan on Ont
+are 2.20 24 60 oat oor oat
+Ma ax tor 254 oot oor oat
+; rO, so: oot car om ~ oa om -
+Or ab 160 404 oat 008 oa
+Boron a6 a9 a0 oon ors oto
+Sco, sar 7 ose 7 ose sae ae oe
+ apse aan 7 eas 7 oat 7 pte 7 a om
+Cord, 43 207 282
+pS/emn
+ou 4 % 649 54 St S
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Comornt: ations (mg/l 45 20m)
+; : : Concentrate . Permeste
+feed | Stage) Stage Stage Stage Total |
+ Ni oes 7 poe 7 aaa a2 ose
+< a ax oes oa oa aa
+Na 33% 3 70.5% On o4t os
+Me 2.00 oat 203 ooo 000 aon
+Ca Ob 19 4.01 oa 008 aa3
+set aco ooo 203 ooo ooo ooo
+fat a.00 ooo ooo ooo 000 ooo
+ co. a0 oo aa oo  ...
+
+=== Slide 52 ===
+Micron HFW Treatment -Next Steps and completion date
+
+[Table 1]
+Sl.No.	Action Items	To be completed by	Remarks
+1	Perform projection to check the criticality of NF in this configuration If projection is good, will NF be a necessary unit operations here. What will be the benefits of incorporating NF in the design needs to be validated.	End/1st week of Dec	Will run few more simulations to validate the requirements
+2	The NaOH dosing for raising permeate Ph NaOH dosing requirement Final TDS	End/1st week of Dec	Will run few more simulations to validate the requirements
+3	Evaluate the effectiveness of Ca(OH)2 dosing by lab test Reaction rate with Ca(OH)2  Will increase of HRT help the completeness of reaction CaF2% in sludge to be validated for different water samples Settling velocity to be noted	End/1st week of Dec	Lab study
+4	As the projection data does not show on the TOC/IPA content in relevant streams, data to be generated based on some lab test or other projections	End/1st week of Dec	Lab study
+5	Na is coming into the streams due to ion balancing. Therefore, true presence of cations needs to be validated so that possible other contaminants issues can be identified. Clarified water characteristics RO permeate water characteristics	End/1st week of Dec	Simulations and lab study
+6	As neutralization with H2SO4 needs to take place for the clarified water, possibilities of any precipitation in the downstream to be verified	End/1st week of Dec	Simulations and lab study
+7	What will be the retrofits required if this system to be used for CMP waste-CMP WW Characteristics will be given later.	End/1st week of Dec	TBD
+
+=== Slide 53 ===
+Action item 1 – Feasibility of  SWRO +BWRO With 800 ppm of F
+
+[Picture on Slide 53 | GENERIC_FIGURE]
+OCR: ape Tels
+L1] v4 (2A ra =
+NaePeO:e (Antiscatant)
+PromptSuggestion: Generate a clear illustration that communicates the concepts in: ape Tels
+L1] v4 (2A ra =
+NaePeO:e (Antiscatant) ...
+
+[Picture on Slide 53 | FLOW_DIAGRAM]
+OCR: Description Flow TOS Pressure Description Flow TOS Pressure
+(m /h) (mg/L) (bar) (m /h) (mg/L) (bar)
+1 Raw Feed to RO System 150.0 1,901 0.0 2A Net Feed to Pass 2 126.7 1,427 11.6
+2 Net Feed to Pass 1 168.8 2,125 21.9 4A Total Concentrate from 19.0 9,190 8.4
+Pass 2
+4 Total Concentrate from 42.2 8,384 18.6 5C Concentrate Recycle from 19.0 9,190 8.4
+Pass 1 Pass 2 to Pass 1
+6 Total Permeate from 126.8 19.88 0.0
+Pass 1
+9 Net Product from RO 107.7 39.97 0.0
+System
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Description Flow TOS Pressure Description Flow TOS Pressure
+(m /h) (mg/L) (bar) (m /h) (mg/L) (bar)
+1 Raw Feed to RO System 150.0 1,901 0.0 2A Net Feed to Pass 2 126.7 1,427 11.6
+2 Net Feed to Pass 1 168.8 2,125 21.9 4A Total Concentrate from 19.0 9,190 8.4
+Pass 2
+4 Total Concentrate from 42.2 8,384 ...
+
+=== Slide 54 ===
+Action item 1 – Feasibility of  SWRO +BWRO With 800 ppm of F
+
+[Picture on Slide 54 | FLOW_DIAGRAM]
+OCR: Pass Pass 1 Pass 2 .
+ qienrs Natne Stream 1 , |
+ Wotes Type , RO/NE Perenaate (SDI < 2) , RO Pemmeste SDL < 1 |
+(umber of Elements , 168 , 10% |
+Total Active: Area {tm7) 6867 4292
+
+ ced Blow per Pass (m /h) , 168.8 , 176.7 |
+Fesecd TEDS (rng /t) 2,175 1,427
+
+Feed Pressure (base) 2195 116
+
+Flow Factor Per Stage 0.50, 0 90 0.95, 0.9%
+
+ Pes mete: Flaw pat Pass (m /h} , 176.8 , 10/7 |
+Pass Average flux (L Mia) 18.5 ay 1
+
+Pes meate: TDS (rng /t) 19 88 39.97
+
+fess Recovery , yh 1% , 85 O% |
+Averun: NDP (bar) wa , 58 |
+Specific Energy (kWh/m } 101 0.48
+
+Temperature (O) 30.0 20 0
+
+pi 3.% (Afters Adjustment} 75 (After Adjustment)
+
+r hemnical Dose , 3.0 mg/l NayPyOw , 674 8 ing/t NeOH |
+RO System Recovery 418%
+
+Net RO System Recovery , 41.8% |
+ee: ific Energy (kWh/m } , 167 |
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Pass Pass 1 Pass 2 .
+ qienrs Natne Stream 1 , |
+ Wotes Type , RO/NE Perenaate (SDI < 2) , RO Pemmeste SDL < 1 |
+(umber of Elements , 168 , 10% |
+Total Active: Area {tm7) 6867 4292
+
+ ced Blow per Pass (m /h) , 168.8 , 176.7 |
+Fesecd TEDS (rng /t) 2,175 1,427
+
+Feed Pressure (base) 2195 116
+
+Flow Facto ...
+
+=== Slide 55 ===
+Action item 1 – Feasibility of  SWRO +BWRO With 800 ppm of F
+SWRO
+BWRO
+
+[Picture on Slide 55 | FLOW_DIAGRAM]
+OCR: (Comorntt ations (mg/l 45. 20m)
+Adpaited Feed Cancrnts ate Permeste
+Raw Feed initial Alter Mugri Stage Stage Stage Total ta
+Becye he ass 2
+Na, 70,00 70 00 17 90 sR. 7104 0.23 a 3 oe br
+ < 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+ a BLA ELA WE) 9 7 OF Bela ai 10.4% 17
+Meg 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+Ca 5 00 5 OO 4 a4 ed 37.47 0.00 2.00 0.00
+ s 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+fie 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+CO: 0.00 2.00 0.00 0.0 aia 0.00 2.00 0.00
+ML}, 17 tb 1533 wy 2 Bt 3 Fes 2) 8.00 6s
+NO, 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+i 800.0 400.0 Ala L222 7, BA3 37% 7 ae
+a D000 0.00 a4 tb Tw) la 377.7 0.29 a4 O97
+fs 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+SO 00.0 100.0 F = 8) e399 PM 4 0 Ot a4 0.08
+6), 200.0 100.0 ae t4 two Bas 2 a0 04 273
+Os 30.00 30.00 ob BA 47 2% 206.4 a.28 DAF O25
+Roran 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+CO; 3787 178 7F7OL 782 8 M9 fetta 78) 2 7730
+TEs 2,901 190% 7.17 4208 Blea 22,78 eR 19 RR
+Card, 344% 3449 Ath R297 14,04 st s se
+befor
+pa 34 4 53 5 7 41 4 42
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: (Comorntt ations (mg/l 45. 20m)
+Adpaited Feed Cancrnts ate Permeste
+Raw Feed initial Alter Mugri Stage Stage Stage Total ta
+Becye he ass 2
+Na, 70,00 70 00 17 90 sR. 7104 0.23 a 3 oe br
+ < 0.00 2.00 0.00 0.00 aon 0.00 2.00 0.00
+ a BLA ELA WE) 9 7 OF Bela ai 10.4% 17
+Meg 0.00 2.00 0.00 0.00 aon 0.00 2 ...
+
+[Picture on Slide 55 | FLOW_DIAGRAM]
+OCR: Comornt:sthons (mg/l 45 20m)
+ . pt Concentrate Peemeate
+Adjunted
+teed
+Raw feed staget Stage Staged Stage total
+ NH, . 0:9 . a9 . O45 . 113 . oo. . om . 0.0
+= aco oo ooo on ooo oo 000
+wtb Pree) 1.008 2st ese 27.49 10.98
+Me ooo ooo ooo oo ooo ooo 000
+CG aco oo oo. oa ooo oo 000
+so ooo ooo ooo oo ooo ooo 000
+fa ooo ooo ooo oo ooo ooo 000
+ cot ceo 7 ars 7 game 90 pa oat oo
+MO, 698 1.073 2m 6487 wis 8.50 mn
+NOL aco oo ooo on ooo oo ooo
+ 48 aon wa 7980 008 07 oy
+a az av a 70 ra) ooo oat 000
+ar aco oo ooo on ooo oo ooo
+w. ace oon aay Oss ooo ooo 000
+ pot nas 7 23 7 oe ae oak ot
+SO: a7 ar OM 1te ooo oo ooo
+Boron ooo ooo ooo oo ooo ooo 000
+Seo, ie 7 ares 7 astro 7 ages oa ane |
+ apse 9m 7 onary 7 aes 7 a 7 as og asa |
+Cond ey Lan are Ras at Po
+wS/om
+ou al ah wR 39 SB b 60
+PromptSuggestion: Draw a simple left-to-right process diagram (boxes + arrows). Use these extracted terms: Comornt:sthons (mg/l 45
