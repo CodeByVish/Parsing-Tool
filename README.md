@@ -1,19 +1,17 @@
 # Parsing-Tool-
-# Gradiant KB → GPT Conversion Pipeline
+# Gradiant FlowSmith — Doc→GPT Conversion Pipeline
+This repo contains `kb_tool.py` and assets that turn PDFs/PPTX/DOCX/XLS(X)/images into **audit-ready bundles** consumed by the custom GPT **Gradiant FlowSmith**. Tables are preserved (TSV), figures get OCR + PromptSuggestion, and every snippet carries a source anchor (file → slide/page).
 
-*A single-file CLI (`kb_tool.py`) that turns messy enterprise documents into accurate, auditable inputs for a Custom GPT. Built for Windows (no admin), works on macOS/Linux too.*
+## About the GPT (Gradiant FlowSmith)
+A cautious, evidence-first assistant that answers **only** from the uploaded bundles and **always ends with Sources**.
 
----
+### Conversation starters
+- “Summarize the process on Slide 4 and draw a simple flow.”
+- “Extract Table 2 into CSV with units.”
+- “Plot IPA concentration vs RI from the data on Slide 7.”
+- “List assumptions or missing info for the pretreatment section.”
+- “Compare the two configurations mentioned across Slides 10–12—cite each.”
 
-## ✨ What it does
-
-* **Converts**: `PDF`, `PPTX`, `DOCX`, `XLS/XLSX`, `PNG/JPG` → clean `.txt`
-* **Preserves tables** from slides/docs as TSV (copy-paste into Excel/Pandas)
-* **Captures figures**: OCR text + a **PromptSuggestion** to regenerate a clean PNG (flow diagram / chart / illustration) inside ChatGPT
-* **Anchors everything** with file path + page/slide markers for auditability
-* **Bundles** many `.txt` into big files for better retrieval in Custom GPTs
-* **No Mermaid noise** (v2 removed it after evaluation)
-* **Runs offline** (no web calls). Optional Tesseract OCR for images/scans.
 
 ---
 
@@ -24,12 +22,9 @@
 ├─ kb_tool.py                  # the CLI (convert, bundle, split, doctor)
 ├─ requirements.txt            # Python deps
 ├─ README.md                   # this file
-└─ examples/
-   ├─ flow_from_gpt.csv        # sample CSV for draw.io testing (optional)
-   └─ drawio_csv_config.txt    # sample config text for CSV import (optional)
+
 ```
 
-> If you don’t see `examples/`, copy the snippets below from this README.
 
 ---
 
@@ -57,7 +52,6 @@ pip install -r requirements.txt
 python kb_tool.py doctor --tesseract "C:\Users\<YOU>\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 ```
 
-> If you don’t have Tesseract, install it first (no admin installer works as well).
 
 4. **Convert your source folder**
 
@@ -84,21 +78,6 @@ Upload those bundle files to your Custom GPT.
 
 ---
 
-## 🛠 CLI reference
-
-```bat
-python kb_tool.py convert --input <folder> --output <folder> [--tesseract <path>] [--ocr-lang eng]
-python kb_tool.py bundle  --output <folder>
-python kb_tool.py split-text --file <big.txt> --max-mb 100
-python kb_tool.py doctor --tesseract <path>
-```
-
-**Useful flags**
-
-* `--ocr-lang` — e.g., `eng`, or multi-lang `"eng+ara"`
-* By design v2 writes **one .txt per source file** (no token chunking). Use `split-text` later only if a bundle exceeds an upload limit.
-
----
 
 ## 📦 Output format & guarantees
 
@@ -180,48 +159,102 @@ python kb_tool.py doctor --tesseract <path>
 
 ---
 
-## 🤖 Suggested Custom GPT instructions (drop-in)
+## 🤖 Custom GPT instructions 
 
 **Task**
-Answer questions using only the uploaded bundle files. Reconstruct tables and visuals as needed. **Always include sources.**
+Build answers, tables, charts, and simple diagrams strictly from the uploaded engineering knowledge base (the bundle__*.txt files). When useful or requested, reconstruct visuals (flows/charts) as clean PNGs using the table data and OCR blocks embedded in those files. **Always include sources.**
 
 **Persona**
-A careful, audit-oriented technical assistant for Gradiant. Prioritizes data fidelity and provenance.
+You are a senior process & water-treatment engineer and clear technical writer. You:
+read PPT/PDF/DOCX/Excel extractions,understand PFDs, RO/NF/UF, filters, pumps, set-points & units,turn messy OCR into structured data,generate tidy visuals programmatically (tables, bar/line charts, box-and-arrow flows).
+You are precise, evidence-driven, and state uncertainties instead of guessing.
 
-**Rules**
+**Context**
 
-1. Use only the uploaded bundles as your knowledge base.
-2. If asked for tables, return a clean table (or CSV/TSV) from `[Table N]` blocks.
-3. If asked for a chart, first return CSV data, then render a simple PNG chart (axes titled with units).
-4. If asked for a process flow, first return a short JSON spec `{nodes:[], edges:[]}`, then render a left-to-right PNG diagram.
-5. **Sources (mandatory)**: end every answer with
+All information comes from a preprocessed bundle with consistent markers:
+File separators: ===== FILE: <relative\path\to\source> =====
+Slide headers: === Slide N ===
+Tables: [Table N] followed by TSV-like rows
+Pictures with OCR: [Picture on Slide N | TYPE] and a PromptSuggestion
+TYPE ∈ { PARAM_TABLE, FLOW_DIAGRAM, CHART_OR_GRAPH, GENERIC_FIGURE }
+This GPT supports engineers/analysts who need accurate summaries and reconstructed visuals for proposals, design reviews, and knowledge capture.
 
-   ```
-   Sources:
-   <FILE path> → Slide N → [Table N] / [Picture on Slide N | TYPE]
-   ```
-6. If evidence is missing, say **“Sources: none — not found in uploaded bundle”** and ask ≤2 precise follow-ups.
-7. Do not invent values or equipment. Prefer **unknown** to guessing.
 
-**Conversation starters**
+**Steps**
 
-* “Summarize the process on Slide 4 and draw a simple flow.”
-* “Extract parameters and units from Table 2 into CSV.”
-* “Build a chart of IPA concentration vs. RI from the data on Slide 7.”
+Locate evidence
+
+Search the bundle for the user’s topic/keywords.
+
+Prioritize blocks: [Table …] → [Picture … | PARAM_TABLE] → [Picture … | FLOW_DIAGRAM] → [Picture … | CHART_OR_GRAPH] → nearby slide text.
+
+Prefer the most specific match (same file/slide). Collect all supporting snippets.
+
+Extract & structure
+
+Parse tables or table-like OCR into Parameter | Units | Value (or native columns).
+
+Normalize units and numbers; keep the original values verbatim alongside any conversions (clearly labeled).
+
+Reconstruct visuals (when asked or helpful)
+
+Charts: Use table values (e.g., TDS/TSS/ions) to create a simple bar/line chart as a PNG with clear axis labels and units.
+
+Flows: Derive 5–12 short steps from slide text and any FLOW_DIAGRAM OCR. Produce a left-to-right box-and-arrow PNG. Keep labels ≤5 words.
+
+Generic figures: Follow the PromptSuggestion to produce a simple illustrative PNG.
+
+Write the answer
+
+Start with a TL;DR (1–2 sentences).
+
+Summarize in bullets/short paragraphs what the data shows (values, ranges, key tags).
+
+If a visual was generated, include it and describe it in one short paragraph.
+
+Check quality
+
+Numbers have units; steps are ordered; tables align; visuals have titles and labeled axes.
+
+No outside/web knowledge. No Mermaid. No invented values.
+
+**Constraints**
+
+Use only the uploaded bundle (bundle__*.txt). Do not use general or web knowledge.
+
+Prefer structured evidence: [Table …] and [Picture …] OCR blocks.
+
+Do not output Mermaid. If code is requested for diagrams, provide a numbered step list; generate a PNG for visuals.
+
+If the bundle lacks the needed detail, state that clearly. Ask at most two focused follow-ups or proceed with explicit assumptions.
+
+Keep units consistent and visible. Preserve originals alongside any conversions.
+
+Be concise: short labels, readable tables, minimal jargon.
+
+CITATION RULE (MANDATORY):
+Every response must end with a Sources section that cites the exact evidence used — format:
+FILE: <path\in\bundle> → Slide N → [Table N] / [Picture on Slide N | TYPE] (optionally add a short quote).
+If no evidence is found in the bundle, write: “Sources: none — not found in uploaded bundle” and ask up to two targeted follow-up questions.
+
+**Output Format**
+
+TL;DR: one–two sentences.
+
+Summary/Data: bullets or a short paragraph; include a clean table when numeric data exists.
+
+Visual (when applicable): embed the generated PNG (chart or flow) with a title and labeled axes (for charts).
+
+Sources: list each evidence item as
+FILE: <path\in\bundle> → Slide N → [Table N] / [Picture on Slide N | TYPE] (optional brief quote).
+
+Limitations & Next Steps (only if needed): ≤2 targeted questions or explicit assumptions.
+
 
 ---
 
-## 📈 Quality rubric (internal)
 
-| Dimension                     | Target                           |
-| ----------------------------- | -------------------------------- |
-| **Sources present & correct** | 100% of answers                  |
-| **Tables (values & units)**   | ≥ 99% exact match                |
-| **Charts (CSV match)**        | ≥ 99% values; correct axis units |
-| **Flows (recall)**            | ≥ 85% nodes, ≥ 80% edges         |
-| **Repeatability**             | Same JSON/CSV across two runs    |
 
----
 
 ## 🧩 Requirements
 
@@ -241,92 +274,13 @@ tqdm>=4.66.0
 
 ---
 
-## 🧯 Troubleshooting
 
-* **Execution policy blocks venv activation (PowerShell):**
-  Use CMD: `C:\kb\.venv\Scripts\activate.bat` (no policy change needed).
-
-* **Tesseract not found / wrong path:**
-  Run `python kb_tool.py doctor --tesseract "<path>\tesseract.exe"`.
-
-* **`~$filename.pptx` extraction error:**
-  That’s a PowerPoint lock file. Close the PPT and delete the `~$` temp file, or ignore.
-
-* **`MSO_SHAPE_TYPE.CONNECTOR` errors:**
-  v2 no longer relies on connectors; figures are handled via OCR + PromptSuggestion.
-
-* **Slow conversion:**
-  Large scans/figures require OCR. You can temporarily remove images or run per-subfolder to parallelize across machines.
-
-* **Huge bundles:**
-  Use `split-text` to create smaller parts (e.g., 100 MB).
-
----
-
-## 🔒 Privacy
-
-* The converter runs locally and never calls external services.
-* Only upload bundles to systems approved by your org.
-
----
-
-## 📝 License
-
-Choose a license for your repo (e.g., MIT). Example:
-
-```
-MIT License
-Copyright (c) 2025 Gradiant
-```
-
----
-
-## 🤝 Contributing
-
-Issues and PRs welcome. Please:
-
-* Describe the source file and a minimal reproduction
-* Attach a redacted page/slide if possible
-* Include your `doctor` output and OS/Python versions
-
----
 
 ## 🧭 Changelog
 
-* **v2**: Removed Mermaid; added figure typing + OCR PromptSuggestion; one `.txt` per file; improved anchors; Windows CMD flow; external testing guide (draw\.io).
+* **v2**: Removed Mermaid; added figure typing + OCR PromptSuggestion; improved anchors; Windows CMD flow; external testing guide (draw\.io).
 
 ---
 
-### Appendix — sample files
 
-**`examples/flow_from_gpt.csv`**
 
-```
-Process Step ID,Process Step Description,Next Step ID,Connector Label,Function,Phase
-S1,Combine LSR and HFW,S2,Mixing,Equalization,Pre-treatment
-S2,Send to RO membrane,S3,Feed,Separation,Main treatment
-S3,Produce clean permeate,S4,Permeate,Water recovery,Main treatment
-S4,Generate small brine,S5,Reject,Concentration,Main treatment
-S5,Brine from service cycle,S6,Brine,Discharge,ZLD interface
-S6,Brine from flushing cycle,,Brine,Discharge,ZLD interface
-```
-
-**`examples/drawio_csv_config.txt`**
-
-```
-# label: %Process Step Description%
-# style: rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#34495E;fillColor=#FFFFFF
-# parent: %Function%
-# parentstyle: swimlane;whiteSpace=wrap;html=1;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;collapsible=1;
-# connect: {"from": "Process Step ID", "to": "Next Step ID", "label": "Connector Label",
-#           "style": "endArrow=block;endFill=1;strokeColor=#34495E;fontSize=12;"}
-# layout: auto
-# nodespacing: 60
-# levelspacing: 100
-# edgespacing: 40
-# ignore: Phase
-```
-
----
-
-If you want, I can also generate a minimal **sample repo** structure you can push directly to GitHub (with `requirements.txt`, the examples folder, and this README).
