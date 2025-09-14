@@ -1,4 +1,4 @@
-# Parsing-Tool-
+# Parsing-Tool
 # Gradiant FlowSmith — Doc→GPT Conversion Pipeline
 This repo contains `kb_tool.py` and assets that turn PDFs/PPTX/DOCX/XLS(X)/images into **audit-ready bundles** consumed by the custom GPT **Gradiant FlowSmith**. Tables are preserved (TSV), figures get OCR + PromptSuggestion, and every snippet carries a source anchor (file → slide/page).
 
